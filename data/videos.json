@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-19T22:25:27.579Z",
+  "updatedAt": "2026-09-19T22:42:51.377Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "SMILLA HOLMBERG WITH A LATE LEVELLER | HIGHLIGHTS | Arsenal vs Manchester United (1-1) | WSL",
+      "link": "https://www.youtube.com/watch?v=f0jTtYIFEB0",
+      "pubDate": "2026-09-19T22:30:16+00:00",
+      "thumb": "https://i.ytimg.com/vi/f0jTtYIFEB0/hqdefault.jpg"
+    },
+    {
+      "team": "Coventry City",
+      "title": "Nottingham Forest 0-1 Coventry City | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=r4GJDImO_8Y",
+      "pubDate": "2026-09-19T22:25:25+00:00",
+      "thumb": "https://i.ytimg.com/vi/r4GJDImO_8Y/hqdefault.jpg"
+    },
     {
       "team": "Hull City",
       "title": "Newcastle United 2-1 Hull City | Sergej Jakirović's Post Match Reaction",
@@ -133,13 +147,6 @@
       "link": "https://www.youtube.com/watch?v=3Y8lYmwRvPI",
       "pubDate": "2026-09-19T19:45:38+00:00",
       "thumb": "https://i.ytimg.com/vi/3Y8lYmwRvPI/hqdefault.jpg"
-    },
-    {
-      "team": "Coventry City",
-      "title": "GAFFAAAA!! 🔊",
-      "link": "https://www.youtube.com/watch?v=YxgKAOU4TGo",
-      "pubDate": "2026-09-19T19:19:12+00:00",
-      "thumb": "https://i.ytimg.com/vi/YxgKAOU4TGo/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
@@ -448,13 +455,6 @@
       "link": "https://www.youtube.com/watch?v=fNnGnVfHvg4",
       "pubDate": "2026-09-18T10:44:09+00:00",
       "thumb": "https://i.ytimg.com/vi/fNnGnVfHvg4/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "TRICKING 3 PLAYERS BEFORE AUBA SCORES!",
-      "link": "https://www.youtube.com/watch?v=FigL8Cctn2s",
-      "pubDate": "2026-09-18T10:22:29+00:00",
-      "thumb": "https://i.ytimg.com/vi/FigL8Cctn2s/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
