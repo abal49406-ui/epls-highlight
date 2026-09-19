@@ -1,4 +1,565 @@
 {
-  "updatedAt": null,
-  "videos": []
+  "updatedAt": "2026-09-19T08:25:22.795Z",
+  "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "An INCREDIBLE night in the club's history from pitchside views in Europa League | Alt Angle",
+      "link": "https://www.youtube.com/watch?v=y-imAy1g1Cc",
+      "pubDate": "2026-09-19T08:00:11+00:00",
+      "thumb": "https://i.ytimg.com/vi/y-imAy1g1Cc/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Did you spot the sneaky Office reference in this week’s Stick to United? 👀😂",
+      "link": "https://www.youtube.com/watch?v=9r6qZJAkx-o",
+      "pubDate": "2026-09-19T07:00:24+00:00",
+      "thumb": "https://i.ytimg.com/vi/9r6qZJAkx-o/hqdefault.jpg"
+    },
+    {
+      "team": "Chelsea",
+      "title": "ALONSO reacts post-Brentford | Brentford 3-0 Chelsea | Premier League 2026/27",
+      "link": "https://www.youtube.com/watch?v=sXId17-8tzk",
+      "pubDate": "2026-09-18T23:04:21+00:00",
+      "thumb": "https://i.ytimg.com/vi/sXId17-8tzk/hqdefault.jpg"
+    },
+    {
+      "team": "Chelsea",
+      "title": "Brentford 3-0 Chelsea | HIGHLIGHTS | Premier League 2026/27",
+      "link": "https://www.youtube.com/watch?v=gwrydB4FO_Y",
+      "pubDate": "2026-09-18T23:01:08+00:00",
+      "thumb": "https://i.ytimg.com/vi/gwrydB4FO_Y/hqdefault.jpg"
+    },
+    {
+      "team": "Brentford",
+      "title": "Brentford 3-0 Chelsea | DERBY DAY DELIGHT! 🤩 | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=1wWUI5Kl-N0",
+      "pubDate": "2026-09-18T23:00:26+00:00",
+      "thumb": "https://i.ytimg.com/vi/1wWUI5Kl-N0/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "🛬 Behind The Scenes landed",
+      "link": "https://www.youtube.com/watch?v=8ZdLnOBBrIA",
+      "pubDate": "2026-09-18T22:03:21+00:00",
+      "thumb": "https://i.ytimg.com/vi/8ZdLnOBBrIA/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Le Fée Penalty Secures European Win | Sunderland AFC 1 - 0 AZ Alkmaar | Europa League Highlights",
+      "link": "https://www.youtube.com/watch?v=yUhKrAcgKl0",
+      "pubDate": "2026-09-18T22:00:20+00:00",
+      "thumb": "https://i.ytimg.com/vi/yUhKrAcgKl0/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "European Return After 53 Years | Sunderland 1-0 AZ Alkmaar | Behind The Scenes 🌍",
+      "link": "https://www.youtube.com/watch?v=Td0lnPxAr5s",
+      "pubDate": "2026-09-18T22:00:09+00:00",
+      "thumb": "https://i.ytimg.com/vi/Td0lnPxAr5s/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "EAGLES BIGGEST EUROPEAN WIN | Crystal Palace 4-0 Lech Poznań | UEFA Europa League",
+      "link": "https://www.youtube.com/watch?v=vZ6XDZoZWcg",
+      "pubDate": "2026-09-18T22:00:03+00:00",
+      "thumb": "https://i.ytimg.com/vi/vZ6XDZoZWcg/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "Kluivert and Rayan on scoresheet in HISTORIC first win in Europe | Real Sociedad 1-2 AFC Bournemouth",
+      "link": "https://www.youtube.com/watch?v=wnxLttSjyGM",
+      "pubDate": "2026-09-18T21:00:29+00:00",
+      "thumb": "https://i.ytimg.com/vi/wnxLttSjyGM/hqdefault.jpg"
+    },
+    {
+      "team": "Newcastle United",
+      "title": "Lewis Hall on his return to the England squad 🏴󠁧󠁢󠁥󠁮󠁧󠁿👏",
+      "link": "https://www.youtube.com/watch?v=feisCpYY9JI",
+      "pubDate": "2026-09-18T20:02:42+00:00",
+      "thumb": "https://i.ytimg.com/vi/feisCpYY9JI/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "Floyd Samba take a bow 😯 #samba #academy #mancity #carabaocup #football #goals",
+      "link": "https://www.youtube.com/watch?v=zz9SQiqEcXE",
+      "pubDate": "2026-09-18T20:01:47+00:00",
+      "thumb": "https://i.ytimg.com/vi/zz9SQiqEcXE/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "The lads react to their FC 27 ratings for the first time 📊😂",
+      "link": "https://www.youtube.com/watch?v=f81AwBfgFRU",
+      "pubDate": "2026-09-18T19:31:39+00:00",
+      "thumb": "https://i.ytimg.com/vi/f81AwBfgFRU/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Mark's HUGE SHOCK... United Will Beat Fulham 😂",
+      "link": "https://www.youtube.com/watch?v=BtpmfVFDlWA",
+      "pubDate": "2026-09-18T19:30:29+00:00",
+      "thumb": "https://i.ytimg.com/vi/BtpmfVFDlWA/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "\"They Said Your Pace Was 47!\" 😭 | Nottingham Forest Players React to FC 27 Ratings! 😱 🎮",
+      "link": "https://www.youtube.com/watch?v=kdp3anaibyU",
+      "pubDate": "2026-09-18T19:00:15+00:00",
+      "thumb": "https://i.ytimg.com/vi/kdp3anaibyU/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Carrick Tells Fans To Calm Down! Fulham vs Man Utd Goldbridge Preview",
+      "link": "https://www.youtube.com/watch?v=W5-HbL1NJa8",
+      "pubDate": "2026-09-18T18:51:50+00:00",
+      "thumb": "https://i.ytimg.com/vi/W5-HbL1NJa8/hqdefault.jpg"
+    },
+    {
+      "team": "Hull City",
+      "title": "All Set For Newcastle! Behind the Tigers Training",
+      "link": "https://www.youtube.com/watch?v=MdchLlncfHQ",
+      "pubDate": "2026-09-18T18:45:17+00:00",
+      "thumb": "https://i.ytimg.com/vi/MdchLlncfHQ/hqdefault.jpg"
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Madders magic against Villa 🪄",
+      "link": "https://www.youtube.com/watch?v=ZYUevNWkfbY",
+      "pubDate": "2026-09-18T18:45:01+00:00",
+      "thumb": "https://i.ytimg.com/vi/ZYUevNWkfbY/hqdefault.jpg"
+    },
+    {
+      "team": "Newcastle United",
+      "title": "Our last Premier League game against Hull City at SJP 🔙",
+      "link": "https://www.youtube.com/watch?v=nHi0nc2wFY4",
+      "pubDate": "2026-09-18T18:22:12+00:00",
+      "thumb": "https://i.ytimg.com/vi/nHi0nc2wFY4/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "Abraham at the double! | Coventry City vs Aston Villa | PITCHSIDE",
+      "link": "https://www.youtube.com/watch?v=1jY6lhJIGo8",
+      "pubDate": "2026-09-18T18:15:07+00:00",
+      "thumb": "https://i.ytimg.com/vi/1jY6lhJIGo8/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "A great move finished by Naby Keita 🙌",
+      "link": "https://www.youtube.com/watch?v=8yMnUqQjoNE",
+      "pubDate": "2026-09-18T17:00:13+00:00",
+      "thumb": "https://i.ytimg.com/vi/8yMnUqQjoNE/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Midfield Madness & Coventry City (H) Preparations! 🏃‍♂️ | Inside Training 🎬",
+      "link": "https://www.youtube.com/watch?v=5GjcsPyLKyM",
+      "pubDate": "2026-09-18T17:00:05+00:00",
+      "thumb": "https://i.ytimg.com/vi/5GjcsPyLKyM/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "What Goes Into a Premier League Transfer? Gerónimo Rulli Reveals All",
+      "link": "https://www.youtube.com/watch?v=HCyFwKJnifk",
+      "pubDate": "2026-09-18T17:00:02+00:00",
+      "thumb": "https://i.ytimg.com/vi/HCyFwKJnifk/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "Best of ADAM WHARTON 🎯 | 100 Palace Appearances",
+      "link": "https://www.youtube.com/watch?v=izFG9cTQ8Gw",
+      "pubDate": "2026-09-18T16:00:26+00:00",
+      "thumb": "https://i.ytimg.com/vi/izFG9cTQ8Gw/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "Meet Gero Rulli 💙 #mancity #shorts",
+      "link": "https://www.youtube.com/watch?v=Y1QEAy4MYmU",
+      "pubDate": "2026-09-18T16:00:19+00:00",
+      "thumb": "https://i.ytimg.com/vi/Y1QEAy4MYmU/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Does Michael Carrick PROTECT the Board Too Much? 🤔",
+      "link": "https://www.youtube.com/watch?v=I9D8mBrTwis",
+      "pubDate": "2026-09-18T16:00:15+00:00",
+      "thumb": "https://i.ytimg.com/vi/I9D8mBrTwis/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "City Debut Goals | Man City stars who scored in their first game",
+      "link": "https://www.youtube.com/watch?v=Kfh0kPJyIos",
+      "pubDate": "2026-09-18T15:30:12+00:00",
+      "thumb": "https://i.ytimg.com/vi/Kfh0kPJyIos/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "SENSATIONAL STUART PEARCE FREE-KICK 😱 | Nottingham Forest 2-1 Coventry City | Classic Highlights 🎬",
+      "link": "https://www.youtube.com/watch?v=22oVHH9c2Ck",
+      "pubDate": "2026-09-18T15:19:37+00:00",
+      "thumb": "https://i.ytimg.com/vi/22oVHH9c2Ck/hqdefault.jpg"
+    },
+    {
+      "team": "Brentford",
+      "title": "Back home tonight ❤️🏟️",
+      "link": "https://www.youtube.com/watch?v=P73lnta2gTU",
+      "pubDate": "2026-09-18T15:14:28+00:00",
+      "thumb": "https://i.ytimg.com/vi/P73lnta2gTU/hqdefault.jpg"
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Conor's first Spurs goal 🎯",
+      "link": "https://www.youtube.com/watch?v=8BFl0w06xPc",
+      "pubDate": "2026-09-18T15:04:13+00:00",
+      "thumb": "https://i.ytimg.com/vi/8BFl0w06xPc/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "Marco Rose on Liverpool, managing Europe squad rotation and Tavernier form | Press Conference",
+      "link": "https://www.youtube.com/watch?v=--HUjb3pMbw",
+      "pubDate": "2026-09-18T14:12:26+00:00",
+      "thumb": "https://i.ytimg.com/vi/--HUjb3pMbw/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Daniel Farke pre-match press conference | Leeds United v Crystal Palace | Premier League",
+      "link": "https://www.youtube.com/watch?v=bPn0vvxhSMo",
+      "pubDate": "2026-09-18T13:34:29+00:00",
+      "thumb": "https://i.ytimg.com/vi/bPn0vvxhSMo/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Andoni settles the debate once and for all",
+      "link": "https://www.youtube.com/watch?v=Cf1dfuBZf8g",
+      "pubDate": "2026-09-18T13:27:28+00:00",
+      "thumb": "https://i.ytimg.com/vi/Cf1dfuBZf8g/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Press Conference: Bournemouth vs Liverpool | Volley or not? Team news & Araujo | Andoni Iraola",
+      "link": "https://www.youtube.com/watch?v=Dbty9-CDmbQ",
+      "pubDate": "2026-09-18T13:26:06+00:00",
+      "thumb": "https://i.ytimg.com/vi/Dbty9-CDmbQ/hqdefault.jpg"
+    },
+    {
+      "team": "Newcastle United",
+      "title": "Keeper training at The KNOX 🧤 #newcastle #football #premierleague",
+      "link": "https://www.youtube.com/watch?v=4XqNnsvC8k4",
+      "pubDate": "2026-09-18T13:00:04+00:00",
+      "thumb": "https://i.ytimg.com/vi/4XqNnsvC8k4/hqdefault.jpg"
+    },
+    {
+      "team": "Ipswich Town",
+      "title": "JACK CLARKE'S PRE-EVERTON PRESS CONFERENCE",
+      "link": "https://www.youtube.com/watch?v=C0fz2ZX8--o",
+      "pubDate": "2026-09-18T12:49:11+00:00",
+      "thumb": "https://i.ytimg.com/vi/C0fz2ZX8--o/hqdefault.jpg"
+    },
+    {
+      "team": "Everton",
+      "title": "brasiol",
+      "link": "https://www.youtube.com/watch?v=tYUBLojjYMs",
+      "pubDate": "2026-09-18T12:47:31+00:00",
+      "thumb": "https://i.ytimg.com/vi/tYUBLojjYMs/hqdefault.jpg"
+    },
+    {
+      "team": "Everton",
+      "title": "brasil",
+      "link": "https://www.youtube.com/watch?v=iFUZxXqKGFc",
+      "pubDate": "2026-09-18T12:47:28+00:00",
+      "thumb": "https://i.ytimg.com/vi/iFUZxXqKGFc/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Manchester City vs Sunderland AFC | Régis Le Bris' Premier League Press Conference",
+      "link": "https://www.youtube.com/watch?v=7kdDxpk-JsI",
+      "pubDate": "2026-09-18T12:44:42+00:00",
+      "thumb": "https://i.ytimg.com/vi/7kdDxpk-JsI/hqdefault.jpg"
+    },
+    {
+      "team": "Ipswich Town",
+      "title": "GARY O'NEIL ON TRIP TO EVERTON",
+      "link": "https://www.youtube.com/watch?v=81TtI1uhl-w",
+      "pubDate": "2026-09-18T12:43:47+00:00",
+      "thumb": "https://i.ytimg.com/vi/81TtI1uhl-w/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "SAKA CRASHES THE CROSSBAR!",
+      "link": "https://www.youtube.com/watch?v=ebCk8iW8hYA",
+      "pubDate": "2026-09-18T11:31:04+00:00",
+      "thumb": "https://i.ytimg.com/vi/ebCk8iW8hYA/hqdefault.jpg"
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Tottenham Hotspur Hall of Fame: Chris Hughton",
+      "link": "https://www.youtube.com/watch?v=AGFqZ0FJquw",
+      "pubDate": "2026-09-18T11:00:25+00:00",
+      "thumb": "https://i.ytimg.com/vi/AGFqZ0FJquw/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "PRESS CONFERENCE 🎙️ | Mikel on Timber, Mosquera, White & more ahead of Brighton test | EPL",
+      "link": "https://www.youtube.com/watch?v=fNnGnVfHvg4",
+      "pubDate": "2026-09-18T10:44:09+00:00",
+      "thumb": "https://i.ytimg.com/vi/fNnGnVfHvg4/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "TRICKING 3 PLAYERS BEFORE AUBA SCORES!",
+      "link": "https://www.youtube.com/watch?v=FigL8Cctn2s",
+      "pubDate": "2026-09-18T10:22:29+00:00",
+      "thumb": "https://i.ytimg.com/vi/FigL8Cctn2s/hqdefault.jpg"
+    },
+    {
+      "team": "Newcastle United",
+      "title": "A first training session for Sean Steur in the new Adidas F50 🇳🇱💫",
+      "link": "https://www.youtube.com/watch?v=sCNCCz_QUNU",
+      "pubDate": "2026-09-18T10:00:37+00:00",
+      "thumb": "https://i.ytimg.com/vi/sCNCCz_QUNU/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "The WSL returns to Selhurst: Aimee & Bethany preview Spurs clash 🎙️",
+      "link": "https://www.youtube.com/watch?v=oHzFilLrn-k",
+      "pubDate": "2026-09-18T09:57:57+00:00",
+      "thumb": "https://i.ytimg.com/vi/oHzFilLrn-k/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "UNSTOPPABLE! ⚽🔥 | TEN Aston Villa STUNNERS Against Tottenham!",
+      "link": "https://www.youtube.com/watch?v=YFUslUpTclE",
+      "pubDate": "2026-09-18T09:30:30+00:00",
+      "thumb": "https://i.ytimg.com/vi/YFUslUpTclE/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "Brighton v Arsenal | Hürzeler pre-match press conference 🎙️",
+      "link": "https://www.youtube.com/watch?v=NT4gpAkq3a8",
+      "pubDate": "2026-09-18T09:27:54+00:00",
+      "thumb": "https://i.ytimg.com/vi/NT4gpAkq3a8/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Matchday Live | Leeds United v Crystal Palace",
+      "link": "https://www.youtube.com/watch?v=3rpDw-Vle-I",
+      "pubDate": "2026-09-18T09:13:17+00:00",
+      "thumb": "https://i.ytimg.com/vi/3rpDw-Vle-I/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Classic Highlights: Bournemouth 0-4 Liverpool | Salah, Coutinho, Firmino!",
+      "link": "https://www.youtube.com/watch?v=9rGzs0NPbDk",
+      "pubDate": "2026-09-18T07:18:21+00:00",
+      "thumb": "https://i.ytimg.com/vi/9rGzs0NPbDk/hqdefault.jpg"
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "title": "This Madders free-kick 🤩 | Previously Against Aston Villa",
+      "link": "https://www.youtube.com/watch?v=sTt8d6IZ5Sg",
+      "pubDate": "2026-09-18T07:00:00+00:00",
+      "thumb": "https://i.ytimg.com/vi/sTt8d6IZ5Sg/hqdefault.jpg"
+    },
+    {
+      "team": "Everton",
+      "title": "fala",
+      "link": "https://www.youtube.com/watch?v=k6edXEpUIMc",
+      "pubDate": "2026-09-17T22:23:18+00:00",
+      "thumb": "https://i.ytimg.com/vi/k6edXEpUIMc/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "Zion Suzuki's distribution 😮‍💨",
+      "link": "https://www.youtube.com/watch?v=MuEVyAO_fNI",
+      "pubDate": "2026-09-17T18:30:07+00:00",
+      "thumb": "https://i.ytimg.com/vi/MuEVyAO_fNI/hqdefault.jpg"
+    },
+    {
+      "team": "Chelsea",
+      "title": "TRAINING ahead of Brentford | Chelsea Training | CFC 26/27",
+      "link": "https://www.youtube.com/watch?v=xeEC1LggnXg",
+      "pubDate": "2026-09-17T17:45:58+00:00",
+      "thumb": "https://i.ytimg.com/vi/xeEC1LggnXg/hqdefault.jpg"
+    },
+    {
+      "team": "Brentford",
+      "title": "\"I won\" 🤣",
+      "link": "https://www.youtube.com/watch?v=K3DvPF7W9a8",
+      "pubDate": "2026-09-17T16:44:18+00:00",
+      "thumb": "https://i.ytimg.com/vi/K3DvPF7W9a8/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "Ibrahim Mbaye's full Aston Villa debut ⚡️",
+      "link": "https://www.youtube.com/watch?v=U1NoHQYXQSM",
+      "pubDate": "2026-09-17T16:20:06+00:00",
+      "thumb": "https://i.ytimg.com/vi/U1NoHQYXQSM/hqdefault.jpg"
+    },
+    {
+      "team": "Brentford",
+      "title": "Fabio is back.",
+      "link": "https://www.youtube.com/watch?v=2RsWemeEfb0",
+      "pubDate": "2026-09-17T15:05:18+00:00",
+      "thumb": "https://i.ytimg.com/vi/2RsWemeEfb0/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "ASK ME ANYTHING l Christos Tzolis answers YOUR questions on a footballer's diet & Arsenal culture ❤️",
+      "link": "https://www.youtube.com/watch?v=1mSBviDMqdw",
+      "pubDate": "2026-09-17T14:57:19+00:00",
+      "thumb": "https://i.ytimg.com/vi/1mSBviDMqdw/hqdefault.jpg"
+    },
+    {
+      "team": "Chelsea",
+      "title": "Alonso Press Conference | 17/09/26 | Brentford vs Chelsea | CFC 26/27",
+      "link": "https://www.youtube.com/watch?v=eYeU6iQyl7A",
+      "pubDate": "2026-09-17T14:22:24+00:00",
+      "thumb": "https://i.ytimg.com/vi/eYeU6iQyl7A/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "'Earned, Not Given' | Europa League Debut",
+      "link": "https://www.youtube.com/watch?v=5n6rutFxUss",
+      "pubDate": "2026-09-17T14:00:39+00:00",
+      "thumb": "https://i.ytimg.com/vi/5n6rutFxUss/hqdefault.jpg"
+    },
+    {
+      "team": "Fulham",
+      "title": "MUNIZ, PALACIOS AND BOBB GOALS 🎥 | Behind the Scenes West Ham 2-3 Fulham | FUL ACCESS",
+      "link": "https://www.youtube.com/watch?v=KEFs6WBtnGs",
+      "pubDate": "2026-09-17T13:05:07+00:00",
+      "thumb": "https://i.ytimg.com/vi/KEFs6WBtnGs/hqdefault.jpg"
+    },
+    {
+      "team": "Fulham",
+      "title": "Pitchside at London Stadium. 🎥",
+      "link": "https://www.youtube.com/watch?v=BjqtarT6LCc",
+      "pubDate": "2026-09-17T12:15:16+00:00",
+      "thumb": "https://i.ytimg.com/vi/BjqtarT6LCc/hqdefault.jpg"
+    },
+    {
+      "team": "Hull City",
+      "title": "Newcastle United (A) | Sergej Jakirović's Live Pre-Match Press Conference",
+      "link": "https://www.youtube.com/watch?v=fky1EicP3VA",
+      "pubDate": "2026-09-17T12:08:51+00:00",
+      "thumb": "https://i.ytimg.com/vi/fky1EicP3VA/hqdefault.jpg"
+    },
+    {
+      "team": "Coventry City",
+      "title": "Frank Lampard Pre-Match Press Conference | Nottingham Forest vs Coventry City | Premier League",
+      "link": "https://www.youtube.com/watch?v=sTXgy2WBMDU",
+      "pubDate": "2026-09-17T09:12:22+00:00",
+      "thumb": "https://i.ytimg.com/vi/sTXgy2WBMDU/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "EXTENDED HIGHLIGHTS | Man United v Brighton | Carabao Cup",
+      "link": "https://www.youtube.com/watch?v=nqNUeIquQJc",
+      "pubDate": "2026-09-16T23:23:09+00:00",
+      "thumb": "https://i.ytimg.com/vi/nqNUeIquQJc/hqdefault.jpg"
+    },
+    {
+      "team": "Coventry City",
+      "title": "Coventry City 1-3 Aston Villa | Carabao Cup Highlights",
+      "link": "https://www.youtube.com/watch?v=_fd3tpcQsFI",
+      "pubDate": "2026-09-16T23:01:24+00:00",
+      "thumb": "https://i.ytimg.com/vi/_fd3tpcQsFI/hqdefault.jpg"
+    },
+    {
+      "team": "Coventry City",
+      "title": "Coventry City 1-3 Aston Villa | Carabao Cup Extended Highlights",
+      "link": "https://www.youtube.com/watch?v=wL72IkKLiP8",
+      "pubDate": "2026-09-16T23:01:22+00:00",
+      "thumb": "https://i.ytimg.com/vi/wL72IkKLiP8/hqdefault.jpg"
+    },
+    {
+      "team": "Coventry City",
+      "title": "Frank Lampard & Victor Torp Reaction | Coventry City vs Aston Villa | Carabao Cup",
+      "link": "https://www.youtube.com/watch?v=UJR9vJXQbFk",
+      "pubDate": "2026-09-16T22:11:57+00:00",
+      "thumb": "https://i.ytimg.com/vi/UJR9vJXQbFk/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "HIGHLIGHTS | Brighton v PSG | Premier League International Cup",
+      "link": "https://www.youtube.com/watch?v=aa9unVo7zSE",
+      "pubDate": "2026-09-16T22:05:37+00:00",
+      "thumb": "https://i.ytimg.com/vi/aa9unVo7zSE/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "Hurzeler reacts to SENSATIONAL comeback! 😮‍💨 #BHAFC #carabaocup",
+      "link": "https://www.youtube.com/watch?v=Gud_WO-R1bM",
+      "pubDate": "2026-09-16T22:01:19+00:00",
+      "thumb": "https://i.ytimg.com/vi/Gud_WO-R1bM/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "✅ Reviewed. Awarded. DCL.",
+      "link": "https://www.youtube.com/watch?v=nlXuYb57p0g",
+      "pubDate": "2026-09-16T17:08:20+00:00",
+      "thumb": "https://i.ytimg.com/vi/nlXuYb57p0g/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "Marco Rose and Lewis Cook preview AFC Bournemouth's first ever European fixture | Press Conference",
+      "link": "https://www.youtube.com/watch?v=mmu5rPlwDJw",
+      "pubDate": "2026-09-16T16:18:05+00:00",
+      "thumb": "https://i.ytimg.com/vi/mmu5rPlwDJw/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Sensational night at Elland Road | Uncut exclusive footage | Leeds United 4-1 Newcastle United",
+      "link": "https://www.youtube.com/watch?v=q1D-QMjdBnM",
+      "pubDate": "2026-09-16T16:00:27+00:00",
+      "thumb": "https://i.ytimg.com/vi/q1D-QMjdBnM/hqdefault.jpg"
+    },
+    {
+      "team": "Everton",
+      "title": "falar",
+      "link": "https://www.youtube.com/watch?v=moaZfqv2NDQ",
+      "pubDate": "2026-09-16T12:41:19+00:00",
+      "thumb": "https://i.ytimg.com/vi/moaZfqv2NDQ/hqdefault.jpg"
+    },
+    {
+      "team": "Fulham",
+      "title": "Oscar Bobb twists and turns the defence 🔀😘",
+      "link": "https://www.youtube.com/watch?v=yvz_rVsPWU0",
+      "pubDate": "2026-09-16T12:15:20+00:00",
+      "thumb": "https://i.ytimg.com/vi/yvz_rVsPWU0/hqdefault.jpg"
+    },
+    {
+      "team": "Fulham",
+      "title": "BEAUTIFUL long ball for César Palacios to score! 🎯",
+      "link": "https://www.youtube.com/watch?v=XAqdQzzge9U",
+      "pubDate": "2026-09-16T12:15:17+00:00",
+      "thumb": "https://i.ytimg.com/vi/XAqdQzzge9U/hqdefault.jpg"
+    },
+    {
+      "team": "Ipswich Town",
+      "title": "GARY O'NEIL AFTER CUP EXIT",
+      "link": "https://www.youtube.com/watch?v=NqiGROKVIAI",
+      "pubDate": "2026-09-15T21:54:07+00:00",
+      "thumb": "https://i.ytimg.com/vi/NqiGROKVIAI/hqdefault.jpg"
+    },
+    {
+      "team": "Ipswich Town",
+      "title": "MATCHDAY LIVE | HALF-TIME: TOWN V ARSENAL",
+      "link": "https://www.youtube.com/watch?v=GcbgsQMETs0",
+      "pubDate": "2026-09-15T20:05:24+00:00",
+      "thumb": "https://i.ytimg.com/vi/GcbgsQMETs0/hqdefault.jpg"
+    },
+    {
+      "team": "Hull City",
+      "title": "Unbeaten Run Continues at Stamford Bridge! Behind the Tigers vs Chelsea",
+      "link": "https://www.youtube.com/watch?v=NXiolN9udFk",
+      "pubDate": "2026-09-15T17:00:37+00:00",
+      "thumb": "https://i.ytimg.com/vi/NXiolN9udFk/hqdefault.jpg"
+    },
+    {
+      "team": "Hull City",
+      "title": "Belloumi Brace at the Bridge! Chelsea 2-2 Hull City | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=RGDXFGM7MuI",
+      "pubDate": "2026-09-12T22:25:25+00:00",
+      "thumb": "https://i.ytimg.com/vi/RGDXFGM7MuI/hqdefault.jpg"
+    }
+  ]
 }
