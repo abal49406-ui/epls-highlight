@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-19T14:43:43.189Z",
+  "updatedAt": "2026-09-19T15:03:25.531Z",
   "videos": [
+    {
+      "team": "Ipswich Town",
+      "title": "MATCHDAY LIVE | HALF-TIME: EVERTON v TOWN",
+      "link": "https://www.youtube.com/watch?v=Vui0BlkX0AM",
+      "pubDate": "2026-09-19T14:47:49+00:00",
+      "thumb": "https://i.ytimg.com/vi/Vui0BlkX0AM/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "🗣️ \"We are DELIGHTED with how the players have responded\" | Unai Emery on Spurs victory | POST MATCH",
+      "link": "https://www.youtube.com/watch?v=Jp52xd-xLt8",
+      "pubDate": "2026-09-19T14:42:41+00:00",
+      "thumb": "https://i.ytimg.com/vi/Jp52xd-xLt8/hqdefault.jpg"
+    },
     {
       "team": "Tottenham Hotspur",
       "title": "Thank you again for your ongoing support, Spurs fans 🤍",
@@ -415,13 +429,6 @@
       "thumb": "https://i.ytimg.com/vi/k6edXEpUIMc/hqdefault.jpg"
     },
     {
-      "team": "Aston Villa",
-      "title": "Zion Suzuki's distribution 😮‍💨",
-      "link": "https://www.youtube.com/watch?v=MuEVyAO_fNI",
-      "pubDate": "2026-09-17T18:30:07+00:00",
-      "thumb": "https://i.ytimg.com/vi/MuEVyAO_fNI/hqdefault.jpg"
-    },
-    {
       "team": "Chelsea",
       "title": "TRAINING ahead of Brentford | Chelsea Training | CFC 26/27",
       "link": "https://www.youtube.com/watch?v=xeEC1LggnXg",
@@ -539,13 +546,6 @@
       "link": "https://www.youtube.com/watch?v=XAqdQzzge9U",
       "pubDate": "2026-09-16T12:15:17+00:00",
       "thumb": "https://i.ytimg.com/vi/XAqdQzzge9U/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "GARY O'NEIL AFTER CUP EXIT",
-      "link": "https://www.youtube.com/watch?v=NqiGROKVIAI",
-      "pubDate": "2026-09-15T21:54:07+00:00",
-      "thumb": "https://i.ytimg.com/vi/NqiGROKVIAI/hqdefault.jpg"
     },
     {
       "team": "Hull City",
