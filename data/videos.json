@@ -1,12 +1,26 @@
 {
-  "updatedAt": "2026-09-19T16:43:49.767Z",
+  "updatedAt": "2026-09-19T17:03:16.345Z",
   "videos": [
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "Our 125 anniversary & one of the best days! 💫 #BHAFC #PremierLeague #PL",
+      "link": "https://www.youtube.com/watch?v=lt99Z-UHF10",
+      "pubDate": "2026-09-19T16:43:48+00:00",
+      "thumb": "https://i.ytimg.com/vi/lt99Z-UHF10/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Goldbridge LIVE Man Utd News",
       "link": "https://www.youtube.com/watch?v=TMMxjLJIOGg",
       "pubDate": "2026-09-19T16:38:44+00:00",
       "thumb": "https://i.ytimg.com/vi/TMMxjLJIOGg/hqdefault.jpg"
+    },
+    {
+      "team": "Newcastle United",
+      "title": "COME ON YOU MAGGIES! 🤩 #newcastle #football #premierleague",
+      "link": "https://www.youtube.com/watch?v=p19RIjmbvvI",
+      "pubDate": "2026-09-19T16:37:59+00:00",
+      "thumb": "https://i.ytimg.com/vi/p19RIjmbvvI/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
@@ -142,13 +156,6 @@
       "thumb": "https://i.ytimg.com/vi/oIx_EVD40EI/hqdefault.jpg"
     },
     {
-      "team": "Brighton & Hove Albion",
-      "title": "The sights & sounds around Brighton before our 125 anniversary match! 🎬🎞️ #BHAFC #PremierLeague",
-      "link": "https://www.youtube.com/watch?v=nFCeu8-Bydg",
-      "pubDate": "2026-09-19T10:31:55+00:00",
-      "thumb": "https://i.ytimg.com/vi/nFCeu8-Bydg/hqdefault.jpg"
-    },
-    {
       "team": "Manchester United",
       "title": "Carrick Can't WIN! Scary Manager CONFESSION! Man Utd News",
       "link": "https://www.youtube.com/watch?v=rSWr-G4yH-4",
@@ -231,13 +238,6 @@
       "link": "https://www.youtube.com/watch?v=wnxLttSjyGM",
       "pubDate": "2026-09-18T21:00:29+00:00",
       "thumb": "https://i.ytimg.com/vi/wnxLttSjyGM/hqdefault.jpg"
-    },
-    {
-      "team": "Newcastle United",
-      "title": "Lewis Hall on his return to the England squad 🏴󠁧󠁢󠁥󠁮󠁧󠁿👏",
-      "link": "https://www.youtube.com/watch?v=feisCpYY9JI",
-      "pubDate": "2026-09-18T20:02:42+00:00",
-      "thumb": "https://i.ytimg.com/vi/feisCpYY9JI/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
