@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-19T14:03:41.669Z",
+  "updatedAt": "2026-09-19T14:25:51.770Z",
   "videos": [
+    {
+      "team": "Ipswich Town",
+      "title": "MATCHDAY LIVE | EVERTON v TOWN",
+      "link": "https://www.youtube.com/watch?v=6kSSNL4eWqA",
+      "pubDate": "2026-09-19T14:18:28+00:00",
+      "thumb": "https://i.ytimg.com/vi/6kSSNL4eWqA/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "VICTORY IN NORTH LONDON 😍",
+      "link": "https://www.youtube.com/watch?v=oOoCZpGXW4o",
+      "pubDate": "2026-09-19T14:10:24+00:00",
+      "thumb": "https://i.ytimg.com/vi/oOoCZpGXW4o/hqdefault.jpg"
+    },
     {
       "team": "Brighton & Hove Albion",
       "title": "Fabian’s thoughts ahead of our 125 anniversary match! 🎤🎞️ #BHAFC #PremierLeague #PL",
@@ -14,13 +28,6 @@
       "link": "https://www.youtube.com/watch?v=vbof-89Qy7U",
       "pubDate": "2026-09-19T13:00:23+00:00",
       "thumb": "https://i.ytimg.com/vi/vbof-89Qy7U/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "MATCHDAY LIVE | EVERTON v TOWN",
-      "link": "https://www.youtube.com/watch?v=6kSSNL4eWqA",
-      "pubDate": "2026-09-19T12:50:18+00:00",
-      "thumb": "https://i.ytimg.com/vi/6kSSNL4eWqA/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
@@ -427,13 +434,6 @@
       "link": "https://www.youtube.com/watch?v=K3DvPF7W9a8",
       "pubDate": "2026-09-17T16:44:18+00:00",
       "thumb": "https://i.ytimg.com/vi/K3DvPF7W9a8/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "Ibrahim Mbaye's full Aston Villa debut ⚡️",
-      "link": "https://www.youtube.com/watch?v=U1NoHQYXQSM",
-      "pubDate": "2026-09-17T16:20:06+00:00",
-      "thumb": "https://i.ytimg.com/vi/U1NoHQYXQSM/hqdefault.jpg"
     },
     {
       "team": "Brentford",
