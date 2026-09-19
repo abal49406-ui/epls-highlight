@@ -1,12 +1,89 @@
 {
-  "updatedAt": "2026-09-19T21:03:23.234Z",
+  "updatedAt": "2026-09-19T21:25:27.557Z",
   "videos": [
+    {
+      "team": "Newcastle United",
+      "title": "JOE WILLOCK SCORES AGAIN 🤩",
+      "link": "https://www.youtube.com/watch?v=C0NSk9jPC00",
+      "pubDate": "2026-09-19T21:19:23+00:00",
+      "thumb": "https://i.ytimg.com/vi/C0NSk9jPC00/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "Nicolas Jackson opening his Premier League account for the season 🔥",
+      "link": "https://www.youtube.com/watch?v=aua9nzVpoBU",
+      "pubDate": "2026-09-19T21:15:35+00:00",
+      "thumb": "https://i.ytimg.com/vi/aua9nzVpoBU/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "Pascal is at it again 😮‍💨 #BHAFC #PremierLeague #PL",
+      "link": "https://www.youtube.com/watch?v=rd-sRebb7q4",
+      "pubDate": "2026-09-19T21:00:38+00:00",
+      "thumb": "https://i.ytimg.com/vi/rd-sRebb7q4/hqdefault.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "HIGHLIGHTS | Brighton 3-0 Arsenal | Premier League",
       "link": "https://www.youtube.com/watch?v=_f5-6jdNP58",
       "pubDate": "2026-09-19T21:00:37+00:00",
       "thumb": "https://i.ytimg.com/vi/_f5-6jdNP58/hqdefault.jpg"
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Spurs 2-3 Aston Villa | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=RjT2bUORnfc",
+      "pubDate": "2026-09-19T21:00:37+00:00",
+      "thumb": "https://i.ytimg.com/vi/RjT2bUORnfc/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "MANZAMBI, JACKSON & BUENDÍA ON TARGET | Tottenham Hotspur 2-3 Villa | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=AgVaYZbzkpE",
+      "pubDate": "2026-09-19T21:00:34+00:00",
+      "thumb": "https://i.ytimg.com/vi/AgVaYZbzkpE/hqdefault.jpg"
+    },
+    {
+      "team": "Newcastle United",
+      "title": "Lewis Hall’s first goal at SJP 😍 #NUFC #Newcastle #PremierLeague",
+      "link": "https://www.youtube.com/watch?v=Yp0SND_HuIg",
+      "pubDate": "2026-09-19T21:00:31+00:00",
+      "thumb": "https://i.ytimg.com/vi/Yp0SND_HuIg/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "Johan Manzambi's first goal for Aston Villa 😆",
+      "link": "https://www.youtube.com/watch?v=e8IpQSahneo",
+      "pubDate": "2026-09-19T21:00:31+00:00",
+      "thumb": "https://i.ytimg.com/vi/e8IpQSahneo/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "HIGHLIGHTS | Brighton v Arsenal | Premier League",
+      "link": "https://www.youtube.com/watch?v=a9pbKXyZZC4",
+      "pubDate": "2026-09-19T21:00:30+00:00",
+      "thumb": "https://i.ytimg.com/vi/a9pbKXyZZC4/hqdefault.jpg"
+    },
+    {
+      "team": "Newcastle United",
+      "title": "Newcastle United 2 Hull City 1 | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=JUQnxPy1r84",
+      "pubDate": "2026-09-19T21:00:10+00:00",
+      "thumb": "https://i.ytimg.com/vi/JUQnxPy1r84/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Nottingham Forest 0-1 Coventry City | Premier League Highlights 🎬",
+      "link": "https://www.youtube.com/watch?v=4lx7gkQpheQ",
+      "pubDate": "2026-09-19T21:00:10+00:00",
+      "thumb": "https://i.ytimg.com/vi/4lx7gkQpheQ/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "A touch of Greek magic 🇬🇷🪄 #BHAFC #PremierLeague #PL",
+      "link": "https://www.youtube.com/watch?v=xhkHkeSjjgs",
+      "pubDate": "2026-09-19T21:00:01+00:00",
+      "thumb": "https://i.ytimg.com/vi/xhkHkeSjjgs/hqdefault.jpg"
     },
     {
       "team": "Manchester United",
@@ -72,32 +149,11 @@
       "thumb": "https://i.ytimg.com/vi/fT8q_kMa-BU/hqdefault.jpg"
     },
     {
-      "team": "Brighton & Hove Albion",
-      "title": "Hürzeler & Chema react to FLAWLESS win against the champions | Post-match v Arsenal  📺",
-      "link": "https://www.youtube.com/watch?v=_qkcATIM9hg",
-      "pubDate": "2026-09-19T17:02:36+00:00",
-      "thumb": "https://i.ytimg.com/vi/_qkcATIM9hg/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "Our 125 anniversary & one of the best days! 💫 #BHAFC #PremierLeague #PL",
-      "link": "https://www.youtube.com/watch?v=lt99Z-UHF10",
-      "pubDate": "2026-09-19T16:43:48+00:00",
-      "thumb": "https://i.ytimg.com/vi/lt99Z-UHF10/hqdefault.jpg"
-    },
-    {
       "team": "Newcastle United",
       "title": "COME ON YOU MAGGIES! 🤩 #newcastle #football #premierleague",
       "link": "https://www.youtube.com/watch?v=p19RIjmbvvI",
       "pubDate": "2026-09-19T16:37:59+00:00",
       "thumb": "https://i.ytimg.com/vi/p19RIjmbvvI/hqdefault.jpg"
-    },
-    {
-      "team": "Newcastle United",
-      "title": "+3 😍 #newcastle #football #premierleague",
-      "link": "https://www.youtube.com/watch?v=nZF6fTT1aXw",
-      "pubDate": "2026-09-19T16:24:02+00:00",
-      "thumb": "https://i.ytimg.com/vi/nZF6fTT1aXw/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
@@ -135,32 +191,11 @@
       "thumb": "https://i.ytimg.com/vi/6kSSNL4eWqA/hqdefault.jpg"
     },
     {
-      "team": "Aston Villa",
-      "title": "VICTORY IN NORTH LONDON 😍",
-      "link": "https://www.youtube.com/watch?v=oOoCZpGXW4o",
-      "pubDate": "2026-09-19T14:10:24+00:00",
-      "thumb": "https://i.ytimg.com/vi/oOoCZpGXW4o/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "Fabian’s thoughts ahead of our 125 anniversary match! 🎤🎞️ #BHAFC #PremierLeague #PL",
-      "link": "https://www.youtube.com/watch?v=qEuf-_T_1cc",
-      "pubDate": "2026-09-19T13:15:59+00:00",
-      "thumb": "https://i.ytimg.com/vi/qEuf-_T_1cc/hqdefault.jpg"
-    },
-    {
       "team": "Chelsea",
       "title": "Chelsea U18 5-0 Bournemouth U18 | HIGHLIGHTS | U18 Premier League | 2026/27",
       "link": "https://www.youtube.com/watch?v=vbof-89Qy7U",
       "pubDate": "2026-09-19T13:00:23+00:00",
       "thumb": "https://i.ytimg.com/vi/vbof-89Qy7U/hqdefault.jpg"
-    },
-    {
-      "team": "Newcastle United",
-      "title": "Ready for action 🤜🤛 #newcastle #football #premierleague",
-      "link": "https://www.youtube.com/watch?v=-nuHH-zqSxs",
-      "pubDate": "2026-09-19T12:24:09+00:00",
-      "thumb": "https://i.ytimg.com/vi/-nuHH-zqSxs/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
@@ -182,13 +217,6 @@
       "link": "https://www.youtube.com/watch?v=Bw6YJy4zL_4",
       "pubDate": "2026-09-19T11:30:05+00:00",
       "thumb": "https://i.ytimg.com/vi/Bw6YJy4zL_4/hqdefault.jpg"
-    },
-    {
-      "team": "Newcastle United",
-      "title": "Jaissle and the lads are in 👋 #newcastle #football #premierleague",
-      "link": "https://www.youtube.com/watch?v=8xJFoxD4zq8",
-      "pubDate": "2026-09-19T11:25:55+00:00",
-      "thumb": "https://i.ytimg.com/vi/8xJFoxD4zq8/hqdefault.jpg"
     },
     {
       "team": "Tottenham Hotspur",
@@ -310,25 +338,11 @@
       "thumb": "https://i.ytimg.com/vi/ZYUevNWkfbY/hqdefault.jpg"
     },
     {
-      "team": "Aston Villa",
-      "title": "Abraham at the double! | Coventry City vs Aston Villa | PITCHSIDE",
-      "link": "https://www.youtube.com/watch?v=1jY6lhJIGo8",
-      "pubDate": "2026-09-18T18:15:07+00:00",
-      "thumb": "https://i.ytimg.com/vi/1jY6lhJIGo8/hqdefault.jpg"
-    },
-    {
       "team": "Liverpool",
       "title": "A great move finished by Naby Keita 🙌",
       "link": "https://www.youtube.com/watch?v=8yMnUqQjoNE",
       "pubDate": "2026-09-18T17:00:13+00:00",
       "thumb": "https://i.ytimg.com/vi/8yMnUqQjoNE/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Midfield Madness & Coventry City (H) Preparations! 🏃‍♂️ | Inside Training 🎬",
-      "link": "https://www.youtube.com/watch?v=5GjcsPyLKyM",
-      "pubDate": "2026-09-18T17:00:05+00:00",
-      "thumb": "https://i.ytimg.com/vi/5GjcsPyLKyM/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
@@ -357,13 +371,6 @@
       "link": "https://www.youtube.com/watch?v=P73lnta2gTU",
       "pubDate": "2026-09-18T15:14:28+00:00",
       "thumb": "https://i.ytimg.com/vi/P73lnta2gTU/hqdefault.jpg"
-    },
-    {
-      "team": "Tottenham Hotspur",
-      "title": "Conor's first Spurs goal 🎯",
-      "link": "https://www.youtube.com/watch?v=8BFl0w06xPc",
-      "pubDate": "2026-09-18T15:04:13+00:00",
-      "thumb": "https://i.ytimg.com/vi/8BFl0w06xPc/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
@@ -448,13 +455,6 @@
       "link": "https://www.youtube.com/watch?v=oHzFilLrn-k",
       "pubDate": "2026-09-18T09:57:57+00:00",
       "thumb": "https://i.ytimg.com/vi/oHzFilLrn-k/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "UNSTOPPABLE! ⚽🔥 | TEN Aston Villa STUNNERS Against Tottenham!",
-      "link": "https://www.youtube.com/watch?v=YFUslUpTclE",
-      "pubDate": "2026-09-18T09:30:30+00:00",
-      "thumb": "https://i.ytimg.com/vi/YFUslUpTclE/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
