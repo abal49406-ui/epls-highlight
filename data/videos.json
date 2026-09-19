@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-19T22:03:36.051Z",
+  "updatedAt": "2026-09-19T22:25:27.579Z",
   "videos": [
+    {
+      "team": "Hull City",
+      "title": "Newcastle United 2-1 Hull City | Sergej Jakirović's Post Match Reaction",
+      "link": "https://www.youtube.com/watch?v=3xGPGm5y_x0",
+      "pubDate": "2026-09-19T22:08:32+00:00",
+      "thumb": "https://i.ytimg.com/vi/3xGPGm5y_x0/hqdefault.jpg"
+    },
     {
       "team": "Aston Villa",
       "title": "Emi Buendía 🤝 Spurs (A)",
@@ -553,13 +560,6 @@
       "link": "https://www.youtube.com/watch?v=NXiolN9udFk",
       "pubDate": "2026-09-15T17:00:37+00:00",
       "thumb": "https://i.ytimg.com/vi/NXiolN9udFk/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "Belloumi Brace at the Bridge! Chelsea 2-2 Hull City | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=RGDXFGM7MuI",
-      "pubDate": "2026-09-12T22:25:25+00:00",
-      "thumb": "https://i.ytimg.com/vi/RGDXFGM7MuI/hqdefault.jpg"
     }
   ]
 }
