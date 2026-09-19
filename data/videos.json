@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-19T22:42:51.377Z",
+  "updatedAt": "2026-09-19T23:03:30.013Z",
   "videos": [
+    {
+      "team": "Brentford",
+      "title": "Brentford 3-0 Chelsea | Anthony, Thiago and Carvalho all score! | Extended Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=LDb6YMmesRI",
+      "pubDate": "2026-09-19T23:00:02+00:00",
+      "thumb": "https://i.ytimg.com/vi/LDb6YMmesRI/hqdefault.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "SMILLA HOLMBERG WITH A LATE LEVELLER | HIGHLIGHTS | Arsenal vs Manchester United (1-1) | WSL",
@@ -490,13 +497,6 @@
       "link": "https://www.youtube.com/watch?v=K3DvPF7W9a8",
       "pubDate": "2026-09-17T16:44:18+00:00",
       "thumb": "https://i.ytimg.com/vi/K3DvPF7W9a8/hqdefault.jpg"
-    },
-    {
-      "team": "Brentford",
-      "title": "Fabio is back.",
-      "link": "https://www.youtube.com/watch?v=2RsWemeEfb0",
-      "pubDate": "2026-09-17T15:05:18+00:00",
-      "thumb": "https://i.ytimg.com/vi/2RsWemeEfb0/hqdefault.jpg"
     },
     {
       "team": "Fulham",
