@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-19T11:25:24.688Z",
+  "updatedAt": "2026-09-19T11:43:10.831Z",
   "videos": [
+    {
+      "team": "Sunderland",
+      "title": "Back-To-Back Wins 🤩 | Sunderland AFC U21s 3 - 1 Norwich City U21s | PL2 Highlights",
+      "link": "https://www.youtube.com/watch?v=mZzvUuMocak",
+      "pubDate": "2026-09-19T11:30:25+00:00",
+      "thumb": "https://i.ytimg.com/vi/mZzvUuMocak/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "THIS GETS WORSE",
+      "link": "https://www.youtube.com/watch?v=Bw6YJy4zL_4",
+      "pubDate": "2026-09-19T11:30:05+00:00",
+      "thumb": "https://i.ytimg.com/vi/Bw6YJy4zL_4/hqdefault.jpg"
+    },
+    {
+      "team": "Newcastle United",
+      "title": "Jaissle and the lads are in 👋 #newcastle #football #premierleague",
+      "link": "https://www.youtube.com/watch?v=8xJFoxD4zq8",
+      "pubDate": "2026-09-19T11:25:55+00:00",
+      "thumb": "https://i.ytimg.com/vi/8xJFoxD4zq8/hqdefault.jpg"
+    },
     {
       "team": "Tottenham Hotspur",
       "title": "The Tottenham boys.",
@@ -140,13 +161,6 @@
       "link": "https://www.youtube.com/watch?v=kdp3anaibyU",
       "pubDate": "2026-09-18T19:00:15+00:00",
       "thumb": "https://i.ytimg.com/vi/kdp3anaibyU/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Carrick Tells Fans To Calm Down! Fulham vs Man Utd Goldbridge Preview",
-      "link": "https://www.youtube.com/watch?v=W5-HbL1NJa8",
-      "pubDate": "2026-09-18T18:51:50+00:00",
-      "thumb": "https://i.ytimg.com/vi/W5-HbL1NJa8/hqdefault.jpg"
     },
     {
       "team": "Hull City",
@@ -289,13 +303,6 @@
       "thumb": "https://i.ytimg.com/vi/iFUZxXqKGFc/hqdefault.jpg"
     },
     {
-      "team": "Sunderland",
-      "title": "Manchester City vs Sunderland AFC | Régis Le Bris' Premier League Press Conference",
-      "link": "https://www.youtube.com/watch?v=7kdDxpk-JsI",
-      "pubDate": "2026-09-18T12:44:42+00:00",
-      "thumb": "https://i.ytimg.com/vi/7kdDxpk-JsI/hqdefault.jpg"
-    },
-    {
       "team": "Ipswich Town",
       "title": "GARY O'NEIL ON TRIP TO EVERTON",
       "link": "https://www.youtube.com/watch?v=81TtI1uhl-w",
@@ -329,13 +336,6 @@
       "link": "https://www.youtube.com/watch?v=FigL8Cctn2s",
       "pubDate": "2026-09-18T10:22:29+00:00",
       "thumb": "https://i.ytimg.com/vi/FigL8Cctn2s/hqdefault.jpg"
-    },
-    {
-      "team": "Newcastle United",
-      "title": "A first training session for Sean Steur in the new Adidas F50 🇳🇱💫",
-      "link": "https://www.youtube.com/watch?v=sCNCCz_QUNU",
-      "pubDate": "2026-09-18T10:00:37+00:00",
-      "thumb": "https://i.ytimg.com/vi/sCNCCz_QUNU/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
