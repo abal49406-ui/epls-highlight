@@ -1,19 +1,33 @@
 {
-  "updatedAt": "2026-09-19T09:43:55.915Z",
+  "updatedAt": "2026-09-19T10:03:43.157Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Carrick Can't WIN! Scary Manager CONFESSION! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=rSWr-G4yH-4",
+      "pubDate": "2026-09-19T09:58:48+00:00",
+      "thumb": "https://i.ytimg.com/vi/rSWr-G4yH-4/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: Chelsea U18 v AFC Bournemouth U18",
+      "link": "https://www.youtube.com/watch?v=IcofjpwrYPY",
+      "pubDate": "2026-09-19T09:56:37+00:00",
+      "thumb": "https://i.ytimg.com/vi/IcofjpwrYPY/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "'I had to be on my toes'. Floyd Samba reacts to his debut goals in City blue ⚽️🩵 #mancity #football",
+      "link": "https://www.youtube.com/watch?v=QSOnwby4FV0",
+      "pubDate": "2026-09-19T09:47:12+00:00",
+      "thumb": "https://i.ytimg.com/vi/QSOnwby4FV0/hqdefault.jpg"
+    },
     {
       "team": "AFC Bournemouth",
       "title": "🔴 LIVE: Chelsea U18 v AFC Bournemouth U18",
       "link": "https://www.youtube.com/watch?v=eU-PrYHOldw",
       "pubDate": "2026-09-19T09:35:23+00:00",
       "thumb": "https://i.ytimg.com/vi/eU-PrYHOldw/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Carrick Can't WIN! Scary Manager CONFESSION! Man Utd News",
-      "link": "https://www.youtube.com/watch?v=rSWr-G4yH-4",
-      "pubDate": "2026-09-19T08:46:43+00:00",
-      "thumb": "https://i.ytimg.com/vi/rSWr-G4yH-4/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
@@ -191,13 +205,6 @@
       "thumb": "https://i.ytimg.com/vi/Y1QEAy4MYmU/hqdefault.jpg"
     },
     {
-      "team": "Manchester City",
-      "title": "City Debut Goals | Man City stars who scored in their first game",
-      "link": "https://www.youtube.com/watch?v=Kfh0kPJyIos",
-      "pubDate": "2026-09-18T15:30:12+00:00",
-      "thumb": "https://i.ytimg.com/vi/Kfh0kPJyIos/hqdefault.jpg"
-    },
-    {
       "team": "Nottingham Forest",
       "title": "SENSATIONAL STUART PEARCE FREE-KICK 😱 | Nottingham Forest 2-1 Coventry City | Classic Highlights 🎬",
       "link": "https://www.youtube.com/watch?v=22oVHH9c2Ck",
@@ -217,13 +224,6 @@
       "link": "https://www.youtube.com/watch?v=8BFl0w06xPc",
       "pubDate": "2026-09-18T15:04:13+00:00",
       "thumb": "https://i.ytimg.com/vi/8BFl0w06xPc/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "Marco Rose on Liverpool, managing Europe squad rotation and Tavernier form | Press Conference",
-      "link": "https://www.youtube.com/watch?v=--HUjb3pMbw",
-      "pubDate": "2026-09-18T14:12:26+00:00",
-      "thumb": "https://i.ytimg.com/vi/--HUjb3pMbw/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
