@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-19T23:03:30.013Z",
+  "updatedAt": "2026-09-19T23:24:23.336Z",
   "videos": [
+    {
+      "team": "Chelsea",
+      "title": "Brentford 3-0 Chelsea | HIGHLIGHTS - Extended | Premier League 2026/27",
+      "link": "https://www.youtube.com/watch?v=2kAl18Q69E8",
+      "pubDate": "2026-09-19T23:01:40+00:00",
+      "thumb": "https://i.ytimg.com/vi/2kAl18Q69E8/hqdefault.jpg"
+    },
+    {
+      "team": "Hull City",
+      "title": "City's fightback nearly enough! Newcastle United 2-1 Hull City | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=itQFVqDLvlc",
+      "pubDate": "2026-09-19T23:00:35+00:00",
+      "thumb": "https://i.ytimg.com/vi/itQFVqDLvlc/hqdefault.jpg"
+    },
     {
       "team": "Brentford",
       "title": "Brentford 3-0 Chelsea | Anthony, Thiago and Carvalho all score! | Extended Premier League Highlights",
@@ -275,13 +289,6 @@
       "thumb": "https://i.ytimg.com/vi/sXId17-8tzk/hqdefault.jpg"
     },
     {
-      "team": "Chelsea",
-      "title": "Brentford 3-0 Chelsea | HIGHLIGHTS | Premier League 2026/27",
-      "link": "https://www.youtube.com/watch?v=gwrydB4FO_Y",
-      "pubDate": "2026-09-18T23:01:08+00:00",
-      "thumb": "https://i.ytimg.com/vi/gwrydB4FO_Y/hqdefault.jpg"
-    },
-    {
       "team": "Brentford",
       "title": "Brentford 3-0 Chelsea | DERBY DAY DELIGHT! 🤩 | Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=1wWUI5Kl-N0",
@@ -553,13 +560,6 @@
       "link": "https://www.youtube.com/watch?v=XAqdQzzge9U",
       "pubDate": "2026-09-16T12:15:17+00:00",
       "thumb": "https://i.ytimg.com/vi/XAqdQzzge9U/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "Unbeaten Run Continues at Stamford Bridge! Behind the Tigers vs Chelsea",
-      "link": "https://www.youtube.com/watch?v=NXiolN9udFk",
-      "pubDate": "2026-09-15T17:00:37+00:00",
-      "thumb": "https://i.ytimg.com/vi/NXiolN9udFk/hqdefault.jpg"
     }
   ]
 }
