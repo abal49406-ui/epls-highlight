@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-19T10:26:19.695Z",
+  "updatedAt": "2026-09-19T10:43:35.493Z",
   "videos": [
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "The sights & sounds around Brighton before our 125 anniversary match! 🎬🎞️ #BHAFC #PremierLeague",
+      "link": "https://www.youtube.com/watch?v=nFCeu8-Bydg",
+      "pubDate": "2026-09-19T10:31:55+00:00",
+      "thumb": "https://i.ytimg.com/vi/nFCeu8-Bydg/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Carrick Can't WIN! Scary Manager CONFESSION! Man Utd News",
@@ -490,13 +497,6 @@
       "link": "https://www.youtube.com/watch?v=aa9unVo7zSE",
       "pubDate": "2026-09-16T22:05:37+00:00",
       "thumb": "https://i.ytimg.com/vi/aa9unVo7zSE/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "Hurzeler reacts to SENSATIONAL comeback! 😮‍💨 #BHAFC #carabaocup",
-      "link": "https://www.youtube.com/watch?v=Gud_WO-R1bM",
-      "pubDate": "2026-09-16T22:01:19+00:00",
-      "thumb": "https://i.ytimg.com/vi/Gud_WO-R1bM/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
