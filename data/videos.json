@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-19T14:25:51.770Z",
+  "updatedAt": "2026-09-19T14:43:43.189Z",
   "videos": [
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Thank you again for your ongoing support, Spurs fans 🤍",
+      "link": "https://www.youtube.com/watch?v=vUjYmv2ntWo",
+      "pubDate": "2026-09-19T14:30:37+00:00",
+      "thumb": "https://i.ytimg.com/vi/vUjYmv2ntWo/hqdefault.jpg"
+    },
     {
       "team": "Ipswich Town",
       "title": "MATCHDAY LIVE | EVERTON v TOWN",
@@ -357,13 +364,6 @@
       "link": "https://www.youtube.com/watch?v=ebCk8iW8hYA",
       "pubDate": "2026-09-18T11:31:04+00:00",
       "thumb": "https://i.ytimg.com/vi/ebCk8iW8hYA/hqdefault.jpg"
-    },
-    {
-      "team": "Tottenham Hotspur",
-      "title": "Tottenham Hotspur Hall of Fame: Chris Hughton",
-      "link": "https://www.youtube.com/watch?v=AGFqZ0FJquw",
-      "pubDate": "2026-09-18T11:00:25+00:00",
-      "thumb": "https://i.ytimg.com/vi/AGFqZ0FJquw/hqdefault.jpg"
     },
     {
       "team": "Arsenal",
