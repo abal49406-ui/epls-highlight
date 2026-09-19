@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-19T21:25:27.557Z",
+  "updatedAt": "2026-09-19T21:42:53.451Z",
   "videos": [
+    {
+      "team": "Aston Villa",
+      "title": "Emi Buendía 🤝 Spurs (A)",
+      "link": "https://www.youtube.com/watch?v=-OwDf368G-c",
+      "pubDate": "2026-09-19T21:30:00+00:00",
+      "thumb": "https://i.ytimg.com/vi/-OwDf368G-c/hqdefault.jpg"
+    },
     {
       "team": "Newcastle United",
       "title": "JOE WILLOCK SCORES AGAIN 🤩",
@@ -168,13 +175,6 @@
       "link": "https://www.youtube.com/watch?v=Vui0BlkX0AM",
       "pubDate": "2026-09-19T15:23:00+00:00",
       "thumb": "https://i.ytimg.com/vi/Vui0BlkX0AM/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "🗣️ \"We are DELIGHTED with how the players have responded\" | Unai Emery on Spurs victory | POST MATCH",
-      "link": "https://www.youtube.com/watch?v=Jp52xd-xLt8",
-      "pubDate": "2026-09-19T14:42:41+00:00",
-      "thumb": "https://i.ytimg.com/vi/Jp52xd-xLt8/hqdefault.jpg"
     },
     {
       "team": "Tottenham Hotspur",
