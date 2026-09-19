@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-19T16:03:37.321Z",
+  "updatedAt": "2026-09-19T16:26:56.417Z",
   "videos": [
+    {
+      "team": "Coventry City",
+      "title": "Full focus. 👊",
+      "link": "https://www.youtube.com/watch?v=shABPDdsZrs",
+      "pubDate": "2026-09-19T16:13:43+00:00",
+      "thumb": "https://i.ytimg.com/vi/shABPDdsZrs/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "MATCH CUT 🎬 | Lech Poznań",
+      "link": "https://www.youtube.com/watch?v=72yVwrYJ7F0",
+      "pubDate": "2026-09-19T16:00:29+00:00",
+      "thumb": "https://i.ytimg.com/vi/72yVwrYJ7F0/hqdefault.jpg"
+    },
     {
       "team": "Ipswich Town",
       "title": "MATCHDAY LIVE | HALF-TIME: EVERTON v TOWN",
@@ -457,13 +471,6 @@
       "thumb": "https://i.ytimg.com/vi/1mSBviDMqdw/hqdefault.jpg"
     },
     {
-      "team": "Crystal Palace",
-      "title": "'Earned, Not Given' | Europa League Debut",
-      "link": "https://www.youtube.com/watch?v=5n6rutFxUss",
-      "pubDate": "2026-09-17T14:00:39+00:00",
-      "thumb": "https://i.ytimg.com/vi/5n6rutFxUss/hqdefault.jpg"
-    },
-    {
       "team": "Fulham",
       "title": "MUNIZ, PALACIOS AND BOBB GOALS 🎥 | Behind the Scenes West Ham 2-3 Fulham | FUL ACCESS",
       "link": "https://www.youtube.com/watch?v=KEFs6WBtnGs",
@@ -504,13 +511,6 @@
       "link": "https://www.youtube.com/watch?v=wL72IkKLiP8",
       "pubDate": "2026-09-16T23:01:22+00:00",
       "thumb": "https://i.ytimg.com/vi/wL72IkKLiP8/hqdefault.jpg"
-    },
-    {
-      "team": "Coventry City",
-      "title": "Frank Lampard & Victor Torp Reaction | Coventry City vs Aston Villa | Carabao Cup",
-      "link": "https://www.youtube.com/watch?v=UJR9vJXQbFk",
-      "pubDate": "2026-09-16T22:11:57+00:00",
-      "thumb": "https://i.ytimg.com/vi/UJR9vJXQbFk/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
