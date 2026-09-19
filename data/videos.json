@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-19T08:45:07.984Z",
+  "updatedAt": "2026-09-19T09:03:34.657Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Carrick Can't WIN! Scary Manager CONFESSION! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=rSWr-G4yH-4",
+      "pubDate": "2026-09-19T08:46:43+00:00",
+      "thumb": "https://i.ytimg.com/vi/rSWr-G4yH-4/hqdefault.jpg"
+    },
     {
       "team": "AFC Bournemouth",
       "title": "An INCREDIBLE night in the club's history from pitchside views in Europa League | Alt Angle",
@@ -175,13 +182,6 @@
       "link": "https://www.youtube.com/watch?v=Y1QEAy4MYmU",
       "pubDate": "2026-09-18T16:00:19+00:00",
       "thumb": "https://i.ytimg.com/vi/Y1QEAy4MYmU/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Does Michael Carrick PROTECT the Board Too Much? 🤔",
-      "link": "https://www.youtube.com/watch?v=I9D8mBrTwis",
-      "pubDate": "2026-09-18T16:00:15+00:00",
-      "thumb": "https://i.ytimg.com/vi/I9D8mBrTwis/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
