@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-19T10:43:35.493Z",
+  "updatedAt": "2026-09-19T11:03:20.099Z",
   "videos": [
+    {
+      "team": "Tottenham Hotspur",
+      "title": "The Tottenham boys.",
+      "link": "https://www.youtube.com/watch?v=oIx_EVD40EI",
+      "pubDate": "2026-09-19T10:47:34+00:00",
+      "thumb": "https://i.ytimg.com/vi/oIx_EVD40EI/hqdefault.jpg"
+    },
     {
       "team": "Brighton & Hove Albion",
       "title": "The sights & sounds around Brighton before our 125 anniversary match! 🎬🎞️ #BHAFC #PremierLeague",
@@ -364,13 +371,6 @@
       "link": "https://www.youtube.com/watch?v=9rGzs0NPbDk",
       "pubDate": "2026-09-18T07:18:21+00:00",
       "thumb": "https://i.ytimg.com/vi/9rGzs0NPbDk/hqdefault.jpg"
-    },
-    {
-      "team": "Tottenham Hotspur",
-      "title": "This Madders free-kick 🤩 | Previously Against Aston Villa",
-      "link": "https://www.youtube.com/watch?v=sTt8d6IZ5Sg",
-      "pubDate": "2026-09-18T07:00:00+00:00",
-      "thumb": "https://i.ytimg.com/vi/sTt8d6IZ5Sg/hqdefault.jpg"
     },
     {
       "team": "Everton",
