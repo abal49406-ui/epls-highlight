@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T10:03:43.157Z",
+  "updatedAt": "2026-09-19T10:26:19.695Z",
   "videos": [
     {
       "team": "Manchester United",
@@ -21,13 +21,6 @@
       "link": "https://www.youtube.com/watch?v=QSOnwby4FV0",
       "pubDate": "2026-09-19T09:47:12+00:00",
       "thumb": "https://i.ytimg.com/vi/QSOnwby4FV0/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: Chelsea U18 v AFC Bournemouth U18",
-      "link": "https://www.youtube.com/watch?v=eU-PrYHOldw",
-      "pubDate": "2026-09-19T09:35:23+00:00",
-      "thumb": "https://i.ytimg.com/vi/eU-PrYHOldw/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
@@ -224,6 +217,13 @@
       "link": "https://www.youtube.com/watch?v=8BFl0w06xPc",
       "pubDate": "2026-09-18T15:04:13+00:00",
       "thumb": "https://i.ytimg.com/vi/8BFl0w06xPc/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "Marco Rose on Liverpool, managing Europe squad rotation and Tavernier form | Press Conference",
+      "link": "https://www.youtube.com/watch?v=--HUjb3pMbw",
+      "pubDate": "2026-09-18T14:12:26+00:00",
+      "thumb": "https://i.ytimg.com/vi/--HUjb3pMbw/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
