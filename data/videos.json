@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-19T13:03:10.186Z",
+  "updatedAt": "2026-09-19T13:26:22.803Z",
   "videos": [
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "Fabian’s thoughts ahead of our 125 anniversary match! 🎤🎞️ #BHAFC #PremierLeague #PL",
+      "link": "https://www.youtube.com/watch?v=qEuf-_T_1cc",
+      "pubDate": "2026-09-19T13:15:59+00:00",
+      "thumb": "https://i.ytimg.com/vi/qEuf-_T_1cc/hqdefault.jpg"
+    },
+    {
+      "team": "Chelsea",
+      "title": "Chelsea U18 5-0 Bournemouth U18 | HIGHLIGHTS | U18 Premier League | 2026/27",
+      "link": "https://www.youtube.com/watch?v=vbof-89Qy7U",
+      "pubDate": "2026-09-19T13:00:23+00:00",
+      "thumb": "https://i.ytimg.com/vi/vbof-89Qy7U/hqdefault.jpg"
+    },
     {
       "team": "Ipswich Town",
       "title": "MATCHDAY LIVE | EVERTON v TOWN",
@@ -373,13 +387,6 @@
       "thumb": "https://i.ytimg.com/vi/YFUslUpTclE/hqdefault.jpg"
     },
     {
-      "team": "Brighton & Hove Albion",
-      "title": "Brighton v Arsenal | Hürzeler pre-match press conference 🎙️",
-      "link": "https://www.youtube.com/watch?v=NT4gpAkq3a8",
-      "pubDate": "2026-09-18T09:27:54+00:00",
-      "thumb": "https://i.ytimg.com/vi/NT4gpAkq3a8/hqdefault.jpg"
-    },
-    {
       "team": "Leeds United",
       "title": "Matchday Live | Leeds United v Crystal Palace",
       "link": "https://www.youtube.com/watch?v=3rpDw-Vle-I",
@@ -441,13 +448,6 @@
       "link": "https://www.youtube.com/watch?v=1mSBviDMqdw",
       "pubDate": "2026-09-17T14:57:19+00:00",
       "thumb": "https://i.ytimg.com/vi/1mSBviDMqdw/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "Alonso Press Conference | 17/09/26 | Brentford vs Chelsea | CFC 26/27",
-      "link": "https://www.youtube.com/watch?v=eYeU6iQyl7A",
-      "pubDate": "2026-09-17T14:22:24+00:00",
-      "thumb": "https://i.ytimg.com/vi/eYeU6iQyl7A/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
