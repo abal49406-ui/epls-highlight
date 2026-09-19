@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-19T20:43:26.300Z",
+  "updatedAt": "2026-09-19T21:03:23.234Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "HIGHLIGHTS | Brighton 3-0 Arsenal | Premier League",
+      "link": "https://www.youtube.com/watch?v=_f5-6jdNP58",
+      "pubDate": "2026-09-19T21:00:37+00:00",
+      "thumb": "https://i.ytimg.com/vi/_f5-6jdNP58/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Other Clubs See United as a LAUGHING STOCK!",
@@ -483,13 +490,6 @@
       "link": "https://www.youtube.com/watch?v=2RsWemeEfb0",
       "pubDate": "2026-09-17T15:05:18+00:00",
       "thumb": "https://i.ytimg.com/vi/2RsWemeEfb0/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "ASK ME ANYTHING l Christos Tzolis answers YOUR questions on a footballer's diet & Arsenal culture ❤️",
-      "link": "https://www.youtube.com/watch?v=1mSBviDMqdw",
-      "pubDate": "2026-09-17T14:57:19+00:00",
-      "thumb": "https://i.ytimg.com/vi/1mSBviDMqdw/hqdefault.jpg"
     },
     {
       "team": "Fulham",
