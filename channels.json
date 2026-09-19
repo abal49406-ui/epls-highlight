@@ -1,0 +1,22 @@
+[
+  { "name": "Arsenal",           "id": "" },
+  { "name": "Man City",          "id": "" },
+  { "name": "Man United",        "id": "" },
+  { "name": "Chelsea",           "id": "" },
+  { "name": "Liverpool",         "id": "" },
+  { "name": "Tottenham",         "id": "" },
+  { "name": "Aston Villa",       "id": "" },
+  { "name": "Newcastle United",  "id": "" },
+  { "name": "Brighton",          "id": "" },
+  { "name": "Crystal Palace",    "id": "" },
+  { "name": "Everton",           "id": "" },
+  { "name": "Brentford",         "id": "" },
+  { "name": "Fulham",            "id": "" },
+  { "name": "Bournemouth",       "id": "" },
+  { "name": "Nottingham Forest", "id": "" },
+  { "name": "Sunderland",        "id": "" },
+  { "name": "Leeds United",      "id": "" },
+  { "name": "West Ham United",   "id": "" },
+  { "name": "Burnley",           "id": "" },
+  { "name": "Wolves",            "id": "" }
+]
