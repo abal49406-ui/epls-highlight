@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-19T12:31:07.757Z",
+  "updatedAt": "2026-09-19T12:47:10.282Z",
   "videos": [
+    {
+      "team": "Newcastle United",
+      "title": "Ready for action 🤜🤛 #newcastle #football #premierleague",
+      "link": "https://www.youtube.com/watch?v=-nuHH-zqSxs",
+      "pubDate": "2026-09-19T12:24:09+00:00",
+      "thumb": "https://i.ytimg.com/vi/-nuHH-zqSxs/hqdefault.jpg"
+    },
     {
       "team": "Brighton & Hove Albion",
       "title": "The scene is set for our 125 match! 💙🤍 #BHAFC #PremierLeague #PL",
@@ -280,13 +287,6 @@
       "link": "https://www.youtube.com/watch?v=Dbty9-CDmbQ",
       "pubDate": "2026-09-18T13:26:06+00:00",
       "thumb": "https://i.ytimg.com/vi/Dbty9-CDmbQ/hqdefault.jpg"
-    },
-    {
-      "team": "Newcastle United",
-      "title": "Keeper training at The KNOX 🧤 #newcastle #football #premierleague",
-      "link": "https://www.youtube.com/watch?v=4XqNnsvC8k4",
-      "pubDate": "2026-09-18T13:00:04+00:00",
-      "thumb": "https://i.ytimg.com/vi/4XqNnsvC8k4/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
