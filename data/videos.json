@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-19T12:03:55.816Z",
+  "updatedAt": "2026-09-19T12:31:07.757Z",
   "videos": [
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "The scene is set for our 125 match! 💙🤍 #BHAFC #PremierLeague #PL",
+      "link": "https://www.youtube.com/watch?v=SnwMzQgmiWk",
+      "pubDate": "2026-09-19T12:16:59+00:00",
+      "thumb": "https://i.ytimg.com/vi/SnwMzQgmiWk/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: Chelsea U18 v AFC Bournemouth U18",
+      "link": "https://www.youtube.com/watch?v=IcofjpwrYPY",
+      "pubDate": "2026-09-19T12:07:50+00:00",
+      "thumb": "https://i.ytimg.com/vi/IcofjpwrYPY/hqdefault.jpg"
+    },
     {
       "team": "Sunderland",
       "title": "Back-To-Back Wins 🤩 | Sunderland AFC U21s 3 - 1 Norwich City U21s | PL2 Highlights",
@@ -42,13 +56,6 @@
       "link": "https://www.youtube.com/watch?v=rSWr-G4yH-4",
       "pubDate": "2026-09-19T09:58:48+00:00",
       "thumb": "https://i.ytimg.com/vi/rSWr-G4yH-4/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: Chelsea U18 v AFC Bournemouth U18",
-      "link": "https://www.youtube.com/watch?v=IcofjpwrYPY",
-      "pubDate": "2026-09-19T09:56:37+00:00",
-      "thumb": "https://i.ytimg.com/vi/IcofjpwrYPY/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
@@ -490,13 +497,6 @@
       "link": "https://www.youtube.com/watch?v=UJR9vJXQbFk",
       "pubDate": "2026-09-16T22:11:57+00:00",
       "thumb": "https://i.ytimg.com/vi/UJR9vJXQbFk/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "HIGHLIGHTS | Brighton v PSG | Premier League International Cup",
-      "link": "https://www.youtube.com/watch?v=aa9unVo7zSE",
-      "pubDate": "2026-09-16T22:05:37+00:00",
-      "thumb": "https://i.ytimg.com/vi/aa9unVo7zSE/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
