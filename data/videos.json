@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-20T12:04:06.707Z",
+  "updatedAt": "2026-09-20T12:31:37.416Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Pre-Match Live: Bournemouth vs Liverpool | Premier League build-up",
+      "link": "https://www.youtube.com/watch?v=CV0GDtCKpbI",
+      "pubDate": "2026-09-20T12:18:11+00:00",
+      "thumb": "https://i.ytimg.com/vi/CV0GDtCKpbI/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "FULHAM vs MAN UNITED! Countdown To Kickoff",
+      "link": "https://www.youtube.com/watch?v=DtjBd18WJvA",
+      "pubDate": "2026-09-20T12:02:26+00:00",
+      "thumb": "https://i.ytimg.com/vi/DtjBd18WJvA/hqdefault.jpg"
+    },
     {
       "team": "Newcastle United",
       "title": "Joseph George Willock 🤷‍♂️",
@@ -196,13 +210,6 @@
       "link": "https://www.youtube.com/watch?v=K5qx7H16TUE",
       "pubDate": "2026-09-19T20:07:26+00:00",
       "thumb": "https://i.ytimg.com/vi/K5qx7H16TUE/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Sesko INJURY Blow! MORE Internal Chaos! Man Utd News",
-      "link": "https://www.youtube.com/watch?v=TMMxjLJIOGg",
-      "pubDate": "2026-09-19T19:59:43+00:00",
-      "thumb": "https://i.ytimg.com/vi/TMMxjLJIOGg/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
@@ -518,13 +525,6 @@
       "link": "https://www.youtube.com/watch?v=fky1EicP3VA",
       "pubDate": "2026-09-17T12:08:51+00:00",
       "thumb": "https://i.ytimg.com/vi/fky1EicP3VA/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Pre-Match Live: Bournemouth vs Liverpool | Premier League build-up",
-      "link": "https://www.youtube.com/watch?v=CV0GDtCKpbI",
-      "pubDate": "2026-09-17T09:31:33+00:00",
-      "thumb": "https://i.ytimg.com/vi/CV0GDtCKpbI/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
