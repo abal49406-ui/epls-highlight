@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-20T14:03:31.399Z",
+  "updatedAt": "2026-09-20T14:26:14.824Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "FULHAM vs MAN UNITED LIVE Watchalong with Mark Goldbridge",
+      "link": "https://www.youtube.com/watch?v=KuwKrpZp9zw",
+      "pubDate": "2026-09-20T14:02:42+00:00",
+      "thumb": "https://i.ytimg.com/vi/KuwKrpZp9zw/hqdefault.jpg"
+    },
     {
       "team": "Leeds United",
       "title": "Matchday Live | Leeds United v Crystal Palace",
@@ -31,7 +38,7 @@
     },
     {
       "team": "Manchester City",
-      "title": "MatchDay Live! | ENZO, CHERKI & SEMENYO SCORE! Man City 3-2 Sunderland | Premier League",
+      "title": "MatchDay Live! | SEMENYO'S SECOND GOAL EXTENDS CITY'S LEAD! Man City 4-3 Sunderland | Premier League",
       "link": "https://www.youtube.com/watch?v=4quFxwWrjfU",
       "pubDate": "2026-09-20T10:10:04+00:00",
       "thumb": "https://i.ytimg.com/vi/4quFxwWrjfU/hqdefault.jpg"
@@ -210,13 +217,6 @@
       "link": "https://www.youtube.com/watch?v=xhkHkeSjjgs",
       "pubDate": "2026-09-19T21:00:01+00:00",
       "thumb": "https://i.ytimg.com/vi/xhkHkeSjjgs/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Other Clubs See United as a LAUGHING STOCK!",
-      "link": "https://www.youtube.com/watch?v=K5qx7H16TUE",
-      "pubDate": "2026-09-19T20:07:26+00:00",
-      "thumb": "https://i.ytimg.com/vi/K5qx7H16TUE/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
