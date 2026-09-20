@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-09-20T17:25:22.768Z",
+  "updatedAt": "2026-09-20T17:43:30.667Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "FULHAM vs MAN UNITED LIVE Watchalong with Mark Goldbridge",
+      "link": "https://www.youtube.com/watch?v=KuwKrpZp9zw",
+      "pubDate": "2026-09-20T17:28:49+00:00",
+      "thumb": "https://i.ytimg.com/vi/KuwKrpZp9zw/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Carrick Under PRESSURE! Fulham 1 - 1 Man United! Fans Forum!",
+      "link": "https://www.youtube.com/watch?v=93wrjnm8doI",
+      "pubDate": "2026-09-20T17:27:39+00:00",
+      "thumb": "https://i.ytimg.com/vi/93wrjnm8doI/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "HEADLOSS AT CRAVEN COTTAGE (Cunha scores late but who cares)",
+      "link": "https://www.youtube.com/watch?v=GR6-ZAZrIsU",
+      "pubDate": "2026-09-20T17:26:02+00:00",
+      "thumb": "https://i.ytimg.com/vi/GR6-ZAZrIsU/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "CARRICK OUT? Man United 1-1 Fulham Goldbridge Match Reaction",
+      "link": "https://www.youtube.com/watch?v=xFD5ijqyNkU",
+      "pubDate": "2026-09-20T17:14:25+00:00",
+      "thumb": "https://i.ytimg.com/vi/xFD5ijqyNkU/hqdefault.jpg"
+    },
     {
       "team": "Leeds United",
       "title": "Matchday Live: The Verdict | Leeds United v Crystal Palace",
@@ -44,20 +72,6 @@
       "thumb": "https://i.ytimg.com/vi/5vdZP0pEZRk/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "FULHAM vs MAN UNITED! Countdown To Kickoff",
-      "link": "https://www.youtube.com/watch?v=DtjBd18WJvA",
-      "pubDate": "2026-09-20T15:10:00+00:00",
-      "thumb": "https://i.ytimg.com/vi/DtjBd18WJvA/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "FULHAM vs MAN UNITED LIVE Watchalong with Mark Goldbridge",
-      "link": "https://www.youtube.com/watch?v=KuwKrpZp9zw",
-      "pubDate": "2026-09-20T14:02:42+00:00",
-      "thumb": "https://i.ytimg.com/vi/KuwKrpZp9zw/hqdefault.jpg"
-    },
-    {
       "team": "Leeds United",
       "title": "Matchday Live | Leeds United v Crystal Palace",
       "link": "https://www.youtube.com/watch?v=3rpDw-Vle-I",
@@ -93,13 +107,6 @@
       "thumb": "https://i.ytimg.com/vi/8uToUVR25vk/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "MUST WIN for Carrick! Man United vs Fulham Road Trip",
-      "link": "https://www.youtube.com/watch?v=MLuElgAEzps",
-      "pubDate": "2026-09-20T09:00:33+00:00",
-      "thumb": "https://i.ytimg.com/vi/MLuElgAEzps/hqdefault.jpg"
-    },
-    {
       "team": "Ipswich Town",
       "title": "HIGHLIGHTS | EVERTON 1 TOWN 0",
       "link": "https://www.youtube.com/watch?v=eNErRJ9eDUY",
@@ -133,13 +140,6 @@
       "link": "https://www.youtube.com/watch?v=HeLUhRJBxcE",
       "pubDate": "2026-09-20T07:29:12+00:00",
       "thumb": "https://i.ytimg.com/vi/HeLUhRJBxcE/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "PARASITES Have Taken FULL Control of Man United! 🦟",
-      "link": "https://www.youtube.com/watch?v=lwVZPHo6SiA",
-      "pubDate": "2026-09-20T01:00:23+00:00",
-      "thumb": "https://i.ytimg.com/vi/lwVZPHo6SiA/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
