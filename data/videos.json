@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-20T11:43:09.961Z",
+  "updatedAt": "2026-09-20T12:04:06.707Z",
   "videos": [
+    {
+      "team": "Newcastle United",
+      "title": "Joseph George Willock 🤷‍♂️",
+      "link": "https://www.youtube.com/watch?v=PYTArNxHTDo",
+      "pubDate": "2026-09-20T11:39:33+00:00",
+      "thumb": "https://i.ytimg.com/vi/PYTArNxHTDo/hqdefault.jpg"
+    },
     {
       "team": "Manchester City",
       "title": "MatchDay Live! | Man City v Sunderland | Premier League",
@@ -168,13 +175,6 @@
       "link": "https://www.youtube.com/watch?v=a9pbKXyZZC4",
       "pubDate": "2026-09-19T21:00:30+00:00",
       "thumb": "https://i.ytimg.com/vi/a9pbKXyZZC4/hqdefault.jpg"
-    },
-    {
-      "team": "Newcastle United",
-      "title": "Newcastle United 2 Hull City 1 | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=JUQnxPy1r84",
-      "pubDate": "2026-09-19T21:00:10+00:00",
-      "thumb": "https://i.ytimg.com/vi/JUQnxPy1r84/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
