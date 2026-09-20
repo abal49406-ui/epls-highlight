@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-20T15:43:51.311Z",
+  "updatedAt": "2026-09-20T16:03:45.500Z",
   "videos": [
+    {
+      "team": "Leeds United",
+      "title": "“Still unbeaten but we can do better” | Tarik Muharemović | Leeds United 0-0 Crystal Palace",
+      "link": "https://www.youtube.com/watch?v=TpqDdWRjlho",
+      "pubDate": "2026-09-20T15:50:43+00:00",
+      "thumb": "https://i.ytimg.com/vi/TpqDdWRjlho/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "\"We should be proud\" | Le Bris & Brobbey Post-Match Reaction",
+      "link": "https://www.youtube.com/watch?v=5vdZP0pEZRk",
+      "pubDate": "2026-09-20T15:46:56+00:00",
+      "thumb": "https://i.ytimg.com/vi/5vdZP0pEZRk/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "FULHAM vs MAN UNITED! Countdown To Kickoff",
@@ -352,13 +366,6 @@
       "thumb": "https://i.ytimg.com/vi/yUhKrAcgKl0/hqdefault.jpg"
     },
     {
-      "team": "Sunderland",
-      "title": "European Return After 53 Years | Sunderland 1-0 AZ Alkmaar | Behind The Scenes 🌍",
-      "link": "https://www.youtube.com/watch?v=Td0lnPxAr5s",
-      "pubDate": "2026-09-18T22:00:09+00:00",
-      "thumb": "https://i.ytimg.com/vi/Td0lnPxAr5s/hqdefault.jpg"
-    },
-    {
       "team": "Crystal Palace",
       "title": "EAGLES BIGGEST EUROPEAN WIN | Crystal Palace 4-0 Lech Poznań | UEFA Europa League",
       "link": "https://www.youtube.com/watch?v=vZ6XDZoZWcg",
@@ -532,13 +539,6 @@
       "link": "https://www.youtube.com/watch?v=fky1EicP3VA",
       "pubDate": "2026-09-17T12:08:51+00:00",
       "thumb": "https://i.ytimg.com/vi/fky1EicP3VA/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "✅ Reviewed. Awarded. DCL.",
-      "link": "https://www.youtube.com/watch?v=nlXuYb57p0g",
-      "pubDate": "2026-09-16T17:08:20+00:00",
-      "thumb": "https://i.ytimg.com/vi/nlXuYb57p0g/hqdefault.jpg"
     },
     {
       "team": "Everton",
