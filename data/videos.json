@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-20T16:03:45.500Z",
+  "updatedAt": "2026-09-20T16:27:14.922Z",
   "videos": [
+    {
+      "team": "Leeds United",
+      "title": "“We take the point and move on” | Daniel Farke reaction | Leeds United 0-0 Crystal Palace",
+      "link": "https://www.youtube.com/watch?v=v9tBcOmlp4Q",
+      "pubDate": "2026-09-20T16:02:54+00:00",
+      "thumb": "https://i.ytimg.com/vi/v9tBcOmlp4Q/hqdefault.jpg"
+    },
     {
       "team": "Leeds United",
       "title": "“Still unbeaten but we can do better” | Tarik Muharemović | Leeds United 0-0 Crystal Palace",
@@ -448,13 +455,6 @@
       "link": "https://www.youtube.com/watch?v=--HUjb3pMbw",
       "pubDate": "2026-09-18T14:12:26+00:00",
       "thumb": "https://i.ytimg.com/vi/--HUjb3pMbw/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "Daniel Farke pre-match press conference | Leeds United v Crystal Palace | Premier League",
-      "link": "https://www.youtube.com/watch?v=bPn0vvxhSMo",
-      "pubDate": "2026-09-18T13:34:29+00:00",
-      "thumb": "https://i.ytimg.com/vi/bPn0vvxhSMo/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
