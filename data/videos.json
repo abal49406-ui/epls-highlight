@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-20T10:03:34.079Z",
+  "updatedAt": "2026-09-20T10:26:17.617Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "MatchDay Live! | Man City v Sunderland | Premier League",
+      "link": "https://www.youtube.com/watch?v=4quFxwWrjfU",
+      "pubDate": "2026-09-20T10:10:04+00:00",
+      "thumb": "https://i.ytimg.com/vi/4quFxwWrjfU/hqdefault.jpg"
+    },
     {
       "team": "Coventry City",
       "title": "Some touch, some finish. 🤌",
@@ -399,13 +406,6 @@
       "link": "https://www.youtube.com/watch?v=izFG9cTQ8Gw",
       "pubDate": "2026-09-18T16:00:26+00:00",
       "thumb": "https://i.ytimg.com/vi/izFG9cTQ8Gw/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "Meet Gero Rulli 💙 #mancity #shorts",
-      "link": "https://www.youtube.com/watch?v=Y1QEAy4MYmU",
-      "pubDate": "2026-09-18T16:00:19+00:00",
-      "thumb": "https://i.ytimg.com/vi/Y1QEAy4MYmU/hqdefault.jpg"
     },
     {
       "team": "Brentford",
