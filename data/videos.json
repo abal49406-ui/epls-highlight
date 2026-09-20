@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-20T08:45:28.296Z",
+  "updatedAt": "2026-09-20T09:03:29.181Z",
   "videos": [
+    {
+      "team": "Ipswich Town",
+      "title": "HIGHLIGHTS | EVERTON 1 TOWN 0",
+      "link": "https://www.youtube.com/watch?v=eNErRJ9eDUY",
+      "pubDate": "2026-09-20T09:00:18+00:00",
+      "thumb": "https://i.ytimg.com/vi/eNErRJ9eDUY/hqdefault.jpg"
+    },
     {
       "team": "Coventry City",
       "title": "Jay Dasilva and Carl Rushworth recap that hard-fought win. 🎙️",
@@ -434,13 +441,6 @@
       "link": "https://www.youtube.com/watch?v=Dbty9-CDmbQ",
       "pubDate": "2026-09-18T13:26:06+00:00",
       "thumb": "https://i.ytimg.com/vi/Dbty9-CDmbQ/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "JACK CLARKE'S PRE-EVERTON PRESS CONFERENCE",
-      "link": "https://www.youtube.com/watch?v=C0fz2ZX8--o",
-      "pubDate": "2026-09-18T12:49:11+00:00",
-      "thumb": "https://i.ytimg.com/vi/C0fz2ZX8--o/hqdefault.jpg"
     },
     {
       "team": "Everton",
