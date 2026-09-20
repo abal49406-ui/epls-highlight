@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-20T21:44:02.789Z",
+  "updatedAt": "2026-09-20T22:03:16.299Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Isak in the away end!",
+      "link": "https://www.youtube.com/watch?v=RL_NN3T4BcI",
+      "pubDate": "2026-09-20T22:00:21+00:00",
+      "thumb": "https://i.ytimg.com/vi/RL_NN3T4BcI/hqdefault.jpg"
+    },
     {
       "team": "Manchester City",
       "title": "Never doubted you Ruben 🧱 #block #dias #mancity #premierleague #highlights #football",
@@ -140,13 +147,6 @@
       "link": "https://www.youtube.com/watch?v=4quFxwWrjfU",
       "pubDate": "2026-09-20T16:19:27+00:00",
       "thumb": "https://i.ytimg.com/vi/4quFxwWrjfU/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Iraola's Reaction: Isak Goal, Jacquet Performance | Bournemouth 0-1 Liverpool",
-      "link": "https://www.youtube.com/watch?v=yfTf-bbwwSQ",
-      "pubDate": "2026-09-20T16:08:08+00:00",
-      "thumb": "https://i.ytimg.com/vi/yfTf-bbwwSQ/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
