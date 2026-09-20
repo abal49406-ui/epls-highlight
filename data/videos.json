@@ -1,4 +1,61 @@
 {
-  "updatedAt": "2026-09-20T05:03:23.904Z",
-  "videos": []
+  "updatedAt": "2026-09-20T05:26:00.588Z",
+  "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: Chelsea U18 v AFC Bournemouth U18",
+      "link": "https://www.youtube.com/watch?v=IcofjpwrYPY",
+      "pubDate": "2026-09-19T12:07:50+00:00",
+      "thumb": "https://i.ytimg.com/vi/IcofjpwrYPY/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "An INCREDIBLE night in the club's history from pitchside views in Europa League | Alt Angle",
+      "link": "https://www.youtube.com/watch?v=y-imAy1g1Cc",
+      "pubDate": "2026-09-19T08:00:11+00:00",
+      "thumb": "https://i.ytimg.com/vi/y-imAy1g1Cc/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "Kluivert and Rayan on scoresheet in HISTORIC first win in Europe | Real Sociedad 1-2 AFC Bournemouth",
+      "link": "https://www.youtube.com/watch?v=wnxLttSjyGM",
+      "pubDate": "2026-09-18T21:00:29+00:00",
+      "thumb": "https://i.ytimg.com/vi/wnxLttSjyGM/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "Marco Rose on Liverpool, managing Europe squad rotation and Tavernier form | Press Conference",
+      "link": "https://www.youtube.com/watch?v=--HUjb3pMbw",
+      "pubDate": "2026-09-18T14:12:26+00:00",
+      "thumb": "https://i.ytimg.com/vi/--HUjb3pMbw/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Daniel Farke pre-match press conference | Leeds United v Crystal Palace | Premier League",
+      "link": "https://www.youtube.com/watch?v=bPn0vvxhSMo",
+      "pubDate": "2026-09-18T13:34:29+00:00",
+      "thumb": "https://i.ytimg.com/vi/bPn0vvxhSMo/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Matchday Live | Leeds United v Crystal Palace",
+      "link": "https://www.youtube.com/watch?v=3rpDw-Vle-I",
+      "pubDate": "2026-09-18T09:13:17+00:00",
+      "thumb": "https://i.ytimg.com/vi/3rpDw-Vle-I/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "✅ Reviewed. Awarded. DCL.",
+      "link": "https://www.youtube.com/watch?v=nlXuYb57p0g",
+      "pubDate": "2026-09-16T17:08:20+00:00",
+      "thumb": "https://i.ytimg.com/vi/nlXuYb57p0g/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Sensational night at Elland Road | Uncut exclusive footage | Leeds United 4-1 Newcastle United",
+      "link": "https://www.youtube.com/watch?v=q1D-QMjdBnM",
+      "pubDate": "2026-09-16T16:00:27+00:00",
+      "thumb": "https://i.ytimg.com/vi/q1D-QMjdBnM/hqdefault.jpg"
+    }
+  ]
 }
