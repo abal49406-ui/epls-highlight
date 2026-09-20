@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-20T12:47:32.039Z",
+  "updatedAt": "2026-09-20T13:03:07.400Z",
   "videos": [
+    {
+      "team": "Leeds United",
+      "title": "Matchday Live | Leeds United v Crystal Palace",
+      "link": "https://www.youtube.com/watch?v=3rpDw-Vle-I",
+      "pubDate": "2026-09-20T13:00:36+00:00",
+      "thumb": "https://i.ytimg.com/vi/3rpDw-Vle-I/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "Pre-Match Live: Bournemouth vs Liverpool | Premier League build-up",
@@ -483,13 +490,6 @@
       "link": "https://www.youtube.com/watch?v=oHzFilLrn-k",
       "pubDate": "2026-09-18T09:57:57+00:00",
       "thumb": "https://i.ytimg.com/vi/oHzFilLrn-k/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "Matchday Live | Leeds United v Crystal Palace",
-      "link": "https://www.youtube.com/watch?v=3rpDw-Vle-I",
-      "pubDate": "2026-09-18T09:13:17+00:00",
-      "thumb": "https://i.ytimg.com/vi/3rpDw-Vle-I/hqdefault.jpg"
     },
     {
       "team": "Everton",
