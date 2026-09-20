@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-20T09:43:58.517Z",
+  "updatedAt": "2026-09-20T10:03:34.079Z",
   "videos": [
+    {
+      "team": "Coventry City",
+      "title": "Some touch, some finish. 🤌",
+      "link": "https://www.youtube.com/watch?v=Dm-kLPVC_yM",
+      "pubDate": "2026-09-20T10:01:53+00:00",
+      "thumb": "https://i.ytimg.com/vi/Dm-kLPVC_yM/hqdefault.jpg"
+    },
     {
       "team": "Newcastle United",
       "title": "20 September 2026",
@@ -196,13 +203,6 @@
       "link": "https://www.youtube.com/watch?v=6h3dDV66MwI",
       "pubDate": "2026-09-19T19:46:51+00:00",
       "thumb": "https://i.ytimg.com/vi/6h3dDV66MwI/hqdefault.jpg"
-    },
-    {
-      "team": "Coventry City",
-      "title": "Frank Lampard, Rushworth & Dasilva Reaction | Coventry City vs Nottingham Forest | Premier League",
-      "link": "https://www.youtube.com/watch?v=_c-tjKNJ4IA",
-      "pubDate": "2026-09-19T19:46:31+00:00",
-      "thumb": "https://i.ytimg.com/vi/_c-tjKNJ4IA/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
