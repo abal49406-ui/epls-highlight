@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-20T08:27:57.932Z",
+  "updatedAt": "2026-09-20T08:45:28.296Z",
   "videos": [
+    {
+      "team": "Coventry City",
+      "title": "Jay Dasilva and Carl Rushworth recap that hard-fought win. 🎙️",
+      "link": "https://www.youtube.com/watch?v=O4DNn7f5rYg",
+      "pubDate": "2026-09-20T08:24:00+00:00",
+      "thumb": "https://i.ytimg.com/vi/O4DNn7f5rYg/hqdefault.jpg"
+    },
     {
       "team": "Ipswich Town",
       "title": "O'NEIL AFTER EVERTON DEFEAT",
@@ -175,13 +182,6 @@
       "link": "https://www.youtube.com/watch?v=_c-tjKNJ4IA",
       "pubDate": "2026-09-19T19:46:31+00:00",
       "thumb": "https://i.ytimg.com/vi/_c-tjKNJ4IA/hqdefault.jpg"
-    },
-    {
-      "team": "Coventry City",
-      "title": "VAMOOSSSS!! 🙌",
-      "link": "https://www.youtube.com/watch?v=3Y8lYmwRvPI",
-      "pubDate": "2026-09-19T19:45:38+00:00",
-      "thumb": "https://i.ytimg.com/vi/3Y8lYmwRvPI/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
