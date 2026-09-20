@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-20T19:24:21.804Z",
+  "updatedAt": "2026-09-20T19:42:16.100Z",
   "videos": [
+    {
+      "team": "Fulham",
+      "title": "\"PROUD OF MY PLAYERS\" 🗣️ | Arbeloa Post-Match Interview | Fulham 1-1 Manchester United",
+      "link": "https://www.youtube.com/watch?v=xDc8PKfQ0fM",
+      "pubDate": "2026-09-20T19:35:31+00:00",
+      "thumb": "https://i.ytimg.com/vi/xDc8PKfQ0fM/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Carrick Under PRESSURE! Fulham 1 - 1 Man United Fans Forum!",
@@ -553,13 +560,6 @@
       "link": "https://www.youtube.com/watch?v=yvz_rVsPWU0",
       "pubDate": "2026-09-16T12:15:20+00:00",
       "thumb": "https://i.ytimg.com/vi/yvz_rVsPWU0/hqdefault.jpg"
-    },
-    {
-      "team": "Fulham",
-      "title": "BEAUTIFUL long ball for César Palacios to score! 🎯",
-      "link": "https://www.youtube.com/watch?v=XAqdQzzge9U",
-      "pubDate": "2026-09-16T12:15:17+00:00",
-      "thumb": "https://i.ytimg.com/vi/XAqdQzzge9U/hqdefault.jpg"
     }
   ]
 }
