@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-20T23:03:16.060Z",
+  "updatedAt": "2026-09-20T23:25:27.978Z",
   "videos": [
+    {
+      "team": "Coventry City",
+      "title": "Nottingham Forest 0-1 Coventry City | Extended Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=S5IB_FvVOU0",
+      "pubDate": "2026-09-20T23:01:30+00:00",
+      "thumb": "https://i.ytimg.com/vi/S5IB_FvVOU0/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Nottingham Forest 0-1 Coventry City | Premier League | Extended Highlights 🎬",
+      "link": "https://www.youtube.com/watch?v=XCti2JxZmDk",
+      "pubDate": "2026-09-20T23:00:18+00:00",
+      "thumb": "https://i.ytimg.com/vi/XCti2JxZmDk/hqdefault.jpg"
+    },
+    {
+      "team": "Newcastle United",
+      "title": "Newcastle United 2 Hull City 1 | EXTENDED Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=_PE26PHNNTU",
+      "pubDate": "2026-09-20T23:00:15+00:00",
+      "thumb": "https://i.ytimg.com/vi/_PE26PHNNTU/hqdefault.jpg"
+    },
     {
       "team": "Brighton & Hove Albion",
       "title": "EXTENDED HIGHLIGHTS | Brighton v Arsenal | Premier League",
@@ -317,13 +338,6 @@
       "thumb": "https://i.ytimg.com/vi/AgVaYZbzkpE/hqdefault.jpg"
     },
     {
-      "team": "Newcastle United",
-      "title": "Lewis Hall’s first goal at SJP 😍 #NUFC #Newcastle #PremierLeague",
-      "link": "https://www.youtube.com/watch?v=Yp0SND_HuIg",
-      "pubDate": "2026-09-19T21:00:31+00:00",
-      "thumb": "https://i.ytimg.com/vi/Yp0SND_HuIg/hqdefault.jpg"
-    },
-    {
       "team": "Brighton & Hove Albion",
       "title": "HIGHLIGHTS | Brighton v Arsenal | Premier League",
       "link": "https://www.youtube.com/watch?v=a9pbKXyZZC4",
@@ -343,13 +357,6 @@
       "link": "https://www.youtube.com/watch?v=xhkHkeSjjgs",
       "pubDate": "2026-09-19T21:00:01+00:00",
       "thumb": "https://i.ytimg.com/vi/xhkHkeSjjgs/hqdefault.jpg"
-    },
-    {
-      "team": "Coventry City",
-      "title": "YEAAAHHHHH!!! 💪",
-      "link": "https://www.youtube.com/watch?v=6h3dDV66MwI",
-      "pubDate": "2026-09-19T19:46:51+00:00",
-      "thumb": "https://i.ytimg.com/vi/6h3dDV66MwI/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
@@ -469,13 +476,6 @@
       "link": "https://www.youtube.com/watch?v=f81AwBfgFRU",
       "pubDate": "2026-09-18T19:31:39+00:00",
       "thumb": "https://i.ytimg.com/vi/f81AwBfgFRU/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "\"They Said Your Pace Was 47!\" 😭 | Nottingham Forest Players React to FC 27 Ratings! 😱 🎮",
-      "link": "https://www.youtube.com/watch?v=kdp3anaibyU",
-      "pubDate": "2026-09-18T19:00:15+00:00",
-      "thumb": "https://i.ytimg.com/vi/kdp3anaibyU/hqdefault.jpg"
     },
     {
       "team": "Hull City",
