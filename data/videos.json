@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-20T08:03:54.742Z",
+  "updatedAt": "2026-09-20T08:27:57.932Z",
   "videos": [
+    {
+      "team": "Ipswich Town",
+      "title": "O'NEIL AFTER EVERTON DEFEAT",
+      "link": "https://www.youtube.com/watch?v=2hc129sfQBM",
+      "pubDate": "2026-09-20T08:00:35+00:00",
+      "thumb": "https://i.ytimg.com/vi/2hc129sfQBM/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "\"We can go into the international break happy\" 😃 | Johan Manzambi on Spurs victory | POST MATCH",
+      "link": "https://www.youtube.com/watch?v=yn-UvcWhAio",
+      "pubDate": "2026-09-20T08:00:25+00:00",
+      "thumb": "https://i.ytimg.com/vi/yn-UvcWhAio/hqdefault.jpg"
+    },
     {
       "team": "Hull City",
       "title": "City's fightback nearly enough! Newcastle United 2-1 Hull City | Premier League Highlights",
@@ -105,13 +119,6 @@
       "link": "https://www.youtube.com/watch?v=Yp0SND_HuIg",
       "pubDate": "2026-09-19T21:00:31+00:00",
       "thumb": "https://i.ytimg.com/vi/Yp0SND_HuIg/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "Johan Manzambi's first goal for Aston Villa 😆",
-      "link": "https://www.youtube.com/watch?v=e8IpQSahneo",
-      "pubDate": "2026-09-19T21:00:31+00:00",
-      "thumb": "https://i.ytimg.com/vi/e8IpQSahneo/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
@@ -448,13 +455,6 @@
       "link": "https://www.youtube.com/watch?v=iFUZxXqKGFc",
       "pubDate": "2026-09-18T12:47:28+00:00",
       "thumb": "https://i.ytimg.com/vi/iFUZxXqKGFc/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "GARY O'NEIL ON TRIP TO EVERTON",
-      "link": "https://www.youtube.com/watch?v=81TtI1uhl-w",
-      "pubDate": "2026-09-18T12:43:47+00:00",
-      "thumb": "https://i.ytimg.com/vi/81TtI1uhl-w/hqdefault.jpg"
     },
     {
       "team": "Arsenal",
