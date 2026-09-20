@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-20T21:25:58.126Z",
+  "updatedAt": "2026-09-20T21:44:02.789Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "Never doubted you Ruben 🧱 #block #dias #mancity #premierleague #highlights #football",
+      "link": "https://www.youtube.com/watch?v=5w-jXE6Hc28",
+      "pubDate": "2026-09-20T21:30:27+00:00",
+      "thumb": "https://i.ytimg.com/vi/5w-jXE6Hc28/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "Isak's winner at Bournemouth ⚽️",
@@ -413,13 +420,6 @@
       "link": "https://www.youtube.com/watch?v=oIx_EVD40EI",
       "pubDate": "2026-09-19T10:47:34+00:00",
       "thumb": "https://i.ytimg.com/vi/oIx_EVD40EI/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "'I had to be on my toes'. Floyd Samba reacts to his debut goals in City blue ⚽️🩵 #mancity #football",
-      "link": "https://www.youtube.com/watch?v=QSOnwby4FV0",
-      "pubDate": "2026-09-19T09:47:12+00:00",
-      "thumb": "https://i.ytimg.com/vi/QSOnwby4FV0/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
