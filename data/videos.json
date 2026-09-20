@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-20T16:27:14.922Z",
+  "updatedAt": "2026-09-20T16:44:29.179Z",
   "videos": [
+    {
+      "team": "Leeds United",
+      "title": "Matchday Live: The Verdict | Leeds United v Crystal Palace",
+      "link": "https://www.youtube.com/watch?v=ayARg6zleKs",
+      "pubDate": "2026-09-20T16:25:06+00:00",
+      "thumb": "https://i.ytimg.com/vi/ayARg6zleKs/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "Matchday Live | FIVE GOALS, FIVE LEAGUE WINS, CITY ARE TOP! Man City 5-3 Sunderland | Premier League",
+      "link": "https://www.youtube.com/watch?v=4quFxwWrjfU",
+      "pubDate": "2026-09-20T16:19:27+00:00",
+      "thumb": "https://i.ytimg.com/vi/4quFxwWrjfU/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Iraola's Reaction: Isak Goal, Jacquet Performance | Bournemouth 0-1 Liverpool",
+      "link": "https://www.youtube.com/watch?v=yfTf-bbwwSQ",
+      "pubDate": "2026-09-20T16:08:08+00:00",
+      "thumb": "https://i.ytimg.com/vi/yfTf-bbwwSQ/hqdefault.jpg"
+    },
     {
       "team": "Leeds United",
       "title": "“We take the point and move on” | Daniel Farke reaction | Leeds United 0-0 Crystal Palace",
@@ -30,13 +51,6 @@
       "thumb": "https://i.ytimg.com/vi/DtjBd18WJvA/hqdefault.jpg"
     },
     {
-      "team": "Leeds United",
-      "title": "Matchday Live: The Verdict | Leeds United v Crystal Palace",
-      "link": "https://www.youtube.com/watch?v=ayARg6zleKs",
-      "pubDate": "2026-09-20T14:53:31+00:00",
-      "thumb": "https://i.ytimg.com/vi/ayARg6zleKs/hqdefault.jpg"
-    },
-    {
       "team": "Manchester United",
       "title": "FULHAM vs MAN UNITED LIVE Watchalong with Mark Goldbridge",
       "link": "https://www.youtube.com/watch?v=KuwKrpZp9zw",
@@ -63,13 +77,6 @@
       "link": "https://www.youtube.com/watch?v=PYTArNxHTDo",
       "pubDate": "2026-09-20T11:39:33+00:00",
       "thumb": "https://i.ytimg.com/vi/PYTArNxHTDo/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "Matchday Live | FIVE GOALS, FIVE LEAGUE WINS, CITY ARE TOP! Man City 5-3 Sunderland | Premier League",
-      "link": "https://www.youtube.com/watch?v=4quFxwWrjfU",
-      "pubDate": "2026-09-20T10:10:04+00:00",
-      "thumb": "https://i.ytimg.com/vi/4quFxwWrjfU/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
@@ -462,13 +469,6 @@
       "link": "https://www.youtube.com/watch?v=Cf1dfuBZf8g",
       "pubDate": "2026-09-18T13:27:28+00:00",
       "thumb": "https://i.ytimg.com/vi/Cf1dfuBZf8g/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Press Conference: Bournemouth vs Liverpool | Volley or not? Team news & Araujo | Andoni Iraola",
-      "link": "https://www.youtube.com/watch?v=Dbty9-CDmbQ",
-      "pubDate": "2026-09-18T13:26:06+00:00",
-      "thumb": "https://i.ytimg.com/vi/Dbty9-CDmbQ/hqdefault.jpg"
     },
     {
       "team": "Everton",
