@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-20T15:03:22.141Z",
+  "updatedAt": "2026-09-20T15:26:18.459Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "FULHAM vs MAN UNITED! Countdown To Kickoff",
+      "link": "https://www.youtube.com/watch?v=DtjBd18WJvA",
+      "pubDate": "2026-09-20T15:10:00+00:00",
+      "thumb": "https://i.ytimg.com/vi/DtjBd18WJvA/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Matchday Live: The Verdict | Leeds United v Crystal Palace",
+      "link": "https://www.youtube.com/watch?v=ayARg6zleKs",
+      "pubDate": "2026-09-20T14:53:31+00:00",
+      "thumb": "https://i.ytimg.com/vi/ayARg6zleKs/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "FULHAM vs MAN UNITED LIVE Watchalong with Mark Goldbridge",
@@ -21,13 +35,6 @@
       "link": "https://www.youtube.com/watch?v=CV0GDtCKpbI",
       "pubDate": "2026-09-20T12:18:11+00:00",
       "thumb": "https://i.ytimg.com/vi/CV0GDtCKpbI/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "FULHAM vs MAN UNITED! Countdown To Kickoff",
-      "link": "https://www.youtube.com/watch?v=DtjBd18WJvA",
-      "pubDate": "2026-09-20T12:02:26+00:00",
-      "thumb": "https://i.ytimg.com/vi/DtjBd18WJvA/hqdefault.jpg"
     },
     {
       "team": "Newcastle United",
@@ -532,13 +539,6 @@
       "link": "https://www.youtube.com/watch?v=nlXuYb57p0g",
       "pubDate": "2026-09-16T17:08:20+00:00",
       "thumb": "https://i.ytimg.com/vi/nlXuYb57p0g/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "Sensational night at Elland Road | Uncut exclusive footage | Leeds United 4-1 Newcastle United",
-      "link": "https://www.youtube.com/watch?v=q1D-QMjdBnM",
-      "pubDate": "2026-09-16T16:00:27+00:00",
-      "thumb": "https://i.ytimg.com/vi/q1D-QMjdBnM/hqdefault.jpg"
     },
     {
       "team": "Everton",
