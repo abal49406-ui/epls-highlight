@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T11:25:44.418Z",
+  "updatedAt": "2026-09-20T11:43:09.961Z",
   "videos": [
     {
       "team": "Manchester City",
@@ -485,13 +485,6 @@
       "thumb": "https://i.ytimg.com/vi/3rpDw-Vle-I/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "Classic Highlights: Bournemouth 0-4 Liverpool | Salah, Coutinho, Firmino!",
-      "link": "https://www.youtube.com/watch?v=9rGzs0NPbDk",
-      "pubDate": "2026-09-18T07:18:21+00:00",
-      "thumb": "https://i.ytimg.com/vi/9rGzs0NPbDk/hqdefault.jpg"
-    },
-    {
       "team": "Everton",
       "title": "fala",
       "link": "https://www.youtube.com/watch?v=k6edXEpUIMc",
@@ -525,6 +518,13 @@
       "link": "https://www.youtube.com/watch?v=fky1EicP3VA",
       "pubDate": "2026-09-17T12:08:51+00:00",
       "thumb": "https://i.ytimg.com/vi/fky1EicP3VA/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Pre-Match Live: Bournemouth vs Liverpool | Premier League build-up",
+      "link": "https://www.youtube.com/watch?v=CV0GDtCKpbI",
+      "pubDate": "2026-09-17T09:31:33+00:00",
+      "thumb": "https://i.ytimg.com/vi/CV0GDtCKpbI/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
