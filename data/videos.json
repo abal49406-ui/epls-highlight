@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-20T22:43:47.614Z",
+  "updatedAt": "2026-09-20T23:03:16.060Z",
   "videos": [
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "EXTENDED HIGHLIGHTS | Brighton v Arsenal | Premier League",
+      "link": "https://www.youtube.com/watch?v=wxLAoSyE0AE",
+      "pubDate": "2026-09-20T22:55:04+00:00",
+      "thumb": "https://i.ytimg.com/vi/wxLAoSyE0AE/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "Isak in the away end!",
@@ -357,13 +364,6 @@
       "link": "https://www.youtube.com/watch?v=cgZl2xBqfkA",
       "pubDate": "2026-09-19T17:52:14+00:00",
       "thumb": "https://i.ytimg.com/vi/cgZl2xBqfkA/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "Love this TEAM! 💙🤍 #BHAFC #PremierLeague #PL",
-      "link": "https://www.youtube.com/watch?v=fT8q_kMa-BU",
-      "pubDate": "2026-09-19T17:17:44+00:00",
-      "thumb": "https://i.ytimg.com/vi/fT8q_kMa-BU/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
