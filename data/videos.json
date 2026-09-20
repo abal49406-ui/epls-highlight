@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-20T07:26:05.675Z",
+  "updatedAt": "2026-09-20T07:43:59.938Z",
   "videos": [
+    {
+      "team": "Hull City",
+      "title": "City's fightback nearly enough! Newcastle United 2-1 Hull City | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=HeLUhRJBxcE",
+      "pubDate": "2026-09-20T07:29:12+00:00",
+      "thumb": "https://i.ytimg.com/vi/HeLUhRJBxcE/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "PARASITES Have Taken FULL Control of Man United! 🦟",
@@ -14,13 +21,6 @@
       "link": "https://www.youtube.com/watch?v=2kAl18Q69E8",
       "pubDate": "2026-09-19T23:01:40+00:00",
       "thumb": "https://i.ytimg.com/vi/2kAl18Q69E8/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "City's fightback nearly enough! Newcastle United 2-1 Hull City | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=itQFVqDLvlc",
-      "pubDate": "2026-09-19T23:00:35+00:00",
-      "thumb": "https://i.ytimg.com/vi/itQFVqDLvlc/hqdefault.jpg"
     },
     {
       "team": "Brentford",
