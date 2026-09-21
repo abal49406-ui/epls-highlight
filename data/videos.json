@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-21T11:29:02.327Z",
+  "updatedAt": "2026-09-21T11:46:21.334Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Carrick LET DOWN by GLINEOS! Cunha speaks out! Man United News",
+      "link": "https://www.youtube.com/watch?v=f0ZCJqktXtA",
+      "pubDate": "2026-09-21T11:31:38Z",
+      "thumb": "https://i.ytimg.com/vi/f0ZCJqktXtA/hqdefault_live.jpg"
+    },
     {
       "team": "Fulham",
       "title": "Martínez Own Goal and Cunha Late Equaliser  | Fulham 1-1 Manchester United | Extended Highlights",
@@ -168,13 +175,6 @@
       "link": "https://www.youtube.com/watch?v=93wrjnm8doI",
       "pubDate": "2026-09-20T19:20:44Z",
       "thumb": "https://i.ytimg.com/vi/93wrjnm8doI/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Mbeumo and _______ SHOCKING! Fulham 1-1 Man United Goldbridge Player Ratings",
-      "link": "https://www.youtube.com/watch?v=qLo_i_GSAaU",
-      "pubDate": "2026-09-20T19:04:08Z",
-      "thumb": "https://i.ytimg.com/vi/qLo_i_GSAaU/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
