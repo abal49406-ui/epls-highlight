@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-21T07:47:47.770Z",
+  "updatedAt": "2026-09-21T08:03:58.104Z",
   "videos": [
+    {
+      "team": "Crystal Palace",
+      "title": "Women's highlights | Palace 0-7 Spurs",
+      "link": "https://www.youtube.com/watch?v=5M6FC3dS3LI",
+      "pubDate": "2026-09-21T07:59:18Z",
+      "thumb": "https://i.ytimg.com/vi/5M6FC3dS3LI/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "NO WAY Carrick Said This!",
@@ -490,13 +497,6 @@
       "link": "https://www.youtube.com/watch?v=ZYUevNWkfbY",
       "pubDate": "2026-09-18T18:45:01Z",
       "thumb": "https://i.ytimg.com/vi/ZYUevNWkfbY/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "Best of ADAM WHARTON 🎯 | 100 Palace Appearances",
-      "link": "https://www.youtube.com/watch?v=izFG9cTQ8Gw",
-      "pubDate": "2026-09-18T16:00:26Z",
-      "thumb": "https://i.ytimg.com/vi/izFG9cTQ8Gw/hqdefault.jpg"
     },
     {
       "team": "Brentford",
