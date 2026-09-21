@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-21T15:03:36.507Z",
+  "updatedAt": "2026-09-21T15:26:43.567Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Highlights: Man City 4-2 Liverpool FC Women | Late goals send Reds to WSL defeat",
+      "link": "https://www.youtube.com/watch?v=1u-v_MfP6fE",
+      "pubDate": "2026-09-21T15:20:44Z",
+      "thumb": "https://i.ytimg.com/vi/1u-v_MfP6fE/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "\"Isak's a Red!\" 🤩❤️",
@@ -140,13 +147,6 @@
       "link": "https://www.youtube.com/watch?v=5w-jXE6Hc28",
       "pubDate": "2026-09-20T21:30:27Z",
       "thumb": "https://i.ytimg.com/vi/5w-jXE6Hc28/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Isak's winner at Bournemouth ⚽️",
-      "link": "https://www.youtube.com/watch?v=vJuBaKtgoiQ",
-      "pubDate": "2026-09-20T21:05:29Z",
-      "thumb": "https://i.ytimg.com/vi/vJuBaKtgoiQ/hqdefault.jpg"
     },
     {
       "team": "Fulham",
