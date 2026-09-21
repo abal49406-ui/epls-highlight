@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-21T16:46:29.255Z",
+  "updatedAt": "2026-09-21T17:03:25.736Z",
   "videos": [
+    {
+      "team": "Newcastle United",
+      "title": "Pure class from Sean Steur 🇳🇱💫 #newcastle #football #premierleague",
+      "link": "https://www.youtube.com/watch?v=i-EJEsXZtk4",
+      "pubDate": "2026-09-21T17:01:31Z",
+      "thumb": "https://i.ytimg.com/vi/i-EJEsXZtk4/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Mark’s Chair 🤝 United’s Defence 😂",
@@ -322,13 +329,6 @@
       "link": "https://www.youtube.com/watch?v=-OwDf368G-c",
       "pubDate": "2026-09-19T21:30:00Z",
       "thumb": "https://i.ytimg.com/vi/-OwDf368G-c/hqdefault.jpg"
-    },
-    {
-      "team": "Newcastle United",
-      "title": "JOE WILLOCK SCORES AGAIN 🤩",
-      "link": "https://www.youtube.com/watch?v=C0NSk9jPC00",
-      "pubDate": "2026-09-19T21:19:23Z",
-      "thumb": "https://i.ytimg.com/vi/C0NSk9jPC00/hqdefault.jpg"
     },
     {
       "team": "Aston Villa",
