@@ -1,19 +1,26 @@
 {
-  "updatedAt": "2026-09-21T19:43:45.918Z",
+  "updatedAt": "2026-09-21T20:04:44.495Z",
   "videos": [
+    {
+      "team": "Everton",
+      "title": "depoimento",
+      "link": "https://www.youtube.com/watch?v=s3BUfIKYQ8M",
+      "pubDate": "2026-09-21T19:59:26Z",
+      "thumb": "https://i.ytimg.com/vi/s3BUfIKYQ8M/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Who Is To BLAME! Goldbridge Man Utd News",
+      "link": "https://www.youtube.com/watch?v=8I2vVHdWgQg",
+      "pubDate": "2026-09-21T19:57:58Z",
+      "thumb": "https://i.ytimg.com/vi/8I2vVHdWgQg/hqdefault.jpg"
+    },
     {
       "team": "Aston Villa",
       "title": "Buendía scores at Spurs AGAIN 🤩 | Spurs v Villa | PITCHSIDE",
       "link": "https://www.youtube.com/watch?v=NfSDCJEPofQ",
       "pubDate": "2026-09-21T19:36:41Z",
       "thumb": "https://i.ytimg.com/vi/NfSDCJEPofQ/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Who Is To BLAME! Goldbridge Man Utd News",
-      "link": "https://www.youtube.com/watch?v=8I2vVHdWgQg",
-      "pubDate": "2026-09-21T19:04:31Z",
-      "thumb": "https://i.ytimg.com/vi/8I2vVHdWgQg/hqdefault_live.jpg"
     },
     {
       "team": "Manchester City",
@@ -553,13 +560,6 @@
       "link": "https://www.youtube.com/watch?v=fky1EicP3VA",
       "pubDate": "2026-09-17T12:08:51Z",
       "thumb": "https://i.ytimg.com/vi/fky1EicP3VA/hqdefault.jpg"
-    },
-    {
-      "team": "Everton",
-      "title": "falar",
-      "link": "https://www.youtube.com/watch?v=moaZfqv2NDQ",
-      "pubDate": "2026-09-16T12:41:19Z",
-      "thumb": "https://i.ytimg.com/vi/moaZfqv2NDQ/hqdefault.jpg"
     }
   ]
 }
