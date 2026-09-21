@@ -1,8 +1,13 @@
-// scripts/fetch-feeds.js
-// Dijalankan oleh GitHub Actions (Node 18+, sudah ada global fetch, tanpa dependency npm).
-// Mengambil feed Atom YouTube LANGSUNG dari youtube.com (server-to-server, tidak kena
-// batasan CORS seperti kalau dipanggil dari browser), lalu menggabung & mengurutkannya,
-// dan menyimpan hasilnya ke data/videos.json.
+// scripts/fetch-feeds.js  (versi 2 -- pakai YouTube Data API v3 resmi)
+//
+// Tidak lagi memakai RSS feeds/videos.xml (yang sedang bermasalah di sisi YouTube).
+// Sebagai gantinya, script ini memanggil endpoint resmi playlistItems.list untuk
+// membaca "uploads playlist" tiap channel -- ini cuma makan 1 unit kuota per channel
+// (dibanding search.list yang makan 100 unit), jadi sangat hemat kuota gratis harian.
+//
+// WAJIB: API key HARUS diisi lewat GitHub Actions secret bernama YOUTUBE_API_KEY,
+// JANGAN ditulis langsung di file ini atau di channels.json (supaya tidak bocor ke
+// publik, karena repo ini public).
 
 const fs = require("fs");
 const path = require("path");
@@ -10,88 +15,81 @@ const path = require("path");
 const CHANNELS_PATH = path.join(__dirname, "..", "channels.json");
 const OUTPUT_PATH = path.join(__dirname, "..", "data", "videos.json");
 
-const MAX_PER_CHANNEL = 4;   // samakan dengan yang dulu kamu pakai di widget
+const API_KEY = process.env.YOUTUBE_API_KEY;
+const MAX_PER_CHANNEL = 4;
 const MAX_TOTAL = 80;
-
-function decodeEntities(str) {
-  return str
-    .replace(/&amp;/g, "&")
-    .replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">")
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'");
-}
-
-function parseAtomFeed(xml, channelName) {
-  const entries = [];
-  const blocks = xml.split("<entry>").slice(1);
-  for (const block of blocks) {
-    const videoIdMatch = /<yt:videoId>(.*?)<\/yt:videoId>/.exec(block);
-    const titleMatch = /<title>(.*?)<\/title>/.exec(block);
-    const publishedMatch = /<published>(.*?)<\/published>/.exec(block);
-    if (!videoIdMatch || !titleMatch || !publishedMatch) continue;
-
-    const videoId = videoIdMatch[1].trim();
-    entries.push({
-      team: channelName,
-      title: decodeEntities(titleMatch[1].trim()),
-      link: `https://www.youtube.com/watch?v=${videoId}`,
-      pubDate: publishedMatch[1].trim(),
-      thumb: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`
-    });
-  }
-  return entries.slice(0, MAX_PER_CHANNEL);
-}
 
 function sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)); }
 
-async function fetchOnce(channel) {
-  const url = `https://www.youtube.com/feeds/videos.xml?channel_id=${encodeURIComponent(channel.id)}`;
-  const res = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0 (compatible; EPLFeedBot/1.0)" } });
-  if (!res.ok) {
-    const err = new Error(`HTTP ${res.status}`);
-    err.status = res.status;
-    throw err;
-  }
-  const xml = await res.text();
-  return parseAtomFeed(xml, channel.name);
+// Trik standar: playlist "semua upload" suatu channel ID-nya sama persis dengan
+// channel ID tsb, HANYA dua huruf pertama "UC" diganti jadi "UU".
+function uploadsPlaylistId(channelId) {
+  return "UU" + channelId.slice(2);
 }
 
-// Fetch dengan 1x retry (jeda 3 detik) kalau percobaan pertama gagal -- membantu
-// kalau kegagalannya cuma sesaat (misal YouTube lagi membatasi rate secara singkat).
-async function fetchChannel(channel) {
-  for (let attempt = 1; attempt <= 2; attempt++) {
-    try {
-      const parsed = await fetchOnce(channel);
-      if (!parsed.length) {
-        console.warn(`[WARN] ${channel.name}: 0 video terparsing (percobaan ${attempt}), cek channel ID.`);
-      }
-      return parsed;
-    } catch (err) {
-      console.warn(`[WARN] ${channel.name} (percobaan ${attempt}): ${err.message}`);
-      if (attempt < 2) await sleep(3000);
-    }
+function bestThumbnail(thumbnails, videoId) {
+  if (thumbnails) {
+    var t = thumbnails.high || thumbnails.medium || thumbnails.default;
+    if (t && t.url) return t.url;
   }
-  return [];
+  return `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
+}
+
+async function fetchChannel(channel) {
+  const playlistId = uploadsPlaylistId(channel.id);
+  const url = `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${playlistId}&maxResults=${MAX_PER_CHANNEL}&key=${API_KEY}`;
+
+  try {
+    const res = await fetch(url);
+    const data = await res.json();
+
+    if (!res.ok) {
+      const msg = (data && data.error && data.error.message) || `HTTP ${res.status}`;
+      console.warn(`[WARN] ${channel.name}: ${msg}`);
+      return [];
+    }
+    if (!data.items || !data.items.length) {
+      console.warn(`[WARN] ${channel.name}: 0 video, cek channel ID / playlist uploads-nya.`);
+      return [];
+    }
+
+    return data.items.map(item => {
+      const s = item.snippet;
+      const videoId = s.resourceId && s.resourceId.videoId;
+      return {
+        team: channel.name,
+        title: s.title,
+        link: `https://www.youtube.com/watch?v=${videoId}`,
+        pubDate: s.publishedAt,
+        thumb: bestThumbnail(s.thumbnails, videoId)
+      };
+    });
+  } catch (err) {
+    console.warn(`[WARN] ${channel.name}: ${err.message}`);
+    return [];
+  }
 }
 
 async function main() {
+  if (!API_KEY) {
+    console.error("YOUTUBE_API_KEY tidak ditemukan. Set sebagai GitHub Actions secret bernama persis itu.");
+    process.exit(1);
+  }
+
   const allChannels = JSON.parse(fs.readFileSync(CHANNELS_PATH, "utf8"));
   const channels = allChannels.filter(c => c.id && c.id.trim());
 
   if (!channels.length) {
-    console.error("channels.json: belum ada channel ID yang diisi. Isi dulu field \"id\" tiap klub.");
+    console.error("channels.json: belum ada channel ID yang diisi.");
     process.exit(1);
   }
 
-  console.log(`Mengambil feed untuk ${channels.length} channel (satu per satu, dengan jeda)...`);
+  console.log(`Mengambil upload playlist untuk ${channels.length} channel (via YouTube Data API resmi)...`);
 
-  // Fetch SATU PER SATU dengan jeda kecil antar channel (bukan 20 request bersamaan),
-  // supaya polanya tidak terlihat seperti serangan/bot bagi YouTube.
   const results = [];
   for (const channel of channels) {
     results.push(await fetchChannel(channel));
-    await sleep(800);
+    await sleep(150); // jeda kecil, sopan-sopan saja terhadap API
   }
 
   let merged = [].concat(...results);
@@ -101,9 +99,6 @@ async function main() {
   const successCount = results.filter(r => r.length > 0).length;
   console.log(`Ringkasan: ${successCount}/${channels.length} channel berhasil, total ${merged.length} video.`);
 
-  // PENGAMAN UTAMA: kalau hasilnya kosong total, JANGAN timpa data/videos.json yang
-  // lama (yang mungkin masih bagus). Lebih baik run ini ditandai gagal di tab Actions
-  // daripada diam-diam menghapus semua data yang sudah ada.
   if (merged.length === 0) {
     console.error("Semua channel gagal / 0 video. data/videos.json TIDAK ditimpa, data lama tetap dipakai.");
     process.exit(1);
