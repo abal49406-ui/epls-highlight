@@ -1,12 +1,19 @@
 {
-  "updatedAt": "2026-09-21T10:45:46.636Z",
+  "updatedAt": "2026-09-21T11:03:32.399Z",
   "videos": [
+    {
+      "team": "Fulham",
+      "title": "Martínez Own Goal and Cunha Late Equaliser  | Fulham 1-1 Manchester United | Extended Highlights",
+      "link": "https://www.youtube.com/watch?v=GIS0ZptizO0",
+      "pubDate": "2026-09-21T11:01:02Z",
+      "thumb": "https://i.ytimg.com/vi/GIS0ZptizO0/hqdefault.jpg"
+    },
     {
       "team": "Manchester City",
       "title": "WATCH LIVE! Open Training | FC Bayern Munchen v Man City | UWCL",
       "link": "https://www.youtube.com/watch?v=M8DLaKZsmEU",
-      "pubDate": "2026-09-21T10:27:18Z",
-      "thumb": "https://i.ytimg.com/vi/M8DLaKZsmEU/hqdefault_live.jpg"
+      "pubDate": "2026-09-21T10:48:15Z",
+      "thumb": "https://i.ytimg.com/vi/M8DLaKZsmEU/hqdefault.jpg"
     },
     {
       "team": "Sunderland",
@@ -154,13 +161,6 @@
       "link": "https://www.youtube.com/watch?v=hgIaOCoVsDQ",
       "pubDate": "2026-09-20T21:00:08Z",
       "thumb": "https://i.ytimg.com/vi/hgIaOCoVsDQ/hqdefault.jpg"
-    },
-    {
-      "team": "Fulham",
-      "title": "Calvin Bassey shoots and Lisandro Martinez scores an own goal 😅",
-      "link": "https://www.youtube.com/watch?v=0v-oe4t2S-8",
-      "pubDate": "2026-09-20T21:00:06Z",
-      "thumb": "https://i.ytimg.com/vi/0v-oe4t2S-8/hqdefault.jpg"
     },
     {
       "team": "Manchester United",
