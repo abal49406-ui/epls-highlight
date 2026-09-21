@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-21T14:47:14.781Z",
+  "updatedAt": "2026-09-21T15:03:36.507Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "\"Isak's a Red!\" 🤩❤️",
+      "link": "https://www.youtube.com/watch?v=zpXUlD0XL38",
+      "pubDate": "2026-09-21T15:02:07Z",
+      "thumb": "https://i.ytimg.com/vi/zpXUlD0XL38/hqdefault.jpg"
+    },
     {
       "team": "Crystal Palace",
       "title": "Palace 4-0 Lech Poznań | Europa League Highlights | Powered by Sun Express Airlines  #crystalpalace",
@@ -161,13 +168,6 @@
       "link": "https://www.youtube.com/watch?v=O2Opp-7ZSYU",
       "pubDate": "2026-09-20T21:00:36Z",
       "thumb": "https://i.ytimg.com/vi/O2Opp-7ZSYU/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Highlights: Bournemouth 0-1 Liverpool | Isak Goal! Premier League",
-      "link": "https://www.youtube.com/watch?v=GAvCftCXL0E",
-      "pubDate": "2026-09-20T21:00:28Z",
-      "thumb": "https://i.ytimg.com/vi/GAvCftCXL0E/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
