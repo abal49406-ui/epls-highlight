@@ -43,22 +43,36 @@ function parseAtomFeed(xml, channelName) {
   return entries.slice(0, MAX_PER_CHANNEL);
 }
 
-async function fetchChannel(channel) {
+function sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)); }
+
+async function fetchOnce(channel) {
   const url = `https://www.youtube.com/feeds/videos.xml?channel_id=${encodeURIComponent(channel.id)}`;
-  try {
-    const res = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0 (compatible; EPLFeedBot/1.0)" } });
-    if (!res.ok) {
-      console.warn(`[WARN] ${channel.name} (${channel.id}): HTTP ${res.status}`);
-      return [];
-    }
-    const xml = await res.text();
-    const parsed = parseAtomFeed(xml, channel.name);
-    if (!parsed.length) console.warn(`[WARN] ${channel.name}: 0 video terparsing, cek channel ID.`);
-    return parsed;
-  } catch (err) {
-    console.warn(`[WARN] ${channel.name}: ${err.message}`);
-    return [];
+  const res = await fetch(url, { headers: { "User-Agent": "Mozilla/5.0 (compatible; EPLFeedBot/1.0)" } });
+  if (!res.ok) {
+    const err = new Error(`HTTP ${res.status}`);
+    err.status = res.status;
+    throw err;
   }
+  const xml = await res.text();
+  return parseAtomFeed(xml, channel.name);
+}
+
+// Fetch dengan 1x retry (jeda 3 detik) kalau percobaan pertama gagal -- membantu
+// kalau kegagalannya cuma sesaat (misal YouTube lagi membatasi rate secara singkat).
+async function fetchChannel(channel) {
+  for (let attempt = 1; attempt <= 2; attempt++) {
+    try {
+      const parsed = await fetchOnce(channel);
+      if (!parsed.length) {
+        console.warn(`[WARN] ${channel.name}: 0 video terparsing (percobaan ${attempt}), cek channel ID.`);
+      }
+      return parsed;
+    } catch (err) {
+      console.warn(`[WARN] ${channel.name} (percobaan ${attempt}): ${err.message}`);
+      if (attempt < 2) await sleep(3000);
+    }
+  }
+  return [];
 }
 
 async function main() {
@@ -70,12 +84,30 @@ async function main() {
     process.exit(1);
   }
 
-  console.log(`Mengambil feed untuk ${channels.length} channel...`);
-  const results = await Promise.all(channels.map(fetchChannel));
+  console.log(`Mengambil feed untuk ${channels.length} channel (satu per satu, dengan jeda)...`);
+
+  // Fetch SATU PER SATU dengan jeda kecil antar channel (bukan 20 request bersamaan),
+  // supaya polanya tidak terlihat seperti serangan/bot bagi YouTube.
+  const results = [];
+  for (const channel of channels) {
+    results.push(await fetchChannel(channel));
+    await sleep(800);
+  }
 
   let merged = [].concat(...results);
   merged.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
   merged = merged.slice(0, MAX_TOTAL);
+
+  const successCount = results.filter(r => r.length > 0).length;
+  console.log(`Ringkasan: ${successCount}/${channels.length} channel berhasil, total ${merged.length} video.`);
+
+  // PENGAMAN UTAMA: kalau hasilnya kosong total, JANGAN timpa data/videos.json yang
+  // lama (yang mungkin masih bagus). Lebih baik run ini ditandai gagal di tab Actions
+  // daripada diam-diam menghapus semua data yang sudah ada.
+  if (merged.length === 0) {
+    console.error("Semua channel gagal / 0 video. data/videos.json TIDAK ditimpa, data lama tetap dipakai.");
+    process.exit(1);
+  }
 
   const output = {
     updatedAt: new Date().toISOString(),
