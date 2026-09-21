@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-21T14:29:08.604Z",
+  "updatedAt": "2026-09-21T14:47:14.781Z",
   "videos": [
+    {
+      "team": "Crystal Palace",
+      "title": "Palace 4-0 Lech Poznań | Europa League Highlights | Powered by Sun Express Airlines  #crystalpalace",
+      "link": "https://www.youtube.com/watch?v=D8N8wxkXpdw",
+      "pubDate": "2026-09-21T14:33:11Z",
+      "thumb": "https://i.ytimg.com/vi/D8N8wxkXpdw/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Carrick HAS TO start this front three! 🔥",
@@ -469,13 +476,6 @@
       "link": "https://www.youtube.com/watch?v=1wWUI5Kl-N0",
       "pubDate": "2026-09-18T23:00:26Z",
       "thumb": "https://i.ytimg.com/vi/1wWUI5Kl-N0/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "EAGLES BIGGEST EUROPEAN WIN | Crystal Palace 4-0 Lech Poznań | UEFA Europa League",
-      "link": "https://www.youtube.com/watch?v=vZ6XDZoZWcg",
-      "pubDate": "2026-09-18T22:00:03Z",
-      "thumb": "https://i.ytimg.com/vi/vZ6XDZoZWcg/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
