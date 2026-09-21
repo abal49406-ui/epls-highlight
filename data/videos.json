@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-21T16:04:12.171Z",
+  "updatedAt": "2026-09-21T16:28:49.019Z",
   "videos": [
+    {
+      "team": "Leeds United",
+      "title": "😍 THAT Ampadu tackle vs Palace!",
+      "link": "https://www.youtube.com/watch?v=bmX-dVfjmNE",
+      "pubDate": "2026-09-21T16:06:35Z",
+      "thumb": "https://i.ytimg.com/vi/bmX-dVfjmNE/hqdefault.jpg"
+    },
     {
       "team": "Leeds United",
       "title": "Five unbeaten in the Premier League | Uncut exclusive footage | Leeds United v Crystal Palace",
@@ -52,7 +59,7 @@
     },
     {
       "team": "Fulham",
-      "title": "Martínez Own Goal and Cunha Late Equaliser  | Fulham 1-1 Manchester United | Extended Highlights",
+      "title": "Martínez own goal and Cunha late equaliser  | Fulham 1-1 Manchester United | Extended Highlights",
       "link": "https://www.youtube.com/watch?v=GIS0ZptizO0",
       "pubDate": "2026-09-21T11:01:02Z",
       "thumb": "https://i.ytimg.com/vi/GIS0ZptizO0/hqdefault.jpg"
@@ -157,7 +164,7 @@
     },
     {
       "team": "Fulham",
-      "title": "Martínez Own Goal and A Late Equaliser | Fulham 1-1 Manchester United | Premier League Highlights",
+      "title": "Martínez own goal and a late equaliser | Fulham 1-1 Manchester United | Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=SJaly-hj2JU",
       "pubDate": "2026-09-20T21:01:23Z",
       "thumb": "https://i.ytimg.com/vi/SJaly-hj2JU/hqdefault.jpg"
@@ -210,13 +217,6 @@
       "link": "https://www.youtube.com/watch?v=ayARg6zleKs",
       "pubDate": "2026-09-20T16:25:06Z",
       "thumb": "https://i.ytimg.com/vi/ayARg6zleKs/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "“We take the point and move on” | Daniel Farke reaction | Leeds United 0-0 Crystal Palace",
-      "link": "https://www.youtube.com/watch?v=v9tBcOmlp4Q",
-      "pubDate": "2026-09-20T16:02:54Z",
-      "thumb": "https://i.ytimg.com/vi/v9tBcOmlp4Q/hqdefault.jpg"
     },
     {
       "team": "Sunderland",
