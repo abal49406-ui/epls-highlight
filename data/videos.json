@@ -1,12 +1,19 @@
 {
-  "updatedAt": "2026-09-21T08:03:58.104Z",
+  "updatedAt": "2026-09-21T08:30:01.768Z",
   "videos": [
     {
-      "team": "Crystal Palace",
-      "title": "Women's highlights | Palace 0-7 Spurs",
-      "link": "https://www.youtube.com/watch?v=5M6FC3dS3LI",
-      "pubDate": "2026-09-21T07:59:18Z",
-      "thumb": "https://i.ytimg.com/vi/5M6FC3dS3LI/hqdefault.jpg"
+      "team": "Manchester United",
+      "title": "TOTAL Failure By INEOS! BIG Injury Concern! Man United News",
+      "link": "https://www.youtube.com/watch?v=zbYpnYvSCD8",
+      "pubDate": "2026-09-21T08:20:45Z",
+      "thumb": "https://i.ytimg.com/vi/zbYpnYvSCD8/hqdefault_live.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "WATCH LIVE! Open Training | FC Bayern Munchen v Man City | UWCL",
+      "link": "https://www.youtube.com/watch?v=M8DLaKZsmEU",
+      "pubDate": "2026-09-21T08:12:32Z",
+      "thumb": "https://i.ytimg.com/vi/M8DLaKZsmEU/hqdefault_live.jpg"
     },
     {
       "team": "Manchester United",
@@ -163,25 +170,11 @@
       "thumb": "https://i.ytimg.com/vi/SM01gLRb3MA/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "CARRICK OUT? Man United 1-1 Fulham Goldbridge Match Reaction",
-      "link": "https://www.youtube.com/watch?v=xFD5ijqyNkU",
-      "pubDate": "2026-09-20T18:23:04Z",
-      "thumb": "https://i.ytimg.com/vi/xFD5ijqyNkU/hqdefault.jpg"
-    },
-    {
       "team": "Leeds United",
       "title": "Matchday Live: The Verdict | Leeds United v Crystal Palace",
       "link": "https://www.youtube.com/watch?v=ayARg6zleKs",
       "pubDate": "2026-09-20T16:25:06Z",
       "thumb": "https://i.ytimg.com/vi/ayARg6zleKs/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "Matchday Live | FIVE GOALS, FIVE LEAGUE WINS, CITY ARE TOP! Man City 5-3 Sunderland | Premier League",
-      "link": "https://www.youtube.com/watch?v=4quFxwWrjfU",
-      "pubDate": "2026-09-20T16:19:27Z",
-      "thumb": "https://i.ytimg.com/vi/4quFxwWrjfU/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
@@ -497,6 +490,13 @@
       "link": "https://www.youtube.com/watch?v=ZYUevNWkfbY",
       "pubDate": "2026-09-18T18:45:01Z",
       "thumb": "https://i.ytimg.com/vi/ZYUevNWkfbY/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "Best of ADAM WHARTON 🎯 | 100 Palace Appearances",
+      "link": "https://www.youtube.com/watch?v=izFG9cTQ8Gw",
+      "pubDate": "2026-09-18T16:00:26Z",
+      "thumb": "https://i.ytimg.com/vi/izFG9cTQ8Gw/hqdefault.jpg"
     },
     {
       "team": "Brentford",
