@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-21T19:27:29.451Z",
+  "updatedAt": "2026-09-21T19:43:45.918Z",
   "videos": [
+    {
+      "team": "Aston Villa",
+      "title": "Buendía scores at Spurs AGAIN 🤩 | Spurs v Villa | PITCHSIDE",
+      "link": "https://www.youtube.com/watch?v=NfSDCJEPofQ",
+      "pubDate": "2026-09-21T19:36:41Z",
+      "thumb": "https://i.ytimg.com/vi/NfSDCJEPofQ/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Who Is To BLAME! Goldbridge Man Utd News",
@@ -357,13 +364,6 @@
       "link": "https://www.youtube.com/watch?v=RjT2bUORnfc",
       "pubDate": "2026-09-19T21:00:37Z",
       "thumb": "https://i.ytimg.com/vi/RjT2bUORnfc/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "MANZAMBI, JACKSON & BUENDÍA ON TARGET | Tottenham Hotspur 2-3 Villa | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=AgVaYZbzkpE",
-      "pubDate": "2026-09-19T21:00:34Z",
-      "thumb": "https://i.ytimg.com/vi/AgVaYZbzkpE/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
