@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-21T22:44:57.650Z",
+  "updatedAt": "2026-09-21T23:03:40.368Z",
   "videos": [
+    {
+      "team": "Sunderland",
+      "title": "Extended Premier League Highlights | Manchester City 5 - 3 Sunderland AFC",
+      "link": "https://www.youtube.com/watch?v=7N5AjtrawQc",
+      "pubDate": "2026-09-21T23:00:23Z",
+      "thumb": "https://i.ytimg.com/vi/7N5AjtrawQc/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Extended Highlights: Bournemouth 0-1 Liverpool | Isak scores the winner!",
+      "link": "https://www.youtube.com/watch?v=AbZx9tk9Ilk",
+      "pubDate": "2026-09-21T23:00:15Z",
+      "thumb": "https://i.ytimg.com/vi/AbZx9tk9Ilk/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "EXTENDED HIGHLIGHTS | Man City 5-3 Sunderland | A Premier League Classic at the Etihad!",
+      "link": "https://www.youtube.com/watch?v=dVFiXhUKXmI",
+      "pubDate": "2026-09-21T23:00:07Z",
+      "thumb": "https://i.ytimg.com/vi/dVFiXhUKXmI/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "STOP THIS DISTRACTION TACTIC! 🗣️",
@@ -177,13 +198,6 @@
       "thumb": "https://i.ytimg.com/vi/wxLAoSyE0AE/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "Isak in the away end!",
-      "link": "https://www.youtube.com/watch?v=RL_NN3T4BcI",
-      "pubDate": "2026-09-20T22:00:21Z",
-      "thumb": "https://i.ytimg.com/vi/RL_NN3T4BcI/hqdefault.jpg"
-    },
-    {
       "team": "Manchester City",
       "title": "Never doubted you Ruben 🧱 #block #dias #mancity #premierleague #highlights #football",
       "link": "https://www.youtube.com/watch?v=5w-jXE6Hc28",
@@ -224,13 +238,6 @@
       "link": "https://www.youtube.com/watch?v=0py0BrSoADQ",
       "pubDate": "2026-09-20T21:00:18Z",
       "thumb": "https://i.ytimg.com/vi/0py0BrSoADQ/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "HIGHLIGHTS | Man City 5-3 Sunderland | A sensational game at the Etihad!",
-      "link": "https://www.youtube.com/watch?v=hgIaOCoVsDQ",
-      "pubDate": "2026-09-20T21:00:08Z",
-      "thumb": "https://i.ytimg.com/vi/hgIaOCoVsDQ/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
@@ -448,13 +455,6 @@
       "link": "https://www.youtube.com/watch?v=IcofjpwrYPY",
       "pubDate": "2026-09-19T12:07:50Z",
       "thumb": "https://i.ytimg.com/vi/IcofjpwrYPY/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Back-To-Back Wins 🤩 | Sunderland AFC U21s 3 - 1 Norwich City U21s | PL2 Highlights",
-      "link": "https://www.youtube.com/watch?v=mZzvUuMocak",
-      "pubDate": "2026-09-19T11:30:25Z",
-      "thumb": "https://i.ytimg.com/vi/mZzvUuMocak/hqdefault.jpg"
     },
     {
       "team": "Tottenham Hotspur",
