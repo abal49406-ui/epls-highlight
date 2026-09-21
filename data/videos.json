@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-21T12:47:29.858Z",
+  "updatedAt": "2026-09-21T13:03:18.274Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "PRESS CONFERENCE 🎙️ | Renée Slegers previews UWCL opener",
+      "link": "https://www.youtube.com/watch?v=onNspn5-ip0",
+      "pubDate": "2026-09-21T12:46:38Z",
+      "thumb": "https://i.ytimg.com/vi/onNspn5-ip0/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Carrick LET DOWN by GLINEOS! Cunha Speaks Out! Man United News",
@@ -525,13 +532,6 @@
       "link": "https://www.youtube.com/watch?v=ebCk8iW8hYA",
       "pubDate": "2026-09-18T11:31:04Z",
       "thumb": "https://i.ytimg.com/vi/ebCk8iW8hYA/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "PRESS CONFERENCE 🎙️ | Mikel on Timber, Mosquera, White & more ahead of Brighton test | EPL",
-      "link": "https://www.youtube.com/watch?v=fNnGnVfHvg4",
-      "pubDate": "2026-09-18T10:44:09Z",
-      "thumb": "https://i.ytimg.com/vi/fNnGnVfHvg4/hqdefault.jpg"
     },
     {
       "team": "Everton",
