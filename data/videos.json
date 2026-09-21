@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-21T10:27:52.069Z",
+  "updatedAt": "2026-09-21T10:45:46.636Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "WATCH LIVE! Open Training | FC Bayern Munchen v Man City | UWCL",
+      "link": "https://www.youtube.com/watch?v=M8DLaKZsmEU",
+      "pubDate": "2026-09-21T10:27:18Z",
+      "thumb": "https://i.ytimg.com/vi/M8DLaKZsmEU/hqdefault_live.jpg"
+    },
     {
       "team": "Sunderland",
       "title": "Brian Brobbey on my mind ❤️‍🔥",
@@ -35,13 +42,6 @@
       "link": "https://www.youtube.com/watch?v=kWXkjWtMUxY",
       "pubDate": "2026-09-21T09:06:21Z",
       "thumb": "https://i.ytimg.com/vi/kWXkjWtMUxY/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "WATCH LIVE! Open Training | FC Bayern Munchen v Man City | UWCL",
-      "link": "https://www.youtube.com/watch?v=M8DLaKZsmEU",
-      "pubDate": "2026-09-21T08:12:32Z",
-      "thumb": "https://i.ytimg.com/vi/M8DLaKZsmEU/hqdefault_live.jpg"
     },
     {
       "team": "Crystal Palace",
