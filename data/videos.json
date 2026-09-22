@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-22T06:04:53.120Z",
+  "updatedAt": "2026-09-22T06:33:42.548Z",
   "videos": [
+    {
+      "team": "Fulham",
+      "title": "Point a piece at the Cottage 🎥 | Behind the scenes | Fulham 1-1 Man Utd",
+      "link": "https://www.youtube.com/watch?v=SGQwu9rOP8c",
+      "pubDate": "2026-09-22T06:30:30Z",
+      "thumb": "https://i.ytimg.com/vi/SGQwu9rOP8c/hqdefault.jpg"
+    },
     {
       "team": "Sunderland",
       "title": "Extended Premier League Highlights | Manchester City 5 - 3 Sunderland AFC",
@@ -175,13 +182,6 @@
       "link": "https://www.youtube.com/watch?v=hgIaOCoVsDQ",
       "pubDate": "2026-09-20T21:00:08Z",
       "thumb": "https://i.ytimg.com/vi/hgIaOCoVsDQ/hqdefault.jpg"
-    },
-    {
-      "team": "Fulham",
-      "title": "\"Results will come\" 🗣️ | Bernd Leno Post-Match Interview | Fulham 1-1 Manchester United",
-      "link": "https://www.youtube.com/watch?v=lRc4pf8oKkk",
-      "pubDate": "2026-09-20T20:01:32Z",
-      "thumb": "https://i.ytimg.com/vi/lRc4pf8oKkk/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
