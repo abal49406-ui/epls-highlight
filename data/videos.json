@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-22T16:46:43.258Z",
+  "updatedAt": "2026-09-22T17:03:27.859Z",
   "videos": [
+    {
+      "team": "Hull City",
+      "title": "Narrow Defeat In Game of Two Halves | Behind the Tigers Vs Newcastle United",
+      "link": "https://www.youtube.com/watch?v=K6gWNAMSqA0",
+      "pubDate": "2026-09-22T17:00:33Z",
+      "thumb": "https://i.ytimg.com/vi/K6gWNAMSqA0/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Inside: Bournemouth 0-1 Liverpool | Away end SCENES with Isak winner!",
+      "link": "https://www.youtube.com/watch?v=zUyUoX1VqNA",
+      "pubDate": "2026-09-22T17:00:26Z",
+      "thumb": "https://i.ytimg.com/vi/zUyUoX1VqNA/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Brian Brobbey's First 10 Premier League Goals for Sunderland!",
+      "link": "https://www.youtube.com/watch?v=kqCte09FBh4",
+      "pubDate": "2026-09-22T17:00:25Z",
+      "thumb": "https://i.ytimg.com/vi/kqCte09FBh4/hqdefault.jpg"
+    },
     {
       "team": "Manchester City",
       "title": "Every Goal So Far of the 2026/27 Season",
@@ -205,13 +226,6 @@
       "thumb": "https://i.ytimg.com/vi/ayARg6zleKs/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "Iraola's Reaction: Isak Goal, Jacquet Performance | Bournemouth 0-1 Liverpool",
-      "link": "https://www.youtube.com/watch?v=yfTf-bbwwSQ",
-      "pubDate": "2026-09-20T16:08:08Z",
-      "thumb": "https://i.ytimg.com/vi/yfTf-bbwwSQ/hqdefault.jpg"
-    },
-    {
       "team": "Leeds United",
       "title": "“We take the point and move on” | Daniel Farke reaction | Leeds United 0-0 Crystal Palace",
       "link": "https://www.youtube.com/watch?v=v9tBcOmlp4Q",
@@ -408,13 +422,6 @@
       "thumb": "https://i.ytimg.com/vi/IcofjpwrYPY/hqdefault.jpg"
     },
     {
-      "team": "Sunderland",
-      "title": "Back-To-Back Wins 🤩 | Sunderland AFC U21s 3 - 1 Norwich City U21s | PL2 Highlights",
-      "link": "https://www.youtube.com/watch?v=mZzvUuMocak",
-      "pubDate": "2026-09-19T11:30:25Z",
-      "thumb": "https://i.ytimg.com/vi/mZzvUuMocak/hqdefault.jpg"
-    },
-    {
       "team": "AFC Bournemouth",
       "title": "An INCREDIBLE night in the club's history from pitchside views in Europa League | Alt Angle",
       "link": "https://www.youtube.com/watch?v=y-imAy1g1Cc",
@@ -483,13 +490,6 @@
       "link": "https://www.youtube.com/watch?v=TgHLiZTDsMI",
       "pubDate": "2026-09-17T12:34:31Z",
       "thumb": "https://i.ytimg.com/vi/TgHLiZTDsMI/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "Newcastle United (A) | Sergej Jakirović's Live Pre-Match Press Conference",
-      "link": "https://www.youtube.com/watch?v=fky1EicP3VA",
-      "pubDate": "2026-09-17T12:08:51Z",
-      "thumb": "https://i.ytimg.com/vi/fky1EicP3VA/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
