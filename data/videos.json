@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-22T09:27:34.759Z",
+  "updatedAt": "2026-09-22T09:46:07.882Z",
   "videos": [
+    {
+      "team": "Nottingham Forest",
+      "title": "Durham Women 1-2 Nottingham Forest Women | Barclays WSL2 Highlights",
+      "link": "https://www.youtube.com/watch?v=jKV9t4GBnmI",
+      "pubDate": "2026-09-22T09:45:25Z",
+      "thumb": "https://i.ytimg.com/vi/jKV9t4GBnmI/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Carrick Gone By Christmas? Rooney On United's WORST Performance | Stick to United EP 6",
@@ -10,7 +17,7 @@
     },
     {
       "team": "Fulham",
-      "title": "Point a piece at the Cottage 🎥 | Behind the scenes | Fulham 1-1 Man Utd",
+      "title": "Point apiece at the Cottage 🎥 | Behind the scenes | Fulham 1-1 Man Utd",
       "link": "https://www.youtube.com/watch?v=SGQwu9rOP8c",
       "pubDate": "2026-09-22T06:30:30Z",
       "thumb": "https://i.ytimg.com/vi/SGQwu9rOP8c/hqdefault.jpg"
@@ -427,13 +434,6 @@
       "link": "https://www.youtube.com/watch?v=1wWUI5Kl-N0",
       "pubDate": "2026-09-18T23:00:26Z",
       "thumb": "https://i.ytimg.com/vi/1wWUI5Kl-N0/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "\"They Said Your Pace Was 47!\" 😭 | Nottingham Forest Players React to FC 27 Ratings! 😱 🎮",
-      "link": "https://www.youtube.com/watch?v=kdp3anaibyU",
-      "pubDate": "2026-09-18T19:00:15Z",
-      "thumb": "https://i.ytimg.com/vi/kdp3anaibyU/hqdefault.jpg"
     },
     {
       "team": "Hull City",
