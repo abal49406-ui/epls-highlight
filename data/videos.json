@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-22T14:29:22.912Z",
+  "updatedAt": "2026-09-22T14:48:33.720Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "Every Goal So Far of the 2026/27 Season",
+      "link": "https://www.youtube.com/watch?v=eWpDO6w362Q",
+      "pubDate": "2026-09-22T14:30:57Z",
+      "thumb": "https://i.ytimg.com/vi/eWpDO6w362Q/hqdefault.jpg"
+    },
     {
       "team": "Nottingham Forest",
       "title": "Durham Women 1-2 Nottingham Forest Women | Barclays WSL2 Highlights",
@@ -196,13 +203,6 @@
       "link": "https://www.youtube.com/watch?v=ayARg6zleKs",
       "pubDate": "2026-09-20T16:25:06Z",
       "thumb": "https://i.ytimg.com/vi/ayARg6zleKs/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "Matchday Live | FIVE GOALS, FIVE LEAGUE WINS, CITY ARE TOP! Man City 5-3 Sunderland | Premier League",
-      "link": "https://www.youtube.com/watch?v=4quFxwWrjfU",
-      "pubDate": "2026-09-20T16:19:27Z",
-      "thumb": "https://i.ytimg.com/vi/4quFxwWrjfU/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
