@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-23T09:46:51.394Z",
+  "updatedAt": "2026-09-23T10:03:50.977Z",
   "videos": [
+    {
+      "team": "Nottingham Forest",
+      "title": "Penalty Shootout Win! 🎯 | Burton Albion (3) 1-1 (4) Nottingham Forest | Jersey Mike's Trophy 🎬",
+      "link": "https://www.youtube.com/watch?v=jmIbv3ObO00",
+      "pubDate": "2026-09-23T09:54:49Z",
+      "thumb": "https://i.ytimg.com/vi/jmIbv3ObO00/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "\"We have the team to compete!\" | Szoboszlai, Kerkez & Gravenberch | The Reds Roundtable",
@@ -350,13 +357,6 @@
       "link": "https://www.youtube.com/watch?v=_c-tjKNJ4IA",
       "pubDate": "2026-09-19T19:46:31Z",
       "thumb": "https://i.ytimg.com/vi/_c-tjKNJ4IA/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Oliver Glasner's Reaction 🗣️ | Nottingham Forest vs Coventry City | Premier League",
-      "link": "https://www.youtube.com/watch?v=hWOcO10zsT4",
-      "pubDate": "2026-09-19T19:17:15Z",
-      "thumb": "https://i.ytimg.com/vi/hWOcO10zsT4/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
