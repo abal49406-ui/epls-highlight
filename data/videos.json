@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-23T19:27:00.474Z",
+  "updatedAt": "2026-09-23T19:45:05.209Z",
   "videos": [
+    {
+      "team": "Everton",
+      "title": "americana",
+      "link": "https://www.youtube.com/watch?v=S7ONaVegbiI",
+      "pubDate": "2026-09-23T19:44:08Z",
+      "thumb": "https://i.ytimg.com/vi/S7ONaVegbiI/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "GLAZERS OUT REACTION!",
