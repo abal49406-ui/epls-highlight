@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-23T08:03:57.568Z",
+  "updatedAt": "2026-09-23T08:29:33.564Z",
   "videos": [
+    {
+      "team": "Sunderland",
+      "title": "Six Goal Thriller | Accrington Stanley 3-3 (3-1 pens) Sunderland AFC U21s | EFL Trophy",
+      "link": "https://www.youtube.com/watch?v=KbMjEU1TfNI",
+      "pubDate": "2026-09-23T08:21:57Z",
+      "thumb": "https://i.ytimg.com/vi/KbMjEU1TfNI/hqdefault.jpg"
+    },
     {
       "team": "Tottenham Hotspur",
       "title": "A Peter Crouch hat-trick in a 5-1 against Preston ⏪",
@@ -121,13 +128,6 @@
       "thumb": "https://i.ytimg.com/vi/onNspn5-ip0/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Carrick LET DOWN by GLINEOS! Cunha Speaks Out! Man United News",
-      "link": "https://www.youtube.com/watch?v=f0ZCJqktXtA",
-      "pubDate": "2026-09-21T12:37:31Z",
-      "thumb": "https://i.ytimg.com/vi/f0ZCJqktXtA/hqdefault.jpg"
-    },
-    {
       "team": "Fulham",
       "title": "Martínez own goal and Cunha late equaliser  | Fulham 1-1 Manchester United | Extended Highlights",
       "link": "https://www.youtube.com/watch?v=GIS0ZptizO0",
@@ -238,13 +238,6 @@
       "link": "https://www.youtube.com/watch?v=TpqDdWRjlho",
       "pubDate": "2026-09-20T15:50:43Z",
       "thumb": "https://i.ytimg.com/vi/TpqDdWRjlho/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "\"We should be proud\" | Le Bris & Brobbey Post-Match Reaction",
-      "link": "https://www.youtube.com/watch?v=5vdZP0pEZRk",
-      "pubDate": "2026-09-20T15:46:56Z",
-      "thumb": "https://i.ytimg.com/vi/5vdZP0pEZRk/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
