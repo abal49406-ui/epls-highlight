@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-23T16:46:54.814Z",
+  "updatedAt": "2026-09-23T17:03:26.096Z",
   "videos": [
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Tottenham Hotspur Hall of Fame Ceremony 2026",
+      "link": "https://www.youtube.com/watch?v=2QGd7pWmgdg",
+      "pubDate": "2026-09-23T17:00:11Z",
+      "thumb": "https://i.ytimg.com/vi/2QGd7pWmgdg/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Glazers SINKING United! Kieran Maguire Man Utd News!",
@@ -483,13 +490,6 @@
       "link": "https://www.youtube.com/watch?v=NT4gpAkq3a8",
       "pubDate": "2026-09-18T09:27:54Z",
       "thumb": "https://i.ytimg.com/vi/NT4gpAkq3a8/hqdefault.jpg"
-    },
-    {
-      "team": "Tottenham Hotspur",
-      "title": "Tottenham Hotspur Hall of Fame: Ledley King",
-      "link": "https://www.youtube.com/watch?v=TgHLiZTDsMI",
-      "pubDate": "2026-09-17T12:34:31Z",
-      "thumb": "https://i.ytimg.com/vi/TgHLiZTDsMI/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
