@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-24T12:51:13.961Z",
+  "updatedAt": "2026-09-24T13:04:46.837Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "Man City players react to FC 27 ⚽️🎮 | Ratings & First Game!",
+      "link": "https://www.youtube.com/watch?v=w67EwuWTfm8",
+      "pubDate": "2026-09-24T13:00:33Z",
+      "thumb": "https://i.ytimg.com/vi/w67EwuWTfm8/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Man Utd Are BROKEN! 3 Problems United MUST Fix!",
@@ -238,13 +245,6 @@
       "link": "https://www.youtube.com/watch?v=EZMcMCLLheM",
       "pubDate": "2026-09-20T21:00:38Z",
       "thumb": "https://i.ytimg.com/vi/EZMcMCLLheM/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "HIGHLIGHTS | Man City 5-3 Sunderland | A sensational game at the Etihad!",
-      "link": "https://www.youtube.com/watch?v=hgIaOCoVsDQ",
-      "pubDate": "2026-09-20T21:00:08Z",
-      "thumb": "https://i.ytimg.com/vi/hgIaOCoVsDQ/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
