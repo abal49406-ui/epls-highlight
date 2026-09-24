@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-24T17:03:43.846Z",
+  "updatedAt": "2026-09-24T17:27:18.960Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "'90 PACE!?' 🫨 | Ekitike, Ngumoha & Frimpong Reveal FC 27 Ratings To Liverpool FC Squad",
+      "link": "https://www.youtube.com/watch?v=jKsJabdW6GQ",
+      "pubDate": "2026-09-24T17:00:34Z",
+      "thumb": "https://i.ytimg.com/vi/jKsJabdW6GQ/hqdefault.jpg"
+    },
     {
       "team": "Chelsea",
       "title": "Ultimate Goal Of the Season - Group A Vote ⭐️ | Chelsea FC",
@@ -147,13 +154,6 @@
       "link": "https://www.youtube.com/watch?v=7N5AjtrawQc",
       "pubDate": "2026-09-21T23:00:23Z",
       "thumb": "https://i.ytimg.com/vi/7N5AjtrawQc/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Extended Highlights: Bournemouth 0-1 Liverpool | Isak scores the winner!",
-      "link": "https://www.youtube.com/watch?v=AbZx9tk9Ilk",
-      "pubDate": "2026-09-21T23:00:15Z",
-      "thumb": "https://i.ytimg.com/vi/AbZx9tk9Ilk/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
