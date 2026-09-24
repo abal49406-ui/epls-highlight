@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-24T15:47:31.622Z",
+  "updatedAt": "2026-09-24T16:03:53.138Z",
   "videos": [
+    {
+      "team": "Chelsea",
+      "title": "Ultimate Goal Of the Season - Group A Vote ⭐️ | Chelsea FC",
+      "link": "https://www.youtube.com/watch?v=9Adtw0N1qwQ",
+      "pubDate": "2026-09-24T15:52:33Z",
+      "thumb": "https://i.ytimg.com/vi/9Adtw0N1qwQ/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "Highlights: Liverpool FC Women 4-2 Sunderland | Höbinger scores two in cup win!",
@@ -427,13 +434,6 @@
       "link": "https://www.youtube.com/watch?v=y-imAy1g1Cc",
       "pubDate": "2026-09-19T08:00:11Z",
       "thumb": "https://i.ytimg.com/vi/y-imAy1g1Cc/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "ALONSO reacts post-Brentford | Brentford 3-0 Chelsea | Premier League 2026/27",
-      "link": "https://www.youtube.com/watch?v=sXId17-8tzk",
-      "pubDate": "2026-09-18T23:04:21Z",
-      "thumb": "https://i.ytimg.com/vi/sXId17-8tzk/hqdefault.jpg"
     },
     {
       "team": "Brentford",
