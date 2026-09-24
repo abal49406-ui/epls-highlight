@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-24T13:30:20.000Z",
+  "updatedAt": "2026-09-24T13:48:27.142Z",
   "videos": [
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "EXTENDED HIGHLIGHTS | Brighton v Charlton Athletic | Subway Players Cup",
+      "link": "https://www.youtube.com/watch?v=vIZpK5dj0iY",
+      "pubDate": "2026-09-24T13:33:44Z",
+      "thumb": "https://i.ytimg.com/vi/vIZpK5dj0iY/hqdefault.jpg"
+    },
     {
       "team": "Manchester City",
       "title": "Man City players react to FC 27 ⚽️🎮 | Ratings & First Game!",
@@ -469,13 +476,6 @@
       "link": "https://www.youtube.com/watch?v=fNnGnVfHvg4",
       "pubDate": "2026-09-18T10:44:09Z",
       "thumb": "https://i.ytimg.com/vi/fNnGnVfHvg4/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "Brighton v Arsenal | Hürzeler pre-match press conference 🎙️",
-      "link": "https://www.youtube.com/watch?v=NT4gpAkq3a8",
-      "pubDate": "2026-09-18T09:27:54Z",
-      "thumb": "https://i.ytimg.com/vi/NT4gpAkq3a8/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
