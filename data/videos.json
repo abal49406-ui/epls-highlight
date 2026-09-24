@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-24T17:27:18.960Z",
+  "updatedAt": "2026-09-24T17:45:04.138Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "Man City's Genius Moments 🤯",
+      "link": "https://www.youtube.com/watch?v=eFSMYhrrH7I",
+      "pubDate": "2026-09-24T17:30:18Z",
+      "thumb": "https://i.ytimg.com/vi/eFSMYhrrH7I/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "'90 PACE!?' 🫨 | Ekitike, Ngumoha & Frimpong Reveal FC 27 Ratings To Liverpool FC Squad",
@@ -196,13 +203,6 @@
       "link": "https://www.youtube.com/watch?v=GIS0ZptizO0",
       "pubDate": "2026-09-21T11:01:02Z",
       "thumb": "https://i.ytimg.com/vi/GIS0ZptizO0/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "WATCH LIVE! Open Training | FC Bayern Munchen v Man City | UWCL",
-      "link": "https://www.youtube.com/watch?v=M8DLaKZsmEU",
-      "pubDate": "2026-09-21T10:48:15Z",
-      "thumb": "https://i.ytimg.com/vi/M8DLaKZsmEU/hqdefault.jpg"
     },
     {
       "team": "Fulham",
