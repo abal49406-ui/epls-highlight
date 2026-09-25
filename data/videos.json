@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-25T14:30:19.361Z",
+  "updatedAt": "2026-09-25T14:48:10.189Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "PRESS CONFERENCE 🎙️ | Renée Slegers previews Chelsea clash",
+      "link": "https://www.youtube.com/watch?v=s6Exrv_JAAQ",
+      "pubDate": "2026-09-25T14:32:06Z",
+      "thumb": "https://i.ytimg.com/vi/s6Exrv_JAAQ/hqdefault.jpg"
+    },
     {
       "team": "Coventry City",
       "title": "How many bricks are left? 🤨",
       "link": "https://www.youtube.com/watch?v=y_6yBsLKOxM",
       "pubDate": "2026-09-25T14:05:32Z",
       "thumb": "https://i.ytimg.com/vi/y_6yBsLKOxM/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "PRESS CONFERENCE 🎙️ | Renée Slegers previews Chelsea clash",
-      "link": "https://www.youtube.com/watch?v=s6Exrv_JAAQ",
-      "pubDate": "2026-09-25T14:04:06Z",
-      "thumb": "https://i.ytimg.com/vi/s6Exrv_JAAQ/hqdefault_live.jpg"
     },
     {
       "team": "Hull City",
