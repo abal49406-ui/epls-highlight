@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-25T10:03:49.327Z",
+  "updatedAt": "2026-09-25T10:28:59.281Z",
   "videos": [
+    {
+      "team": "Hull City",
+      "title": "GEO! A Documentary on City's Number 10",
+      "link": "https://www.youtube.com/watch?v=xHHXHHaCmhA",
+      "pubDate": "2026-09-25T10:06:24Z",
+      "thumb": "https://i.ytimg.com/vi/xHHXHHaCmhA/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Make Or Break For Carrick! Man United News",
@@ -448,13 +455,6 @@
       "link": "https://www.youtube.com/watch?v=1wWUI5Kl-N0",
       "pubDate": "2026-09-18T23:00:26Z",
       "thumb": "https://i.ytimg.com/vi/1wWUI5Kl-N0/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "All Set For Newcastle! Behind the Tigers Training",
-      "link": "https://www.youtube.com/watch?v=MdchLlncfHQ",
-      "pubDate": "2026-09-18T18:45:17Z",
-      "thumb": "https://i.ytimg.com/vi/MdchLlncfHQ/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
