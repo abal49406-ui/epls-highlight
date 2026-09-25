@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-25T18:30:16.703Z",
+  "updatedAt": "2026-09-25T18:47:42.138Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Man City GUILTY Reaction! Berrada MUST Go? Goldbridge Man Utd News",
+      "link": "https://www.youtube.com/watch?v=nm64bSPjXTo",
+      "pubDate": "2026-09-25T18:37:48Z",
+      "thumb": "https://i.ytimg.com/vi/nm64bSPjXTo/hqdefault_live.jpg"
+    },
+    {
+      "team": "Coventry City",
+      "title": "Coventry kickstart the Premier League campaign with win over Nottingham Forest | City Unseen EP173",
+      "link": "https://www.youtube.com/watch?v=9_zYLusneqo",
+      "pubDate": "2026-09-25T18:34:52Z",
+      "thumb": "https://i.ytimg.com/vi/9_zYLusneqo/hqdefault.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "PRESS CONFERENCE 🎙️ | Renée Slegers previews Chelsea clash",
@@ -392,13 +406,6 @@
       "link": "https://www.youtube.com/watch?v=4lx7gkQpheQ",
       "pubDate": "2026-09-19T21:00:10Z",
       "thumb": "https://i.ytimg.com/vi/4lx7gkQpheQ/hqdefault.jpg"
-    },
-    {
-      "team": "Coventry City",
-      "title": "Frank Lampard, Rushworth & Dasilva Reaction | Coventry City vs Nottingham Forest | Premier League",
-      "link": "https://www.youtube.com/watch?v=_c-tjKNJ4IA",
-      "pubDate": "2026-09-19T19:46:31Z",
-      "thumb": "https://i.ytimg.com/vi/_c-tjKNJ4IA/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
