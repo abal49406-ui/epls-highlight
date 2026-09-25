@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-25T14:04:32.052Z",
+  "updatedAt": "2026-09-25T14:30:19.361Z",
   "videos": [
+    {
+      "team": "Coventry City",
+      "title": "How many bricks are left? 🤨",
+      "link": "https://www.youtube.com/watch?v=y_6yBsLKOxM",
+      "pubDate": "2026-09-25T14:05:32Z",
+      "thumb": "https://i.ytimg.com/vi/y_6yBsLKOxM/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "PRESS CONFERENCE 🎙️ | Renée Slegers previews Chelsea clash",
+      "link": "https://www.youtube.com/watch?v=s6Exrv_JAAQ",
+      "pubDate": "2026-09-25T14:04:06Z",
+      "thumb": "https://i.ytimg.com/vi/s6Exrv_JAAQ/hqdefault_live.jpg"
+    },
     {
       "team": "Hull City",
       "title": "GEO! A Documentary on City's Number 10",
@@ -464,25 +478,11 @@
       "thumb": "https://i.ytimg.com/vi/AGFqZ0FJquw/hqdefault.jpg"
     },
     {
-      "team": "Arsenal",
-      "title": "PRESS CONFERENCE 🎙️ | Mikel on Timber, Mosquera, White & more ahead of Brighton test | EPL",
-      "link": "https://www.youtube.com/watch?v=fNnGnVfHvg4",
-      "pubDate": "2026-09-18T10:44:09Z",
-      "thumb": "https://i.ytimg.com/vi/fNnGnVfHvg4/hqdefault.jpg"
-    },
-    {
       "team": "Brighton & Hove Albion",
       "title": "Brighton v Arsenal | Hürzeler pre-match press conference 🎙️",
       "link": "https://www.youtube.com/watch?v=NT4gpAkq3a8",
       "pubDate": "2026-09-18T09:27:54Z",
       "thumb": "https://i.ytimg.com/vi/NT4gpAkq3a8/hqdefault.jpg"
-    },
-    {
-      "team": "Coventry City",
-      "title": "Frank Lampard Pre-Match Press Conference | Nottingham Forest vs Coventry City | Premier League",
-      "link": "https://www.youtube.com/watch?v=sTXgy2WBMDU",
-      "pubDate": "2026-09-17T09:12:22Z",
-      "thumb": "https://i.ytimg.com/vi/sTXgy2WBMDU/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
