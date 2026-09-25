@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T15:04:31.783Z",
+  "updatedAt": "2026-09-25T15:29:30.754Z",
   "videos": [
     {
       "team": "Arsenal",
@@ -504,13 +504,6 @@
       "link": "https://www.youtube.com/watch?v=BDIBq0eQzeM",
       "pubDate": "2026-09-16T12:41:07Z",
       "thumb": "https://i.ytimg.com/vi/BDIBq0eQzeM/hqdefault.jpg"
-    },
-    {
-      "team": "Brentford",
-      "title": "Reading 1-2 Brentford | Fábio Carvalho nets on his return! | Carabao Cup Extended Highlights",
-      "link": "https://www.youtube.com/watch?v=mV46DdRrhFA",
-      "pubDate": "2026-09-15T22:58:53Z",
-      "thumb": "https://i.ytimg.com/vi/mV46DdRrhFA/hqdefault.jpg"
     }
   ]
 }
