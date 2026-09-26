@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-26T13:43:56.697Z",
+  "updatedAt": "2026-09-26T14:03:49.313Z",
   "videos": [
+    {
+      "team": "Nottingham Forest",
+      "title": "Behind the Scenes of Nottingham Forest's Squad Photo Day! 📸",
+      "link": "https://www.youtube.com/watch?v=bP9fhxqaJYs",
+      "pubDate": "2026-09-26T14:00:11Z",
+      "thumb": "https://i.ytimg.com/vi/bP9fhxqaJYs/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Liverpool's Top 20 Long-Range Goals in the Premier League",
+      "link": "https://www.youtube.com/watch?v=ZAYg6s0h-7A",
+      "pubDate": "2026-09-26T14:00:10Z",
+      "thumb": "https://i.ytimg.com/vi/ZAYg6s0h-7A/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "HUGE SESKO Injury Setback! Man City SAVE Glazers Man Utd News",
@@ -147,13 +161,6 @@
       "link": "https://www.youtube.com/watch?v=jmIbv3ObO00",
       "pubDate": "2026-09-23T09:54:49Z",
       "thumb": "https://i.ytimg.com/vi/jmIbv3ObO00/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "\"We have the team to compete!\" | Szoboszlai, Kerkez & Gravenberch | The Reds Roundtable",
-      "link": "https://www.youtube.com/watch?v=AsCFwrBb5s4",
-      "pubDate": "2026-09-23T09:00:33Z",
-      "thumb": "https://i.ytimg.com/vi/AsCFwrBb5s4/hqdefault.jpg"
     },
     {
       "team": "Sunderland",
@@ -399,13 +406,6 @@
       "link": "https://www.youtube.com/watch?v=a9pbKXyZZC4",
       "pubDate": "2026-09-19T21:00:30Z",
       "thumb": "https://i.ytimg.com/vi/a9pbKXyZZC4/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Nottingham Forest 0-1 Coventry City | Premier League Highlights 🎬",
-      "link": "https://www.youtube.com/watch?v=4lx7gkQpheQ",
-      "pubDate": "2026-09-19T21:00:10Z",
-      "thumb": "https://i.ytimg.com/vi/4lx7gkQpheQ/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
