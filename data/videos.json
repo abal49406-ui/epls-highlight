@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-26T18:04:54.579Z",
+  "updatedAt": "2026-09-26T18:30:59.874Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "EXTENDED HIGHLIGHTS | Charlton 0-1 Man City | City maintain 100% WSL start with Charlton win",
+      "link": "https://www.youtube.com/watch?v=PElaXju3Vcs",
+      "pubDate": "2026-09-26T18:30:15Z",
+      "thumb": "https://i.ytimg.com/vi/PElaXju3Vcs/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Carrick's REPLACEMENT Shortlist! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=9VFTSts78tU",
+      "pubDate": "2026-09-26T18:10:02Z",
+      "thumb": "https://i.ytimg.com/vi/9VFTSts78tU/hqdefault.jpg"
+    },
     {
       "team": "Sunderland",
       "title": "Ask...Régis Le Bris! | Fan questions answered by the Gaffer!",
@@ -77,13 +91,6 @@
       "link": "https://www.youtube.com/watch?v=gy6tbUqUSE4",
       "pubDate": "2026-09-25T10:02:23Z",
       "thumb": "https://i.ytimg.com/vi/gy6tbUqUSE4/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Casemiro!",
-      "link": "https://www.youtube.com/watch?v=SrYE0AKIfS8",
-      "pubDate": "2026-09-24T19:00:28Z",
-      "thumb": "https://i.ytimg.com/vi/SrYE0AKIfS8/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
@@ -217,13 +224,6 @@
       "link": "https://www.youtube.com/watch?v=SGQwu9rOP8c",
       "pubDate": "2026-09-22T06:30:30Z",
       "thumb": "https://i.ytimg.com/vi/SGQwu9rOP8c/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "EXTENDED HIGHLIGHTS | Man City 5-3 Sunderland | A Premier League Classic at the Etihad!",
-      "link": "https://www.youtube.com/watch?v=dVFiXhUKXmI",
-      "pubDate": "2026-09-21T23:00:07Z",
-      "thumb": "https://i.ytimg.com/vi/dVFiXhUKXmI/hqdefault.jpg"
     },
     {
       "team": "Everton",
