@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-27T18:04:19.215Z",
+  "updatedAt": "2026-09-27T18:30:49.886Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Dorgu INJURY Blow! Carrick EXPOSED! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=vhwqtG4gpXo",
+      "pubDate": "2026-09-27T18:23:44Z",
+      "thumb": "https://i.ytimg.com/vi/vhwqtG4gpXo/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Bruno INJURY Blow! Rashford OUT Too! Man Utd News",
@@ -63,13 +70,6 @@
       "link": "https://www.youtube.com/watch?v=51EXnYFGkws",
       "pubDate": "2026-09-26T08:01:33Z",
       "thumb": "https://i.ytimg.com/vi/51EXnYFGkws/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Man City GUILTY Reaction! Goldbridge Man Utd News",
-      "link": "https://www.youtube.com/watch?v=nm64bSPjXTo",
-      "pubDate": "2026-09-25T20:12:32Z",
-      "thumb": "https://i.ytimg.com/vi/nm64bSPjXTo/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
