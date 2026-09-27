@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-27T12:04:42.950Z",
+  "updatedAt": "2026-09-27T12:33:18.268Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Bruno INJURY Blow! Rashford OUT Too! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=vOb7zFc9GgI",
+      "pubDate": "2026-09-27T12:16:31Z",
+      "thumb": "https://i.ytimg.com/vi/vOb7zFc9GgI/hqdefault.jpg"
+    },
     {
       "team": "Crystal Palace",
       "title": "When Eagles Dare | YouTube Release",
@@ -84,13 +91,6 @@
       "link": "https://www.youtube.com/watch?v=y_6yBsLKOxM",
       "pubDate": "2026-09-25T14:05:32Z",
       "thumb": "https://i.ytimg.com/vi/y_6yBsLKOxM/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Make Or Break For Carrick! Man United News",
-      "link": "https://www.youtube.com/watch?v=gy6tbUqUSE4",
-      "pubDate": "2026-09-25T10:02:23Z",
-      "thumb": "https://i.ytimg.com/vi/gy6tbUqUSE4/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
