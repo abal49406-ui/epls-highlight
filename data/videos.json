@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-27T21:27:25.840Z",
+  "updatedAt": "2026-09-27T21:44:31.563Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "HIGHLIGHTS | Chelsea vs Arsenal (1-0) | WSL",
+      "link": "https://www.youtube.com/watch?v=mEuvte3oMSo",
+      "pubDate": "2026-09-27T21:30:10Z",
+      "thumb": "https://i.ytimg.com/vi/mEuvte3oMSo/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Dorgu INJURY Blow! Carrick EXPOSED! Man Utd News",
@@ -364,13 +371,6 @@
       "link": "https://www.youtube.com/watch?v=LDb6YMmesRI",
       "pubDate": "2026-09-19T23:00:02Z",
       "thumb": "https://i.ytimg.com/vi/LDb6YMmesRI/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "SMILLA HOLMBERG WITH A LATE LEVELLER | HIGHLIGHTS | Arsenal vs Manchester United (1-1) | WSL",
-      "link": "https://www.youtube.com/watch?v=f0jTtYIFEB0",
-      "pubDate": "2026-09-19T22:30:16Z",
-      "thumb": "https://i.ytimg.com/vi/f0jTtYIFEB0/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
