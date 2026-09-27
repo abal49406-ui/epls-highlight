@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-27T11:44:54.401Z",
+  "updatedAt": "2026-09-27T12:04:42.950Z",
   "videos": [
+    {
+      "team": "Crystal Palace",
+      "title": "When Eagles Dare | YouTube Release",
+      "link": "https://www.youtube.com/watch?v=0Lv_vBUqW6c",
+      "pubDate": "2026-09-27T12:00:25Z",
+      "thumb": "https://i.ytimg.com/vi/0Lv_vBUqW6c/hqdefault.jpg"
+    },
     {
       "team": "Hull City",
       "title": "GEO! A Documentary on City's Number 10",
