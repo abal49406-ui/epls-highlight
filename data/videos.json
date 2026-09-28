@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-28T18:04:50.784Z",
+  "updatedAt": "2026-09-28T18:33:58.804Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Man City MASSIVE United Payout! NEW Stadium BOOST! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=hEP7VOHWgX0",
+      "pubDate": "2026-09-28T18:30:36Z",
+      "thumb": "https://i.ytimg.com/vi/hEP7VOHWgX0/hqdefault_live.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "Inside Anfield: Liverpool FC Women 2-0 Everton | Behind-the-scenes access from Merseyside Derby win!",
@@ -63,13 +70,6 @@
       "link": "https://www.youtube.com/watch?v=vhwqtG4gpXo",
       "pubDate": "2026-09-27T20:05:05Z",
       "thumb": "https://i.ytimg.com/vi/vhwqtG4gpXo/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Bruno INJURY Blow! Rashford OUT Too! Man Utd News",
-      "link": "https://www.youtube.com/watch?v=vOb7zFc9GgI",
-      "pubDate": "2026-09-27T12:16:31Z",
-      "thumb": "https://i.ytimg.com/vi/vOb7zFc9GgI/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
