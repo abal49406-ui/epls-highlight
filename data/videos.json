@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T17:05:07.325Z",
+  "updatedAt": "2026-09-28T17:29:54.644Z",
   "videos": [
     {
       "team": "Crystal Palace",
@@ -7,6 +7,13 @@
       "link": "https://www.youtube.com/watch?v=99TBqU_RYoI",
       "pubDate": "2026-09-28T17:00:05Z",
       "thumb": "https://i.ytimg.com/vi/99TBqU_RYoI/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Live: Birmingham City vs Liverpool FC Women | WSL Subway Players Cup",
+      "link": "https://www.youtube.com/watch?v=okutPbWOCiU",
+      "pubDate": "2026-09-28T16:53:57Z",
+      "thumb": "https://i.ytimg.com/vi/okutPbWOCiU/hqdefault_live.jpg"
     },
     {
       "team": "Manchester United",
@@ -133,13 +140,6 @@
       "link": "https://www.youtube.com/watch?v=YlL4fLAh3X8",
       "pubDate": "2026-09-24T17:05:16Z",
       "thumb": "https://i.ytimg.com/vi/YlL4fLAh3X8/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "'90 PACE!?' 🫨 | Ekitike, Ngumoha & Frimpong Reveal FC 27 Ratings To Liverpool FC Squad",
-      "link": "https://www.youtube.com/watch?v=jKsJabdW6GQ",
-      "pubDate": "2026-09-24T17:00:34Z",
-      "thumb": "https://i.ytimg.com/vi/jKsJabdW6GQ/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
