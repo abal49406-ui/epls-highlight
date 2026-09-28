@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-28T17:29:54.644Z",
+  "updatedAt": "2026-09-28T17:48:37.432Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Inside Anfield: Liverpool FC Women 2-0 Everton | Behind-the-scenes access from Merseyside Derby win!",
+      "link": "https://www.youtube.com/watch?v=dFIJmiQCfpI",
+      "pubDate": "2026-09-28T17:37:44Z",
+      "thumb": "https://i.ytimg.com/vi/dFIJmiQCfpI/hqdefault.jpg"
+    },
     {
       "team": "Crystal Palace",
       "title": "When Eagles Dare – Episode 1 | BACK FROM THE BRINK",
@@ -133,13 +140,6 @@
       "link": "https://www.youtube.com/watch?v=eFSMYhrrH7I",
       "pubDate": "2026-09-24T17:30:18Z",
       "thumb": "https://i.ytimg.com/vi/eFSMYhrrH7I/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "FC 27 Ratings Reveal 👀😂",
-      "link": "https://www.youtube.com/watch?v=YlL4fLAh3X8",
-      "pubDate": "2026-09-24T17:05:16Z",
-      "thumb": "https://i.ytimg.com/vi/YlL4fLAh3X8/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
