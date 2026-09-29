@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-29T09:05:53.707Z",
+  "updatedAt": "2026-09-29T09:32:12.829Z",
   "videos": [
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Danny Aarons and mystery footballer vs 50 kids",
+      "link": "https://www.youtube.com/watch?v=gxTCcoa11LY",
+      "pubDate": "2026-09-29T09:08:53Z",
+      "thumb": "https://i.ytimg.com/vi/gxTCcoa11LY/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Rooney: Man City Can Keep Their Titles, But Relegate Them! | Stick to United EP 7",
@@ -483,13 +490,6 @@
       "link": "https://www.youtube.com/watch?v=--HUjb3pMbw",
       "pubDate": "2026-09-18T14:12:26Z",
       "thumb": "https://i.ytimg.com/vi/--HUjb3pMbw/hqdefault.jpg"
-    },
-    {
-      "team": "Tottenham Hotspur",
-      "title": "Tottenham Hotspur Hall of Fame: Chris Hughton",
-      "link": "https://www.youtube.com/watch?v=AGFqZ0FJquw",
-      "pubDate": "2026-09-18T11:00:25Z",
-      "thumb": "https://i.ytimg.com/vi/AGFqZ0FJquw/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
