@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-29T16:51:00.760Z",
+  "updatedAt": "2026-09-29T17:04:40.876Z",
   "videos": [
+    {
+      "team": "Crystal Palace",
+      "title": "When Eagles Dare - Episode 2 | DOUGIE'S TEAM",
+      "link": "https://www.youtube.com/watch?v=8Uyocb861IM",
+      "pubDate": "2026-09-29T17:00:04Z",
+      "thumb": "https://i.ytimg.com/vi/8Uyocb861IM/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "'I'm The Cool Girl In New York!?' 🤩 BTS as Tommy Hilfiger Style LFC Women",
@@ -168,13 +175,6 @@
       "link": "https://www.youtube.com/watch?v=9Adtw0N1qwQ",
       "pubDate": "2026-09-24T15:52:33Z",
       "thumb": "https://i.ytimg.com/vi/9Adtw0N1qwQ/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "1 HOUR of the BEST Dean Henderson Premier League SAVES 🧤⛔️",
-      "link": "https://www.youtube.com/watch?v=a6ly_-HW4fs",
-      "pubDate": "2026-09-24T14:00:25Z",
-      "thumb": "https://i.ytimg.com/vi/a6ly_-HW4fs/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
