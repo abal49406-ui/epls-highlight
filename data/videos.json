@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-29T15:50:32.606Z",
+  "updatedAt": "2026-09-29T16:06:16.181Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "'I'm The Cool Girl In New York!?' 🤩 BTS as Tommy Hilfiger Style LFC Women",
+      "link": "https://www.youtube.com/watch?v=1aTYx2xB8Lk",
+      "pubDate": "2026-09-29T16:00:26Z",
+      "thumb": "https://i.ytimg.com/vi/1aTYx2xB8Lk/hqdefault.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "PRESS CONFERENCE 🎙️ | Renée Slegers and Georgia Stanway preview Paris FC clash",
@@ -119,13 +126,6 @@
       "link": "https://www.youtube.com/watch?v=bP9fhxqaJYs",
       "pubDate": "2026-09-26T14:00:11Z",
       "thumb": "https://i.ytimg.com/vi/bP9fhxqaJYs/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Liverpool's Top 20 Long-Range Goals in the Premier League",
-      "link": "https://www.youtube.com/watch?v=ZAYg6s0h-7A",
-      "pubDate": "2026-09-26T14:00:10Z",
-      "thumb": "https://i.ytimg.com/vi/ZAYg6s0h-7A/hqdefault.jpg"
     },
     {
       "team": "Arsenal",
