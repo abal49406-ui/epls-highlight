@@ -1,11 +1,18 @@
 {
-  "updatedAt": "2026-09-30T19:47:16.796Z",
+  "updatedAt": "2026-09-30T20:04:30.170Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Live: Birmingham City vs Liverpool FC Women | WSL Subway Players Cup",
+      "link": "https://www.youtube.com/watch?v=okutPbWOCiU",
+      "pubDate": "2026-09-30T20:03:01Z",
+      "thumb": "https://i.ytimg.com/vi/okutPbWOCiU/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Glazer EXIT Rumours? NEW Luke Shaw Deal? Man Utd News",
       "link": "https://www.youtube.com/watch?v=J-X16d_2J7A",
-      "pubDate": "2026-09-30T19:09:21Z",
+      "pubDate": "2026-09-30T20:02:06Z",
       "thumb": "https://i.ytimg.com/vi/J-X16d_2J7A/hqdefault_live.jpg"
     },
     {
@@ -14,13 +21,6 @@
       "link": "https://www.youtube.com/watch?v=mmyyP9YtWsQ",
       "pubDate": "2026-09-30T19:00:23Z",
       "thumb": "https://i.ytimg.com/vi/mmyyP9YtWsQ/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Live: Birmingham City vs Liverpool FC Women | WSL Subway Players Cup",
-      "link": "https://www.youtube.com/watch?v=okutPbWOCiU",
-      "pubDate": "2026-09-30T17:51:32Z",
-      "thumb": "https://i.ytimg.com/vi/okutPbWOCiU/hqdefault_live.jpg"
     },
     {
       "team": "Crystal Palace",
