@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-30T14:34:52.547Z",
+  "updatedAt": "2026-09-30T14:53:24.257Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "International Break: Cherries hard at work during the break 💪",
+      "link": "https://www.youtube.com/watch?v=VtR-oXg3dug",
+      "pubDate": "2026-09-30T14:52:30Z",
+      "thumb": "https://i.ytimg.com/vi/VtR-oXg3dug/hqdefault.jpg"
+    },
     {
       "team": "Ipswich Town",
       "title": "CHRISTIAN WALTON ON HIS NEW DEAL AT TOWN",
@@ -504,13 +511,6 @@
       "link": "https://www.youtube.com/watch?v=NT4gpAkq3a8",
       "pubDate": "2026-09-18T09:27:54Z",
       "thumb": "https://i.ytimg.com/vi/NT4gpAkq3a8/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "Marco Rose and Lewis Cook preview AFC Bournemouth's first ever European fixture | Press Conference",
-      "link": "https://www.youtube.com/watch?v=mmu5rPlwDJw",
-      "pubDate": "2026-09-16T16:18:05Z",
-      "thumb": "https://i.ytimg.com/vi/mmu5rPlwDJw/hqdefault.jpg"
     },
     {
       "team": "Everton",
