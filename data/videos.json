@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-30T17:48:04.560Z",
+  "updatedAt": "2026-09-30T18:05:28.063Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Live: Birmingham City vs Liverpool FC Women | WSL Subway Players Cup",
+      "link": "https://www.youtube.com/watch?v=okutPbWOCiU",
+      "pubDate": "2026-09-30T17:51:32Z",
+      "thumb": "https://i.ytimg.com/vi/okutPbWOCiU/hqdefault_live.jpg"
+    },
     {
       "team": "Crystal Palace",
       "title": "When Eagles Dare - Episode 3 | OLLIE",
@@ -93,13 +100,6 @@
       "thumb": "https://i.ytimg.com/vi/Es8Q1u3O8H0/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Man City HUGE United Payout! NEW Stadium BOOST! Man Utd News",
-      "link": "https://www.youtube.com/watch?v=hEP7VOHWgX0",
-      "pubDate": "2026-09-28T20:01:18Z",
-      "thumb": "https://i.ytimg.com/vi/hEP7VOHWgX0/hqdefault.jpg"
-    },
-    {
       "team": "Liverpool",
       "title": "Inside Anfield: Liverpool FC Women 2-0 Everton | Behind-the-scenes access from Merseyside Derby win!",
       "link": "https://www.youtube.com/watch?v=dFIJmiQCfpI",
@@ -112,13 +112,6 @@
       "link": "https://www.youtube.com/watch?v=99TBqU_RYoI",
       "pubDate": "2026-09-28T17:00:05Z",
       "thumb": "https://i.ytimg.com/vi/99TBqU_RYoI/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Live: Birmingham City vs Liverpool FC Women | WSL Subway Players Cup",
-      "link": "https://www.youtube.com/watch?v=okutPbWOCiU",
-      "pubDate": "2026-09-28T16:53:57Z",
-      "thumb": "https://i.ytimg.com/vi/okutPbWOCiU/hqdefault_live.jpg"
     },
     {
       "team": "Liverpool",
