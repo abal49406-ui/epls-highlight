@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-30T16:49:26.341Z",
+  "updatedAt": "2026-09-30T17:05:24.446Z",
   "videos": [
+    {
+      "team": "Crystal Palace",
+      "title": "When Eagles Dare - Episode 3 | OLLIE",
+      "link": "https://www.youtube.com/watch?v=jQkREGhMHn4",
+      "pubDate": "2026-09-30T17:00:38Z",
+      "thumb": "https://i.ytimg.com/vi/jQkREGhMHn4/hqdefault.jpg"
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "title": "The Hotspur Way: Andy Robertson | An Official Spurs and Sports Illustrated Production 🎙️",
+      "link": "https://www.youtube.com/watch?v=fp3POnb-wK8",
+      "pubDate": "2026-09-30T17:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/fp3POnb-wK8/hqdefault.jpg"
+    },
     {
       "team": "AFC Bournemouth",
       "title": "International Break Training: Cherries hard at work during the break 💪",
@@ -128,13 +142,6 @@
       "thumb": "https://i.ytimg.com/vi/mEuvte3oMSo/hqdefault.jpg"
     },
     {
-      "team": "Crystal Palace",
-      "title": "When Eagles Dare | YouTube Release",
-      "link": "https://www.youtube.com/watch?v=0Lv_vBUqW6c",
-      "pubDate": "2026-09-27T12:00:25Z",
-      "thumb": "https://i.ytimg.com/vi/0Lv_vBUqW6c/hqdefault.jpg"
-    },
-    {
       "team": "Hull City",
       "title": "GEO! A Documentary on City's Number 10",
       "link": "https://www.youtube.com/watch?v=xHHXHHaCmhA",
@@ -245,13 +252,6 @@
       "link": "https://www.youtube.com/watch?v=KbMjEU1TfNI",
       "pubDate": "2026-09-23T08:21:57Z",
       "thumb": "https://i.ytimg.com/vi/KbMjEU1TfNI/hqdefault.jpg"
-    },
-    {
-      "team": "Tottenham Hotspur",
-      "title": "A Peter Crouch hat-trick in a 5-1 against Preston ⏪",
-      "link": "https://www.youtube.com/watch?v=yRcJ-6H1II0",
-      "pubDate": "2026-09-23T07:00:06Z",
-      "thumb": "https://i.ytimg.com/vi/yRcJ-6H1II0/hqdefault.jpg"
     },
     {
       "team": "Hull City",
