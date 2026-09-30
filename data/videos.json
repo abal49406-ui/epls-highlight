@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-30T08:34:04.137Z",
+  "updatedAt": "2026-09-30T08:51:06.837Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Man City STOLE Our TITLES! Glazers MUST Go! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=pfjTg5iJ5Dw",
+      "pubDate": "2026-09-30T08:41:31Z",
+      "thumb": "https://i.ytimg.com/vi/pfjTg5iJ5Dw/hqdefault_live.jpg"
+    },
     {
       "team": "Crystal Palace",
       "title": "When Eagles Dare - Episode 2 | DOUGIE'S TEAM",
@@ -84,13 +91,6 @@
       "link": "https://www.youtube.com/watch?v=DDmnYRHt9RE",
       "pubDate": "2026-09-28T10:17:30Z",
       "thumb": "https://i.ytimg.com/vi/DDmnYRHt9RE/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Bruno INJURY Worry! HUGE TEST For Carrick! Man United News",
-      "link": "https://www.youtube.com/watch?v=EIu_AlSChfY",
-      "pubDate": "2026-09-28T10:03:07Z",
-      "thumb": "https://i.ytimg.com/vi/EIu_AlSChfY/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
