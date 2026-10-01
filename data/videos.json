@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-01T10:49:47.992Z",
+  "updatedAt": "2026-10-01T11:06:02.603Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "EVERY Arsenal Goal Under Arsene Wenger | Premier League",
+      "link": "https://www.youtube.com/watch?v=WCenuXezmY4",
+      "pubDate": "2026-10-01T11:00:10Z",
+      "thumb": "https://i.ytimg.com/vi/WCenuXezmY4/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "No SACKINGS or TRANSFERS! Man City RELEGATION Changes Nothing! Man Utd News",
@@ -35,13 +42,6 @@
       "link": "https://www.youtube.com/watch?v=F2TG3XJxbeE",
       "pubDate": "2026-10-01T07:51:22Z",
       "thumb": "https://i.ytimg.com/vi/F2TG3XJxbeE/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "EVERY Arsenal Goal Under Arsene Wenger | Premier League",
-      "link": "https://www.youtube.com/watch?v=WCenuXezmY4",
-      "pubDate": "2026-10-01T04:55:29Z",
-      "thumb": "https://i.ytimg.com/vi/WCenuXezmY4/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
