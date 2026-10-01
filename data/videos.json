@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-01T07:49:42.878Z",
+  "updatedAt": "2026-10-01T08:06:16.826Z",
   "videos": [
+    {
+      "team": "Newcastle United",
+      "title": "We are proud to introduce the new club crest chosen by our supporters to represent Newcastle United",
+      "link": "https://www.youtube.com/watch?v=F2TG3XJxbeE",
+      "pubDate": "2026-10-01T07:51:22Z",
+      "thumb": "https://i.ytimg.com/vi/F2TG3XJxbeE/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "Live: Birmingham City vs Liverpool FC Women | WSL Subway Players Cup",
