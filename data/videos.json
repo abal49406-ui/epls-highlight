@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-01T09:05:48.694Z",
+  "updatedAt": "2026-10-01T09:33:12.157Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Highlights: Birmingham City 3-4 Liverpool FC Women | Seven-Goal Thriller In The Cup!",
+      "link": "https://www.youtube.com/watch?v=2hqHap-KuH8",
+      "pubDate": "2026-10-01T09:14:30Z",
+      "thumb": "https://i.ytimg.com/vi/2hqHap-KuH8/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "No SACKINGS or TRANSFERS! Man City RELEGATION Changes Nothing! Man Utd News",
@@ -17,7 +24,7 @@
     },
     {
       "team": "AFC Bournemouth",
-      "title": "Alex Scott's BEST moments for AFC Bournemouth | All goals, assists and skills",
+      "title": "All of Alex Scott's BEST moments for AFC Bournemouth | Every goal, assist and best skills",
       "link": "https://www.youtube.com/watch?v=ILGE62oSAr4",
       "pubDate": "2026-10-01T08:39:04Z",
       "thumb": "https://i.ytimg.com/vi/ILGE62oSAr4/hqdefault.jpg"
@@ -147,13 +154,6 @@
       "link": "https://www.youtube.com/watch?v=99TBqU_RYoI",
       "pubDate": "2026-09-28T17:00:05Z",
       "thumb": "https://i.ytimg.com/vi/99TBqU_RYoI/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "INCREDIBLE bicycle kick goals! Crouch, Can, Shaqiri, Mane! Liverpool FC",
-      "link": "https://www.youtube.com/watch?v=DDmnYRHt9RE",
-      "pubDate": "2026-09-28T10:17:30Z",
-      "thumb": "https://i.ytimg.com/vi/DDmnYRHt9RE/hqdefault.jpg"
     },
     {
       "team": "Arsenal",
