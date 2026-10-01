@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-01T08:34:18.850Z",
+  "updatedAt": "2026-10-01T08:51:03.999Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "Alex Scott's BEST moments for AFC Bournemouth | All goals, assists and skills",
+      "link": "https://www.youtube.com/watch?v=ILGE62oSAr4",
+      "pubDate": "2026-10-01T08:39:04Z",
+      "thumb": "https://i.ytimg.com/vi/ILGE62oSAr4/hqdefault.jpg"
+    },
     {
       "team": "Newcastle United",
       "title": "We are proud to introduce the new club crest chosen by our supporters to represent Newcastle United",
@@ -497,13 +504,6 @@
       "link": "https://www.youtube.com/watch?v=1wWUI5Kl-N0",
       "pubDate": "2026-09-18T23:00:26Z",
       "thumb": "https://i.ytimg.com/vi/1wWUI5Kl-N0/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "Marco Rose on Liverpool, managing Europe squad rotation and Tavernier form | Press Conference",
-      "link": "https://www.youtube.com/watch?v=--HUjb3pMbw",
-      "pubDate": "2026-09-18T14:12:26Z",
-      "thumb": "https://i.ytimg.com/vi/--HUjb3pMbw/hqdefault.jpg"
     },
     {
       "team": "Everton",
