@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-01T16:48:41.531Z",
+  "updatedAt": "2026-10-01T17:06:52.188Z",
   "videos": [
+    {
+      "team": "Crystal Palace",
+      "title": "When Eagles Dare - Episode 4 | THE OLD ENEMY",
+      "link": "https://www.youtube.com/watch?v=kmJVqhY3z48",
+      "pubDate": "2026-10-01T17:00:12Z",
+      "thumb": "https://i.ytimg.com/vi/kmJVqhY3z48/hqdefault.jpg"
+    },
     {
       "team": "Nottingham Forest",
       "title": "Nottingham Forest 2-4 Sporting CP | Premier League International Cup Highlights 🎬",
@@ -189,13 +196,6 @@
       "link": "https://www.youtube.com/watch?v=dFIJmiQCfpI",
       "pubDate": "2026-09-28T17:37:44Z",
       "thumb": "https://i.ytimg.com/vi/dFIJmiQCfpI/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "When Eagles Dare – Episode 1 | BACK FROM THE BRINK",
-      "link": "https://www.youtube.com/watch?v=99TBqU_RYoI",
-      "pubDate": "2026-09-28T17:00:05Z",
-      "thumb": "https://i.ytimg.com/vi/99TBqU_RYoI/hqdefault.jpg"
     },
     {
       "team": "Arsenal",
