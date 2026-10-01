@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-01T09:33:12.157Z",
+  "updatedAt": "2026-10-01T09:50:56.862Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "No SACKINGS or TRANSFERS! Man City RELEGATION Changes Nothing! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=RhY0hgWwipQ",
+      "pubDate": "2026-10-01T09:48:15Z",
+      "thumb": "https://i.ytimg.com/vi/RhY0hgWwipQ/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "Highlights: Birmingham City 3-4 Liverpool FC Women | Seven-Goal Thriller In The Cup!",
       "link": "https://www.youtube.com/watch?v=2hqHap-KuH8",
       "pubDate": "2026-10-01T09:14:30Z",
       "thumb": "https://i.ytimg.com/vi/2hqHap-KuH8/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "No SACKINGS or TRANSFERS! Man City RELEGATION Changes Nothing! Man Utd News",
-      "link": "https://www.youtube.com/watch?v=RhY0hgWwipQ",
-      "pubDate": "2026-10-01T09:04:36Z",
-      "thumb": "https://i.ytimg.com/vi/RhY0hgWwipQ/hqdefault_live.jpg"
     },
     {
       "team": "Crystal Palace",
@@ -35,6 +35,13 @@
       "link": "https://www.youtube.com/watch?v=F2TG3XJxbeE",
       "pubDate": "2026-10-01T07:51:22Z",
       "thumb": "https://i.ytimg.com/vi/F2TG3XJxbeE/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "EVERY Arsenal Goal Under Arsene Wenger | Premier League",
+      "link": "https://www.youtube.com/watch?v=WCenuXezmY4",
+      "pubDate": "2026-10-01T04:55:29Z",
+      "thumb": "https://i.ytimg.com/vi/WCenuXezmY4/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
@@ -196,13 +203,6 @@
       "link": "https://www.youtube.com/watch?v=9_zYLusneqo",
       "pubDate": "2026-09-25T18:34:52Z",
       "thumb": "https://i.ytimg.com/vi/9_zYLusneqo/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "PRESS CONFERENCE 🎙️ | Renée Slegers previews Chelsea clash",
-      "link": "https://www.youtube.com/watch?v=s6Exrv_JAAQ",
-      "pubDate": "2026-09-25T14:32:06Z",
-      "thumb": "https://i.ytimg.com/vi/s6Exrv_JAAQ/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
