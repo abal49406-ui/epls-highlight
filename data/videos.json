@@ -1,12 +1,26 @@
 {
-  "updatedAt": "2026-10-02T12:05:40.960Z",
+  "updatedAt": "2026-10-02T12:37:55.704Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "BACK AT BASE 🏡 | Hincapie, Madueke, Mosquera & more put in the hard yards | INSIDE TRAINING",
+      "link": "https://www.youtube.com/watch?v=v9gH7HdKmY8",
+      "pubDate": "2026-10-02T12:36:30Z",
+      "thumb": "https://i.ytimg.com/vi/v9gH7HdKmY8/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Carrick MUST Take THIS Advice From Sir Alex! Man Utd News!",
       "link": "https://www.youtube.com/watch?v=WFvGRP_hYNo",
-      "pubDate": "2026-10-02T12:00:43Z",
-      "thumb": "https://i.ytimg.com/vi/WFvGRP_hYNo/hqdefault_live.jpg"
+      "pubDate": "2026-10-02T12:35:01Z",
+      "thumb": "https://i.ytimg.com/vi/WFvGRP_hYNo/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Brobbey's Brilliance & Talbi's Chip | Goal Of The Month | September",
+      "link": "https://www.youtube.com/watch?v=u3JvPPlvGKA",
+      "pubDate": "2026-10-02T12:31:03Z",
+      "thumb": "https://i.ytimg.com/vi/u3JvPPlvGKA/hqdefault.jpg"
     },
     {
       "team": "Arsenal",
@@ -184,13 +198,6 @@
       "thumb": "https://i.ytimg.com/vi/1aTYx2xB8Lk/hqdefault.jpg"
     },
     {
-      "team": "Arsenal",
-      "title": "PRESS CONFERENCE 🎙️ | Renée Slegers and Georgia Stanway preview Paris FC clash",
-      "link": "https://www.youtube.com/watch?v=Nopsev_7mTM",
-      "pubDate": "2026-09-29T12:29:44Z",
-      "thumb": "https://i.ytimg.com/vi/Nopsev_7mTM/hqdefault.jpg"
-    },
-    {
       "team": "Fulham",
       "title": "HUGE win at Motspur 🔥 | Fulham 10-0 Ascot United | Women's Highlights",
       "link": "https://www.youtube.com/watch?v=-f5QHusb3NA",
@@ -294,13 +301,6 @@
       "link": "https://www.youtube.com/watch?v=jmIbv3ObO00",
       "pubDate": "2026-09-23T09:54:49Z",
       "thumb": "https://i.ytimg.com/vi/jmIbv3ObO00/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Six Goal Thriller | Accrington Stanley 3-3 (3-1 pens) Sunderland AFC U21s | EFL Trophy",
-      "link": "https://www.youtube.com/watch?v=KbMjEU1TfNI",
-      "pubDate": "2026-09-23T08:21:57Z",
-      "thumb": "https://i.ytimg.com/vi/KbMjEU1TfNI/hqdefault.jpg"
     },
     {
       "team": "Hull City",
