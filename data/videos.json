@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-02T13:33:27.269Z",
+  "updatedAt": "2026-10-02T13:51:09.105Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "PRESS CONFERENCE 🎙️ | Renée Slegers previews key Manchester City clash | WS:",
+      "link": "https://www.youtube.com/watch?v=VDxtdQUGOzQ",
+      "pubDate": "2026-10-02T13:41:14Z",
+      "thumb": "https://i.ytimg.com/vi/VDxtdQUGOzQ/hqdefault_live.jpg"
+    },
     {
       "team": "Chelsea",
       "title": "Behind the anthem 🇬🇭💙",
@@ -98,13 +105,6 @@
       "link": "https://www.youtube.com/watch?v=J5d2BI5aCGs",
       "pubDate": "2026-10-01T13:15:09Z",
       "thumb": "https://i.ytimg.com/vi/J5d2BI5aCGs/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "EVERY Arsenal Goal Under Arsene Wenger | Premier League",
-      "link": "https://www.youtube.com/watch?v=WCenuXezmY4",
-      "pubDate": "2026-10-01T11:00:10Z",
-      "thumb": "https://i.ytimg.com/vi/WCenuXezmY4/hqdefault.jpg"
     },
     {
       "team": "Manchester United",
