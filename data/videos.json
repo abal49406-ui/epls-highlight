@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-02T12:54:54.812Z",
+  "updatedAt": "2026-10-02T13:07:07.528Z",
   "videos": [
+    {
+      "team": "Chelsea",
+      "title": "Behind the anthem 🇬🇭💙",
+      "link": "https://www.youtube.com/watch?v=yL0gE7z0oos",
+      "pubDate": "2026-10-02T13:00:36Z",
+      "thumb": "https://i.ytimg.com/vi/yL0gE7z0oos/hqdefault.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "BACK AT BASE 🏡 | Hincapie, Madueke, Mosquera & more put in the hard yards | INSIDE TRAINING",
@@ -469,13 +476,6 @@
       "link": "https://www.youtube.com/watch?v=a9pbKXyZZC4",
       "pubDate": "2026-09-19T21:00:30Z",
       "thumb": "https://i.ytimg.com/vi/a9pbKXyZZC4/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "Cobham Next Gen 3-1 Fulham U21's | HIGHLIGHTS | Premier League 2 | 2026/27",
-      "link": "https://www.youtube.com/watch?v=cgZl2xBqfkA",
-      "pubDate": "2026-09-19T17:52:14Z",
-      "thumb": "https://i.ytimg.com/vi/cgZl2xBqfkA/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
