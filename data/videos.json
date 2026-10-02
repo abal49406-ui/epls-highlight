@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-02T18:35:02.473Z",
+  "updatedAt": "2026-10-02T18:51:42.317Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Sir Jim BACK Man City? De Ligt RETURNS! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=o8ZgPDB2qkk",
+      "pubDate": "2026-10-02T18:45:39Z",
+      "thumb": "https://i.ytimg.com/vi/o8ZgPDB2qkk/hqdefault_live.jpg"
+    },
     {
       "team": "Tottenham Hotspur",
       "title": "Spurs Goal of the Month | September 2026",
@@ -133,13 +140,6 @@
       "link": "https://www.youtube.com/watch?v=J5d2BI5aCGs",
       "pubDate": "2026-10-01T13:15:09Z",
       "thumb": "https://i.ytimg.com/vi/J5d2BI5aCGs/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "No SACKINGS or TRANSFERS! Man City RELEGATION Changes Nothing! Man Utd News",
-      "link": "https://www.youtube.com/watch?v=RhY0hgWwipQ",
-      "pubDate": "2026-10-01T09:48:15Z",
-      "thumb": "https://i.ytimg.com/vi/RhY0hgWwipQ/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
