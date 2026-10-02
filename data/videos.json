@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-02T11:04:28.386Z",
+  "updatedAt": "2026-10-02T11:30:11.368Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Carrick MUST Take THIS Advice From Sir Alex! Man Utd News!",
+      "link": "https://www.youtube.com/watch?v=WFvGRP_hYNo",
+      "pubDate": "2026-10-02T11:29:11Z",
+      "thumb": "https://i.ytimg.com/vi/WFvGRP_hYNo/hqdefault_live.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "BEST Arsenal Goals Of The Season So Far!",
@@ -119,13 +126,6 @@
       "link": "https://www.youtube.com/watch?v=okutPbWOCiU",
       "pubDate": "2026-09-30T20:09:01Z",
       "thumb": "https://i.ytimg.com/vi/okutPbWOCiU/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Glazer EXIT Rumours? NEW Luke Shaw Deal? Man Utd News",
-      "link": "https://www.youtube.com/watch?v=J-X16d_2J7A",
-      "pubDate": "2026-09-30T20:06:07Z",
-      "thumb": "https://i.ytimg.com/vi/J-X16d_2J7A/hqdefault.jpg"
     },
     {
       "team": "Aston Villa",
