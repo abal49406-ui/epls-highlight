@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-02T16:50:24.812Z",
+  "updatedAt": "2026-10-02T17:04:34.211Z",
   "videos": [
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Spurs Goal of the Month | September 2026",
+      "link": "https://www.youtube.com/watch?v=K5MV16n11eY",
+      "pubDate": "2026-10-02T17:00:31Z",
+      "thumb": "https://i.ytimg.com/vi/K5MV16n11eY/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "When Eagles Dare - Episode 5 | STANDING ON THE EDGE OF GREATNESS",
+      "link": "https://www.youtube.com/watch?v=xmCx8E3a8Rs",
+      "pubDate": "2026-10-02T17:00:28Z",
+      "thumb": "https://i.ytimg.com/vi/xmCx8E3a8Rs/hqdefault.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "PRESS CONFERENCE | Renée Slegers previews Manchester City test | WSL",
@@ -205,13 +219,6 @@
       "thumb": "https://i.ytimg.com/vi/TA543f6VauQ/hqdefault.jpg"
     },
     {
-      "team": "Crystal Palace",
-      "title": "When Eagles Dare - Episode 2 | DOUGIE'S TEAM",
-      "link": "https://www.youtube.com/watch?v=8Uyocb861IM",
-      "pubDate": "2026-09-29T17:00:04Z",
-      "thumb": "https://i.ytimg.com/vi/8Uyocb861IM/hqdefault.jpg"
-    },
-    {
       "team": "Liverpool",
       "title": "'I'm The Cool Girl In New York!?' 🤩 BTS as Tommy Hilfiger Style LFC Women",
       "link": "https://www.youtube.com/watch?v=1aTYx2xB8Lk",
@@ -224,13 +231,6 @@
       "link": "https://www.youtube.com/watch?v=-f5QHusb3NA",
       "pubDate": "2026-09-29T11:05:12Z",
       "thumb": "https://i.ytimg.com/vi/-f5QHusb3NA/hqdefault.jpg"
-    },
-    {
-      "team": "Tottenham Hotspur",
-      "title": "Danny Aarons and mystery footballer vs 50 kids",
-      "link": "https://www.youtube.com/watch?v=gxTCcoa11LY",
-      "pubDate": "2026-09-29T09:08:53Z",
-      "thumb": "https://i.ytimg.com/vi/gxTCcoa11LY/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
