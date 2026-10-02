@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-02T10:49:18.408Z",
+  "updatedAt": "2026-10-02T11:04:28.386Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "BEST Arsenal Goals Of The Season So Far!",
+      "link": "https://www.youtube.com/watch?v=8fqPEUptSA4",
+      "pubDate": "2026-10-02T11:01:12Z",
+      "thumb": "https://i.ytimg.com/vi/8fqPEUptSA4/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Best GOALS in September! 🚀 | Swizzels Sweetest Strike 🍬",
+      "link": "https://www.youtube.com/watch?v=RIVKFufX33o",
+      "pubDate": "2026-10-02T11:00:39Z",
+      "thumb": "https://i.ytimg.com/vi/RIVKFufX33o/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "JJ Gabriel RETURNS? Bruno INJURY Boost! Sir Alex TRANSFER Warning! Man Utd News",
@@ -198,13 +212,6 @@
       "thumb": "https://i.ytimg.com/vi/dFIJmiQCfpI/hqdefault.jpg"
     },
     {
-      "team": "Arsenal",
-      "title": "HIGHLIGHTS | Chelsea vs Arsenal (1-0) | WSL",
-      "link": "https://www.youtube.com/watch?v=mEuvte3oMSo",
-      "pubDate": "2026-09-27T21:30:10Z",
-      "thumb": "https://i.ytimg.com/vi/mEuvte3oMSo/hqdefault.jpg"
-    },
-    {
       "team": "Hull City",
       "title": "GEO! A Documentary on City's Number 10",
       "link": "https://www.youtube.com/watch?v=xHHXHHaCmhA",
@@ -308,13 +315,6 @@
       "link": "https://www.youtube.com/watch?v=eWpDO6w362Q",
       "pubDate": "2026-09-22T14:30:57Z",
       "thumb": "https://i.ytimg.com/vi/eWpDO6w362Q/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Durham Women 1-2 Nottingham Forest Women | Barclays WSL2 Highlights",
-      "link": "https://www.youtube.com/watch?v=jKV9t4GBnmI",
-      "pubDate": "2026-09-22T09:45:25Z",
-      "thumb": "https://i.ytimg.com/vi/jKV9t4GBnmI/hqdefault.jpg"
     },
     {
       "team": "Fulham",
