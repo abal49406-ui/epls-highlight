@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-03T07:49:51.870Z",
+  "updatedAt": "2026-10-03T08:04:43.756Z",
   "videos": [
+    {
+      "team": "Crystal Palace",
+      "title": "September 2026 GOTM Contenders 🎯⚽️",
+      "link": "https://www.youtube.com/watch?v=QPQ4_AZC6i0",
+      "pubDate": "2026-10-03T08:00:27Z",
+      "thumb": "https://i.ytimg.com/vi/QPQ4_AZC6i0/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Sir Jim BACKS Man City? De Ligt RETURNS! Man Utd News",
@@ -182,13 +189,6 @@
       "link": "https://www.youtube.com/watch?v=mmyyP9YtWsQ",
       "pubDate": "2026-09-30T19:00:23Z",
       "thumb": "https://i.ytimg.com/vi/mmyyP9YtWsQ/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "When Eagles Dare - Episode 3 | OLLIE",
-      "link": "https://www.youtube.com/watch?v=jQkREGhMHn4",
-      "pubDate": "2026-09-30T17:00:38Z",
-      "thumb": "https://i.ytimg.com/vi/jQkREGhMHn4/hqdefault.jpg"
     },
     {
       "team": "Tottenham Hotspur",
