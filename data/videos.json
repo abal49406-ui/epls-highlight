@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-03T08:31:11.150Z",
+  "updatedAt": "2026-10-03T08:51:44.967Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Carrick's HUGE United Issue! United's BEST XI! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=ZkUX1rC-gYg",
+      "pubDate": "2026-10-03T08:45:03Z",
+      "thumb": "https://i.ytimg.com/vi/ZkUX1rC-gYg/hqdefault_live.jpg"
+    },
     {
       "team": "Crystal Palace",
       "title": "September 2026 GOTM Contenders 🎯⚽️",
@@ -140,13 +147,6 @@
       "link": "https://www.youtube.com/watch?v=Me_kWCElKyI",
       "pubDate": "2026-10-01T16:00:00Z",
       "thumb": "https://i.ytimg.com/vi/Me_kWCElKyI/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "What Does CITY GUILTY Mean for UNITED?! Ben Jacobs Man Utd News",
-      "link": "https://www.youtube.com/watch?v=J5d2BI5aCGs",
-      "pubDate": "2026-10-01T13:15:09Z",
-      "thumb": "https://i.ytimg.com/vi/J5d2BI5aCGs/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
