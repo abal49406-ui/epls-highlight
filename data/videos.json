@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-04T13:40:57.869Z",
+  "updatedAt": "2026-10-04T18:38:51.930Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "Man City 4-2 Arsenal! | MATCHDAY LIVE | WSL",
+      "link": "https://www.youtube.com/watch?v=7HH5RyaCVvs",
+      "pubDate": "2026-10-04T18:32:02Z",
+      "thumb": "https://i.ytimg.com/vi/7HH5RyaCVvs/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "Man City 1-1 Arsenal | MATCHDAY LIVE | Half-Time Match reaction | WSL",
+      "link": "https://www.youtube.com/watch?v=EkChXzCL7hQ",
+      "pubDate": "2026-10-04T16:36:33Z",
+      "thumb": "https://i.ytimg.com/vi/EkChXzCL7hQ/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "Man City v Arsenal | MATCHDAY LIVE | WSL",
+      "link": "https://www.youtube.com/watch?v=o3lajymI-Bc",
+      "pubDate": "2026-10-04T15:31:42Z",
+      "thumb": "https://i.ytimg.com/vi/o3lajymI-Bc/hqdefault.jpg"
+    },
     {
       "team": "AFC Bournemouth",
       "title": "Women's live stream: AFC Bournemouth v Oxford United",
@@ -21,13 +42,6 @@
       "link": "https://www.youtube.com/watch?v=eX2qC00UNJQ",
       "pubDate": "2026-10-04T12:42:30Z",
       "thumb": "https://i.ytimg.com/vi/eX2qC00UNJQ/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "Man City v Arsenal | MATCHDAY LIVE | WSL",
-      "link": "https://www.youtube.com/watch?v=o3lajymI-Bc",
-      "pubDate": "2026-10-04T12:30:05Z",
-      "thumb": "https://i.ytimg.com/vi/o3lajymI-Bc/hqdefault_live.jpg"
     },
     {
       "team": "Manchester United",
@@ -308,13 +322,6 @@
       "link": "https://www.youtube.com/watch?v=9Adtw0N1qwQ",
       "pubDate": "2026-09-24T15:52:33Z",
       "thumb": "https://i.ytimg.com/vi/9Adtw0N1qwQ/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "Man City players react to FC 27 ⚽️🎮 | Ratings & First Game!",
-      "link": "https://www.youtube.com/watch?v=w67EwuWTfm8",
-      "pubDate": "2026-09-24T13:00:33Z",
-      "thumb": "https://i.ytimg.com/vi/w67EwuWTfm8/hqdefault.jpg"
     },
     {
       "team": "Everton",
