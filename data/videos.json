@@ -1,19 +1,26 @@
 {
-  "updatedAt": "2026-10-05T08:52:17.589Z",
+  "updatedAt": "2026-10-05T09:07:12.651Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "SCOTT and MATETA in January? Spurs Injury BLOW! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=6yUOmfIC6cA",
+      "pubDate": "2026-10-05T09:01:19Z",
+      "thumb": "https://i.ytimg.com/vi/6yUOmfIC6cA/hqdefault_live.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "International Break Work 💪 ⚽️ | CCTV",
+      "link": "https://www.youtube.com/watch?v=rkZcwUa2_ec",
+      "pubDate": "2026-10-05T09:00:08Z",
+      "thumb": "https://i.ytimg.com/vi/rkZcwUa2_ec/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "Matchday Live: Liverpool vs Manchester City | Premier League build-up from Anfield",
       "link": "https://www.youtube.com/watch?v=-QcaRUsQHQo",
       "pubDate": "2026-10-05T08:51:18Z",
       "thumb": "https://i.ytimg.com/vi/-QcaRUsQHQo/hqdefault_live.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "SCOTT and MATETA in January? Spurs Injury BLOW! Man Utd News",
-      "link": "https://www.youtube.com/watch?v=6yUOmfIC6cA",
-      "pubDate": "2026-10-05T08:29:12Z",
-      "thumb": "https://i.ytimg.com/vi/6yUOmfIC6cA/hqdefault_live.jpg"
     },
     {
       "team": "AFC Bournemouth",
@@ -210,13 +217,6 @@
       "link": "https://www.youtube.com/watch?v=2hqHap-KuH8",
       "pubDate": "2026-10-01T09:14:30Z",
       "thumb": "https://i.ytimg.com/vi/2hqHap-KuH8/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "Episode 2 | When Eagles Dare | Watch the full episode on YouTube Now!  #crystalpalace #football",
-      "link": "https://www.youtube.com/watch?v=MxBEdqEiZXQ",
-      "pubDate": "2026-10-01T09:00:19Z",
-      "thumb": "https://i.ytimg.com/vi/MxBEdqEiZXQ/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
