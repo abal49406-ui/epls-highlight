@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-05T15:35:15.395Z",
+  "updatedAt": "2026-10-05T15:52:35.566Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Highlights: Man Utd 1-0 Liverpool FC | Reds go down to early Zigiotti goal",
+      "link": "https://www.youtube.com/watch?v=VPE8DkFOZOI",
+      "pubDate": "2026-10-05T15:44:18Z",
+      "thumb": "https://i.ytimg.com/vi/VPE8DkFOZOI/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "De Ligt Injury BOOST! Conte PLEA? Man Utd News",
@@ -252,13 +259,6 @@
       "link": "https://www.youtube.com/watch?v=F2TG3XJxbeE",
       "pubDate": "2026-10-01T07:51:22Z",
       "thumb": "https://i.ytimg.com/vi/F2TG3XJxbeE/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Live: Birmingham City vs Liverpool FC Women | WSL Subway Players Cup",
-      "link": "https://www.youtube.com/watch?v=okutPbWOCiU",
-      "pubDate": "2026-09-30T20:09:01Z",
-      "thumb": "https://i.ytimg.com/vi/okutPbWOCiU/hqdefault.jpg"
     },
     {
       "team": "Aston Villa",
