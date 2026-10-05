@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-05T08:35:25.673Z",
+  "updatedAt": "2026-10-05T08:52:17.589Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Matchday Live: Liverpool vs Manchester City | Premier League build-up from Anfield",
+      "link": "https://www.youtube.com/watch?v=-QcaRUsQHQo",
+      "pubDate": "2026-10-05T08:51:18Z",
+      "thumb": "https://i.ytimg.com/vi/-QcaRUsQHQo/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "SCOTT and MATETA in January? Spurs Injury BLOW! Man Utd News",
@@ -266,13 +273,6 @@
       "link": "https://www.youtube.com/watch?v=TA543f6VauQ",
       "pubDate": "2026-09-30T13:30:11Z",
       "thumb": "https://i.ytimg.com/vi/TA543f6VauQ/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "'I'm The Cool Girl In New York!?' 🤩 BTS as Tommy Hilfiger Style LFC Women",
-      "link": "https://www.youtube.com/watch?v=1aTYx2xB8Lk",
-      "pubDate": "2026-09-29T16:00:26Z",
-      "thumb": "https://i.ytimg.com/vi/1aTYx2xB8Lk/hqdefault.jpg"
     },
     {
       "team": "Fulham",
