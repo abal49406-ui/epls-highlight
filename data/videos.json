@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-05T08:06:47.178Z",
+  "updatedAt": "2026-10-05T08:35:25.673Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "SCOTT and MATETA in January? Spurs Injury BLOW! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=6yUOmfIC6cA",
+      "pubDate": "2026-10-05T08:29:12Z",
+      "thumb": "https://i.ytimg.com/vi/6yUOmfIC6cA/hqdefault_live.jpg"
+    },
     {
       "team": "AFC Bournemouth",
       "title": "Women's live stream: AFC Bournemouth v Oxford United",
@@ -63,13 +70,6 @@
       "link": "https://www.youtube.com/watch?v=BscpgnZqQdA",
       "pubDate": "2026-10-03T16:00:05Z",
       "thumb": "https://i.ytimg.com/vi/BscpgnZqQdA/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "It’s a painful truth, but this is Michael Carrick’s best XI! Do you Agree? 👀",
-      "link": "https://www.youtube.com/watch?v=hAwJrkFqBMc",
-      "pubDate": "2026-10-03T13:15:19Z",
-      "thumb": "https://i.ytimg.com/vi/hAwJrkFqBMc/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
