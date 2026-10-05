@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-05T12:06:32.876Z",
+  "updatedAt": "2026-10-05T12:39:38.176Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "De Ligt Injury BOOST! Conte PLEA? Man Utd News",
+      "link": "https://www.youtube.com/watch?v=BzLpvgR8U7E",
+      "pubDate": "2026-10-05T12:26:01Z",
+      "thumb": "https://i.ytimg.com/vi/BzLpvgR8U7E/hqdefault_live.jpg"
+    },
     {
       "team": "Sunderland",
       "title": "10 Minutes Of Kenwyne Jones Being Unstoppable",
@@ -84,13 +91,6 @@
       "link": "https://www.youtube.com/watch?v=eX2qC00UNJQ",
       "pubDate": "2026-10-04T12:42:30Z",
       "thumb": "https://i.ytimg.com/vi/eX2qC00UNJQ/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Goldbridge LIVE Man Utd News",
-      "link": "https://www.youtube.com/watch?v=h-XCLmGeE_M",
-      "pubDate": "2026-10-03T20:07:00Z",
-      "thumb": "https://i.ytimg.com/vi/h-XCLmGeE_M/hqdefault.jpg"
     },
     {
       "team": "Sunderland",
@@ -518,13 +518,6 @@
       "link": "https://www.youtube.com/watch?v=moaZfqv2NDQ",
       "pubDate": "2026-09-16T12:41:19Z",
       "thumb": "https://i.ytimg.com/vi/moaZfqv2NDQ/hqdefault.jpg"
-    },
-    {
-      "team": "Everton",
-      "title": "falar",
-      "link": "https://www.youtube.com/watch?v=BDIBq0eQzeM",
-      "pubDate": "2026-09-16T12:41:07Z",
-      "thumb": "https://i.ytimg.com/vi/BDIBq0eQzeM/hqdefault.jpg"
     }
   ]
 }
