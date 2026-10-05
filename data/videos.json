@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-05T09:36:02.758Z",
+  "updatedAt": "2026-10-05T09:52:49.453Z",
   "videos": [
     {
       "team": "Manchester United",
       "title": "SCOTT and MATETA in January? Spurs Injury BLOW! Man Utd News",
       "link": "https://www.youtube.com/watch?v=6yUOmfIC6cA",
-      "pubDate": "2026-10-05T09:01:19Z",
-      "thumb": "https://i.ytimg.com/vi/6yUOmfIC6cA/hqdefault_live.jpg"
+      "pubDate": "2026-10-05T09:45:43Z",
+      "thumb": "https://i.ytimg.com/vi/6yUOmfIC6cA/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
@@ -21,6 +21,13 @@
       "link": "https://www.youtube.com/watch?v=-QcaRUsQHQo",
       "pubDate": "2026-10-05T08:51:18Z",
       "thumb": "https://i.ytimg.com/vi/-QcaRUsQHQo/hqdefault_live.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "8 Minute Highlights | Man City 4-2 Arsenal | Women's Super League | Hemp's incredible brace",
+      "link": "https://www.youtube.com/watch?v=E7h04MUu_do",
+      "pubDate": "2026-10-05T08:38:11Z",
+      "thumb": "https://i.ytimg.com/vi/E7h04MUu_do/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
@@ -308,13 +315,6 @@
       "link": "https://www.youtube.com/watch?v=y_6yBsLKOxM",
       "pubDate": "2026-09-25T14:05:32Z",
       "thumb": "https://i.ytimg.com/vi/y_6yBsLKOxM/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "Man City's Genius Moments 🤯",
-      "link": "https://www.youtube.com/watch?v=eFSMYhrrH7I",
-      "pubDate": "2026-09-24T17:30:18Z",
-      "thumb": "https://i.ytimg.com/vi/eFSMYhrrH7I/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
