@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-05T03:05:53.782Z",
+  "updatedAt": "2026-10-05T03:33:47.853Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "Women's live stream: AFC Bournemouth v Oxford United",
+      "link": "https://www.youtube.com/watch?v=AM1d4jNAUNg",
+      "pubDate": "2026-10-05T03:10:09Z",
+      "thumb": "https://i.ytimg.com/vi/AM1d4jNAUNg/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Man City SAVED Football? Can Carrick Turn it ROUND? Man Utd News",
       "link": "https://www.youtube.com/watch?v=CpacljZcwhU",
       "pubDate": "2026-10-04T20:05:28Z",
       "thumb": "https://i.ytimg.com/vi/CpacljZcwhU/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "Women's live stream: AFC Bournemouth v Oxford United",
-      "link": "https://www.youtube.com/watch?v=AM1d4jNAUNg",
-      "pubDate": "2026-10-04T18:38:55Z",
-      "thumb": "https://i.ytimg.com/vi/AM1d4jNAUNg/hqdefault_live.jpg"
     },
     {
       "team": "Manchester City",
