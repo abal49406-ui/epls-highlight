@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-06T16:51:48.174Z",
+  "updatedAt": "2026-10-06T17:05:10.581Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "INSIDE MATCHDAY | Man City 4-2 Arsenal | A Closer Look as Blues Edge WSL Thriller at the Etihad",
+      "link": "https://www.youtube.com/watch?v=AUHOczVHVo4",
+      "pubDate": "2026-10-06T17:00:37Z",
+      "thumb": "https://i.ytimg.com/vi/AUHOczVHVo4/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "NOTTINGHAM FOREST STARS PLAY FOOTBALL TENABLE! 🤔",
+      "link": "https://www.youtube.com/watch?v=9bI6x82EJ_w",
+      "pubDate": "2026-10-06T17:00:33Z",
+      "thumb": "https://i.ytimg.com/vi/9bI6x82EJ_w/hqdefault.jpg"
+    },
+    {
+      "team": "Hull City",
+      "title": "Diving Headers Galore! Behind the Tigers Training",
+      "link": "https://www.youtube.com/watch?v=8izYir7yib8",
+      "pubDate": "2026-10-06T17:00:27Z",
+      "thumb": "https://i.ytimg.com/vi/8izYir7yib8/hqdefault.jpg"
+    },
+    {
+      "team": "Chelsea",
+      "title": "September Goal of the Month ⭐️  | Chelsea FC 2026/27",
+      "link": "https://www.youtube.com/watch?v=cNu0fwH7dKs",
+      "pubDate": "2026-10-06T16:40:05Z",
+      "thumb": "https://i.ytimg.com/vi/cNu0fwH7dKs/hqdefault.jpg"
+    },
     {
       "team": "Sunderland",
       "title": "\"AM I A BIG DOG!?” 🤣 MARRAS WITH ENZO LE FEE & LUKE O'NIEN",
@@ -135,13 +163,6 @@
       "thumb": "https://i.ytimg.com/vi/EkChXzCL7hQ/hqdefault.jpg"
     },
     {
-      "team": "Manchester City",
-      "title": "Man City v Arsenal | MATCHDAY LIVE | WSL",
-      "link": "https://www.youtube.com/watch?v=o3lajymI-Bc",
-      "pubDate": "2026-10-04T15:31:42Z",
-      "thumb": "https://i.ytimg.com/vi/o3lajymI-Bc/hqdefault.jpg"
-    },
-    {
       "team": "AFC Bournemouth",
       "title": "🔴 LIVE: Chelsea U18 v AFC Bournemouth U18",
       "link": "https://www.youtube.com/watch?v=C51oPKQWJpo",
@@ -231,13 +252,6 @@
       "link": "https://www.youtube.com/watch?v=8fqPEUptSA4",
       "pubDate": "2026-10-02T11:01:12Z",
       "thumb": "https://i.ytimg.com/vi/8fqPEUptSA4/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Best GOALS in September! 🚀 | Swizzels Sweetest Strike 🍬",
-      "link": "https://www.youtube.com/watch?v=RIVKFufX33o",
-      "pubDate": "2026-10-02T11:00:39Z",
-      "thumb": "https://i.ytimg.com/vi/RIVKFufX33o/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
@@ -448,20 +462,6 @@
       "link": "https://www.youtube.com/watch?v=yn-UvcWhAio",
       "pubDate": "2026-09-20T08:00:25Z",
       "thumb": "https://i.ytimg.com/vi/yn-UvcWhAio/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "City's fightback nearly enough! Newcastle United 2-1 Hull City | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=HeLUhRJBxcE",
-      "pubDate": "2026-09-20T07:29:12Z",
-      "thumb": "https://i.ytimg.com/vi/HeLUhRJBxcE/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "Brentford 3-0 Chelsea | HIGHLIGHTS - Extended | Premier League 2026/27",
-      "link": "https://www.youtube.com/watch?v=2kAl18Q69E8",
-      "pubDate": "2026-09-19T23:01:40Z",
-      "thumb": "https://i.ytimg.com/vi/2kAl18Q69E8/hqdefault.jpg"
     },
     {
       "team": "Brentford",
