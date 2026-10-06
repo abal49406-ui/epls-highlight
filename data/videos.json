@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-06T14:51:10.831Z",
+  "updatedAt": "2026-10-06T15:08:00.425Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Classic Highlights: Liverpool 3-2 Man City | Sterling, Skrtel, Coutinho!",
+      "link": "https://www.youtube.com/watch?v=husqobhqpdM",
+      "pubDate": "2026-10-06T15:00:15Z",
+      "thumb": "https://i.ytimg.com/vi/husqobhqpdM/hqdefault.jpg"
+    },
     {
       "team": "Fulham",
       "title": "Fulham FC: A New Era ⚫️⚪️",
@@ -140,13 +147,6 @@
       "link": "https://www.youtube.com/watch?v=BscpgnZqQdA",
       "pubDate": "2026-10-03T16:00:05Z",
       "thumb": "https://i.ytimg.com/vi/BscpgnZqQdA/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "The BEST Liverpool free-kicks! Suarez, Coutinho, Gerrard!",
-      "link": "https://www.youtube.com/watch?v=r13Y3l0HGqU",
-      "pubDate": "2026-10-03T09:00:21Z",
-      "thumb": "https://i.ytimg.com/vi/r13Y3l0HGqU/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
