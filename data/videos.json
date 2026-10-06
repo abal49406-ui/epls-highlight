@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T23:29:34.263Z",
+  "updatedAt": "2026-10-06T23:47:22.913Z",
   "videos": [
     {
       "team": "Manchester United",
@@ -511,13 +511,6 @@
       "link": "https://www.youtube.com/watch?v=1wWUI5Kl-N0",
       "pubDate": "2026-09-18T23:00:26Z",
       "thumb": "https://i.ytimg.com/vi/1wWUI5Kl-N0/hqdefault.jpg"
-    },
-    {
-      "team": "Everton",
-      "title": "falar",
-      "link": "https://www.youtube.com/watch?v=moaZfqv2NDQ",
-      "pubDate": "2026-09-16T12:41:19Z",
-      "thumb": "https://i.ytimg.com/vi/moaZfqv2NDQ/hqdefault.jpg"
     }
   ]
 }
