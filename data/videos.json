@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-06T10:50:53.984Z",
+  "updatedAt": "2026-10-06T11:05:46.460Z",
   "videos": [
+    {
+      "team": "Fulham",
+      "title": "Unbeaten run comes to an end | Fulham 1-2 Exeter City | Women's Highlights",
+      "link": "https://www.youtube.com/watch?v=mUwoKLe2_SI",
+      "pubDate": "2026-10-06T11:00:08Z",
+      "thumb": "https://i.ytimg.com/vi/mUwoKLe2_SI/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Dimitar Berbatov: Why I Chose Man United Over Man City! | Stick to United EP 8",
@@ -385,13 +392,6 @@
       "link": "https://www.youtube.com/watch?v=GIS0ZptizO0",
       "pubDate": "2026-09-21T11:01:02Z",
       "thumb": "https://i.ytimg.com/vi/GIS0ZptizO0/hqdefault.jpg"
-    },
-    {
-      "team": "Fulham",
-      "title": "First football memories 🤍 | Fulham players mark World Alzheimer's Day",
-      "link": "https://www.youtube.com/watch?v=kWXkjWtMUxY",
-      "pubDate": "2026-09-21T09:06:21Z",
-      "thumb": "https://i.ytimg.com/vi/kWXkjWtMUxY/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
