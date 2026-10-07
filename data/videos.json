@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-07T10:51:04.726Z",
+  "updatedAt": "2026-10-07T11:06:17.140Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "Mikel Arteta is here to stay ❤️",
+      "link": "https://www.youtube.com/watch?v=4yLvlqlI38k",
+      "pubDate": "2026-10-07T11:00:40Z",
+      "thumb": "https://i.ytimg.com/vi/4yLvlqlI38k/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Balde IN Rashford OUT! Glazer OUT Blow! Goldbridge Man Utd News",
@@ -252,13 +259,6 @@
       "link": "https://www.youtube.com/watch?v=yL0gE7z0oos",
       "pubDate": "2026-10-02T13:00:36Z",
       "thumb": "https://i.ytimg.com/vi/yL0gE7z0oos/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "BACK AT BASE 🏡 | Hincapie, Madueke, Mosquera & more put in the hard yards | INSIDE TRAINING",
-      "link": "https://www.youtube.com/watch?v=v9gH7HdKmY8",
-      "pubDate": "2026-10-02T12:36:30Z",
-      "thumb": "https://i.ytimg.com/vi/v9gH7HdKmY8/hqdefault.jpg"
     },
     {
       "team": "Tottenham Hotspur",
