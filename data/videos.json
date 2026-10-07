@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-07T08:06:54.304Z",
+  "updatedAt": "2026-10-07T08:34:55.151Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "ALL Arsenal Goals Scored So Far This Season | 2026/27",
+      "link": "https://www.youtube.com/watch?v=Jr6O7yr2Td0",
+      "pubDate": "2026-10-07T08:31:09Z",
+      "thumb": "https://i.ytimg.com/vi/Jr6O7yr2Td0/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Defeat at Hillsborough for Black Cats | Sheffield Wednesday 2-0 Sunderland AFC U21s | EFL Trophy",
+      "link": "https://www.youtube.com/watch?v=gXRcJr28Y9Y",
+      "pubDate": "2026-10-07T08:26:03Z",
+      "thumb": "https://i.ytimg.com/vi/gXRcJr28Y9Y/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Carrick MUST Change This! January TRANSFER Hint! Goldbridge Man Utd News",
@@ -91,13 +105,6 @@
       "link": "https://www.youtube.com/watch?v=VPE8DkFOZOI",
       "pubDate": "2026-10-05T15:44:18Z",
       "thumb": "https://i.ytimg.com/vi/VPE8DkFOZOI/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "De Ligt Injury BOOST! Conte PLEA? Man Utd News",
-      "link": "https://www.youtube.com/watch?v=BzLpvgR8U7E",
-      "pubDate": "2026-10-05T13:37:36Z",
-      "thumb": "https://i.ytimg.com/vi/BzLpvgR8U7E/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
@@ -238,20 +245,6 @@
       "link": "https://www.youtube.com/watch?v=v9gH7HdKmY8",
       "pubDate": "2026-10-02T12:36:30Z",
       "thumb": "https://i.ytimg.com/vi/v9gH7HdKmY8/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Brobbey's Brilliance & Talbi's Chip | Goal Of The Month | September",
-      "link": "https://www.youtube.com/watch?v=u3JvPPlvGKA",
-      "pubDate": "2026-10-02T12:31:03Z",
-      "thumb": "https://i.ytimg.com/vi/u3JvPPlvGKA/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "BEST Arsenal Goals Of The Season So Far!",
-      "link": "https://www.youtube.com/watch?v=8fqPEUptSA4",
-      "pubDate": "2026-10-02T11:01:12Z",
-      "thumb": "https://i.ytimg.com/vi/8fqPEUptSA4/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
