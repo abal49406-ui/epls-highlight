@@ -1,12 +1,19 @@
 {
-  "updatedAt": "2026-10-07T08:52:08.020Z",
+  "updatedAt": "2026-10-07T09:06:13.269Z",
   "videos": [
     {
       "team": "Manchester United",
       "title": "Balde IN Rashford OUT! Glazer OUT Blow! Goldbridge Man Utd News",
       "link": "https://www.youtube.com/watch?v=v-BvZZyxy2M",
-      "pubDate": "2026-10-07T08:45:25Z",
+      "pubDate": "2026-10-07T09:03:13Z",
       "thumb": "https://i.ytimg.com/vi/v-BvZZyxy2M/hqdefault_live.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "EVERY GOAL SCORED AGAINST NOTTINGHAM FOREST😮‍💨☄️ | Premier League Compilation",
+      "link": "https://www.youtube.com/watch?v=Pp7yRItWuF8",
+      "pubDate": "2026-10-07T09:00:03Z",
+      "thumb": "https://i.ytimg.com/vi/Pp7yRItWuF8/hqdefault.jpg"
     },
     {
       "team": "Arsenal",
@@ -254,13 +261,6 @@
       "thumb": "https://i.ytimg.com/vi/v9gH7HdKmY8/hqdefault.jpg"
     },
     {
-      "team": "Crystal Palace",
-      "title": "When Eagles Dare - Episode 4 | THE OLD ENEMY",
-      "link": "https://www.youtube.com/watch?v=kmJVqhY3z48",
-      "pubDate": "2026-10-01T17:00:12Z",
-      "thumb": "https://i.ytimg.com/vi/kmJVqhY3z48/hqdefault.jpg"
-    },
-    {
       "team": "Tottenham Hotspur",
       "title": "Spurs Mic'd Up! 🎙️ | Overheard on squad photo day 📸",
       "link": "https://www.youtube.com/watch?v=I5QMdCD2Xbs",
@@ -350,13 +350,6 @@
       "link": "https://www.youtube.com/watch?v=y_6yBsLKOxM",
       "pubDate": "2026-09-25T14:05:32Z",
       "thumb": "https://i.ytimg.com/vi/y_6yBsLKOxM/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "Ultimate Goal Of the Season - Group A Vote ⭐️ | Chelsea FC",
-      "link": "https://www.youtube.com/watch?v=9Adtw0N1qwQ",
-      "pubDate": "2026-09-24T15:52:33Z",
-      "thumb": "https://i.ytimg.com/vi/9Adtw0N1qwQ/hqdefault.jpg"
     },
     {
       "team": "Everton",
