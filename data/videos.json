@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-07T16:08:52.260Z",
+  "updatedAt": "2026-10-07T16:35:34.910Z",
   "videos": [
+    {
+      "team": "Leeds United",
+      "title": "Daniel Farke pre-match press conference | Arsenal v Leeds United | Premier League",
+      "link": "https://www.youtube.com/watch?v=bhrUKfD7ozQ",
+      "pubDate": "2026-10-07T16:13:13Z",
+      "thumb": "https://i.ytimg.com/vi/bhrUKfD7ozQ/hqdefault_live.jpg"
+    },
     {
       "team": "Sunderland",
       "title": "10 Minutes of Jermain Defoe Being Ridiculously Clinical",
@@ -420,13 +427,6 @@
       "link": "https://www.youtube.com/watch?v=v9tBcOmlp4Q",
       "pubDate": "2026-09-20T16:02:54Z",
       "thumb": "https://i.ytimg.com/vi/v9tBcOmlp4Q/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "“Still unbeaten but we can do better” | Tarik Muharemović | Leeds United 0-0 Crystal Palace",
-      "link": "https://www.youtube.com/watch?v=TpqDdWRjlho",
-      "pubDate": "2026-09-20T15:50:43Z",
-      "thumb": "https://i.ytimg.com/vi/TpqDdWRjlho/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
