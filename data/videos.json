@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-07T16:52:23.355Z",
+  "updatedAt": "2026-10-07T17:15:03.219Z",
   "videos": [
+    {
+      "team": "Nottingham Forest",
+      "title": "Glasner in action & Domínguez masterclass! 😱 | Who Wins the Nottingham Forest Padel Tournament? 🏓",
+      "link": "https://www.youtube.com/watch?v=XxcO1LSclno",
+      "pubDate": "2026-10-07T17:00:39Z",
+      "thumb": "https://i.ytimg.com/vi/XxcO1LSclno/hqdefault.jpg"
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "title": "The Hotspur Way: Ben Davies | An Official Spurs and Sports Illustrated Production 🎙️",
+      "link": "https://www.youtube.com/watch?v=wi5WXr2l1WI",
+      "pubDate": "2026-10-07T17:00:14Z",
+      "thumb": "https://i.ytimg.com/vi/wi5WXr2l1WI/hqdefault.jpg"
+    },
+    {
+      "team": "Ipswich Town",
+      "title": "NEW TRAINING COMPLEX TOUR WITH MARK ASHTON",
+      "link": "https://www.youtube.com/watch?v=uuM75WaCkOw",
+      "pubDate": "2026-10-07T16:59:18Z",
+      "thumb": "https://i.ytimg.com/vi/uuM75WaCkOw/hqdefault.jpg"
+    },
     {
       "team": "Leeds United",
       "title": "Daniel Farke pre-match press conference | Arsenal v Leeds United | Premier League",
@@ -247,13 +268,6 @@
       "thumb": "https://i.ytimg.com/vi/2gIznCnjjkI/hqdefault.jpg"
     },
     {
-      "team": "Nottingham Forest",
-      "title": "Oliver Glasner Welcomes Local School & Grassroots Coaches for Coaching Session! 🙌",
-      "link": "https://www.youtube.com/watch?v=zFZaSnZcyK0",
-      "pubDate": "2026-10-02T16:00:07Z",
-      "thumb": "https://i.ytimg.com/vi/zFZaSnZcyK0/hqdefault.jpg"
-    },
-    {
       "team": "Chelsea",
       "title": "Behind the anthem 🇬🇭💙",
       "link": "https://www.youtube.com/watch?v=yL0gE7z0oos",
@@ -315,13 +329,6 @@
       "link": "https://www.youtube.com/watch?v=x_aAQ2Xqzjk",
       "pubDate": "2026-09-30T13:30:38Z",
       "thumb": "https://i.ytimg.com/vi/x_aAQ2Xqzjk/hqdefault.jpg"
-    },
-    {
-      "team": "Tottenham Hotspur",
-      "title": "Behind the scenes at Spurs training! 🎬",
-      "link": "https://www.youtube.com/watch?v=TA543f6VauQ",
-      "pubDate": "2026-09-30T13:30:11Z",
-      "thumb": "https://i.ytimg.com/vi/TA543f6VauQ/hqdefault.jpg"
     },
     {
       "team": "Fulham",
@@ -483,13 +490,6 @@
       "link": "https://www.youtube.com/watch?v=_qkcATIM9hg",
       "pubDate": "2026-09-19T17:02:36Z",
       "thumb": "https://i.ytimg.com/vi/_qkcATIM9hg/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "MATCHDAY LIVE | HALF-TIME: EVERTON v TOWN",
-      "link": "https://www.youtube.com/watch?v=Vui0BlkX0AM",
-      "pubDate": "2026-09-19T15:23:00Z",
-      "thumb": "https://i.ytimg.com/vi/Vui0BlkX0AM/hqdefault.jpg"
     },
     {
       "team": "Brentford",
