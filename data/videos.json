@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-07T15:42:36.219Z",
+  "updatedAt": "2026-10-07T16:08:52.260Z",
   "videos": [
+    {
+      "team": "Sunderland",
+      "title": "10 Minutes of Jermain Defoe Being Ridiculously Clinical",
+      "link": "https://www.youtube.com/watch?v=LrmkZxMxDYU",
+      "pubDate": "2026-10-07T16:00:32Z",
+      "thumb": "https://i.ytimg.com/vi/LrmkZxMxDYU/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "CLASSIC Goals at Anfield! | Liverpool vs Man City",
+      "link": "https://www.youtube.com/watch?v=9WyFQM-DF_4",
+      "pubDate": "2026-10-07T16:00:23Z",
+      "thumb": "https://i.ytimg.com/vi/9WyFQM-DF_4/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "Press Conference: Liverpool vs Man City | Andoni Iraola",
@@ -135,13 +149,6 @@
       "thumb": "https://i.ytimg.com/vi/mUwoKLe2_SI/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Dimitar Berbatov: Why I Chose Man United Over Man City! | Stick to United EP 8",
-      "link": "https://www.youtube.com/watch?v=PriCm2_GafM",
-      "pubDate": "2026-10-06T07:00:34Z",
-      "thumb": "https://i.ytimg.com/vi/PriCm2_GafM/hqdefault.jpg"
-    },
-    {
       "team": "Nottingham Forest",
       "title": "Nottingham Forest Women 2-0 Burnley Women | Barclays WSL2 Highlights",
       "link": "https://www.youtube.com/watch?v=0ZoiXJeRRRE",
@@ -191,25 +198,11 @@
       "thumb": "https://i.ytimg.com/vi/7HH5RyaCVvs/hqdefault.jpg"
     },
     {
-      "team": "Manchester City",
-      "title": "Man City 1-1 Arsenal | MATCHDAY LIVE | Half-Time Match reaction | WSL",
-      "link": "https://www.youtube.com/watch?v=EkChXzCL7hQ",
-      "pubDate": "2026-10-04T16:36:33Z",
-      "thumb": "https://i.ytimg.com/vi/EkChXzCL7hQ/hqdefault.jpg"
-    },
-    {
       "team": "AFC Bournemouth",
       "title": "🔴 LIVE: Chelsea U18 v AFC Bournemouth U18",
       "link": "https://www.youtube.com/watch?v=C51oPKQWJpo",
       "pubDate": "2026-10-04T12:43:10Z",
       "thumb": "https://i.ytimg.com/vi/C51oPKQWJpo/hqdefault_live.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Sunderland VS The Europa League | 53 Years in the Making",
-      "link": "https://www.youtube.com/watch?v=BscpgnZqQdA",
-      "pubDate": "2026-10-03T16:00:05Z",
-      "thumb": "https://i.ytimg.com/vi/BscpgnZqQdA/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
