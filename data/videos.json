@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-07T14:50:57.140Z",
+  "updatedAt": "2026-10-07T15:42:36.219Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Press Conference: Liverpool vs Man City | Andoni Iraola",
+      "link": "https://www.youtube.com/watch?v=B1pZoGNjhqI",
+      "pubDate": "2026-10-07T14:53:35Z",
+      "thumb": "https://i.ytimg.com/vi/B1pZoGNjhqI/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Conte's EXIT Plan?! Yoro & Ait-Nouri TRANSFER Talks? Man United News",
@@ -133,13 +140,6 @@
       "link": "https://www.youtube.com/watch?v=PriCm2_GafM",
       "pubDate": "2026-10-06T07:00:34Z",
       "thumb": "https://i.ytimg.com/vi/PriCm2_GafM/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Highlights: Man Utd 1-0 Liverpool FC | Reds go down to early Zigiotti goal",
-      "link": "https://www.youtube.com/watch?v=VPE8DkFOZOI",
-      "pubDate": "2026-10-05T15:44:18Z",
-      "thumb": "https://i.ytimg.com/vi/VPE8DkFOZOI/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
