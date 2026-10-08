@@ -1,13 +1,6 @@
 {
-  "updatedAt": "2026-10-08T18:36:35.791Z",
+  "updatedAt": "2026-10-08T18:56:07.725Z",
   "videos": [
-    {
-      "team": "Manchester United",
-      "title": "Goldbridge Members Q and A",
-      "link": "https://www.youtube.com/watch?v=9ZhgM9iF-Cw",
-      "pubDate": "2026-10-08T18:35:55Z",
-      "thumb": "https://i.ytimg.com/vi/9ZhgM9iF-Cw/hqdefault_live.jpg"
-    },
     {
       "team": "Manchester United",
       "title": "Carrick MUST Do This! Man United vs Tottenham Goldbridge Preview",
@@ -119,6 +112,13 @@
       "link": "https://www.youtube.com/watch?v=XBaa52T2IHA",
       "pubDate": "2026-10-08T09:10:28Z",
       "thumb": "https://i.ytimg.com/vi/XBaa52T2IHA/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Carrick's INJURY Blow! McTominay RETURN? Goldbridge Man Utd News",
+      "link": "https://www.youtube.com/watch?v=LjeSs0fGpE0",
+      "pubDate": "2026-10-07T20:06:08Z",
+      "thumb": "https://i.ytimg.com/vi/LjeSs0fGpE0/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
