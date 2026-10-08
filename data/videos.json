@@ -1,12 +1,26 @@
 {
-  "updatedAt": "2026-10-08T12:07:04.824Z",
+  "updatedAt": "2026-10-08T12:40:46.299Z",
   "videos": [
+    {
+      "team": "Leeds United",
+      "title": "Daniel Farke pre-match press conference | Arsenal v Leeds United | Premier League",
+      "link": "https://www.youtube.com/watch?v=bhrUKfD7ozQ",
+      "pubDate": "2026-10-08T12:27:38Z",
+      "thumb": "https://i.ytimg.com/vi/bhrUKfD7ozQ/hqdefault_live.jpg"
+    },
     {
       "team": "Sunderland",
       "title": "Sunderland vs Brighton & Hove Albion | Régis Le Bris' Premier League Press Conference",
       "link": "https://www.youtube.com/watch?v=9QtHgFJr9yU",
-      "pubDate": "2026-10-08T11:58:49Z",
+      "pubDate": "2026-10-08T12:25:08Z",
       "thumb": "https://i.ytimg.com/vi/9QtHgFJr9yU/hqdefault_live.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "CHAMPIONS LEAGUE OR BUST! Carrick's Man Utd Future At Risk? Man United News",
+      "link": "https://www.youtube.com/watch?v=OSij309yqss",
+      "pubDate": "2026-10-08T12:25:03Z",
+      "thumb": "https://i.ytimg.com/vi/OSij309yqss/hqdefault_live.jpg"
     },
     {
       "team": "Sunderland",
@@ -65,13 +79,6 @@
       "thumb": "https://i.ytimg.com/vi/uuM75WaCkOw/hqdefault.jpg"
     },
     {
-      "team": "Leeds United",
-      "title": "Daniel Farke pre-match press conference | Arsenal v Leeds United | Premier League",
-      "link": "https://www.youtube.com/watch?v=bhrUKfD7ozQ",
-      "pubDate": "2026-10-07T16:13:13Z",
-      "thumb": "https://i.ytimg.com/vi/bhrUKfD7ozQ/hqdefault_live.jpg"
-    },
-    {
       "team": "Sunderland",
       "title": "10 Minutes of Jermain Defoe Being Ridiculously Clinical",
       "link": "https://www.youtube.com/watch?v=LrmkZxMxDYU",
@@ -119,13 +126,6 @@
       "link": "https://www.youtube.com/watch?v=4yLvlqlI38k",
       "pubDate": "2026-10-07T11:00:40Z",
       "thumb": "https://i.ytimg.com/vi/4yLvlqlI38k/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Balde IN Rashford OUT! Glazer OUT Blow! Goldbridge Man Utd News",
-      "link": "https://www.youtube.com/watch?v=v-BvZZyxy2M",
-      "pubDate": "2026-10-07T09:51:47Z",
-      "thumb": "https://i.ytimg.com/vi/v-BvZZyxy2M/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
