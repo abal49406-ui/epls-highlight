@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-10-08T19:32:27.643Z",
+  "updatedAt": "2026-10-08T19:51:20.267Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Carrick MUST Do This! Man United vs Tottenham Goldbridge Preview",
+      "link": "https://www.youtube.com/watch?v=0zlryksag3c",
+      "pubDate": "2026-10-08T19:49:15Z",
+      "thumb": "https://i.ytimg.com/vi/0zlryksag3c/hqdefault.jpg"
+    },
     {
       "team": "Tottenham Hotspur",
       "title": "Our biggest ever win at Old Trafford 🔥",
       "link": "https://www.youtube.com/watch?v=nNQ0mj-hFqo",
       "pubDate": "2026-10-08T19:30:30Z",
       "thumb": "https://i.ytimg.com/vi/nNQ0mj-hFqo/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Carrick MUST Do This! Man United vs Tottenham Goldbridge Preview",
-      "link": "https://www.youtube.com/watch?v=0zlryksag3c",
-      "pubDate": "2026-10-08T19:08:54Z",
-      "thumb": "https://i.ytimg.com/vi/0zlryksag3c/hqdefault_live.jpg"
     },
     {
       "team": "Ipswich Town",
@@ -35,13 +35,6 @@
       "link": "https://www.youtube.com/watch?v=fWOWPf19koU",
       "pubDate": "2026-10-08T17:00:09Z",
       "thumb": "https://i.ytimg.com/vi/fWOWPf19koU/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "BEHIND THE SCENES | Step into a special contract signing day for Mikel Arteta ✍️",
-      "link": "https://www.youtube.com/watch?v=WYk1PtZyD5w",
-      "pubDate": "2026-10-08T16:37:32Z",
-      "thumb": "https://i.ytimg.com/vi/WYk1PtZyD5w/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
@@ -170,13 +163,6 @@
       "thumb": "https://i.ytimg.com/vi/B1pZoGNjhqI/hqdefault_live.jpg"
     },
     {
-      "team": "Arsenal",
-      "title": "Sitting down with supporters ❤️ | Mikel Arteta's new contract roundtable",
-      "link": "https://www.youtube.com/watch?v=H2lurV9cSrA",
-      "pubDate": "2026-10-07T13:30:24Z",
-      "thumb": "https://i.ytimg.com/vi/H2lurV9cSrA/hqdefault.jpg"
-    },
-    {
       "team": "Liverpool",
       "title": "Liverpool's top 10 wins against Manchester City!",
       "link": "https://www.youtube.com/watch?v=5ewPO7ObiRA",
@@ -184,25 +170,11 @@
       "thumb": "https://i.ytimg.com/vi/5ewPO7ObiRA/hqdefault.jpg"
     },
     {
-      "team": "Arsenal",
-      "title": "Mikel Arteta is here to stay ❤️",
-      "link": "https://www.youtube.com/watch?v=4yLvlqlI38k",
-      "pubDate": "2026-10-07T11:00:40Z",
-      "thumb": "https://i.ytimg.com/vi/4yLvlqlI38k/hqdefault.jpg"
-    },
-    {
       "team": "Crystal Palace",
       "title": "EVERY GOAL SCORED AGAINST NOTTINGHAM FOREST😮‍💨☄️ | Premier League Compilation",
       "link": "https://www.youtube.com/watch?v=Pp7yRItWuF8",
       "pubDate": "2026-10-07T09:00:03Z",
       "thumb": "https://i.ytimg.com/vi/Pp7yRItWuF8/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "ALL Arsenal Goals Scored So Far This Season | 2026/27",
-      "link": "https://www.youtube.com/watch?v=Jr6O7yr2Td0",
-      "pubDate": "2026-10-07T08:31:09Z",
-      "thumb": "https://i.ytimg.com/vi/Jr6O7yr2Td0/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
