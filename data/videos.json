@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-08T09:06:47.174Z",
+  "updatedAt": "2026-10-08T09:33:54.518Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "A Taste of Home | @erling Haaland talks family feasts and the Norwegian diet 🇳🇴🐟",
+      "link": "https://www.youtube.com/watch?v=XBaa52T2IHA",
+      "pubDate": "2026-10-08T09:10:28Z",
+      "thumb": "https://i.ytimg.com/vi/XBaa52T2IHA/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Carrick's JOB Warning! Gyökeres TRANSFER Bid? Goldbridge Man Utd News",
@@ -224,13 +231,6 @@
       "link": "https://www.youtube.com/watch?v=AM1d4jNAUNg",
       "pubDate": "2026-10-05T03:10:09Z",
       "thumb": "https://i.ytimg.com/vi/AM1d4jNAUNg/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "Man City 4-2 Arsenal! | MATCHDAY LIVE | WSL",
-      "link": "https://www.youtube.com/watch?v=7HH5RyaCVvs",
-      "pubDate": "2026-10-04T18:32:02Z",
-      "thumb": "https://i.ytimg.com/vi/7HH5RyaCVvs/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
