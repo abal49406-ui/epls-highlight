@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-08T16:54:18.146Z",
+  "updatedAt": "2026-10-08T17:06:31.213Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "'We need to be all together' | Enzo Maresca Interview",
+      "link": "https://www.youtube.com/watch?v=FN0O1rpyEuM",
+      "pubDate": "2026-10-08T17:00:20Z",
+      "thumb": "https://i.ytimg.com/vi/FN0O1rpyEuM/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Inside Training: Liverpool squad return ahead of Manchester City match!",
+      "link": "https://www.youtube.com/watch?v=fWOWPf19koU",
+      "pubDate": "2026-10-08T17:00:09Z",
+      "thumb": "https://i.ytimg.com/vi/fWOWPf19koU/hqdefault.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "BEHIND THE SCENES | Step into a special contract signing day for Mikel Arteta ✍️",
@@ -14,13 +28,6 @@
       "link": "https://www.youtube.com/watch?v=vuUpSCPM5Cc",
       "pubDate": "2026-10-08T15:18:53Z",
       "thumb": "https://i.ytimg.com/vi/vuUpSCPM5Cc/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Inside Training: Liverpool squad return ahead of Manchester City match!",
-      "link": "https://www.youtube.com/watch?v=fWOWPf19koU",
-      "pubDate": "2026-10-08T14:58:36Z",
-      "thumb": "https://i.ytimg.com/vi/fWOWPf19koU/hqdefault.jpg"
     },
     {
       "team": "Newcastle United",
@@ -252,13 +259,6 @@
       "link": "https://www.youtube.com/watch?v=rkZcwUa2_ec",
       "pubDate": "2026-10-05T09:00:08Z",
       "thumb": "https://i.ytimg.com/vi/rkZcwUa2_ec/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "Highlights | Man City 4-2 Arsenal | Women's Super League | Hemp brace in comeback win!",
-      "link": "https://www.youtube.com/watch?v=E7h04MUu_do",
-      "pubDate": "2026-10-05T08:38:11Z",
-      "thumb": "https://i.ytimg.com/vi/E7h04MUu_do/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
