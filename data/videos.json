@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-08T14:07:56.613Z",
+  "updatedAt": "2026-10-08T14:36:34.416Z",
   "videos": [
+    {
+      "team": "Newcastle United",
+      "title": "PRESS CONFERENCE | Matthias Jaissle pre-Coventry City",
+      "link": "https://www.youtube.com/watch?v=lcdXCObkHXI",
+      "pubDate": "2026-10-08T14:30:17Z",
+      "thumb": "https://i.ytimg.com/vi/lcdXCObkHXI/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Brian Brobbey & Dan Ballard Updates | Sunderland VS Brighton Press Conference",
+      "link": "https://www.youtube.com/watch?v=1_LOnGocq5o",
+      "pubDate": "2026-10-08T14:29:09Z",
+      "thumb": "https://i.ytimg.com/vi/1_LOnGocq5o/hqdefault.jpg"
+    },
     {
       "team": "AFC Bournemouth",
       "title": "Marco Rose on Alex Scott Injury, Rayan & Kroupi Golden Boy Nomination and More | Press Conference",
@@ -149,13 +163,6 @@
       "thumb": "https://i.ytimg.com/vi/Jr6O7yr2Td0/hqdefault.jpg"
     },
     {
-      "team": "Sunderland",
-      "title": "Defeat at Hillsborough for Black Cats | Sheffield Wednesday 2-0 Sunderland AFC U21s | EFL Trophy",
-      "link": "https://www.youtube.com/watch?v=gXRcJr28Y9Y",
-      "pubDate": "2026-10-07T08:26:03Z",
-      "thumb": "https://i.ytimg.com/vi/gXRcJr28Y9Y/hqdefault.jpg"
-    },
-    {
       "team": "Manchester City",
       "title": "INSIDE MATCHDAY | Man City 4-2 Arsenal | A Closer Look as Blues Edge WSL Thriller at the Etihad",
       "link": "https://www.youtube.com/watch?v=AUHOczVHVo4",
@@ -175,13 +182,6 @@
       "link": "https://www.youtube.com/watch?v=8izYir7yib8",
       "pubDate": "2026-10-06T17:00:27Z",
       "thumb": "https://i.ytimg.com/vi/8izYir7yib8/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "September Goal of the Month ⭐️  | Chelsea FC 2026/27",
-      "link": "https://www.youtube.com/watch?v=cNu0fwH7dKs",
-      "pubDate": "2026-10-06T16:40:05Z",
-      "thumb": "https://i.ytimg.com/vi/cNu0fwH7dKs/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
@@ -282,25 +282,11 @@
       "thumb": "https://i.ytimg.com/vi/2gIznCnjjkI/hqdefault.jpg"
     },
     {
-      "team": "Chelsea",
-      "title": "Behind the anthem 🇬🇭💙",
-      "link": "https://www.youtube.com/watch?v=yL0gE7z0oos",
-      "pubDate": "2026-10-02T13:00:36Z",
-      "thumb": "https://i.ytimg.com/vi/yL0gE7z0oos/hqdefault.jpg"
-    },
-    {
       "team": "Tottenham Hotspur",
       "title": "Spurs Mic'd Up! 🎙️ | Overheard on squad photo day 📸",
       "link": "https://www.youtube.com/watch?v=I5QMdCD2Xbs",
       "pubDate": "2026-10-01T16:00:16Z",
       "thumb": "https://i.ytimg.com/vi/I5QMdCD2Xbs/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "King Promise - Can’t Tame Us (Official Video) 🎶",
-      "link": "https://www.youtube.com/watch?v=sTl5cs0KimQ",
-      "pubDate": "2026-10-01T16:00:13Z",
-      "thumb": "https://i.ytimg.com/vi/sTl5cs0KimQ/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
