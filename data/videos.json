@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-08T18:05:50.298Z",
+  "updatedAt": "2026-10-08T18:36:35.791Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Goldbridge Members Q and A",
+      "link": "https://www.youtube.com/watch?v=9ZhgM9iF-Cw",
+      "pubDate": "2026-10-08T18:35:55Z",
+      "thumb": "https://i.ytimg.com/vi/9ZhgM9iF-Cw/hqdefault_live.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Carrick MUST Do This! Man United vs Tottenham Goldbridge Preview",
+      "link": "https://www.youtube.com/watch?v=0zlryksag3c",
+      "pubDate": "2026-10-08T18:32:54Z",
+      "thumb": "https://i.ytimg.com/vi/0zlryksag3c/hqdefault_live.jpg"
+    },
     {
       "team": "Ipswich Town",
       "title": "INSIDE TOWN'S NEW TRAINING COMPLEX",
@@ -107,13 +121,6 @@
       "thumb": "https://i.ytimg.com/vi/XBaa52T2IHA/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Carrick's INJURY Blow! McTominay RETURN? Goldbridge Man Utd News",
-      "link": "https://www.youtube.com/watch?v=LjeSs0fGpE0",
-      "pubDate": "2026-10-07T20:06:08Z",
-      "thumb": "https://i.ytimg.com/vi/LjeSs0fGpE0/hqdefault.jpg"
-    },
-    {
       "team": "Nottingham Forest",
       "title": "Glasner in action & Domínguez masterclass! 😱 | Who Wins the Nottingham Forest Padel Tournament? 🏓",
       "link": "https://www.youtube.com/watch?v=XxcO1LSclno",
@@ -154,13 +161,6 @@
       "link": "https://www.youtube.com/watch?v=B1pZoGNjhqI",
       "pubDate": "2026-10-07T14:53:35Z",
       "thumb": "https://i.ytimg.com/vi/B1pZoGNjhqI/hqdefault_live.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Conte's EXIT Plan?! Yoro & Ait-Nouri TRANSFER Talks? Man United News",
-      "link": "https://www.youtube.com/watch?v=dmu4JGxAmaM",
-      "pubDate": "2026-10-07T13:46:49Z",
-      "thumb": "https://i.ytimg.com/vi/dmu4JGxAmaM/hqdefault.jpg"
     },
     {
       "team": "Arsenal",
