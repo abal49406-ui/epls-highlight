@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-08T15:06:56.585Z",
+  "updatedAt": "2026-10-08T15:35:06.304Z",
   "videos": [
+    {
+      "team": "Coventry City",
+      "title": "Frank Lampard Pre-Match Press Conference | Coventry City vs Newcastle United | Premier League",
+      "link": "https://www.youtube.com/watch?v=vuUpSCPM5Cc",
+      "pubDate": "2026-10-08T15:18:53Z",
+      "thumb": "https://i.ytimg.com/vi/vuUpSCPM5Cc/hqdefault.jpg"
+    },
     {
       "team": "Newcastle United",
       "title": "PRESS CONFERENCE | Matthias Jaissle pre-Coventry City",
@@ -476,13 +483,6 @@
       "link": "https://www.youtube.com/watch?v=LDb6YMmesRI",
       "pubDate": "2026-09-19T23:00:02Z",
       "thumb": "https://i.ytimg.com/vi/LDb6YMmesRI/hqdefault.jpg"
-    },
-    {
-      "team": "Coventry City",
-      "title": "Nottingham Forest 0-1 Coventry City | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=r4GJDImO_8Y",
-      "pubDate": "2026-09-19T22:25:25Z",
-      "thumb": "https://i.ytimg.com/vi/r4GJDImO_8Y/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
