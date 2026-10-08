@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-08T13:52:55.445Z",
+  "updatedAt": "2026-10-08T14:07:56.613Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "Marco Rose on Alex Scott Injury, Rayan & Kroupi Golden Boy Nomination and More | Press Conference",
+      "link": "https://www.youtube.com/watch?v=_9JLEqkyrYk",
+      "pubDate": "2026-10-08T14:02:02Z",
+      "thumb": "https://i.ytimg.com/vi/_9JLEqkyrYk/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "CHAMPIONS LEAGUE OR BUST! Carrick's Man Utd Future At Risk? Man United News",
@@ -322,13 +329,6 @@
       "link": "https://www.youtube.com/watch?v=fp3POnb-wK8",
       "pubDate": "2026-09-30T17:00:00Z",
       "thumb": "https://i.ytimg.com/vi/fp3POnb-wK8/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "International Break Training: Cherries hard at work during the break 💪",
-      "link": "https://www.youtube.com/watch?v=VtR-oXg3dug",
-      "pubDate": "2026-09-30T14:52:30Z",
-      "thumb": "https://i.ytimg.com/vi/VtR-oXg3dug/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
