@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-08T11:50:55.059Z",
+  "updatedAt": "2026-10-08T12:07:04.824Z",
   "videos": [
+    {
+      "team": "Sunderland",
+      "title": "Sunderland vs Brighton & Hove Albion | Régis Le Bris' Premier League Press Conference",
+      "link": "https://www.youtube.com/watch?v=9QtHgFJr9yU",
+      "pubDate": "2026-10-08T11:58:49Z",
+      "thumb": "https://i.ytimg.com/vi/9QtHgFJr9yU/hqdefault_live.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Régis Le Bris' pre-match Premier League press conference! | Chelsea vs Sunderland AFC",
+      "link": "https://www.youtube.com/watch?v=ZMVOPmfCJ5k",
+      "pubDate": "2026-10-08T11:57:21Z",
+      "thumb": "https://i.ytimg.com/vi/ZMVOPmfCJ5k/hqdefault_live.jpg"
+    },
     {
       "team": "Aston Villa",
       "title": "Europa League Winners, New Faces & What’s Next for Aston Villa? || VILLA PODCAST",
@@ -163,13 +177,6 @@
       "thumb": "https://i.ytimg.com/vi/cNu0fwH7dKs/hqdefault.jpg"
     },
     {
-      "team": "Sunderland",
-      "title": "\"AM I A BIG DOG!?” 🤣 MARRAS WITH ENZO LE FEE & LUKE O'NIEN",
-      "link": "https://www.youtube.com/watch?v=DleuhfEPTWY",
-      "pubDate": "2026-10-06T16:00:24Z",
-      "thumb": "https://i.ytimg.com/vi/DleuhfEPTWY/hqdefault.jpg"
-    },
-    {
       "team": "Liverpool",
       "title": "Classic Highlights: Liverpool 3-2 Man City | Sterling, Skrtel, Coutinho!",
       "link": "https://www.youtube.com/watch?v=husqobhqpdM",
@@ -210,13 +217,6 @@
       "link": "https://www.youtube.com/watch?v=5SSMllUuAb8",
       "pubDate": "2026-10-05T13:00:20Z",
       "thumb": "https://i.ytimg.com/vi/5SSMllUuAb8/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "10 Minutes Of Kenwyne Jones Being Unstoppable",
-      "link": "https://www.youtube.com/watch?v=yNSug8_Akis",
-      "pubDate": "2026-10-05T10:00:04Z",
-      "thumb": "https://i.ytimg.com/vi/yNSug8_Akis/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
