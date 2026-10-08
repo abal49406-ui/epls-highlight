@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-08T17:06:31.213Z",
+  "updatedAt": "2026-10-08T17:32:23.547Z",
   "videos": [
+    {
+      "team": "Ipswich Town",
+      "title": "INSIDE TOWN'S NEW TRAINING COMPLEX",
+      "link": "https://www.youtube.com/watch?v=nnfRVS91tQU",
+      "pubDate": "2026-10-08T17:20:17Z",
+      "thumb": "https://i.ytimg.com/vi/nnfRVS91tQU/hqdefault.jpg"
+    },
     {
       "team": "Manchester City",
       "title": "'We need to be all together' | Enzo Maresca Interview",
@@ -469,13 +476,6 @@
       "link": "https://www.youtube.com/watch?v=eNErRJ9eDUY",
       "pubDate": "2026-09-20T09:00:18Z",
       "thumb": "https://i.ytimg.com/vi/eNErRJ9eDUY/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "O'NEIL AFTER EVERTON DEFEAT",
-      "link": "https://www.youtube.com/watch?v=2hc129sfQBM",
-      "pubDate": "2026-09-20T08:00:35Z",
-      "thumb": "https://i.ytimg.com/vi/2hc129sfQBM/hqdefault.jpg"
     },
     {
       "team": "Aston Villa",
