@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-09T16:33:24.006Z",
+  "updatedAt": "2026-10-09T16:52:10.258Z",
   "videos": [
+    {
+      "team": "Crystal Palace",
+      "title": "Pre-match Press Conference | Nottingham Forest (H)",
+      "link": "https://www.youtube.com/watch?v=YLIGnHkP-jI",
+      "pubDate": "2026-10-09T16:46:16Z",
+      "thumb": "https://i.ytimg.com/vi/YLIGnHkP-jI/hqdefault.jpg"
+    },
     {
       "team": "Chelsea",
       "title": "Alonso Press Conference | 09/10/26 | Chelsea vs Bournemouth | CFC 26/27",
@@ -350,13 +357,6 @@
       "link": "https://www.youtube.com/watch?v=C51oPKQWJpo",
       "pubDate": "2026-10-04T12:43:10Z",
       "thumb": "https://i.ytimg.com/vi/C51oPKQWJpo/hqdefault_live.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "September 2026 GOTM Contenders 🎯⚽️",
-      "link": "https://www.youtube.com/watch?v=QPQ4_AZC6i0",
-      "pubDate": "2026-10-03T08:00:27Z",
-      "thumb": "https://i.ytimg.com/vi/QPQ4_AZC6i0/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
