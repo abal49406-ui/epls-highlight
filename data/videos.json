@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-09T13:13:32.866Z",
+  "updatedAt": "2026-10-09T13:35:54.774Z",
   "videos": [
+    {
+      "team": "Sunderland",
+      "title": "Putting in the Work! 💪 | Inside Training",
+      "link": "https://www.youtube.com/watch?v=PqiF1KnrCr4",
+      "pubDate": "2026-10-09T13:33:31Z",
+      "thumb": "https://i.ytimg.com/vi/PqiF1KnrCr4/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "PRESS CONFERENCE 🎙️ | Mikel Arteta previews Leeds United | EPL",
+      "link": "https://www.youtube.com/watch?v=DI0OraaQvj8",
+      "pubDate": "2026-10-09T13:14:30Z",
+      "thumb": "https://i.ytimg.com/vi/DI0OraaQvj8/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Amad & Baleba RETURN!? Sesko OUT! Man United Press Conference Reaction",
@@ -56,13 +70,6 @@
       "link": "https://www.youtube.com/watch?v=HDe8YWESpr8",
       "pubDate": "2026-10-09T10:45:13Z",
       "thumb": "https://i.ytimg.com/vi/HDe8YWESpr8/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "PRESS CONFERENCE 🎙️ | Mikel Arteta previews Leeds United | EPL",
-      "link": "https://www.youtube.com/watch?v=DI0OraaQvj8",
-      "pubDate": "2026-10-09T10:12:53Z",
-      "thumb": "https://i.ytimg.com/vi/DI0OraaQvj8/hqdefault_live.jpg"
     },
     {
       "team": "Manchester United",
@@ -224,13 +231,6 @@
       "link": "https://www.youtube.com/watch?v=uuM75WaCkOw",
       "pubDate": "2026-10-07T16:59:18Z",
       "thumb": "https://i.ytimg.com/vi/uuM75WaCkOw/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "10 Minutes of Jermain Defoe Being Ridiculously Clinical",
-      "link": "https://www.youtube.com/watch?v=LrmkZxMxDYU",
-      "pubDate": "2026-10-07T16:00:32Z",
-      "thumb": "https://i.ytimg.com/vi/LrmkZxMxDYU/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
