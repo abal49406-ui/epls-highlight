@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-09T18:54:12.095Z",
+  "updatedAt": "2026-10-09T19:05:20.654Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Andoni Iraola Welcomes Back Thiago Alcantara | Padel, Touchline Translations & Player vs Coach",
+      "link": "https://www.youtube.com/watch?v=dkv1XArOWF8",
+      "pubDate": "2026-10-09T19:00:02Z",
+      "thumb": "https://i.ytimg.com/vi/dkv1XArOWF8/hqdefault.jpg"
+    },
     {
       "team": "Manchester City",
       "title": "WATCH LIVE! Brentford v Man City | Premier League U18 Cup",
@@ -287,13 +294,6 @@
       "link": "https://www.youtube.com/watch?v=uuM75WaCkOw",
       "pubDate": "2026-10-07T16:59:18Z",
       "thumb": "https://i.ytimg.com/vi/uuM75WaCkOw/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Liverpool's top 10 wins against Manchester City!",
-      "link": "https://www.youtube.com/watch?v=5ewPO7ObiRA",
-      "pubDate": "2026-10-07T13:00:01Z",
-      "thumb": "https://i.ytimg.com/vi/5ewPO7ObiRA/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
