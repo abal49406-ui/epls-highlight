@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-09T10:34:20.755Z",
+  "updatedAt": "2026-10-09T10:51:42.987Z",
   "videos": [
+    {
+      "team": "Fulham",
+      "title": "Back to work, full focus on Ipswich 🗣️ | Álvaro Arbeloa's Ipswich Press Conference",
+      "link": "https://www.youtube.com/watch?v=HDe8YWESpr8",
+      "pubDate": "2026-10-09T10:45:13Z",
+      "thumb": "https://i.ytimg.com/vi/HDe8YWESpr8/hqdefault.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "PRESS CONFERENCE 🎙️ | Renée Slegers previews key Manchester City clash | WSL",
@@ -420,13 +427,6 @@
       "link": "https://www.youtube.com/watch?v=K6gWNAMSqA0",
       "pubDate": "2026-09-22T17:00:33Z",
       "thumb": "https://i.ytimg.com/vi/K6gWNAMSqA0/hqdefault.jpg"
-    },
-    {
-      "team": "Fulham",
-      "title": "A BATTLE at the Cottage ⚔️ | Behind the scenes against Man Utd | FUL ACCESS",
-      "link": "https://www.youtube.com/watch?v=SGQwu9rOP8c",
-      "pubDate": "2026-09-22T06:30:30Z",
-      "thumb": "https://i.ytimg.com/vi/SGQwu9rOP8c/hqdefault.jpg"
     },
     {
       "team": "Everton",
