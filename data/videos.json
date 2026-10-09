@@ -1,11 +1,18 @@
 {
-  "updatedAt": "2026-10-09T12:06:33.386Z",
+  "updatedAt": "2026-10-09T12:37:31.029Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Press Conference: Liverpool vs Man City | Andoni Iraola",
+      "link": "https://www.youtube.com/watch?v=B1pZoGNjhqI",
+      "pubDate": "2026-10-09T12:25:11Z",
+      "thumb": "https://i.ytimg.com/vi/B1pZoGNjhqI/hqdefault_live.jpg"
+    },
     {
       "team": "Hull City",
       "title": "Everton (H)| Sergej Jakirović's Live Pre-Match Press Conference",
       "link": "https://www.youtube.com/watch?v=8sXV81i8fFA",
-      "pubDate": "2026-10-09T11:32:38Z",
+      "pubDate": "2026-10-09T12:23:49Z",
       "thumb": "https://i.ytimg.com/vi/8sXV81i8fFA/hqdefault_live.jpg"
     },
     {
@@ -217,13 +224,6 @@
       "link": "https://www.youtube.com/watch?v=9WyFQM-DF_4",
       "pubDate": "2026-10-07T16:00:23Z",
       "thumb": "https://i.ytimg.com/vi/9WyFQM-DF_4/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Press Conference: Liverpool vs Man City | Andoni Iraola",
-      "link": "https://www.youtube.com/watch?v=B1pZoGNjhqI",
-      "pubDate": "2026-10-07T14:53:35Z",
-      "thumb": "https://i.ytimg.com/vi/B1pZoGNjhqI/hqdefault_live.jpg"
     },
     {
       "team": "Liverpool",
