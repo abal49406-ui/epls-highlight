@@ -1,19 +1,26 @@
 {
-  "updatedAt": "2026-10-09T18:05:58.813Z",
+  "updatedAt": "2026-10-09T18:35:08.285Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "WATCH LIVE! Brentford v Man City | Premier League U18 Cup",
+      "link": "https://www.youtube.com/watch?v=tapQE-048us",
+      "pubDate": "2026-10-09T18:32:01Z",
+      "thumb": "https://i.ytimg.com/vi/tapQE-048us/hqdefault_live.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Carrick SLAMS Man City! BIG Injury Blow! Goldbridge Man Utd News",
+      "link": "https://www.youtube.com/watch?v=5cf9zQFbGSU",
+      "pubDate": "2026-10-09T18:17:52Z",
+      "thumb": "https://i.ytimg.com/vi/5cf9zQFbGSU/hqdefault.jpg"
+    },
     {
       "team": "Nottingham Forest",
       "title": "Jair Cunha Reviews His Camera Roll After Making His International Debut With Brazil 🇧🇷",
       "link": "https://www.youtube.com/watch?v=zFVNWoQdbRo",
       "pubDate": "2026-10-09T18:00:05Z",
       "thumb": "https://i.ytimg.com/vi/zFVNWoQdbRo/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Carrick SLAMS Man City! BIG Injury Blow! Goldbridge Man Utd News",
-      "link": "https://www.youtube.com/watch?v=5cf9zQFbGSU",
-      "pubDate": "2026-10-09T17:45:30Z",
-      "thumb": "https://i.ytimg.com/vi/5cf9zQFbGSU/hqdefault_live.jpg"
     },
     {
       "team": "Aston Villa",
@@ -280,13 +287,6 @@
       "link": "https://www.youtube.com/watch?v=uuM75WaCkOw",
       "pubDate": "2026-10-07T16:59:18Z",
       "thumb": "https://i.ytimg.com/vi/uuM75WaCkOw/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "CLASSIC Goals at Anfield! | Liverpool vs Man City",
-      "link": "https://www.youtube.com/watch?v=9WyFQM-DF_4",
-      "pubDate": "2026-10-07T16:00:23Z",
-      "thumb": "https://i.ytimg.com/vi/9WyFQM-DF_4/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
