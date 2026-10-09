@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-09T21:05:32.799Z",
+  "updatedAt": "2026-10-09T21:31:26.917Z",
   "videos": [
+    {
+      "team": "Aston Villa",
+      "title": "PURE MAGIC! ✨⚽ | FIVE Aston Villa BANGERS Against Brentford!",
+      "link": "https://www.youtube.com/watch?v=G3PokG9ivzE",
+      "pubDate": "2026-10-09T21:07:20Z",
+      "thumb": "https://i.ytimg.com/vi/G3PokG9ivzE/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "Andoni Iraola Welcomes Back Thiago Alcantara | Padel, Touchline Translations & Player vs Coach",
@@ -455,13 +462,6 @@
       "link": "https://www.youtube.com/watch?v=s3BUfIKYQ8M",
       "pubDate": "2026-09-21T19:59:26Z",
       "thumb": "https://i.ytimg.com/vi/s3BUfIKYQ8M/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "Buendía scores at Spurs AGAIN 🤩 | Spurs v Villa | PITCHSIDE",
-      "link": "https://www.youtube.com/watch?v=NfSDCJEPofQ",
-      "pubDate": "2026-09-21T19:36:41Z",
-      "thumb": "https://i.ytimg.com/vi/NfSDCJEPofQ/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
