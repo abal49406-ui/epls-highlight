@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-09T07:52:13.190Z",
+  "updatedAt": "2026-10-09T08:06:29.956Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "Your First Arsenal Goal Hits Different! | 2026 Edition Ft. Viktor Gyokeres & Bruno Guimaraes",
+      "link": "https://www.youtube.com/watch?v=nRUuiHSskZY",
+      "pubDate": "2026-10-09T08:01:29Z",
+      "thumb": "https://i.ytimg.com/vi/nRUuiHSskZY/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Carrick MUST Do This! Man United vs Tottenham Goldbridge Preview",
@@ -196,13 +203,6 @@
       "link": "https://www.youtube.com/watch?v=Pp7yRItWuF8",
       "pubDate": "2026-10-07T09:00:03Z",
       "thumb": "https://i.ytimg.com/vi/Pp7yRItWuF8/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "ALL Arsenal Goals Scored So Far This Season | 2026/27",
-      "link": "https://www.youtube.com/watch?v=Jr6O7yr2Td0",
-      "pubDate": "2026-10-07T08:31:09Z",
-      "thumb": "https://i.ytimg.com/vi/Jr6O7yr2Td0/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
