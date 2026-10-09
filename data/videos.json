@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-09T10:06:31.610Z",
+  "updatedAt": "2026-10-09T10:34:20.755Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "PRESS CONFERENCE 🎙️ | Renée Slegers previews key Manchester City clash | WSL",
+      "link": "https://www.youtube.com/watch?v=DI0OraaQvj8",
+      "pubDate": "2026-10-09T10:12:53Z",
+      "thumb": "https://i.ytimg.com/vi/DI0OraaQvj8/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "HUGE warning for Carrick! Baleba STARTS? Man United News",
@@ -196,13 +203,6 @@
       "link": "https://www.youtube.com/watch?v=B1pZoGNjhqI",
       "pubDate": "2026-10-07T14:53:35Z",
       "thumb": "https://i.ytimg.com/vi/B1pZoGNjhqI/hqdefault_live.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "Sitting down with supporters ❤️ | Mikel Arteta's new contract roundtable",
-      "link": "https://www.youtube.com/watch?v=H2lurV9cSrA",
-      "pubDate": "2026-10-07T13:30:24Z",
-      "thumb": "https://i.ytimg.com/vi/H2lurV9cSrA/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
