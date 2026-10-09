@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-09T10:51:42.987Z",
+  "updatedAt": "2026-10-09T11:05:36.943Z",
   "videos": [
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Spurs train ahead of Man Utd trip 🔋",
+      "link": "https://www.youtube.com/watch?v=T76L8KOFiK8",
+      "pubDate": "2026-10-09T11:00:02Z",
+      "thumb": "https://i.ytimg.com/vi/T76L8KOFiK8/hqdefault.jpg"
+    },
     {
       "team": "Fulham",
       "title": "Back to work, full focus on Ipswich 🗣️ | Álvaro Arbeloa's Ipswich Press Conference",
@@ -329,13 +336,6 @@
       "link": "https://www.youtube.com/watch?v=yL0gE7z0oos",
       "pubDate": "2026-10-02T13:00:36Z",
       "thumb": "https://i.ytimg.com/vi/yL0gE7z0oos/hqdefault.jpg"
-    },
-    {
-      "team": "Tottenham Hotspur",
-      "title": "Spurs Mic'd Up! 🎙️ | Overheard on squad photo day 📸",
-      "link": "https://www.youtube.com/watch?v=I5QMdCD2Xbs",
-      "pubDate": "2026-10-01T16:00:16Z",
-      "thumb": "https://i.ytimg.com/vi/I5QMdCD2Xbs/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
