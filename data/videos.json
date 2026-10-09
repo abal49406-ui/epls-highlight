@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-09T15:06:44.789Z",
+  "updatedAt": "2026-10-09T15:32:56.626Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "BACK HOME IN NORTH LONDON! ✊ | Live From N5 | Arsenal v Leeds United | Premier League | EPL",
+      "link": "https://www.youtube.com/watch?v=QtjLiJ807fg",
+      "pubDate": "2026-10-09T15:29:47Z",
+      "thumb": "https://i.ytimg.com/vi/QtjLiJ807fg/hqdefault_live.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "PRESS CONFERENCE 🎙️ | Mikel Arteta previews Leeds United | EPL",
+      "link": "https://www.youtube.com/watch?v=ZXUZPxlUMok",
+      "pubDate": "2026-10-09T15:28:11Z",
+      "thumb": "https://i.ytimg.com/vi/ZXUZPxlUMok/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester City",
       "title": "Five In Five: The Enzo Maresca Era Begins",
@@ -52,7 +66,7 @@
     },
     {
       "team": "Liverpool",
-      "title": "Press Conference: Liverpool vs Man City | Andoni Iraola",
+      "title": "Press Conference: Liverpool vs Man City | Andoni Iraola | Team news",
       "link": "https://www.youtube.com/watch?v=B1pZoGNjhqI",
       "pubDate": "2026-10-09T12:47:56Z",
       "thumb": "https://i.ytimg.com/vi/B1pZoGNjhqI/hqdefault.jpg"
@@ -70,13 +84,6 @@
       "link": "https://www.youtube.com/watch?v=8sXV81i8fFA",
       "pubDate": "2026-10-09T12:23:49Z",
       "thumb": "https://i.ytimg.com/vi/8sXV81i8fFA/hqdefault_live.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "KING OF HIGHBURY | A Charlie George documentary | An Arsenal Original",
-      "link": "https://www.youtube.com/watch?v=Fu0IkRzq0GU",
-      "pubDate": "2026-10-09T11:10:17Z",
-      "thumb": "https://i.ytimg.com/vi/Fu0IkRzq0GU/hqdefault.jpg"
     },
     {
       "team": "Tottenham Hotspur",
@@ -98,13 +105,6 @@
       "link": "https://www.youtube.com/watch?v=_pwm3qHl1Vs",
       "pubDate": "2026-10-09T10:02:19Z",
       "thumb": "https://i.ytimg.com/vi/_pwm3qHl1Vs/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "ASK ME ANYTHING | Kai Havertz answers your questions 🫵 | Iconic goals and off-pitch interests",
-      "link": "https://www.youtube.com/watch?v=v6fsOAqHFM8",
-      "pubDate": "2026-10-09T09:41:17Z",
-      "thumb": "https://i.ytimg.com/vi/v6fsOAqHFM8/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
