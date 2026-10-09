@@ -1,12 +1,26 @@
 {
-  "updatedAt": "2026-10-09T08:52:57.591Z",
+  "updatedAt": "2026-10-09T09:07:06.773Z",
   "videos": [
     {
       "team": "Manchester United",
       "title": "HUGE warning for Carrick! Baleba STARTS? Man United News",
       "link": "https://www.youtube.com/watch?v=_pwm3qHl1Vs",
-      "pubDate": "2026-10-09T08:45:02Z",
+      "pubDate": "2026-10-09T09:02:50Z",
       "thumb": "https://i.ytimg.com/vi/_pwm3qHl1Vs/hqdefault_live.jpg"
+    },
+    {
+      "team": "Ipswich Town",
+      "title": "INSIDE TRAINING | PRE-FULHAM (H)",
+      "link": "https://www.youtube.com/watch?v=oxkYPNcGYoE",
+      "pubDate": "2026-10-09T09:00:23Z",
+      "thumb": "https://i.ytimg.com/vi/oxkYPNcGYoE/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Goal of the Month RESULT! The best Liverpool goals from August & September!",
+      "link": "https://www.youtube.com/watch?v=8eEneeOO3Ek",
+      "pubDate": "2026-10-09T09:00:11Z",
+      "thumb": "https://i.ytimg.com/vi/8eEneeOO3Ek/hqdefault.jpg"
     },
     {
       "team": "Arsenal",
@@ -233,13 +247,6 @@
       "thumb": "https://i.ytimg.com/vi/cNu0fwH7dKs/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "Classic Highlights: Liverpool 3-2 Man City | Sterling, Skrtel, Coutinho!",
-      "link": "https://www.youtube.com/watch?v=husqobhqpdM",
-      "pubDate": "2026-10-06T15:00:15Z",
-      "thumb": "https://i.ytimg.com/vi/husqobhqpdM/hqdefault.jpg"
-    },
-    {
       "team": "Fulham",
       "title": "Fulham FC: A New Era ⚫️⚪️",
       "link": "https://www.youtube.com/watch?v=sR4wqwCFalQ",
@@ -301,13 +308,6 @@
       "link": "https://www.youtube.com/watch?v=K5MV16n11eY",
       "pubDate": "2026-10-02T17:00:31Z",
       "thumb": "https://i.ytimg.com/vi/K5MV16n11eY/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "When Eagles Dare - Episode 5 | STANDING ON THE EDGE OF GREATNESS",
-      "link": "https://www.youtube.com/watch?v=xmCx8E3a8Rs",
-      "pubDate": "2026-10-02T17:00:28Z",
-      "thumb": "https://i.ytimg.com/vi/xmCx8E3a8Rs/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
@@ -401,6 +401,13 @@
       "thumb": "https://i.ytimg.com/vi/S7ONaVegbiI/hqdefault.jpg"
     },
     {
+      "team": "Leeds United",
+      "title": "Matchday Live | Arsenal v Leeds United",
+      "link": "https://www.youtube.com/watch?v=R-wki3Y6Eew",
+      "pubDate": "2026-09-23T13:34:45Z",
+      "thumb": "https://i.ytimg.com/vi/R-wki3Y6Eew/hqdefault_live.jpg"
+    },
+    {
       "team": "Brentford",
       "title": "Fábio's PL Return + Jaidon's First Goal ❤️ | Inside Brentford | Brentford 3-0 Chelsea",
       "link": "https://www.youtube.com/watch?v=ZQkm0kl-nB0",
@@ -462,20 +469,6 @@
       "link": "https://www.youtube.com/watch?v=ayARg6zleKs",
       "pubDate": "2026-09-20T16:25:06Z",
       "thumb": "https://i.ytimg.com/vi/ayARg6zleKs/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "“We take the point and move on” | Daniel Farke reaction | Leeds United 0-0 Crystal Palace",
-      "link": "https://www.youtube.com/watch?v=v9tBcOmlp4Q",
-      "pubDate": "2026-09-20T16:02:54Z",
-      "thumb": "https://i.ytimg.com/vi/v9tBcOmlp4Q/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "HIGHLIGHTS | EVERTON 1 TOWN 0",
-      "link": "https://www.youtube.com/watch?v=eNErRJ9eDUY",
-      "pubDate": "2026-09-20T09:00:18Z",
-      "thumb": "https://i.ytimg.com/vi/eNErRJ9eDUY/hqdefault.jpg"
     },
     {
       "team": "Aston Villa",
