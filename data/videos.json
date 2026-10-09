@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-09T13:53:19.153Z",
+  "updatedAt": "2026-10-09T14:07:45.060Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "Five In Five: The Enzo Maresca Era Begins",
+      "link": "https://www.youtube.com/watch?v=JM9OFF6c-So",
+      "pubDate": "2026-10-09T14:00:32Z",
+      "thumb": "https://i.ytimg.com/vi/JM9OFF6c-So/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Oliver Glasner Press Conference 🎙️ | Crystal Palace vs Nottingham Forest | Premier League",
+      "link": "https://www.youtube.com/watch?v=CDmjg7D-K6U",
+      "pubDate": "2026-10-09T13:57:56Z",
+      "thumb": "https://i.ytimg.com/vi/CDmjg7D-K6U/hqdefault.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "PRESS CONFERENCE 🎙️ | Mikel Arteta previews Leeds United | EPL",
@@ -254,13 +268,6 @@
       "thumb": "https://i.ytimg.com/vi/Pp7yRItWuF8/hqdefault.jpg"
     },
     {
-      "team": "Manchester City",
-      "title": "INSIDE MATCHDAY | Man City 4-2 Arsenal | A Closer Look as Blues Edge WSL Thriller at the Etihad",
-      "link": "https://www.youtube.com/watch?v=AUHOczVHVo4",
-      "pubDate": "2026-10-06T17:00:37Z",
-      "thumb": "https://i.ytimg.com/vi/AUHOczVHVo4/hqdefault.jpg"
-    },
-    {
       "team": "Nottingham Forest",
       "title": "NOTTINGHAM FOREST STARS PLAY FOOTBALL TENABLE! 🤔",
       "link": "https://www.youtube.com/watch?v=9bI6x82EJ_w",
@@ -343,13 +350,6 @@
       "link": "https://www.youtube.com/watch?v=K5MV16n11eY",
       "pubDate": "2026-10-02T17:00:31Z",
       "thumb": "https://i.ytimg.com/vi/K5MV16n11eY/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Oliver Glasner Answers Grassroots Coaches' Questions 🧠",
-      "link": "https://www.youtube.com/watch?v=2gIznCnjjkI",
-      "pubDate": "2026-10-02T16:09:53Z",
-      "thumb": "https://i.ytimg.com/vi/2gIznCnjjkI/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
