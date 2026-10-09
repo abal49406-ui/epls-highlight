@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-09T16:52:10.258Z",
+  "updatedAt": "2026-10-09T17:06:11.907Z",
   "videos": [
+    {
+      "team": "Aston Villa",
+      "title": "Emi Buendía ahead of Brentford | PRE-MATCH",
+      "link": "https://www.youtube.com/watch?v=I8kGEwZ9k74",
+      "pubDate": "2026-10-09T17:00:01Z",
+      "thumb": "https://i.ytimg.com/vi/I8kGEwZ9k74/hqdefault.jpg"
+    },
     {
       "team": "Crystal Palace",
       "title": "Pre-match Press Conference | Nottingham Forest (H)",
@@ -483,13 +490,6 @@
       "link": "https://www.youtube.com/watch?v=ayARg6zleKs",
       "pubDate": "2026-09-20T16:25:06Z",
       "thumb": "https://i.ytimg.com/vi/ayARg6zleKs/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "\"We can go into the international break happy\" 😃 | Johan Manzambi on Spurs victory | POST MATCH",
-      "link": "https://www.youtube.com/watch?v=yn-UvcWhAio",
-      "pubDate": "2026-09-20T08:00:25Z",
-      "thumb": "https://i.ytimg.com/vi/yn-UvcWhAio/hqdefault.jpg"
     },
     {
       "team": "Brentford",
