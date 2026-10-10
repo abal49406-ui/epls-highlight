@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-10T17:03:44.282Z",
+  "updatedAt": "2026-10-10T17:28:39.051Z",
   "videos": [
+    {
+      "team": "Sunderland",
+      "title": "\"Learn, reset and go again\" | Le Bris & Danso Post-Match Reaction",
+      "link": "https://www.youtube.com/watch?v=1-Chps9jpk8",
+      "pubDate": "2026-10-10T17:20:30Z",
+      "thumb": "https://i.ytimg.com/vi/1-Chps9jpk8/hqdefault.jpg"
+    },
     {
       "team": "Brighton & Hove Albion",
       "title": "POST MATCH | Hurzeler & De Cuyper | Sunderland v Brighton | Premier League",
@@ -364,13 +371,6 @@
       "link": "https://www.youtube.com/watch?v=9QtHgFJr9yU",
       "pubDate": "2026-10-08T12:43:52Z",
       "thumb": "https://i.ytimg.com/vi/9QtHgFJr9yU/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Régis Le Bris' pre-match Premier League press conference! | Chelsea vs Sunderland AFC",
-      "link": "https://www.youtube.com/watch?v=ZMVOPmfCJ5k",
-      "pubDate": "2026-10-08T11:57:21Z",
-      "thumb": "https://i.ytimg.com/vi/ZMVOPmfCJ5k/hqdefault_live.jpg"
     },
     {
       "team": "Manchester City",
