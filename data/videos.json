@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-10T09:04:21.828Z",
+  "updatedAt": "2026-10-10T09:30:41.570Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: Everton U18 v AFC Bournemouth U18",
+      "link": "https://www.youtube.com/watch?v=fZzW6a6V3D8",
+      "pubDate": "2026-10-10T09:09:10Z",
+      "thumb": "https://i.ytimg.com/vi/fZzW6a6V3D8/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "START Baleba & Yoro! NO EXCUSES For Carrick! Man United vs Spurs Road Trip",
@@ -406,13 +413,6 @@
       "link": "https://www.youtube.com/watch?v=mmyyP9YtWsQ",
       "pubDate": "2026-09-30T19:00:23Z",
       "thumb": "https://i.ytimg.com/vi/mmyyP9YtWsQ/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "International Break Training: Cherries hard at work during the break 💪",
-      "link": "https://www.youtube.com/watch?v=VtR-oXg3dug",
-      "pubDate": "2026-09-30T14:52:30Z",
-      "thumb": "https://i.ytimg.com/vi/VtR-oXg3dug/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
