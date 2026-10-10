@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-10T15:48:44.002Z",
+  "updatedAt": "2026-10-10T16:03:19.516Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "MAN UNITED vs SPURS! Countdown To Kickoff!",
+      "link": "https://www.youtube.com/watch?v=7_r0aJhyPfg",
+      "pubDate": "2026-10-10T16:01:32Z",
+      "thumb": "https://i.ytimg.com/vi/7_r0aJhyPfg/hqdefault_live.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Special Radosław Majewski Hat-Trick! 🪄 | Crystal Palace 0-3 Nottingham Forest | Classic Highlights 🎬",
+      "link": "https://www.youtube.com/watch?v=uH-5x9b8Qmg",
+      "pubDate": "2026-10-10T16:00:08Z",
+      "thumb": "https://i.ytimg.com/vi/uH-5x9b8Qmg/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "MAN UNITED vs TOTTENHAM LIVE Watchalong with Mark Goldbridge",
+      "link": "https://www.youtube.com/watch?v=79Gk_qV2HYk",
+      "pubDate": "2026-10-10T15:59:47Z",
+      "thumb": "https://i.ytimg.com/vi/79Gk_qV2HYk/hqdefault_live.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "VILLA 2-2 BRENTFORD || POST-MATCH LIVE || PRESENTED BY VISIT RWANDA",
+      "link": "https://www.youtube.com/watch?v=0G-3rgIq77o",
+      "pubDate": "2026-10-10T15:59:35Z",
+      "thumb": "https://i.ytimg.com/vi/0G-3rgIq77o/hqdefault_live.jpg"
+    },
     {
       "team": "Crystal Palace",
       "title": "U18 Highlights | Crystal Palace 3 0 Leeds United | Premier League Cup",
@@ -14,13 +42,6 @@
       "link": "https://www.youtube.com/watch?v=y3B81mlcO18",
       "pubDate": "2026-10-10T15:11:56Z",
       "thumb": "https://i.ytimg.com/vi/y3B81mlcO18/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "MAN UNITED vs SPURS! Countdown To Kickoff!",
-      "link": "https://www.youtube.com/watch?v=7_r0aJhyPfg",
-      "pubDate": "2026-10-10T14:32:36Z",
-      "thumb": "https://i.ytimg.com/vi/7_r0aJhyPfg/hqdefault_live.jpg"
     },
     {
       "team": "Leeds United",
@@ -56,13 +77,6 @@
       "link": "https://www.youtube.com/watch?v=lji98kP5JlM",
       "pubDate": "2026-10-10T13:53:59Z",
       "thumb": "https://i.ytimg.com/vi/lji98kP5JlM/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "MAN UNITED vs TOTTENHAM LIVE Watchalong with Mark Goldbridge",
-      "link": "https://www.youtube.com/watch?v=79Gk_qV2HYk",
-      "pubDate": "2026-10-10T13:51:17Z",
-      "thumb": "https://i.ytimg.com/vi/79Gk_qV2HYk/hqdefault_live.jpg"
     },
     {
       "team": "Aston Villa",
@@ -352,25 +366,11 @@
       "thumb": "https://i.ytimg.com/vi/ZMVOPmfCJ5k/hqdefault_live.jpg"
     },
     {
-      "team": "Aston Villa",
-      "title": "Europa League Winners, New Faces & What’s Next for Aston Villa? || VILLA PODCAST",
-      "link": "https://www.youtube.com/watch?v=z4p7ipC-ECs",
-      "pubDate": "2026-10-08T11:07:05Z",
-      "thumb": "https://i.ytimg.com/vi/z4p7ipC-ECs/hqdefault.jpg"
-    },
-    {
       "team": "Manchester City",
       "title": "A Taste of Home | @erling Haaland talks family feasts and the Norwegian diet 🇳🇴🐟",
       "link": "https://www.youtube.com/watch?v=XBaa52T2IHA",
       "pubDate": "2026-10-08T09:10:28Z",
       "thumb": "https://i.ytimg.com/vi/XBaa52T2IHA/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Glasner in action & Domínguez masterclass! 😱 | Who Wins the Nottingham Forest Padel Tournament? 🏓",
-      "link": "https://www.youtube.com/watch?v=XxcO1LSclno",
-      "pubDate": "2026-10-07T17:00:39Z",
-      "thumb": "https://i.ytimg.com/vi/XxcO1LSclno/hqdefault.jpg"
     },
     {
       "team": "Tottenham Hotspur",
