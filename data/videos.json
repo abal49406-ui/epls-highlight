@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-10T18:33:44.086Z",
+  "updatedAt": "2026-10-10T18:51:49.392Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "MAN UNITED vs TOTTENHAM LIVE Watchalong with Mark Goldbridge",
+      "link": "https://www.youtube.com/watch?v=79Gk_qV2HYk",
+      "pubDate": "2026-10-10T18:35:05Z",
+      "thumb": "https://i.ytimg.com/vi/79Gk_qV2HYk/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "CARRICK TO BLAME! Man United 1-1 Tottenham Goldbridge Match Reaction",
+      "link": "https://www.youtube.com/watch?v=m6H7HiDvezc",
+      "pubDate": "2026-10-10T18:34:38Z",
+      "thumb": "https://i.ytimg.com/vi/m6H7HiDvezc/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Absolutely BOTTLED IT! Man United 1 - 1 Spurs! Fans Forum",
@@ -9,25 +23,11 @@
       "thumb": "https://i.ytimg.com/vi/N6GDQ4x_bFc/hqdefault_live.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "MAN UNITED vs TOTTENHAM LIVE Watchalong with Mark Goldbridge",
-      "link": "https://www.youtube.com/watch?v=79Gk_qV2HYk",
-      "pubDate": "2026-10-10T18:29:00Z",
-      "thumb": "https://i.ytimg.com/vi/79Gk_qV2HYk/hqdefault_live.jpg"
-    },
-    {
       "team": "Chelsea",
       "title": "ALONSO & CAICEDO react post-Bournemouth | Premier League 2026/27",
       "link": "https://www.youtube.com/watch?v=SEhLjPRCtyo",
       "pubDate": "2026-10-10T18:23:06Z",
       "thumb": "https://i.ytimg.com/vi/SEhLjPRCtyo/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "CARRICK TO BLAME! Man United 1-1 Tottenham Goldbridge Match Reaction",
-      "link": "https://www.youtube.com/watch?v=m6H7HiDvezc",
-      "pubDate": "2026-10-10T18:13:46Z",
-      "thumb": "https://i.ytimg.com/vi/m6H7HiDvezc/hqdefault_live.jpg"
     },
     {
       "team": "Chelsea",
