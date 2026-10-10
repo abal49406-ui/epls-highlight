@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-10T14:29:45.775Z",
+  "updatedAt": "2026-10-10T14:48:13.312Z",
   "videos": [
+    {
+      "team": "Ipswich Town",
+      "title": "MATCHDAY LIVE | HT: TOWN V FULHAM",
+      "link": "https://www.youtube.com/watch?v=y3B81mlcO18",
+      "pubDate": "2026-10-10T14:47:08Z",
+      "thumb": "https://i.ytimg.com/vi/y3B81mlcO18/hqdefault_live.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "MAN UNITED vs SPURS! Countdown To Kickoff!",
+      "link": "https://www.youtube.com/watch?v=7_r0aJhyPfg",
+      "pubDate": "2026-10-10T14:32:36Z",
+      "thumb": "https://i.ytimg.com/vi/7_r0aJhyPfg/hqdefault_live.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "“I’m proud and heartbroken\" | Daniel Farke reaction | Arsenal 2-1 Leeds United",
+      "link": "https://www.youtube.com/watch?v=kHrZuJh3Ewk",
+      "pubDate": "2026-10-10T14:30:40Z",
+      "thumb": "https://i.ytimg.com/vi/kHrZuJh3Ewk/hqdefault.jpg"
+    },
     {
       "team": "Leeds United",
       "title": "“Take the positives into next weekend” | James Justin | Arsenal 2-1 Leeds United",
@@ -42,13 +63,6 @@
       "link": "https://www.youtube.com/watch?v=j6VpbaEw6GE",
       "pubDate": "2026-10-10T13:51:09Z",
       "thumb": "https://i.ytimg.com/vi/j6VpbaEw6GE/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "MAN UNITED vs SPURS! Countdown To Kickoff!",
-      "link": "https://www.youtube.com/watch?v=7_r0aJhyPfg",
-      "pubDate": "2026-10-10T12:56:11Z",
-      "thumb": "https://i.ytimg.com/vi/7_r0aJhyPfg/hqdefault_live.jpg"
     },
     {
       "team": "Arsenal",
@@ -317,13 +331,6 @@
       "thumb": "https://i.ytimg.com/vi/_9JLEqkyrYk/hqdefault.jpg"
     },
     {
-      "team": "Leeds United",
-      "title": "Daniel Farke pre-match press conference | Arsenal v Leeds United | Premier League",
-      "link": "https://www.youtube.com/watch?v=bhrUKfD7ozQ",
-      "pubDate": "2026-10-08T13:04:09Z",
-      "thumb": "https://i.ytimg.com/vi/bhrUKfD7ozQ/hqdefault.jpg"
-    },
-    {
       "team": "Sunderland",
       "title": "Sunderland vs Brighton & Hove Albion | Régis Le Bris' Premier League Press Conference",
       "link": "https://www.youtube.com/watch?v=9QtHgFJr9yU",
@@ -364,13 +371,6 @@
       "link": "https://www.youtube.com/watch?v=wi5WXr2l1WI",
       "pubDate": "2026-10-07T17:00:14Z",
       "thumb": "https://i.ytimg.com/vi/wi5WXr2l1WI/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "NEW TRAINING COMPLEX TOUR WITH MARK ASHTON",
-      "link": "https://www.youtube.com/watch?v=uuM75WaCkOw",
-      "pubDate": "2026-10-07T16:59:18Z",
-      "thumb": "https://i.ytimg.com/vi/uuM75WaCkOw/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
