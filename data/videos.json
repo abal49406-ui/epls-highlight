@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-10T11:48:32.899Z",
+  "updatedAt": "2026-10-10T12:04:32.862Z",
   "videos": [
+    {
+      "team": "Crystal Palace",
+      "title": "Pre-match Press Conference | Nottingham Forest (H)",
+      "link": "https://www.youtube.com/watch?v=1AhHVwU9Iyw",
+      "pubDate": "2026-10-10T12:01:54Z",
+      "thumb": "https://i.ytimg.com/vi/1AhHVwU9Iyw/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: Everton U18 v AFC Bournemouth U18",
+      "link": "https://www.youtube.com/watch?v=fZzW6a6V3D8",
+      "pubDate": "2026-10-10T12:00:29Z",
+      "thumb": "https://i.ytimg.com/vi/fZzW6a6V3D8/hqdefault_live.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "BACK HOME IN NORTH LONDON! ✊ | Live From N5 | Arsenal v Leeds United | Premier League | EPL",
@@ -42,13 +56,6 @@
       "link": "https://www.youtube.com/watch?v=j6VpbaEw6GE",
       "pubDate": "2026-10-10T09:31:22Z",
       "thumb": "https://i.ytimg.com/vi/j6VpbaEw6GE/hqdefault_live.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: Everton U18 v AFC Bournemouth U18",
-      "link": "https://www.youtube.com/watch?v=fZzW6a6V3D8",
-      "pubDate": "2026-10-10T09:09:10Z",
-      "thumb": "https://i.ytimg.com/vi/fZzW6a6V3D8/hqdefault_live.jpg"
     },
     {
       "team": "Manchester United",
@@ -164,7 +171,7 @@
     },
     {
       "team": "Sunderland",
-      "title": "Putting in the Work! 💪 | Inside Training",
+      "title": "Nilson Angulo, Wilson Isidor & More Return 🔥 | Inside Training",
       "link": "https://www.youtube.com/watch?v=PqiF1KnrCr4",
       "pubDate": "2026-10-09T13:33:31Z",
       "thumb": "https://i.ytimg.com/vi/PqiF1KnrCr4/hqdefault.jpg"
