@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-10T10:04:15.809Z",
+  "updatedAt": "2026-10-10T10:29:43.278Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "WATCH LIVE! Brentford v Man City | Premier League U18 Cup",
+      "link": "https://www.youtube.com/watch?v=tapQE-048us",
+      "pubDate": "2026-10-10T10:24:51Z",
+      "thumb": "https://i.ytimg.com/vi/tapQE-048us/hqdefault_live.jpg"
+    },
+    {
+      "team": "Chelsea",
+      "title": "COLE PALMER | Exclusive Interview ✍️",
+      "link": "https://www.youtube.com/watch?v=QVftJWEhfIs",
+      "pubDate": "2026-10-10T10:15:30Z",
+      "thumb": "https://i.ytimg.com/vi/QVftJWEhfIs/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "BACK HOME IN NORTH LONDON! ✊ | Live From N5 | Arsenal v Leeds United | Premier League | EPL",
+      "link": "https://www.youtube.com/watch?v=QtjLiJ807fg",
+      "pubDate": "2026-10-10T10:11:59Z",
+      "thumb": "https://i.ytimg.com/vi/QtjLiJ807fg/hqdefault_live.jpg"
+    },
     {
       "team": "Chelsea",
       "title": "Cole goes live! 🚨 📹",
@@ -72,13 +93,6 @@
       "thumb": "https://i.ytimg.com/vi/dkv1XArOWF8/hqdefault.jpg"
     },
     {
-      "team": "Manchester City",
-      "title": "WATCH LIVE! Brentford v Man City | Premier League U18 Cup",
-      "link": "https://www.youtube.com/watch?v=tapQE-048us",
-      "pubDate": "2026-10-09T18:32:01Z",
-      "thumb": "https://i.ytimg.com/vi/tapQE-048us/hqdefault_live.jpg"
-    },
-    {
       "team": "Manchester United",
       "title": "Carrick SLAMS Man City! BIG Injury Blow! Goldbridge Man Utd News",
       "link": "https://www.youtube.com/watch?v=5cf9zQFbGSU",
@@ -119,13 +133,6 @@
       "link": "https://www.youtube.com/watch?v=RV-EMORCOuI",
       "pubDate": "2026-10-09T16:00:06Z",
       "thumb": "https://i.ytimg.com/vi/RV-EMORCOuI/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "BACK HOME IN NORTH LONDON! ✊ | Live From N5 | Arsenal v Leeds United | Premier League | EPL",
-      "link": "https://www.youtube.com/watch?v=QtjLiJ807fg",
-      "pubDate": "2026-10-09T15:29:47Z",
-      "thumb": "https://i.ytimg.com/vi/QtjLiJ807fg/hqdefault_live.jpg"
     },
     {
       "team": "Arsenal",
@@ -392,13 +399,6 @@
       "link": "https://www.youtube.com/watch?v=AM1d4jNAUNg",
       "pubDate": "2026-10-05T03:10:09Z",
       "thumb": "https://i.ytimg.com/vi/AM1d4jNAUNg/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "Behind the anthem 🇬🇭💙",
-      "link": "https://www.youtube.com/watch?v=yL0gE7z0oos",
-      "pubDate": "2026-10-02T13:00:36Z",
-      "thumb": "https://i.ytimg.com/vi/yL0gE7z0oos/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
