@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-10T09:30:41.570Z",
+  "updatedAt": "2026-10-10T09:48:57.738Z",
   "videos": [
+    {
+      "team": "Aston Villa",
+      "title": "VILLA v BRENTFORD || MATCHDAY LIVE || PRESENTED BY VISIT RWANDA",
+      "link": "https://www.youtube.com/watch?v=j6VpbaEw6GE",
+      "pubDate": "2026-10-10T09:31:22Z",
+      "thumb": "https://i.ytimg.com/vi/j6VpbaEw6GE/hqdefault_live.jpg"
+    },
     {
       "team": "AFC Bournemouth",
       "title": "🔴 LIVE: Everton U18 v AFC Bournemouth U18",
@@ -406,13 +413,6 @@
       "link": "https://www.youtube.com/watch?v=F2TG3XJxbeE",
       "pubDate": "2026-10-01T07:51:22Z",
       "thumb": "https://i.ytimg.com/vi/F2TG3XJxbeE/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "Working hard in the Spanish heat ☀️💪 | TRAINING",
-      "link": "https://www.youtube.com/watch?v=mmyyP9YtWsQ",
-      "pubDate": "2026-09-30T19:00:23Z",
-      "thumb": "https://i.ytimg.com/vi/mmyyP9YtWsQ/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
