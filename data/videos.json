@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T13:06:18.262Z",
+  "updatedAt": "2026-10-10T13:31:12.816Z",
   "videos": [
     {
       "team": "Manchester United",
@@ -10,7 +10,7 @@
     },
     {
       "team": "Arsenal",
-      "title": "PRESS CONFERENCE 🎙️ | Mikel Arteta previews Leeds United | EPL",
+      "title": "COLOSSAL COMEBACK | Live From N5 | Arsenal 2 - 1 Leeds United | Post-match",
       "link": "https://www.youtube.com/watch?v=5YgExKPd4dU",
       "pubDate": "2026-10-10T12:52:51Z",
       "thumb": "https://i.ytimg.com/vi/5YgExKPd4dU/hqdefault_live.jpg"
@@ -28,6 +28,13 @@
       "link": "https://www.youtube.com/watch?v=j6VpbaEw6GE",
       "pubDate": "2026-10-10T12:42:39Z",
       "thumb": "https://i.ytimg.com/vi/j6VpbaEw6GE/hqdefault_live.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Matchday Live: The Verdict | Arsenal v Leeds United",
+      "link": "https://www.youtube.com/watch?v=LZ7YTkRiSP0",
+      "pubDate": "2026-10-10T12:23:42Z",
+      "thumb": "https://i.ytimg.com/vi/LZ7YTkRiSP0/hqdefault_live.jpg"
     },
     {
       "team": "Crystal Palace",
@@ -492,13 +499,6 @@
       "thumb": "https://i.ytimg.com/vi/wxLAoSyE0AE/hqdefault.jpg"
     },
     {
-      "team": "Leeds United",
-      "title": "Matchday Live: The Verdict | Leeds United v Crystal Palace",
-      "link": "https://www.youtube.com/watch?v=ayARg6zleKs",
-      "pubDate": "2026-09-20T16:25:06Z",
-      "thumb": "https://i.ytimg.com/vi/ayARg6zleKs/hqdefault.jpg"
-    },
-    {
       "team": "Brentford",
       "title": "Brentford 3-0 Chelsea | Anthony, Thiago and Carvalho all score! | Extended Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=LDb6YMmesRI",
@@ -511,13 +511,6 @@
       "link": "https://www.youtube.com/watch?v=a9pbKXyZZC4",
       "pubDate": "2026-09-19T21:00:30Z",
       "thumb": "https://i.ytimg.com/vi/a9pbKXyZZC4/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "Hürzeler & Chema react to FLAWLESS win against the champions | Post-match v Arsenal  📺",
-      "link": "https://www.youtube.com/watch?v=_qkcATIM9hg",
-      "pubDate": "2026-09-19T17:02:36Z",
-      "thumb": "https://i.ytimg.com/vi/_qkcATIM9hg/hqdefault.jpg"
     },
     {
       "team": "Brentford",
