@@ -1,19 +1,26 @@
 {
-  "updatedAt": "2026-10-10T14:03:40.172Z",
+  "updatedAt": "2026-10-10T14:29:45.775Z",
   "videos": [
+    {
+      "team": "Leeds United",
+      "title": "“Take the positives into next weekend” | James Justin | Arsenal 2-1 Leeds United",
+      "link": "https://www.youtube.com/watch?v=-eSc-rM4nig",
+      "pubDate": "2026-10-10T14:24:43Z",
+      "thumb": "https://i.ytimg.com/vi/-eSc-rM4nig/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Matchday Live: The Verdict | Arsenal v Leeds United",
+      "link": "https://www.youtube.com/watch?v=LZ7YTkRiSP0",
+      "pubDate": "2026-10-10T14:11:45Z",
+      "thumb": "https://i.ytimg.com/vi/LZ7YTkRiSP0/hqdefault.jpg"
+    },
     {
       "team": "Crystal Palace",
       "title": "CCTV | Internationals Return KAMADA, PINO, SARR & STRAND LARSEN | Nottingham Forest Prep ⚽️",
       "link": "https://www.youtube.com/watch?v=GqI9hC8vlao",
       "pubDate": "2026-10-10T14:00:05Z",
       "thumb": "https://i.ytimg.com/vi/GqI9hC8vlao/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "Matchday Live: The Verdict | Arsenal v Leeds United",
-      "link": "https://www.youtube.com/watch?v=LZ7YTkRiSP0",
-      "pubDate": "2026-10-10T13:54:24Z",
-      "thumb": "https://i.ytimg.com/vi/LZ7YTkRiSP0/hqdefault_live.jpg"
     },
     {
       "team": "Ipswich Town",
@@ -476,13 +483,6 @@
       "link": "https://www.youtube.com/watch?v=s3BUfIKYQ8M",
       "pubDate": "2026-09-21T19:59:26Z",
       "thumb": "https://i.ytimg.com/vi/s3BUfIKYQ8M/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "Five unbeaten in the Premier League | Uncut exclusive footage | Leeds United v Crystal Palace",
-      "link": "https://www.youtube.com/watch?v=2LuYXZ5Ub4A",
-      "pubDate": "2026-09-21T16:00:34Z",
-      "thumb": "https://i.ytimg.com/vi/2LuYXZ5Ub4A/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
