@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-10T09:48:57.738Z",
+  "updatedAt": "2026-10-10T10:04:15.809Z",
   "videos": [
+    {
+      "team": "Chelsea",
+      "title": "Cole goes live! 🚨 📹",
+      "link": "https://www.youtube.com/watch?v=Ih012mI8PXE",
+      "pubDate": "2026-10-10T10:00:14Z",
+      "thumb": "https://i.ytimg.com/vi/Ih012mI8PXE/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Ola Aina Birthday Celebrations and Palace Preparations! 👊 | Inside Training 🎬",
+      "link": "https://www.youtube.com/watch?v=QQ_Y1EX82AE",
+      "pubDate": "2026-10-10T10:00:01Z",
+      "thumb": "https://i.ytimg.com/vi/QQ_Y1EX82AE/hqdefault.jpg"
+    },
     {
       "team": "Aston Villa",
       "title": "VILLA v BRENTFORD || MATCHDAY LIVE || PRESENTED BY VISIT RWANDA",
@@ -331,13 +345,6 @@
       "thumb": "https://i.ytimg.com/vi/Pp7yRItWuF8/hqdefault.jpg"
     },
     {
-      "team": "Nottingham Forest",
-      "title": "NOTTINGHAM FOREST STARS PLAY FOOTBALL TENABLE! 🤔",
-      "link": "https://www.youtube.com/watch?v=9bI6x82EJ_w",
-      "pubDate": "2026-10-06T17:00:33Z",
-      "thumb": "https://i.ytimg.com/vi/9bI6x82EJ_w/hqdefault.jpg"
-    },
-    {
       "team": "Hull City",
       "title": "Diving Headers Galore! Behind the Tigers Training",
       "link": "https://www.youtube.com/watch?v=8izYir7yib8",
@@ -392,13 +399,6 @@
       "link": "https://www.youtube.com/watch?v=yL0gE7z0oos",
       "pubDate": "2026-10-02T13:00:36Z",
       "thumb": "https://i.ytimg.com/vi/yL0gE7z0oos/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "King Promise - Can’t Tame Us (Official Video) 🎶",
-      "link": "https://www.youtube.com/watch?v=sTl5cs0KimQ",
-      "pubDate": "2026-10-01T16:00:13Z",
-      "thumb": "https://i.ytimg.com/vi/sTl5cs0KimQ/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
