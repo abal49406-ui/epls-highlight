@@ -1,13 +1,6 @@
 {
-  "updatedAt": "2026-10-10T10:29:43.278Z",
+  "updatedAt": "2026-10-10T10:48:05.498Z",
   "videos": [
-    {
-      "team": "Manchester City",
-      "title": "WATCH LIVE! Brentford v Man City | Premier League U18 Cup",
-      "link": "https://www.youtube.com/watch?v=tapQE-048us",
-      "pubDate": "2026-10-10T10:24:51Z",
-      "thumb": "https://i.ytimg.com/vi/tapQE-048us/hqdefault_live.jpg"
-    },
     {
       "team": "Chelsea",
       "title": "COLE PALMER | Exclusive Interview ✍️",
@@ -343,6 +336,13 @@
       "link": "https://www.youtube.com/watch?v=uuM75WaCkOw",
       "pubDate": "2026-10-07T16:59:18Z",
       "thumb": "https://i.ytimg.com/vi/uuM75WaCkOw/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "CLASSIC Goals at Anfield! | Liverpool vs Man City",
+      "link": "https://www.youtube.com/watch?v=9WyFQM-DF_4",
+      "pubDate": "2026-10-07T16:00:23Z",
+      "thumb": "https://i.ytimg.com/vi/9WyFQM-DF_4/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
