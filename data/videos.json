@@ -1,12 +1,26 @@
 {
-  "updatedAt": "2026-10-10T08:48:44.016Z",
+  "updatedAt": "2026-10-10T09:04:21.828Z",
   "videos": [
     {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: Chelsea U18 v AFC Bournemouth U18",
-      "link": "https://www.youtube.com/watch?v=C51oPKQWJpo",
-      "pubDate": "2026-10-10T08:40:06Z",
-      "thumb": "https://i.ytimg.com/vi/C51oPKQWJpo/hqdefault_live.jpg"
+      "team": "Manchester United",
+      "title": "START Baleba & Yoro! NO EXCUSES For Carrick! Man United vs Spurs Road Trip",
+      "link": "https://www.youtube.com/watch?v=LCU82f8Txz4",
+      "pubDate": "2026-10-10T09:00:38Z",
+      "thumb": "https://i.ytimg.com/vi/LCU82f8Txz4/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "Episode 4 | When Eagles Dare | All episodes out now  #crystalpalace #football #cpfc",
+      "link": "https://www.youtube.com/watch?v=ics9wp4ZK_U",
+      "pubDate": "2026-10-10T09:00:19Z",
+      "thumb": "https://i.ytimg.com/vi/ics9wp4ZK_U/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Kick off Conversations with Liverpool FC: Paddy Pimblett on speaking up on World Mental Health Day",
+      "link": "https://www.youtube.com/watch?v=7VOmQvl4-sY",
+      "pubDate": "2026-10-10T09:00:18Z",
+      "thumb": "https://i.ytimg.com/vi/7VOmQvl4-sY/hqdefault.jpg"
     },
     {
       "team": "Hull City",
@@ -191,13 +205,6 @@
       "thumb": "https://i.ytimg.com/vi/8eEneeOO3Ek/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Carrick MUST Do This! Man United vs Tottenham Goldbridge Preview",
-      "link": "https://www.youtube.com/watch?v=0zlryksag3c",
-      "pubDate": "2026-10-08T19:49:15Z",
-      "thumb": "https://i.ytimg.com/vi/0zlryksag3c/hqdefault.jpg"
-    },
-    {
       "team": "Tottenham Hotspur",
       "title": "Our biggest ever win at Old Trafford 🔥",
       "link": "https://www.youtube.com/watch?v=nNQ0mj-hFqo",
@@ -217,13 +224,6 @@
       "link": "https://www.youtube.com/watch?v=FN0O1rpyEuM",
       "pubDate": "2026-10-08T17:00:20Z",
       "thumb": "https://i.ytimg.com/vi/FN0O1rpyEuM/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Inside Training: Liverpool squad return ahead of Manchester City match!",
-      "link": "https://www.youtube.com/watch?v=fWOWPf19koU",
-      "pubDate": "2026-10-08T17:00:09Z",
-      "thumb": "https://i.ytimg.com/vi/fWOWPf19koU/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
@@ -406,6 +406,13 @@
       "link": "https://www.youtube.com/watch?v=mmyyP9YtWsQ",
       "pubDate": "2026-09-30T19:00:23Z",
       "thumb": "https://i.ytimg.com/vi/mmyyP9YtWsQ/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "International Break Training: Cherries hard at work during the break 💪",
+      "link": "https://www.youtube.com/watch?v=VtR-oXg3dug",
+      "pubDate": "2026-09-30T14:52:30Z",
+      "thumb": "https://i.ytimg.com/vi/VtR-oXg3dug/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
