@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-10T12:04:32.862Z",
+  "updatedAt": "2026-10-10T12:35:50.052Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "PRESS CONFERENCE 🎙️ | Mikel Arteta previews Leeds United | EPL",
+      "link": "https://www.youtube.com/watch?v=ZXUZPxlUMok",
+      "pubDate": "2026-10-10T12:18:22Z",
+      "thumb": "https://i.ytimg.com/vi/ZXUZPxlUMok/hqdefault_live.jpg"
+    },
     {
       "team": "Crystal Palace",
       "title": "Pre-match Press Conference | Nottingham Forest (H)",
@@ -133,13 +140,6 @@
       "link": "https://www.youtube.com/watch?v=RV-EMORCOuI",
       "pubDate": "2026-10-09T16:00:06Z",
       "thumb": "https://i.ytimg.com/vi/RV-EMORCOuI/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "PRESS CONFERENCE 🎙️ | Mikel Arteta previews Leeds United | EPL",
-      "link": "https://www.youtube.com/watch?v=ZXUZPxlUMok",
-      "pubDate": "2026-10-09T15:28:11Z",
-      "thumb": "https://i.ytimg.com/vi/ZXUZPxlUMok/hqdefault_live.jpg"
     },
     {
       "team": "Manchester City",
