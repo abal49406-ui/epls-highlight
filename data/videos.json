@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-10T15:29:54.071Z",
+  "updatedAt": "2026-10-10T15:48:44.002Z",
   "videos": [
+    {
+      "team": "Crystal Palace",
+      "title": "U18 Highlights | Crystal Palace 3 0 Leeds United | Premier League Cup",
+      "link": "https://www.youtube.com/watch?v=zIUu6_cjD7w",
+      "pubDate": "2026-10-10T15:33:05Z",
+      "thumb": "https://i.ytimg.com/vi/zIUu6_cjD7w/hqdefault.jpg"
+    },
     {
       "team": "Ipswich Town",
       "title": "MATCHDAY LIVE | HT: TOWN V FULHAM",
@@ -378,13 +385,6 @@
       "link": "https://www.youtube.com/watch?v=9WyFQM-DF_4",
       "pubDate": "2026-10-07T16:00:23Z",
       "thumb": "https://i.ytimg.com/vi/9WyFQM-DF_4/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "EVERY GOAL SCORED AGAINST NOTTINGHAM FOREST😮‍💨☄️ | Premier League Compilation",
-      "link": "https://www.youtube.com/watch?v=Pp7yRItWuF8",
-      "pubDate": "2026-10-07T09:00:03Z",
-      "thumb": "https://i.ytimg.com/vi/Pp7yRItWuF8/hqdefault.jpg"
     },
     {
       "team": "Hull City",
