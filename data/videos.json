@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-10T08:31:03.698Z",
+  "updatedAt": "2026-10-10T08:48:44.016Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: Chelsea U18 v AFC Bournemouth U18",
+      "link": "https://www.youtube.com/watch?v=C51oPKQWJpo",
+      "pubDate": "2026-10-10T08:40:06Z",
+      "thumb": "https://i.ytimg.com/vi/C51oPKQWJpo/hqdefault_live.jpg"
+    },
     {
       "team": "Hull City",
       "title": "Everton (H)| Sergej Jakirović's Live Pre-Match Press Conference",
@@ -364,13 +371,6 @@
       "link": "https://www.youtube.com/watch?v=AM1d4jNAUNg",
       "pubDate": "2026-10-05T03:10:09Z",
       "thumb": "https://i.ytimg.com/vi/AM1d4jNAUNg/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: Chelsea U18 v AFC Bournemouth U18",
-      "link": "https://www.youtube.com/watch?v=C51oPKQWJpo",
-      "pubDate": "2026-10-04T12:43:10Z",
-      "thumb": "https://i.ytimg.com/vi/C51oPKQWJpo/hqdefault_live.jpg"
     },
     {
       "team": "Chelsea",
