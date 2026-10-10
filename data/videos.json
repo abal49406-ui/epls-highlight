@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-10T21:03:56.761Z",
+  "updatedAt": "2026-10-10T21:29:40.600Z",
   "videos": [
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Solanke strikes late 💪 | Manchester United 1-1 Spurs | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=IAXzwaCUsqE",
+      "pubDate": "2026-10-10T21:22:18Z",
+      "thumb": "https://i.ytimg.com/vi/IAXzwaCUsqE/hqdefault.jpg"
+    },
     {
       "team": "Brentford",
       "title": "Aston Villa 2-2 Brentford | Yarmoliuk and Ajer net on the road! | Premier League Highlights",
@@ -406,13 +413,6 @@
       "link": "https://www.youtube.com/watch?v=XBaa52T2IHA",
       "pubDate": "2026-10-08T09:10:28Z",
       "thumb": "https://i.ytimg.com/vi/XBaa52T2IHA/hqdefault.jpg"
-    },
-    {
-      "team": "Tottenham Hotspur",
-      "title": "The Hotspur Way: Ben Davies | An Official Spurs and Sports Illustrated Production 🎙️",
-      "link": "https://www.youtube.com/watch?v=wi5WXr2l1WI",
-      "pubDate": "2026-10-07T17:00:14Z",
-      "thumb": "https://i.ytimg.com/vi/wi5WXr2l1WI/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
