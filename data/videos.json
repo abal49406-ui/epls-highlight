@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-10T18:51:49.392Z",
+  "updatedAt": "2026-10-10T19:05:35.030Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Absolutely BOTTLED IT! Man United 1 - 1 Spurs! Fans Forum",
+      "link": "https://www.youtube.com/watch?v=N6GDQ4x_bFc",
+      "pubDate": "2026-10-10T19:04:43Z",
+      "thumb": "https://i.ytimg.com/vi/N6GDQ4x_bFc/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "MAN UNITED vs TOTTENHAM LIVE Watchalong with Mark Goldbridge",
@@ -14,13 +21,6 @@
       "link": "https://www.youtube.com/watch?v=m6H7HiDvezc",
       "pubDate": "2026-10-10T18:34:38Z",
       "thumb": "https://i.ytimg.com/vi/m6H7HiDvezc/hqdefault_live.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Absolutely BOTTLED IT! Man United 1 - 1 Spurs! Fans Forum",
-      "link": "https://www.youtube.com/watch?v=N6GDQ4x_bFc",
-      "pubDate": "2026-10-10T18:31:42Z",
-      "thumb": "https://i.ytimg.com/vi/N6GDQ4x_bFc/hqdefault_live.jpg"
     },
     {
       "team": "Chelsea",
