@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-10T10:48:05.498Z",
+  "updatedAt": "2026-10-10T11:03:30.747Z",
   "videos": [
+    {
+      "team": "Leeds United",
+      "title": "Matchday Live | Arsenal v Leeds United",
+      "link": "https://www.youtube.com/watch?v=R-wki3Y6Eew",
+      "pubDate": "2026-10-10T10:59:25Z",
+      "thumb": "https://i.ytimg.com/vi/R-wki3Y6Eew/hqdefault_live.jpg"
+    },
     {
       "team": "Chelsea",
       "title": "COLE PALMER | Exclusive Interview ✍️",
@@ -448,13 +455,6 @@
       "link": "https://www.youtube.com/watch?v=S7ONaVegbiI",
       "pubDate": "2026-09-23T19:44:08Z",
       "thumb": "https://i.ytimg.com/vi/S7ONaVegbiI/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "Matchday Live | Arsenal v Leeds United",
-      "link": "https://www.youtube.com/watch?v=R-wki3Y6Eew",
-      "pubDate": "2026-09-23T13:34:45Z",
-      "thumb": "https://i.ytimg.com/vi/R-wki3Y6Eew/hqdefault_live.jpg"
     },
     {
       "team": "Brentford",
