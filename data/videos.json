@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-10T19:05:35.030Z",
+  "updatedAt": "2026-10-10T19:29:03.551Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "CARRICK TO BLAME! Man United 1-1 Tottenham Goldbridge Match Reaction",
+      "link": "https://www.youtube.com/watch?v=m6H7HiDvezc",
+      "pubDate": "2026-10-10T19:07:21Z",
+      "thumb": "https://i.ytimg.com/vi/m6H7HiDvezc/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Absolutely BOTTLED IT! Man United 1 - 1 Spurs! Fans Forum",
@@ -14,13 +21,6 @@
       "link": "https://www.youtube.com/watch?v=79Gk_qV2HYk",
       "pubDate": "2026-10-10T18:35:05Z",
       "thumb": "https://i.ytimg.com/vi/79Gk_qV2HYk/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "CARRICK TO BLAME! Man United 1-1 Tottenham Goldbridge Match Reaction",
-      "link": "https://www.youtube.com/watch?v=m6H7HiDvezc",
-      "pubDate": "2026-10-10T18:34:38Z",
-      "thumb": "https://i.ytimg.com/vi/m6H7HiDvezc/hqdefault_live.jpg"
     },
     {
       "team": "Chelsea",
