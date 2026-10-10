@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-10T17:28:39.051Z",
+  "updatedAt": "2026-10-10T17:47:20.850Z",
   "videos": [
+    {
+      "team": "Chelsea",
+      "title": "Chelsea U18 2-2 Manchester United U18 | HIGHLIGHTS | U18 Premier League Cup | 2026/27",
+      "link": "https://www.youtube.com/watch?v=iiI4suum8hc",
+      "pubDate": "2026-10-10T17:29:52Z",
+      "thumb": "https://i.ytimg.com/vi/iiI4suum8hc/hqdefault.jpg"
+    },
     {
       "team": "Sunderland",
       "title": "\"Learn, reset and go again\" | Le Bris & Danso Post-Match Reaction",
@@ -399,13 +406,6 @@
       "link": "https://www.youtube.com/watch?v=8izYir7yib8",
       "pubDate": "2026-10-06T17:00:27Z",
       "thumb": "https://i.ytimg.com/vi/8izYir7yib8/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "September Goal of the Month ⭐️  | Chelsea FC 2026/27",
-      "link": "https://www.youtube.com/watch?v=cNu0fwH7dKs",
-      "pubDate": "2026-10-06T16:40:05Z",
-      "thumb": "https://i.ytimg.com/vi/cNu0fwH7dKs/hqdefault.jpg"
     },
     {
       "team": "Fulham",
