@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-10-11T22:49:12.475Z",
+  "updatedAt": "2026-10-11T23:04:24.056Z",
   "videos": [
+    {
+      "team": "Chelsea",
+      "title": "Chelsea 5-1 Bournemouth | HIGHLIGHTS - Extended | Premier League 2026/27",
+      "link": "https://www.youtube.com/watch?v=06dvvp2ORLM",
+      "pubDate": "2026-10-11T23:01:17Z",
+      "thumb": "https://i.ytimg.com/vi/06dvvp2ORLM/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Sunderland AFC 0 - 2 Brighton & Hove Albion | Premier League Highlights I Extended Highlights",
+      "link": "https://www.youtube.com/watch?v=4J0-ApSH9VI",
+      "pubDate": "2026-10-11T23:00:25Z",
+      "thumb": "https://i.ytimg.com/vi/4J0-ApSH9VI/hqdefault.jpg"
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Man Utd 1-1 Spurs | Extended Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=7rjYwH4YiUA",
+      "pubDate": "2026-10-11T23:00:19Z",
+      "thumb": "https://i.ytimg.com/vi/7rjYwH4YiUA/hqdefault.jpg"
+    },
+    {
+      "team": "Hull City",
+      "title": "Points Shared in a Thriller at the MKM! Hull City 2-2 Everton | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=nSkWXRgkjCI",
+      "pubDate": "2026-10-11T23:00:17Z",
+      "thumb": "https://i.ytimg.com/vi/nSkWXRgkjCI/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "EXTENDED HIGHLIGHTS | Sunderland v Brighton | Premier League",
+      "link": "https://www.youtube.com/watch?v=67dmHqnHch4",
+      "pubDate": "2026-10-11T22:59:25Z",
+      "thumb": "https://i.ytimg.com/vi/67dmHqnHch4/hqdefault.jpg"
+    },
     {
       "team": "Manchester City",
       "title": "HIGHLIGHTS | City return with Anfield win | Liverpool 0-3 Man City | Haaland, Doku & Cherki goals",
@@ -317,13 +352,6 @@
       "thumb": "https://i.ytimg.com/vi/QtjLiJ807fg/hqdefault.jpg"
     },
     {
-      "team": "Chelsea",
-      "title": "COLE PALMER | Exclusive Interview ✍️",
-      "link": "https://www.youtube.com/watch?v=QVftJWEhfIs",
-      "pubDate": "2026-10-10T10:15:30Z",
-      "thumb": "https://i.ytimg.com/vi/QVftJWEhfIs/hqdefault.jpg"
-    },
-    {
       "team": "Nottingham Forest",
       "title": "Ola Aina Birthday Celebrations and Palace Preparations! 👊 | Inside Training 🎬",
       "link": "https://www.youtube.com/watch?v=QQ_Y1EX82AE",
@@ -371,13 +399,6 @@
       "link": "https://www.youtube.com/watch?v=4BaB27fHmaE",
       "pubDate": "2026-10-09T13:00:09Z",
       "thumb": "https://i.ytimg.com/vi/4BaB27fHmaE/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "Sunderland v Brighton | Hürzeler pre-match press conference 🎙️",
-      "link": "https://www.youtube.com/watch?v=UPHt4ApETAA",
-      "pubDate": "2026-10-09T12:39:15Z",
-      "thumb": "https://i.ytimg.com/vi/UPHt4ApETAA/hqdefault.jpg"
     },
     {
       "team": "Tottenham Hotspur",
@@ -429,13 +450,6 @@
       "thumb": "https://i.ytimg.com/vi/lcdXCObkHXI/hqdefault.jpg"
     },
     {
-      "team": "Sunderland",
-      "title": "Brian Brobbey & Dan Ballard Updates | Sunderland VS Brighton Press Conference",
-      "link": "https://www.youtube.com/watch?v=1_LOnGocq5o",
-      "pubDate": "2026-10-08T14:29:09Z",
-      "thumb": "https://i.ytimg.com/vi/1_LOnGocq5o/hqdefault.jpg"
-    },
-    {
       "team": "AFC Bournemouth",
       "title": "Marco Rose on Alex Scott injury, Rayan & Kroupi Golden Boy Nomination and Chelsea | Press Conference",
       "link": "https://www.youtube.com/watch?v=_9JLEqkyrYk",
@@ -455,13 +469,6 @@
       "link": "https://www.youtube.com/watch?v=sR4wqwCFalQ",
       "pubDate": "2026-10-06T14:27:45Z",
       "thumb": "https://i.ytimg.com/vi/sR4wqwCFalQ/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "Dillon Phillips Signs New Contract! Exclusive Interview",
-      "link": "https://www.youtube.com/watch?v=5SSMllUuAb8",
-      "pubDate": "2026-10-05T13:00:20Z",
-      "thumb": "https://i.ytimg.com/vi/5SSMllUuAb8/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
