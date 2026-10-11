@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-11T18:04:15.952Z",
+  "updatedAt": "2026-10-11T18:34:39.704Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "MATCHDAY LIVE! CITY TRAVEL TO ANFIELD AS THE PREMIER LEAGUE RETURNS! Liverpool v Man City",
+      "link": "https://www.youtube.com/watch?v=oEfv6QSr9GQ",
+      "pubDate": "2026-10-11T18:30:13Z",
+      "thumb": "https://i.ytimg.com/vi/oEfv6QSr9GQ/hqdefault_live.jpg"
+    },
     {
       "team": "Newcastle United",
       "title": "Preparation for Coventry Away 💪🏻  Inside Training | Newcastle United",
@@ -35,13 +42,6 @@
       "link": "https://www.youtube.com/watch?v=-QcaRUsQHQo",
       "pubDate": "2026-10-11T15:02:14Z",
       "thumb": "https://i.ytimg.com/vi/-QcaRUsQHQo/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "MATCHDAY LIVE! CITY TRAVEL TO ANFIELD AS THE PREMIER LEAGUE RETURNS! Liverpool v Man City",
-      "link": "https://www.youtube.com/watch?v=oEfv6QSr9GQ",
-      "pubDate": "2026-10-11T13:54:36Z",
-      "thumb": "https://i.ytimg.com/vi/oEfv6QSr9GQ/hqdefault_live.jpg"
     },
     {
       "team": "AFC Bournemouth",
