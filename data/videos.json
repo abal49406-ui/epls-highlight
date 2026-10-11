@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-11T21:04:52.467Z",
+  "updatedAt": "2026-10-11T21:30:52.684Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "HIGHLIGHTS | City return with Anfield win | Liverpool 0-3 Man City | Haaland, Doku & Cherki goals",
+      "link": "https://www.youtube.com/watch?v=i_BqweuiZhg",
+      "pubDate": "2026-10-11T21:14:36Z",
+      "thumb": "https://i.ytimg.com/vi/i_BqweuiZhg/hqdefault.jpg"
+    },
     {
       "team": "Nottingham Forest",
       "title": "Crystal Palace 3-1 Nottingham Forest | Premier League Highlights 📺",
@@ -434,13 +441,6 @@
       "link": "https://www.youtube.com/watch?v=_9JLEqkyrYk",
       "pubDate": "2026-10-08T14:02:02Z",
       "thumb": "https://i.ytimg.com/vi/_9JLEqkyrYk/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "A Taste of Home | @erling Haaland talks family feasts and the Norwegian diet 🇳🇴🐟",
-      "link": "https://www.youtube.com/watch?v=XBaa52T2IHA",
-      "pubDate": "2026-10-08T09:10:28Z",
-      "thumb": "https://i.ytimg.com/vi/XBaa52T2IHA/hqdefault.jpg"
     },
     {
       "team": "Hull City",
