@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-11T10:30:45.897Z",
+  "updatedAt": "2026-10-11T10:48:56.800Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Carrick LOSING The Dressing Room! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=E7f90kpcYL8",
+      "pubDate": "2026-10-11T10:40:06Z",
+      "thumb": "https://i.ytimg.com/vi/E7f90kpcYL8/hqdefault_live.jpg"
+    },
     {
       "team": "Tottenham Hotspur",
       "title": "맨체스터 유나이티드 1-1 토트넘 | 프리미어리그 6R 하이라이트",
@@ -105,13 +112,6 @@
       "link": "https://www.youtube.com/watch?v=m6H7HiDvezc",
       "pubDate": "2026-10-10T19:07:21Z",
       "thumb": "https://i.ytimg.com/vi/m6H7HiDvezc/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "MAN UNITED vs TOTTENHAM LIVE Watchalong with Mark Goldbridge",
-      "link": "https://www.youtube.com/watch?v=79Gk_qV2HYk",
-      "pubDate": "2026-10-10T18:35:05Z",
-      "thumb": "https://i.ytimg.com/vi/79Gk_qV2HYk/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
