@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-11T16:49:50.521Z",
+  "updatedAt": "2026-10-11T17:04:51.128Z",
   "videos": [
+    {
+      "team": "Hull City",
+      "title": "Hull City 2-2 Everton | Sergej Jakirović's Post Match Reaction",
+      "link": "https://www.youtube.com/watch?v=rqolsyB1bp4",
+      "pubDate": "2026-10-11T17:02:28Z",
+      "thumb": "https://i.ytimg.com/vi/rqolsyB1bp4/hqdefault.jpg"
+    },
     {
       "team": "Nottingham Forest",
       "title": "Oliver Glasner's Reaction 🗣️ | Crystal Palace vs Nottingham Forest | Premier League",
@@ -462,13 +469,6 @@
       "link": "https://www.youtube.com/watch?v=F2TG3XJxbeE",
       "pubDate": "2026-10-01T07:51:22Z",
       "thumb": "https://i.ytimg.com/vi/F2TG3XJxbeE/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "GEO! A Documentary on City's Number 10",
-      "link": "https://www.youtube.com/watch?v=xHHXHHaCmhA",
-      "pubDate": "2026-09-27T11:00:08Z",
-      "thumb": "https://i.ytimg.com/vi/xHHXHHaCmhA/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
