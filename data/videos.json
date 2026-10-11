@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-11T00:05:40.813Z",
+  "updatedAt": "2026-10-11T00:41:54.709Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: Everton U18 v AFC Bournemouth U18",
+      "link": "https://www.youtube.com/watch?v=fZzW6a6V3D8",
+      "pubDate": "2026-10-11T00:17:53Z",
+      "thumb": "https://i.ytimg.com/vi/fZzW6a6V3D8/hqdefault.jpg"
+    },
     {
       "team": "Tottenham Hotspur",
       "title": "Solanke strikes late 💪 | Manchester United 1-1 Spurs | Premier League Highlights",
@@ -210,13 +217,6 @@
       "link": "https://www.youtube.com/watch?v=1AhHVwU9Iyw",
       "pubDate": "2026-10-10T12:01:54Z",
       "thumb": "https://i.ytimg.com/vi/1AhHVwU9Iyw/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: Everton U18 v AFC Bournemouth U18",
-      "link": "https://www.youtube.com/watch?v=fZzW6a6V3D8",
-      "pubDate": "2026-10-10T12:00:29Z",
-      "thumb": "https://i.ytimg.com/vi/fZzW6a6V3D8/hqdefault_live.jpg"
     },
     {
       "team": "Arsenal",
