@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-11T14:04:33.608Z",
+  "updatedAt": "2026-10-11T14:31:06.408Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Matchday Live: Liverpool vs Manchester City | Premier League build-up from Anfield",
+      "link": "https://www.youtube.com/watch?v=-QcaRUsQHQo",
+      "pubDate": "2026-10-11T14:04:22Z",
+      "thumb": "https://i.ytimg.com/vi/-QcaRUsQHQo/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester City",
       "title": "MATCHDAY LIVE! CITY TRAVEL TO ANFIELD AS THE PREMIER LEAGUE RETURNS! Liverpool v Man City",
@@ -371,13 +378,6 @@
       "link": "https://www.youtube.com/watch?v=oxkYPNcGYoE",
       "pubDate": "2026-10-09T09:00:23Z",
       "thumb": "https://i.ytimg.com/vi/oxkYPNcGYoE/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Goal of the Month RESULT! The best Liverpool goals from August & September!",
-      "link": "https://www.youtube.com/watch?v=8eEneeOO3Ek",
-      "pubDate": "2026-10-09T09:00:11Z",
-      "thumb": "https://i.ytimg.com/vi/8eEneeOO3Ek/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
