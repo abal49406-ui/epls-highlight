@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-11T20:03:45.111Z",
+  "updatedAt": "2026-10-11T20:30:46.197Z",
   "videos": [
+    {
+      "team": "Crystal Palace",
+      "title": "RUTHLESS PALACE WIN ✅ | Crystal Palace 3-1 Nottingham Forest | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=t6AaXaRAeJQ",
+      "pubDate": "2026-10-11T20:30:17Z",
+      "thumb": "https://i.ytimg.com/vi/t6AaXaRAeJQ/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Carrick JOB Safe! City SHAM Continues! Goldbridge Man Utd News",
@@ -294,13 +301,6 @@
       "link": "https://www.youtube.com/watch?v=QQ_Y1EX82AE",
       "pubDate": "2026-10-10T10:00:01Z",
       "thumb": "https://i.ytimg.com/vi/QQ_Y1EX82AE/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "Episode 4 | When Eagles Dare | All episodes out now  #crystalpalace #football #cpfc",
-      "link": "https://www.youtube.com/watch?v=ics9wp4ZK_U",
-      "pubDate": "2026-10-10T09:00:19Z",
-      "thumb": "https://i.ytimg.com/vi/ics9wp4ZK_U/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
