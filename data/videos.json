@@ -1,12 +1,26 @@
 {
-  "updatedAt": "2026-10-11T18:34:39.704Z",
+  "updatedAt": "2026-10-11T18:52:47.503Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Carrick JOB Safe! City SHAM Continues! Goldbridge Man Utd News",
+      "link": "https://www.youtube.com/watch?v=9gqX0UYIq9Q",
+      "pubDate": "2026-10-11T18:46:03Z",
+      "thumb": "https://i.ytimg.com/vi/9gqX0UYIq9Q/hqdefault_live.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Andoni Iraola's post-match press conference | Liverpool 0-3 Man City",
+      "link": "https://www.youtube.com/watch?v=DEbyTQ7CAIk",
+      "pubDate": "2026-10-11T18:44:22Z",
+      "thumb": "https://i.ytimg.com/vi/DEbyTQ7CAIk/hqdefault.jpg"
+    },
     {
       "team": "Manchester City",
       "title": "MATCHDAY LIVE! CITY TRAVEL TO ANFIELD AS THE PREMIER LEAGUE RETURNS! Liverpool v Man City",
       "link": "https://www.youtube.com/watch?v=oEfv6QSr9GQ",
-      "pubDate": "2026-10-11T18:30:13Z",
-      "thumb": "https://i.ytimg.com/vi/oEfv6QSr9GQ/hqdefault_live.jpg"
+      "pubDate": "2026-10-11T18:40:54Z",
+      "thumb": "https://i.ytimg.com/vi/oEfv6QSr9GQ/hqdefault.jpg"
     },
     {
       "team": "Newcastle United",
@@ -154,13 +168,6 @@
       "link": "https://www.youtube.com/watch?v=N6GDQ4x_bFc",
       "pubDate": "2026-10-10T20:13:51Z",
       "thumb": "https://i.ytimg.com/vi/N6GDQ4x_bFc/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "CARRICK TO BLAME! Man United 1-1 Tottenham Goldbridge Match Reaction",
-      "link": "https://www.youtube.com/watch?v=m6H7HiDvezc",
-      "pubDate": "2026-10-10T19:07:21Z",
-      "thumb": "https://i.ytimg.com/vi/m6H7HiDvezc/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
@@ -357,13 +364,6 @@
       "link": "https://www.youtube.com/watch?v=4BaB27fHmaE",
       "pubDate": "2026-10-09T13:00:09Z",
       "thumb": "https://i.ytimg.com/vi/4BaB27fHmaE/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Press Conference: Liverpool vs Man City | Andoni Iraola | Team news",
-      "link": "https://www.youtube.com/watch?v=B1pZoGNjhqI",
-      "pubDate": "2026-10-09T12:47:56Z",
-      "thumb": "https://i.ytimg.com/vi/B1pZoGNjhqI/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
