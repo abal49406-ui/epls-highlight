@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-11T16:04:00.017Z",
+  "updatedAt": "2026-10-11T16:31:11.017Z",
   "videos": [
+    {
+      "team": "Nottingham Forest",
+      "title": "Oliver Glasner's Reaction 🗣️ | Crystal Palace vs Nottingham Forest | Premier League",
+      "link": "https://www.youtube.com/watch?v=dZYK9Liep0Q",
+      "pubDate": "2026-10-11T16:19:35Z",
+      "thumb": "https://i.ytimg.com/vi/dZYK9Liep0Q/hqdefault.jpg"
+    },
     {
       "team": "Leeds United",
       "title": "LIVE FOOTBALL: Leeds United Women v Norton & Stockton Ancients | FA Women's National League",
@@ -315,13 +322,6 @@
       "link": "https://www.youtube.com/watch?v=JM9OFF6c-So",
       "pubDate": "2026-10-09T14:00:32Z",
       "thumb": "https://i.ytimg.com/vi/JM9OFF6c-So/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Oliver Glasner Press Conference 🎙️ | Crystal Palace vs Nottingham Forest | Premier League",
-      "link": "https://www.youtube.com/watch?v=CDmjg7D-K6U",
-      "pubDate": "2026-10-09T13:57:56Z",
-      "thumb": "https://i.ytimg.com/vi/CDmjg7D-K6U/hqdefault.jpg"
     },
     {
       "team": "Arsenal",
