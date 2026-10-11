@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-11T12:05:13.958Z",
+  "updatedAt": "2026-10-11T12:37:14.466Z",
   "videos": [
+    {
+      "team": "Leeds United",
+      "title": "LIVE FOOTBALL: Leeds United Women v Norton & Stockton Ancients | FA Women's National League",
+      "link": "https://www.youtube.com/watch?v=yzAF_dowtbg",
+      "pubDate": "2026-10-11T12:35:55Z",
+      "thumb": "https://i.ytimg.com/vi/yzAF_dowtbg/hqdefault_live.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "MATCHDAY LIVE! CITY TRAVEL TO ANFIELD AS THE PREMIER LEAGUE RETURNS! Liverpool v Man City",
+      "link": "https://www.youtube.com/watch?v=oEfv6QSr9GQ",
+      "pubDate": "2026-10-11T12:21:46Z",
+      "thumb": "https://i.ytimg.com/vi/oEfv6QSr9GQ/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Carrick LOSING The Dressing Room! Man Utd News",
@@ -182,13 +196,6 @@
       "link": "https://www.youtube.com/watch?v=-eSc-rM4nig",
       "pubDate": "2026-10-10T14:24:43Z",
       "thumb": "https://i.ytimg.com/vi/-eSc-rM4nig/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "Matchday Live: The Verdict | Arsenal v Leeds United",
-      "link": "https://www.youtube.com/watch?v=LZ7YTkRiSP0",
-      "pubDate": "2026-10-10T14:11:45Z",
-      "thumb": "https://i.ytimg.com/vi/LZ7YTkRiSP0/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
@@ -413,13 +420,6 @@
       "link": "https://www.youtube.com/watch?v=XBaa52T2IHA",
       "pubDate": "2026-10-08T09:10:28Z",
       "thumb": "https://i.ytimg.com/vi/XBaa52T2IHA/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "CLASSIC Goals at Anfield! | Liverpool vs Man City",
-      "link": "https://www.youtube.com/watch?v=9WyFQM-DF_4",
-      "pubDate": "2026-10-07T16:00:23Z",
-      "thumb": "https://i.ytimg.com/vi/9WyFQM-DF_4/hqdefault.jpg"
     },
     {
       "team": "Hull City",
