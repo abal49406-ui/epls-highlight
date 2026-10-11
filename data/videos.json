@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-11T12:37:14.466Z",
+  "updatedAt": "2026-10-11T12:56:06.854Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: AFC Bournemouth Women v Fulham Women",
+      "link": "https://www.youtube.com/watch?v=2Uu_xxao4Ec",
+      "pubDate": "2026-10-11T12:40:01Z",
+      "thumb": "https://i.ytimg.com/vi/2Uu_xxao4Ec/hqdefault_live.jpg"
+    },
     {
       "team": "Leeds United",
       "title": "LIVE FOOTBALL: Leeds United Women v Norton & Stockton Ancients | FA Women's National League",
@@ -448,13 +455,6 @@
       "link": "https://www.youtube.com/watch?v=AM1d4jNAUNg",
       "pubDate": "2026-10-05T03:10:09Z",
       "thumb": "https://i.ytimg.com/vi/AM1d4jNAUNg/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "All of Alex Scott's BEST moments for AFC Bournemouth | Every goal, assist and best skills",
-      "link": "https://www.youtube.com/watch?v=ILGE62oSAr4",
-      "pubDate": "2026-10-01T08:39:04Z",
-      "thumb": "https://i.ytimg.com/vi/ILGE62oSAr4/hqdefault.jpg"
     },
     {
       "team": "Newcastle United",
