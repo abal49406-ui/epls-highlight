@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-11T17:48:13.332Z",
+  "updatedAt": "2026-10-11T18:04:15.952Z",
   "videos": [
+    {
+      "team": "Newcastle United",
+      "title": "Preparation for Coventry Away 💪🏻  Inside Training | Newcastle United",
+      "link": "https://www.youtube.com/watch?v=rj4ILqVgaSE",
+      "pubDate": "2026-10-11T18:00:39Z",
+      "thumb": "https://i.ytimg.com/vi/rj4ILqVgaSE/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "LIVE FOOTBALL: Leeds United Women v Norton & Stockton Ancients | FA Women's National League",
+      "link": "https://www.youtube.com/watch?v=yzAF_dowtbg",
+      "pubDate": "2026-10-11T17:53:44Z",
+      "thumb": "https://i.ytimg.com/vi/yzAF_dowtbg/hqdefault.jpg"
+    },
     {
       "team": "Hull City",
       "title": "Hull City 2-2 Everton | Sergej Jakirović's Post Match Reaction",
@@ -14,13 +28,6 @@
       "link": "https://www.youtube.com/watch?v=dZYK9Liep0Q",
       "pubDate": "2026-10-11T16:19:35Z",
       "thumb": "https://i.ytimg.com/vi/dZYK9Liep0Q/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "LIVE FOOTBALL: Leeds United Women v Norton & Stockton Ancients | FA Women's National League",
-      "link": "https://www.youtube.com/watch?v=yzAF_dowtbg",
-      "pubDate": "2026-10-11T15:03:50Z",
-      "thumb": "https://i.ytimg.com/vi/yzAF_dowtbg/hqdefault_live.jpg"
     },
     {
       "team": "Liverpool",
@@ -462,13 +469,6 @@
       "link": "https://www.youtube.com/watch?v=AM1d4jNAUNg",
       "pubDate": "2026-10-05T03:10:09Z",
       "thumb": "https://i.ytimg.com/vi/AM1d4jNAUNg/hqdefault.jpg"
-    },
-    {
-      "team": "Newcastle United",
-      "title": "We are proud to introduce the new club crest chosen by our supporters to represent Newcastle United",
-      "link": "https://www.youtube.com/watch?v=F2TG3XJxbeE",
-      "pubDate": "2026-10-01T07:51:22Z",
-      "thumb": "https://i.ytimg.com/vi/F2TG3XJxbeE/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
