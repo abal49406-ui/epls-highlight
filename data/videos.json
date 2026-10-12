@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-12T10:11:05.073Z",
+  "updatedAt": "2026-10-12T10:36:16.800Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Nagelsmaan NEXT?! INEOS ADMIT Transfer Window FAILURE! Man United News",
+      "link": "https://www.youtube.com/watch?v=Cta6rg995BE",
+      "pubDate": "2026-10-12T10:20:29Z",
+      "thumb": "https://i.ytimg.com/vi/Cta6rg995BE/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "LIVE: Champions League Press Conference: LASK vs Liverpool",
@@ -14,13 +21,6 @@
       "link": "https://www.youtube.com/watch?v=AVwR3iH6VFg",
       "pubDate": "2026-10-12T09:35:57Z",
       "thumb": "https://i.ytimg.com/vi/AVwR3iH6VFg/hqdefault_live.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Nagelsmaan NEXT?! INEOS ADMIT Transfer Window FAILURE! Man United News",
-      "link": "https://www.youtube.com/watch?v=Cta6rg995BE",
-      "pubDate": "2026-10-12T09:20:39Z",
-      "thumb": "https://i.ytimg.com/vi/Cta6rg995BE/hqdefault_live.jpg"
     },
     {
       "team": "Liverpool",
@@ -339,7 +339,7 @@
     },
     {
       "team": "Arsenal",
-      "title": "COLOSSAL COMEBACK | Live From N5 | Arsenal 2 - 1 Leeds United | Post-match",
+      "title": "Press Conference | Mikel Arteta previews LOSC Lille | UEFA Champions League",
       "link": "https://www.youtube.com/watch?v=5YgExKPd4dU",
       "pubDate": "2026-10-10T12:52:51Z",
       "thumb": "https://i.ytimg.com/vi/5YgExKPd4dU/hqdefault_live.jpg"
