@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-12T23:05:56.789Z",
+  "updatedAt": "2026-10-12T23:31:58.187Z",
   "videos": [
+    {
+      "team": "Coventry City",
+      "title": "Coventry City 4-1 Newcastle United | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=6kFtwvfrIIA",
+      "pubDate": "2026-10-12T23:10:19Z",
+      "thumb": "https://i.ytimg.com/vi/6kFtwvfrIIA/hqdefault.jpg"
+    },
     {
       "team": "Coventry City",
       "title": "Frank Lampard, Ellis Simms & Jack Rudoni Reaction | Coventry City vs Newcastle | Premier League",
@@ -497,13 +504,6 @@
       "link": "https://www.youtube.com/watch?v=sR4wqwCFalQ",
       "pubDate": "2026-10-06T14:27:45Z",
       "thumb": "https://i.ytimg.com/vi/sR4wqwCFalQ/hqdefault.jpg"
-    },
-    {
-      "team": "Coventry City",
-      "title": "Coventry kickstart the Premier League campaign with win over Nottingham Forest | City Unseen EP173",
-      "link": "https://www.youtube.com/watch?v=9_zYLusneqo",
-      "pubDate": "2026-09-25T18:34:52Z",
-      "thumb": "https://i.ytimg.com/vi/9_zYLusneqo/hqdefault.jpg"
     },
     {
       "team": "Everton",
