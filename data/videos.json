@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-10-12T19:51:08.292Z",
+  "updatedAt": "2026-10-12T20:06:26.124Z",
   "videos": [
-    {
-      "team": "Arsenal",
-      "title": "FRIMMY AND MO GILLIGAN'S PITCHSIDE REACTIONS 🤣 | Alternative Commentary | Arsenal 2-1 Leeds United",
-      "link": "https://www.youtube.com/watch?v=3sMAJv_jEpI",
-      "pubDate": "2026-10-12T19:21:31Z",
-      "thumb": "https://i.ytimg.com/vi/3sMAJv_jEpI/hqdefault.jpg"
-    },
     {
       "team": "Manchester United",
       "title": "Carrick In TROUBLE! Atletico vs Man United Goldbridge Preview",
       "link": "https://www.youtube.com/watch?v=yu9qrOfl2Xg",
-      "pubDate": "2026-10-12T19:05:01Z",
+      "pubDate": "2026-10-12T20:05:07Z",
       "thumb": "https://i.ytimg.com/vi/yu9qrOfl2Xg/hqdefault_live.jpg"
     },
     {
       "team": "AFC Bournemouth",
       "title": "Premier League Cup Live: AFC Bournemouth v Plymouth Argyle",
       "link": "https://www.youtube.com/watch?v=DxsQfUzfbrA",
-      "pubDate": "2026-10-12T17:45:32Z",
+      "pubDate": "2026-10-12T20:02:30Z",
       "thumb": "https://i.ytimg.com/vi/DxsQfUzfbrA/hqdefault_live.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "FRIMMY AND MO GILLIGAN'S PITCHSIDE REACTIONS 🤣 | Alternative Commentary | Arsenal 2-1 Leeds United",
+      "link": "https://www.youtube.com/watch?v=3sMAJv_jEpI",
+      "pubDate": "2026-10-12T19:21:31Z",
+      "thumb": "https://i.ytimg.com/vi/3sMAJv_jEpI/hqdefault.jpg"
     },
     {
       "team": "Arsenal",
