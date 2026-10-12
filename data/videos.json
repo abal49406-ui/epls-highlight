@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T18:37:55.588Z",
+  "updatedAt": "2026-10-12T18:58:19.443Z",
   "videos": [
     {
       "team": "Manchester United",
@@ -504,13 +504,6 @@
       "link": "https://www.youtube.com/watch?v=S7ONaVegbiI",
       "pubDate": "2026-09-23T19:44:08Z",
       "thumb": "https://i.ytimg.com/vi/S7ONaVegbiI/hqdefault.jpg"
-    },
-    {
-      "team": "Coventry City",
-      "title": "Nottingham Forest 0-1 Coventry City | Extended Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=S5IB_FvVOU0",
-      "pubDate": "2026-09-20T23:01:30Z",
-      "thumb": "https://i.ytimg.com/vi/S5IB_FvVOU0/hqdefault.jpg"
     }
   ]
 }
