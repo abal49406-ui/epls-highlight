@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-12T19:11:52.734Z",
+  "updatedAt": "2026-10-12T19:32:35.058Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "FRIMMY AND MO GILLIGAN'S PITCHSIDE REACTIONS 🤣 | Alternative Commentary | Arsenal 2-1 Leeds United",
+      "link": "https://www.youtube.com/watch?v=3sMAJv_jEpI",
+      "pubDate": "2026-10-12T19:21:31Z",
+      "thumb": "https://i.ytimg.com/vi/3sMAJv_jEpI/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Carrick In TROUBLE! Atletico vs Man United Goldbridge Preview",
@@ -140,13 +147,6 @@
       "link": "https://www.youtube.com/watch?v=rHDpxdbZOrs",
       "pubDate": "2026-10-11T21:00:27Z",
       "thumb": "https://i.ytimg.com/vi/rHDpxdbZOrs/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "THREE BIG POINTS IN N5 | EXTENDED HIGHLIGHTS | Arsenal 2-1 Leeds United | Calafiori, Guimaraes | PL",
-      "link": "https://www.youtube.com/watch?v=F3t5W2-nI1c",
-      "pubDate": "2026-10-11T21:00:03Z",
-      "thumb": "https://i.ytimg.com/vi/F3t5W2-nI1c/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
