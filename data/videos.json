@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-12T17:33:55.580Z",
+  "updatedAt": "2026-10-12T17:51:13.430Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "Premier League Cup Live: AFC Bournemouth v Plymouth Argyle",
+      "link": "https://www.youtube.com/watch?v=DxsQfUzfbrA",
+      "pubDate": "2026-10-12T17:45:32Z",
+      "thumb": "https://i.ytimg.com/vi/DxsQfUzfbrA/hqdefault_live.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "MOST SKILLFUL ARSENAL ASSISTS FT. DECLAN RICE & GABRIEL MARTINELLI",
@@ -28,13 +35,6 @@
       "link": "https://www.youtube.com/watch?v=Y8wztvyMxOs",
       "pubDate": "2026-10-12T14:10:23Z",
       "thumb": "https://i.ytimg.com/vi/Y8wztvyMxOs/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "Premier League Cup Live: AFC Bournemouth v Plymouth Argyle",
-      "link": "https://www.youtube.com/watch?v=DxsQfUzfbrA",
-      "pubDate": "2026-10-12T13:55:32Z",
-      "thumb": "https://i.ytimg.com/vi/DxsQfUzfbrA/hqdefault_live.jpg"
     },
     {
       "team": "Manchester United",
