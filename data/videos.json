@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-12T11:55:13.645Z",
+  "updatedAt": "2026-10-12T12:11:37.228Z",
   "videos": [
+    {
+      "team": "Sunderland",
+      "title": "Ogunsuyi At The Double | Arsenal FC U21s 2 - 2 Sunderland AFC U21s | PL2 Highlights",
+      "link": "https://www.youtube.com/watch?v=adcQuC80CGQ",
+      "pubDate": "2026-10-12T12:05:21Z",
+      "thumb": "https://i.ytimg.com/vi/adcQuC80CGQ/hqdefault.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "ARTETA REACTS TO CALAFIORI AND BRUNO GOALS 💪 | Bench Cam 🎥 | Arsenal 2-1 Leeds United | EPL",
@@ -385,13 +392,6 @@
       "link": "https://www.youtube.com/watch?v=JM9OFF6c-So",
       "pubDate": "2026-10-09T14:00:32Z",
       "thumb": "https://i.ytimg.com/vi/JM9OFF6c-So/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Nilson Angulo, Wilson Isidor & More Return 🔥 | Inside Training",
-      "link": "https://www.youtube.com/watch?v=PqiF1KnrCr4",
-      "pubDate": "2026-10-09T13:33:31Z",
-      "thumb": "https://i.ytimg.com/vi/PqiF1KnrCr4/hqdefault.jpg"
     },
     {
       "team": "Fulham",
