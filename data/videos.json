@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-12T12:11:37.228Z",
+  "updatedAt": "2026-10-12T12:56:04.037Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "Press Conference | Mikel Arteta previews Lille | UEFA Champions League",
+      "link": "https://www.youtube.com/watch?v=5YgExKPd4dU",
+      "pubDate": "2026-10-12T12:49:15Z",
+      "thumb": "https://i.ytimg.com/vi/5YgExKPd4dU/hqdefault_live.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "HUGE INJURY BLOWS for Carrick! Man United News",
+      "link": "https://www.youtube.com/watch?v=Wg4dUmwha1k",
+      "pubDate": "2026-10-12T12:38:41Z",
+      "thumb": "https://i.ytimg.com/vi/Wg4dUmwha1k/hqdefault_live.jpg"
+    },
     {
       "team": "Sunderland",
       "title": "Ogunsuyi At The Double | Arsenal FC U21s 2 - 2 Sunderland AFC U21s | PL2 Highlights",
@@ -191,13 +205,6 @@
       "thumb": "https://i.ytimg.com/vi/VbaJwN9teXU/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "GUTLESS! Carrick Gets a 2/10? 🤯 Man United 1-1 Spurs Player Ratings",
-      "link": "https://www.youtube.com/watch?v=LYHm_W0h6-Y",
-      "pubDate": "2026-10-10T21:29:57Z",
-      "thumb": "https://i.ytimg.com/vi/LYHm_W0h6-Y/hqdefault.jpg"
-    },
-    {
       "team": "Brentford",
       "title": "Aston Villa 2-2 Brentford | Yarmoliuk and Ajer net on the road! | Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=XLQm366y_90",
@@ -350,13 +357,6 @@
       "link": "https://www.youtube.com/watch?v=j6VpbaEw6GE",
       "pubDate": "2026-10-10T13:51:09Z",
       "thumb": "https://i.ytimg.com/vi/j6VpbaEw6GE/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "Press Conference | Mikel Arteta previews LOSC Lille | UEFA Champions League",
-      "link": "https://www.youtube.com/watch?v=5YgExKPd4dU",
-      "pubDate": "2026-10-10T12:52:51Z",
-      "thumb": "https://i.ytimg.com/vi/5YgExKPd4dU/hqdefault_live.jpg"
     },
     {
       "team": "Crystal Palace",
