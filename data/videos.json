@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-12T18:05:08.051Z",
+  "updatedAt": "2026-10-12T18:37:55.588Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Carrick In TROUBLE! Atletico vs Man United Goldbridge Preview",
+      "link": "https://www.youtube.com/watch?v=yu9qrOfl2Xg",
+      "pubDate": "2026-10-12T18:24:42Z",
+      "thumb": "https://i.ytimg.com/vi/yu9qrOfl2Xg/hqdefault_live.jpg"
+    },
     {
       "team": "AFC Bournemouth",
       "title": "Premier League Cup Live: AFC Bournemouth v Plymouth Argyle",
@@ -203,13 +210,6 @@
       "link": "https://www.youtube.com/watch?v=2Uu_xxao4Ec",
       "pubDate": "2026-10-11T12:40:01Z",
       "thumb": "https://i.ytimg.com/vi/2Uu_xxao4Ec/hqdefault_live.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Carrick LOSING The Dressing Room! Man Utd News",
-      "link": "https://www.youtube.com/watch?v=E7f90kpcYL8",
-      "pubDate": "2026-10-11T11:40:28Z",
-      "thumb": "https://i.ytimg.com/vi/E7f90kpcYL8/hqdefault.jpg"
     },
     {
       "team": "Tottenham Hotspur",
