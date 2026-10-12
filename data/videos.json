@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-10-12T22:50:52.909Z",
+  "updatedAt": "2026-10-12T23:05:56.789Z",
   "videos": [
+    {
+      "team": "Coventry City",
+      "title": "Frank Lampard, Ellis Simms & Jack Rudoni Reaction | Coventry City vs Newcastle | Premier League",
+      "link": "https://www.youtube.com/watch?v=pcPbzfEpKFE",
+      "pubDate": "2026-10-12T23:00:31Z",
+      "thumb": "https://i.ytimg.com/vi/pcPbzfEpKFE/hqdefault.jpg"
+    },
+    {
+      "team": "Newcastle United",
+      "title": "Coventry City 4 Newcastle United 1 | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=YZyS3affLao",
+      "pubDate": "2026-10-12T23:00:26Z",
+      "thumb": "https://i.ytimg.com/vi/YZyS3affLao/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Crystal Palace 3-1 Nottingham Forest | Premier League | Extended Highlights 🎬",
+      "link": "https://www.youtube.com/watch?v=g-l9fQq8Bic",
+      "pubDate": "2026-10-12T23:00:25Z",
+      "thumb": "https://i.ytimg.com/vi/g-l9fQq8Bic/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Highlights: Liverpool 0-3 Man City | Reds loss following red card",
+      "link": "https://www.youtube.com/watch?v=RNgNuIFzCp0",
+      "pubDate": "2026-10-12T23:00:23Z",
+      "thumb": "https://i.ytimg.com/vi/RNgNuIFzCp0/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "EXTENDED HIGHLIGHTS | Liverpool 0-3 Man City | Haaland, Doku & Cherki goals in Anfield win!",
+      "link": "https://www.youtube.com/watch?v=RSodWh8pnOc",
+      "pubDate": "2026-10-12T23:00:20Z",
+      "thumb": "https://i.ytimg.com/vi/RSodWh8pnOc/hqdefault.jpg"
+    },
     {
       "team": "Crystal Palace",
       "title": "EXTENDED Highlights | Crystal Palace 3-1 Nottingham Forest | Premier League Highlights",
@@ -154,13 +189,6 @@
       "link": "https://www.youtube.com/watch?v=rHDpxdbZOrs",
       "pubDate": "2026-10-11T21:00:27Z",
       "thumb": "https://i.ytimg.com/vi/rHDpxdbZOrs/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Key Highlights: Liverpool 0-3 Man City | 10 men Reds defeated",
-      "link": "https://www.youtube.com/watch?v=E-Rr8TvJSC4",
-      "pubDate": "2026-10-11T21:00:01Z",
-      "thumb": "https://i.ytimg.com/vi/E-Rr8TvJSC4/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
@@ -387,13 +415,6 @@
       "thumb": "https://i.ytimg.com/vi/j6VpbaEw6GE/hqdefault.jpg"
     },
     {
-      "team": "Nottingham Forest",
-      "title": "Ola Aina Birthday Celebrations and Palace Preparations! 👊 | Inside Training 🎬",
-      "link": "https://www.youtube.com/watch?v=QQ_Y1EX82AE",
-      "pubDate": "2026-10-10T10:00:01Z",
-      "thumb": "https://i.ytimg.com/vi/QQ_Y1EX82AE/hqdefault.jpg"
-    },
-    {
       "team": "Hull City",
       "title": "Everton (H)| Sergej Jakirović's Live Pre-Match Press Conference",
       "link": "https://www.youtube.com/watch?v=8sXV81i8fFA",
@@ -443,13 +464,6 @@
       "thumb": "https://i.ytimg.com/vi/oxkYPNcGYoE/hqdefault.jpg"
     },
     {
-      "team": "Manchester City",
-      "title": "'We need to be all together' | Enzo Maresca Interview",
-      "link": "https://www.youtube.com/watch?v=FN0O1rpyEuM",
-      "pubDate": "2026-10-08T17:00:20Z",
-      "thumb": "https://i.ytimg.com/vi/FN0O1rpyEuM/hqdefault.jpg"
-    },
-    {
       "team": "Coventry City",
       "title": "Frank Lampard Pre-Match Press Conference | Coventry City vs Newcastle United | Premier League",
       "link": "https://www.youtube.com/watch?v=vuUpSCPM5Cc",
@@ -490,13 +504,6 @@
       "link": "https://www.youtube.com/watch?v=9_zYLusneqo",
       "pubDate": "2026-09-25T18:34:52Z",
       "thumb": "https://i.ytimg.com/vi/9_zYLusneqo/hqdefault.jpg"
-    },
-    {
-      "team": "Coventry City",
-      "title": "How many bricks are left? 🤨",
-      "link": "https://www.youtube.com/watch?v=y_6yBsLKOxM",
-      "pubDate": "2026-09-25T14:05:32Z",
-      "thumb": "https://i.ytimg.com/vi/y_6yBsLKOxM/hqdefault.jpg"
     },
     {
       "team": "Everton",
