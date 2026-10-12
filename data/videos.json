@@ -1,11 +1,18 @@
 {
-  "updatedAt": "2026-10-12T09:13:26.786Z",
+  "updatedAt": "2026-10-12T09:37:56.757Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "LIVE: Champions League pre-match: LASK vs Liverpool",
+      "link": "https://www.youtube.com/watch?v=AVwR3iH6VFg",
+      "pubDate": "2026-10-12T09:35:57Z",
+      "thumb": "https://i.ytimg.com/vi/AVwR3iH6VFg/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Nagelsmaan NEXT?! INEOS ADMIT Transfer Window FAILURE! Man United News",
       "link": "https://www.youtube.com/watch?v=Cta6rg995BE",
-      "pubDate": "2026-10-12T09:12:01Z",
+      "pubDate": "2026-10-12T09:20:39Z",
       "thumb": "https://i.ytimg.com/vi/Cta6rg995BE/hqdefault_live.jpg"
     },
     {
@@ -133,13 +140,6 @@
       "link": "https://www.youtube.com/watch?v=dZYK9Liep0Q",
       "pubDate": "2026-10-11T16:19:35Z",
       "thumb": "https://i.ytimg.com/vi/dZYK9Liep0Q/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Matchday Live: Liverpool vs Manchester City | Premier League build-up from Anfield",
-      "link": "https://www.youtube.com/watch?v=-QcaRUsQHQo",
-      "pubDate": "2026-10-11T15:02:14Z",
-      "thumb": "https://i.ytimg.com/vi/-QcaRUsQHQo/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
@@ -276,7 +276,7 @@
     },
     {
       "team": "Aston Villa",
-      "title": "VILLA 2-2 BRENTFORD || POST-MATCH LIVE || PRESENTED BY VISIT RWANDA",
+      "title": "POST-MATCH LIVE | With Alan McInally and Andy Townsend | Brentford (H)",
       "link": "https://www.youtube.com/watch?v=0G-3rgIq77o",
       "pubDate": "2026-10-10T16:27:56Z",
       "thumb": "https://i.ytimg.com/vi/0G-3rgIq77o/hqdefault.jpg"
@@ -332,7 +332,7 @@
     },
     {
       "team": "Aston Villa",
-      "title": "VILLA v BRENTFORD || MATCHDAY LIVE || PRESENTED BY VISIT RWANDA",
+      "title": "PRE-MATCH LIVE | With Alan McInally and Andy Townsend | Brentford (H)",
       "link": "https://www.youtube.com/watch?v=j6VpbaEw6GE",
       "pubDate": "2026-10-10T13:51:09Z",
       "thumb": "https://i.ytimg.com/vi/j6VpbaEw6GE/hqdefault.jpg"
