@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-13T15:56:22.667Z",
+  "updatedAt": "2026-10-13T16:10:24.175Z",
   "videos": [
+    {
+      "team": "Nottingham Forest",
+      "title": "American Forest Fans Visit City Ground for the First Time! | Stateside to Trentside 🇺🇸🔴",
+      "link": "https://www.youtube.com/watch?v=ag82BndD6JE",
+      "pubDate": "2026-10-13T16:00:38Z",
+      "thumb": "https://i.ytimg.com/vi/ag82BndD6JE/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "LIVE: Champions League Press Conference: LASK vs Liverpool | Milos Kerkez & Anoni Iraola",
@@ -378,13 +385,6 @@
       "link": "https://www.youtube.com/watch?v=0G-3rgIq77o",
       "pubDate": "2026-10-10T16:27:56Z",
       "thumb": "https://i.ytimg.com/vi/0G-3rgIq77o/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Special Radosław Majewski Hat-Trick! 🪄 | Crystal Palace 0-3 Nottingham Forest | Classic Highlights 🎬",
-      "link": "https://www.youtube.com/watch?v=uH-5x9b8Qmg",
-      "pubDate": "2026-10-10T16:00:08Z",
-      "thumb": "https://i.ytimg.com/vi/uH-5x9b8Qmg/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
