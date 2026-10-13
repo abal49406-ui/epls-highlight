@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-13T16:10:24.175Z",
+  "updatedAt": "2026-10-13T16:36:22.708Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Live Training: LASK vs Liverpool | Warm-ups for Champions League Matchday 2",
+      "link": "https://www.youtube.com/watch?v=tWbKqJBASyk",
+      "pubDate": "2026-10-13T16:29:49Z",
+      "thumb": "https://i.ytimg.com/vi/tWbKqJBASyk/hqdefault_live.jpg"
+    },
     {
       "team": "Nottingham Forest",
       "title": "American Forest Fans Visit City Ground for the First Time! | Stateside to Trentside 🇺🇸🔴",
@@ -175,13 +182,6 @@
       "link": "https://www.youtube.com/watch?v=AVwR3iH6VFg",
       "pubDate": "2026-10-12T09:35:57Z",
       "thumb": "https://i.ytimg.com/vi/AVwR3iH6VFg/hqdefault_live.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Live Training: LASK vs Liverpool | Warm-ups for Champions League Matchday 2",
-      "link": "https://www.youtube.com/watch?v=tWbKqJBASyk",
-      "pubDate": "2026-10-12T09:08:21Z",
-      "thumb": "https://i.ytimg.com/vi/tWbKqJBASyk/hqdefault_live.jpg"
     },
     {
       "team": "Chelsea",
