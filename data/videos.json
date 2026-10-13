@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-13T18:41:48.801Z",
+  "updatedAt": "2026-10-13T19:19:57.926Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "THE CHAMPIONS LEAGUE RETURNS TO NORTH LONDON 💫 | Live From N5 | Arsenal v Lille | UCL",
+      "link": "https://www.youtube.com/watch?v=V9SsYsz6lwY",
+      "pubDate": "2026-10-13T19:00:57Z",
+      "thumb": "https://i.ytimg.com/vi/V9SsYsz6lwY/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "MAN UNITED vs ATLETICO MADRID! Countdown To Kickoff!",
@@ -10,7 +17,7 @@
     },
     {
       "team": "Manchester United",
-      "title": "ATLETICO MADRID vs MAN NUNITED LIVE Watchalong with Mark Goldbridge",
+      "title": "ATLETICO MADRID vs MAN UNITED LIVE Champions League Watchalong",
       "link": "https://www.youtube.com/watch?v=Dt5RvYifEYI",
       "pubDate": "2026-10-13T18:31:41Z",
       "thumb": "https://i.ytimg.com/vi/Dt5RvYifEYI/hqdefault_live.jpg"
@@ -21,13 +28,6 @@
       "link": "https://www.youtube.com/watch?v=qrhcfhAih5M",
       "pubDate": "2026-10-13T18:00:23Z",
       "thumb": "https://i.ytimg.com/vi/qrhcfhAih5M/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "THE CHAMPIONS LEAGUE RETURNS TO NORTH LONDON 💫 | Live From N5 | Arsenal v Lille | UCL",
-      "link": "https://www.youtube.com/watch?v=V9SsYsz6lwY",
-      "pubDate": "2026-10-13T17:40:19Z",
-      "thumb": "https://i.ytimg.com/vi/V9SsYsz6lwY/hqdefault_live.jpg"
     },
     {
       "team": "Chelsea",
@@ -52,7 +52,7 @@
     },
     {
       "team": "Liverpool",
-      "title": "LIVE: Champions League Press Conference: LASK vs Liverpool | Milos Kerkez & Andoni Iraola",
+      "title": "Champions League Press Conference: LASK vs Liverpool | Milos Kerkez & Andoni Iraola",
       "link": "https://www.youtube.com/watch?v=sY8VMoEFg3M",
       "pubDate": "2026-10-13T15:43:27Z",
       "thumb": "https://i.ytimg.com/vi/sY8VMoEFg3M/hqdefault.jpg"
@@ -462,6 +462,13 @@
       "link": "https://www.youtube.com/watch?v=4BaB27fHmaE",
       "pubDate": "2026-10-09T13:00:09Z",
       "thumb": "https://i.ytimg.com/vi/4BaB27fHmaE/hqdefault.jpg"
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Spurs train ahead of Man Utd trip 🔋",
+      "link": "https://www.youtube.com/watch?v=T76L8KOFiK8",
+      "pubDate": "2026-10-09T11:00:02Z",
+      "thumb": "https://i.ytimg.com/vi/T76L8KOFiK8/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
