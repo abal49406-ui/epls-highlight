@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-13T17:34:01.280Z",
+  "updatedAt": "2026-10-13T17:51:44.496Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "THE CHAMPIONS LEAGUE RETURNS TO NORTH LONDON 💫 | Live From N5 | Arsenal v Lille | UCL",
+      "link": "https://www.youtube.com/watch?v=V9SsYsz6lwY",
+      "pubDate": "2026-10-13T17:40:19Z",
+      "thumb": "https://i.ytimg.com/vi/V9SsYsz6lwY/hqdefault_live.jpg"
+    },
     {
       "team": "Chelsea",
       "title": "Reading U18 0-3 Chelsea U18| HIGHLIGHTS | U18 Premier League | 2026/27",
@@ -35,13 +42,6 @@
       "link": "https://www.youtube.com/watch?v=sY8VMoEFg3M",
       "pubDate": "2026-10-13T15:43:27Z",
       "thumb": "https://i.ytimg.com/vi/sY8VMoEFg3M/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "THE CHAMPIONS LEAGUE RETURNS TO NORTH LONDON 💫 | Live From N5 | Arsenal v Lille | UCL",
-      "link": "https://www.youtube.com/watch?v=V9SsYsz6lwY",
-      "pubDate": "2026-10-13T15:37:29Z",
-      "thumb": "https://i.ytimg.com/vi/V9SsYsz6lwY/hqdefault_live.jpg"
     },
     {
       "team": "Sunderland",
