@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-13T15:16:24.926Z",
+  "updatedAt": "2026-10-13T15:38:16.246Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "THE CHAMPIONS LEAGUE RETURNS TO NORTH LONDON 💫 | Live From N5 | Arsenal v Lille | UCL",
+      "link": "https://www.youtube.com/watch?v=V9SsYsz6lwY",
+      "pubDate": "2026-10-13T15:37:29Z",
+      "thumb": "https://i.ytimg.com/vi/V9SsYsz6lwY/hqdefault_live.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "\"We'll win it all\" 😆 | William Messer's Matchday Experience",
+      "link": "https://www.youtube.com/watch?v=ntuaVfbIsMw",
+      "pubDate": "2026-10-13T15:24:03Z",
+      "thumb": "https://i.ytimg.com/vi/ntuaVfbIsMw/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "LIVE: Champions League Press Conference: LASK vs Liverpool | Milos Kerkez & Anoni Iraola",
@@ -142,25 +156,11 @@
       "thumb": "https://i.ytimg.com/vi/Wg4dUmwha1k/hqdefault.jpg"
     },
     {
-      "team": "Arsenal",
-      "title": "Press Conference | Mikel Arteta previews Lille | UEFA Champions League",
-      "link": "https://www.youtube.com/watch?v=5YgExKPd4dU",
-      "pubDate": "2026-10-12T13:16:03Z",
-      "thumb": "https://i.ytimg.com/vi/5YgExKPd4dU/hqdefault.jpg"
-    },
-    {
       "team": "Sunderland",
       "title": "Ogunsuyi At The Double | Arsenal FC U21s 2 - 2 Sunderland AFC U21s | PL2 Highlights",
       "link": "https://www.youtube.com/watch?v=adcQuC80CGQ",
       "pubDate": "2026-10-12T12:05:21Z",
       "thumb": "https://i.ytimg.com/vi/adcQuC80CGQ/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Nagelsmaan NEXT?! INEOS ADMIT Transfer Window FAILURE! Man United News",
-      "link": "https://www.youtube.com/watch?v=Cta6rg995BE",
-      "pubDate": "2026-10-12T10:20:29Z",
-      "thumb": "https://i.ytimg.com/vi/Cta6rg995BE/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
@@ -364,13 +364,6 @@
       "link": "https://www.youtube.com/watch?v=iiI4suum8hc",
       "pubDate": "2026-10-10T17:29:52Z",
       "thumb": "https://i.ytimg.com/vi/iiI4suum8hc/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "\"Learn, reset and go again\" | Le Bris & Danso Post-Match Reaction",
-      "link": "https://www.youtube.com/watch?v=1-Chps9jpk8",
-      "pubDate": "2026-10-10T17:20:30Z",
-      "thumb": "https://i.ytimg.com/vi/1-Chps9jpk8/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
