@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-13T14:58:58.634Z",
+  "updatedAt": "2026-10-13T15:16:24.926Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "LIVE: Champions League Press Conference: LASK vs Liverpool | Milos Kerkez & Anoni Iraola",
+      "link": "https://www.youtube.com/watch?v=sY8VMoEFg3M",
+      "pubDate": "2026-10-13T15:07:31Z",
+      "thumb": "https://i.ytimg.com/vi/sY8VMoEFg3M/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester City",
       "title": "WATCH LIVE TRAINING! | Man City v PSG | Champions League",
@@ -154,13 +161,6 @@
       "link": "https://www.youtube.com/watch?v=Cta6rg995BE",
       "pubDate": "2026-10-12T10:20:29Z",
       "thumb": "https://i.ytimg.com/vi/Cta6rg995BE/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "LIVE: Champions League Press Conference: LASK vs Liverpool",
-      "link": "https://www.youtube.com/watch?v=sY8VMoEFg3M",
-      "pubDate": "2026-10-12T09:53:39Z",
-      "thumb": "https://i.ytimg.com/vi/sY8VMoEFg3M/hqdefault_live.jpg"
     },
     {
       "team": "Liverpool",
