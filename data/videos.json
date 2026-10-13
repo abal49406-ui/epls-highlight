@@ -1,19 +1,26 @@
 {
-  "updatedAt": "2026-10-13T18:08:41.297Z",
+  "updatedAt": "2026-10-13T18:41:48.801Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "MAN UNITED vs ATLETICO MADRID! Countdown To Kickoff!",
+      "link": "https://www.youtube.com/watch?v=pR32NZ9FEqE",
+      "pubDate": "2026-10-13T18:36:58Z",
+      "thumb": "https://i.ytimg.com/vi/pR32NZ9FEqE/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "ATLETICO MADRID vs MAN NUNITED LIVE Watchalong with Mark Goldbridge",
+      "link": "https://www.youtube.com/watch?v=Dt5RvYifEYI",
+      "pubDate": "2026-10-13T18:31:41Z",
+      "thumb": "https://i.ytimg.com/vi/Dt5RvYifEYI/hqdefault_live.jpg"
+    },
     {
       "team": "Crystal Palace",
       "title": "DUGOUT CAM 🎥 | Crystal Palace 3-1 Nottingham Forest",
       "link": "https://www.youtube.com/watch?v=qrhcfhAih5M",
       "pubDate": "2026-10-13T18:00:23Z",
       "thumb": "https://i.ytimg.com/vi/qrhcfhAih5M/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "ATLETICO MADRID vs MAN NUNITED LIVE Watchalong with Mark Goldbridge",
-      "link": "https://www.youtube.com/watch?v=Dt5RvYifEYI",
-      "pubDate": "2026-10-13T17:57:37Z",
-      "thumb": "https://i.ytimg.com/vi/Dt5RvYifEYI/hqdefault_live.jpg"
     },
     {
       "team": "Arsenal",
@@ -28,13 +35,6 @@
       "link": "https://www.youtube.com/watch?v=fdFwOGBFTbg",
       "pubDate": "2026-10-13T17:08:17Z",
       "thumb": "https://i.ytimg.com/vi/fdFwOGBFTbg/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "MAN UNITED vs ATLETICO MADRID! Countdown To Kickoff!",
-      "link": "https://www.youtube.com/watch?v=pR32NZ9FEqE",
-      "pubDate": "2026-10-13T17:02:34Z",
-      "thumb": "https://i.ytimg.com/vi/pR32NZ9FEqE/hqdefault_live.jpg"
     },
     {
       "team": "Liverpool",
@@ -462,13 +462,6 @@
       "link": "https://www.youtube.com/watch?v=4BaB27fHmaE",
       "pubDate": "2026-10-09T13:00:09Z",
       "thumb": "https://i.ytimg.com/vi/4BaB27fHmaE/hqdefault.jpg"
-    },
-    {
-      "team": "Tottenham Hotspur",
-      "title": "Spurs train ahead of Man Utd trip 🔋",
-      "link": "https://www.youtube.com/watch?v=T76L8KOFiK8",
-      "pubDate": "2026-10-09T11:00:02Z",
-      "thumb": "https://i.ytimg.com/vi/T76L8KOFiK8/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
