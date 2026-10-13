@@ -1,12 +1,26 @@
 {
-  "updatedAt": "2026-10-13T10:55:31.891Z",
+  "updatedAt": "2026-10-13T11:08:36.572Z",
   "videos": [
+    {
+      "team": "Fulham",
+      "title": "Gillies double downs Cherries 🍒 | Bournemouth 1-2 Fulham | Women's Highlights",
+      "link": "https://www.youtube.com/watch?v=-wkTNQGkXLQ",
+      "pubDate": "2026-10-13T11:00:33Z",
+      "thumb": "https://i.ytimg.com/vi/-wkTNQGkXLQ/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Carrick Out of Time? United Fail to Beat 10-Man Tottenham | Stick to United EP 9",
       "link": "https://www.youtube.com/watch?v=BFiBtZjVE28",
       "pubDate": "2026-10-13T07:00:20Z",
       "thumb": "https://i.ytimg.com/vi/BFiBtZjVE28/hqdefault.jpg"
+    },
+    {
+      "team": "Fulham",
+      "title": "Pipped at the post 😩 | Behind the scenes at Ipswich | FUL ACCESS",
+      "link": "https://www.youtube.com/watch?v=kZemXHqE-j4",
+      "pubDate": "2026-10-13T07:00:01Z",
+      "thumb": "https://i.ytimg.com/vi/kZemXHqE-j4/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
@@ -457,13 +471,6 @@
       "thumb": "https://i.ytimg.com/vi/T76L8KOFiK8/hqdefault.jpg"
     },
     {
-      "team": "Fulham",
-      "title": "Back to work, full focus on Ipswich 🗣️ | Álvaro Arbeloa's Ipswich Press Conference",
-      "link": "https://www.youtube.com/watch?v=HDe8YWESpr8",
-      "pubDate": "2026-10-09T10:45:13Z",
-      "thumb": "https://i.ytimg.com/vi/HDe8YWESpr8/hqdefault.jpg"
-    },
-    {
       "team": "Ipswich Town",
       "title": "INSIDE TRAINING | PRE-FULHAM (H)",
       "link": "https://www.youtube.com/watch?v=oxkYPNcGYoE",
@@ -497,13 +504,6 @@
       "link": "https://www.youtube.com/watch?v=8izYir7yib8",
       "pubDate": "2026-10-06T17:00:27Z",
       "thumb": "https://i.ytimg.com/vi/8izYir7yib8/hqdefault.jpg"
-    },
-    {
-      "team": "Fulham",
-      "title": "Fulham FC: A New Era ⚫️⚪️",
-      "link": "https://www.youtube.com/watch?v=sR4wqwCFalQ",
-      "pubDate": "2026-10-06T14:27:45Z",
-      "thumb": "https://i.ytimg.com/vi/sR4wqwCFalQ/hqdefault.jpg"
     },
     {
       "team": "Everton",
