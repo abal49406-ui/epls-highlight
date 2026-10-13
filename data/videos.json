@@ -1,19 +1,40 @@
 {
-  "updatedAt": "2026-10-13T20:51:20.894Z",
+  "updatedAt": "2026-10-13T21:15:51.226Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "TIMBER, EZE & SAKA GRAB THE GOALS | Live From N5 | Arsenal 3 - 0 Lille | UCL | Post-match",
+      "link": "https://www.youtube.com/watch?v=01tvfupC2cU",
+      "pubDate": "2026-10-13T21:09:17Z",
+      "thumb": "https://i.ytimg.com/vi/01tvfupC2cU/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "ATLETICO MADRID vs MAN UNITED LIVE Champions League Watchalong",
+      "link": "https://www.youtube.com/watch?v=Dt5RvYifEYI",
+      "pubDate": "2026-10-13T21:06:52Z",
+      "thumb": "https://i.ytimg.com/vi/Dt5RvYifEYI/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "ATLETICO MADRID BATTER UNITED 💩",
+      "link": "https://www.youtube.com/watch?v=aAB8ofsRRT8",
+      "pubDate": "2026-10-13T21:03:43Z",
+      "thumb": "https://i.ytimg.com/vi/aAB8ofsRRT8/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "THE END FOR CARRICK? Man United 0-2 Atletico Madrid Goldbridge Match Reaction",
+      "link": "https://www.youtube.com/watch?v=pSwQNyfEgA0",
+      "pubDate": "2026-10-13T21:03:16Z",
+      "thumb": "https://i.ytimg.com/vi/pSwQNyfEgA0/hqdefault_live.jpg"
+    },
     {
       "team": "Chelsea",
       "title": "Reading 0-2 Cobham Next Gen | HIGHLIGHTS | EFL Trophy | 2026/27",
       "link": "https://www.youtube.com/watch?v=88rVL-LZ6Bo",
       "pubDate": "2026-10-13T20:49:42Z",
       "thumb": "https://i.ytimg.com/vi/88rVL-LZ6Bo/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "CLUELESS TACTICS! Man United 0-2 Atletico Madrid Goldbridge Match Reaction",
-      "link": "https://www.youtube.com/watch?v=pSwQNyfEgA0",
-      "pubDate": "2026-10-13T20:47:40Z",
-      "thumb": "https://i.ytimg.com/vi/pSwQNyfEgA0/hqdefault_live.jpg"
     },
     {
       "team": "Arsenal",
@@ -28,13 +49,6 @@
       "link": "https://www.youtube.com/watch?v=pR32NZ9FEqE",
       "pubDate": "2026-10-13T18:36:58Z",
       "thumb": "https://i.ytimg.com/vi/pR32NZ9FEqE/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "ATLETICO MADRID vs MAN UNITED LIVE Champions League Watchalong",
-      "link": "https://www.youtube.com/watch?v=Dt5RvYifEYI",
-      "pubDate": "2026-10-13T18:31:41Z",
-      "thumb": "https://i.ytimg.com/vi/Dt5RvYifEYI/hqdefault_live.jpg"
     },
     {
       "team": "Crystal Palace",
@@ -91,13 +105,6 @@
       "link": "https://www.youtube.com/watch?v=-wkTNQGkXLQ",
       "pubDate": "2026-10-13T11:00:33Z",
       "thumb": "https://i.ytimg.com/vi/-wkTNQGkXLQ/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Carrick Out of Time? United Fail to Beat 10-Man Tottenham | Stick to United EP 9",
-      "link": "https://www.youtube.com/watch?v=BFiBtZjVE28",
-      "pubDate": "2026-10-13T07:00:20Z",
-      "thumb": "https://i.ytimg.com/vi/BFiBtZjVE28/hqdefault.jpg"
     },
     {
       "team": "Fulham",
@@ -175,13 +182,6 @@
       "link": "https://www.youtube.com/watch?v=Ghba4iHwdbU",
       "pubDate": "2026-10-12T16:13:57Z",
       "thumb": "https://i.ytimg.com/vi/Ghba4iHwdbU/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "ARTETA REACTS TO CALAFIORI AND BRUNO GOALS 💪 | Bench Cam 🎥 | Arsenal 2-1 Leeds United | EPL",
-      "link": "https://www.youtube.com/watch?v=ihIm6g0lv9s",
-      "pubDate": "2026-10-12T14:38:13Z",
-      "thumb": "https://i.ytimg.com/vi/ihIm6g0lv9s/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
