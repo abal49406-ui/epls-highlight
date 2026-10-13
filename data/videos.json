@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-13T17:07:45.350Z",
+  "updatedAt": "2026-10-13T17:34:01.280Z",
   "videos": [
+    {
+      "team": "Chelsea",
+      "title": "Reading U18 0-3 Chelsea U18| HIGHLIGHTS | U18 Premier League | 2026/27",
+      "link": "https://www.youtube.com/watch?v=fdFwOGBFTbg",
+      "pubDate": "2026-10-13T17:08:17Z",
+      "thumb": "https://i.ytimg.com/vi/fdFwOGBFTbg/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "MAN UNITED vs ATLETICO MADRID! Countdown To Kickoff!",
@@ -24,7 +31,7 @@
     },
     {
       "team": "Liverpool",
-      "title": "LIVE: Champions League Press Conference: LASK vs Liverpool | Milos Kerkez & Anoni Iraola",
+      "title": "LIVE: Champions League Press Conference: LASK vs Liverpool | Milos Kerkez & Andoni Iraola",
       "link": "https://www.youtube.com/watch?v=sY8VMoEFg3M",
       "pubDate": "2026-10-13T15:43:27Z",
       "thumb": "https://i.ytimg.com/vi/sY8VMoEFg3M/hqdefault.jpg"
@@ -364,13 +371,6 @@
       "link": "https://www.youtube.com/watch?v=SEhLjPRCtyo",
       "pubDate": "2026-10-10T18:23:06Z",
       "thumb": "https://i.ytimg.com/vi/SEhLjPRCtyo/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "Chelsea U18 2-2 Manchester United U18 | HIGHLIGHTS | U18 Premier League Cup | 2026/27",
-      "link": "https://www.youtube.com/watch?v=iiI4suum8hc",
-      "pubDate": "2026-10-10T17:29:52Z",
-      "thumb": "https://i.ytimg.com/vi/iiI4suum8hc/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
