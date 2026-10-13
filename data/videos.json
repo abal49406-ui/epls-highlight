@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-13T06:43:28.395Z",
+  "updatedAt": "2026-10-13T07:14:06.885Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Carrick Out of Time? United Fail to Beat 10-Man Tottenham | Stick to United EP 9",
+      "link": "https://www.youtube.com/watch?v=BFiBtZjVE28",
+      "pubDate": "2026-10-13T07:00:20Z",
+      "thumb": "https://i.ytimg.com/vi/BFiBtZjVE28/hqdefault.jpg"
+    },
+    {
+      "team": "Fulham",
+      "title": "Pipped at the post 😩 | Behind the scenes at Ipswich | FUL ACCESS",
+      "link": "https://www.youtube.com/watch?v=kZemXHqE-j4",
+      "pubDate": "2026-10-13T07:00:01Z",
+      "thumb": "https://i.ytimg.com/vi/kZemXHqE-j4/hqdefault.jpg"
+    },
     {
       "team": "Coventry City",
       "title": "Coventry City 4-1 Newcastle United | Premier League Highlights",
@@ -203,13 +217,6 @@
       "link": "https://www.youtube.com/watch?v=t6AaXaRAeJQ",
       "pubDate": "2026-10-11T20:30:17Z",
       "thumb": "https://i.ytimg.com/vi/t6AaXaRAeJQ/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Carrick JOB Safe! City SHAM Continues! Goldbridge Man Utd News",
-      "link": "https://www.youtube.com/watch?v=9gqX0UYIq9Q",
-      "pubDate": "2026-10-11T20:01:22Z",
-      "thumb": "https://i.ytimg.com/vi/9gqX0UYIq9Q/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
@@ -497,13 +504,6 @@
       "link": "https://www.youtube.com/watch?v=8izYir7yib8",
       "pubDate": "2026-10-06T17:00:27Z",
       "thumb": "https://i.ytimg.com/vi/8izYir7yib8/hqdefault.jpg"
-    },
-    {
-      "team": "Fulham",
-      "title": "Fulham FC: A New Era ⚫️⚪️",
-      "link": "https://www.youtube.com/watch?v=sR4wqwCFalQ",
-      "pubDate": "2026-10-06T14:27:45Z",
-      "thumb": "https://i.ytimg.com/vi/sR4wqwCFalQ/hqdefault.jpg"
     },
     {
       "team": "Everton",
