@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-13T16:55:16.206Z",
+  "updatedAt": "2026-10-13T17:07:45.350Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "MAN UNITED vs ATLETICO MADRID! Countdown To Kickoff!",
+      "link": "https://www.youtube.com/watch?v=pR32NZ9FEqE",
+      "pubDate": "2026-10-13T17:02:34Z",
+      "thumb": "https://i.ytimg.com/vi/pR32NZ9FEqE/hqdefault_live.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "Live Training: LASK vs Liverpool | Warm-ups for Champions League Matchday 2",
@@ -21,13 +28,6 @@
       "link": "https://www.youtube.com/watch?v=sY8VMoEFg3M",
       "pubDate": "2026-10-13T15:43:27Z",
       "thumb": "https://i.ytimg.com/vi/sY8VMoEFg3M/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "MAN UNITED vs ATLETICO MADRID! Countdown To Kickoff!",
-      "link": "https://www.youtube.com/watch?v=pR32NZ9FEqE",
-      "pubDate": "2026-10-13T15:37:43Z",
-      "thumb": "https://i.ytimg.com/vi/pR32NZ9FEqE/hqdefault_live.jpg"
     },
     {
       "team": "Arsenal",
