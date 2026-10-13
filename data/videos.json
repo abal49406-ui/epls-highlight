@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-13T13:15:41.990Z",
+  "updatedAt": "2026-10-13T13:42:00.131Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "WATCH LIVE TRAINING! | Man City v PSG | Champions League",
+      "link": "https://www.youtube.com/watch?v=I4qt_Y9SPeY",
+      "pubDate": "2026-10-13T13:40:52Z",
+      "thumb": "https://i.ytimg.com/vi/I4qt_Y9SPeY/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "BIG Decisions for Carrick! Man United vs Atletico Madrid Road Trip",
@@ -448,13 +455,6 @@
       "link": "https://www.youtube.com/watch?v=RV-EMORCOuI",
       "pubDate": "2026-10-09T16:00:06Z",
       "thumb": "https://i.ytimg.com/vi/RV-EMORCOuI/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "Five In Five: The Enzo Maresca Era Begins",
-      "link": "https://www.youtube.com/watch?v=JM9OFF6c-So",
-      "pubDate": "2026-10-09T14:00:32Z",
-      "thumb": "https://i.ytimg.com/vi/JM9OFF6c-So/hqdefault.jpg"
     },
     {
       "team": "Fulham",
