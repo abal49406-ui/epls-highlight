@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-14T17:18:37.133Z",
+  "updatedAt": "2026-10-14T17:50:49.315Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Wilcox GOING Nowhere! United in CRISIS! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=8l3hkeil39k",
+      "pubDate": "2026-10-14T17:42:39Z",
+      "thumb": "https://i.ytimg.com/vi/8l3hkeil39k/hqdefault_live.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "MATCHDAY LIVE! | Man City v PSG | Champions League",
+      "link": "https://www.youtube.com/watch?v=COTOzihiZj8",
+      "pubDate": "2026-10-14T17:30:34Z",
+      "thumb": "https://i.ytimg.com/vi/COTOzihiZj8/hqdefault_live.jpg"
+    },
     {
       "team": "Aston Villa",
       "title": "VILLA v FENERBAHCE || MATCHDAY LIVE || PRESENTED BY VISIT RWANDA",
@@ -14,13 +28,6 @@
       "link": "https://www.youtube.com/watch?v=AVwR3iH6VFg",
       "pubDate": "2026-10-14T16:09:25Z",
       "thumb": "https://i.ytimg.com/vi/AVwR3iH6VFg/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "MATCHDAY LIVE! | Man City v PSG | Champions League",
-      "link": "https://www.youtube.com/watch?v=COTOzihiZj8",
-      "pubDate": "2026-10-14T16:07:00Z",
-      "thumb": "https://i.ytimg.com/vi/COTOzihiZj8/hqdefault_live.jpg"
     },
     {
       "team": "Crystal Palace",
@@ -119,13 +126,6 @@
       "link": "https://www.youtube.com/watch?v=01tvfupC2cU",
       "pubDate": "2026-10-13T21:09:17Z",
       "thumb": "https://i.ytimg.com/vi/01tvfupC2cU/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "ATLETICO MADRID vs MAN UNITED LIVE Champions League Watchalong",
-      "link": "https://www.youtube.com/watch?v=Dt5RvYifEYI",
-      "pubDate": "2026-10-13T21:06:52Z",
-      "thumb": "https://i.ytimg.com/vi/Dt5RvYifEYI/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
@@ -497,13 +497,6 @@
       "link": "https://www.youtube.com/watch?v=8izYir7yib8",
       "pubDate": "2026-10-06T17:00:27Z",
       "thumb": "https://i.ytimg.com/vi/8izYir7yib8/hqdefault.jpg"
-    },
-    {
-      "team": "Everton",
-      "title": "americana",
-      "link": "https://www.youtube.com/watch?v=S7ONaVegbiI",
-      "pubDate": "2026-09-23T19:44:08Z",
-      "thumb": "https://i.ytimg.com/vi/S7ONaVegbiI/hqdefault.jpg"
     }
   ]
 }
