@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T22:44:51.311Z",
+  "updatedAt": "2026-10-14T23:14:48.193Z",
   "videos": [
     {
       "team": "Aston Villa",
@@ -21,13 +21,6 @@
       "link": "https://www.youtube.com/watch?v=COTOzihiZj8",
       "pubDate": "2026-10-14T22:04:59Z",
       "thumb": "https://i.ytimg.com/vi/COTOzihiZj8/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "VILLA 6-0 FENERBAHCE || POST-MATCH LIVE || PRESENTED BY VISIT RWANDA",
-      "link": "https://www.youtube.com/watch?v=jEWHLkQNLS4",
-      "pubDate": "2026-10-14T21:21:37Z",
-      "thumb": "https://i.ytimg.com/vi/jEWHLkQNLS4/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
@@ -441,6 +434,13 @@
       "link": "https://www.youtube.com/watch?v=l4Nqsz7MIig",
       "pubDate": "2026-10-10T21:00:15Z",
       "thumb": "https://i.ytimg.com/vi/l4Nqsz7MIig/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "Aston Villa 2-2 Brentford | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=7JCkPn7J-y4",
+      "pubDate": "2026-10-10T21:00:05Z",
+      "thumb": "https://i.ytimg.com/vi/7JCkPn7J-y4/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
