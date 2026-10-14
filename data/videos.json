@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-14T12:20:00.552Z",
+  "updatedAt": "2026-10-14T13:03:48.698Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Martinez EXPOSED! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=9QiqWym-gzY",
+      "pubDate": "2026-10-14T13:00:25Z",
+      "thumb": "https://i.ytimg.com/vi/9QiqWym-gzY/hqdefault_live.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "Marco Rose and Adam Smith preview AFC Bournemouth's first European home fixture | Press Conference",
+      "link": "https://www.youtube.com/watch?v=F8DBTroyPsY",
+      "pubDate": "2026-10-14T12:38:19Z",
+      "thumb": "https://i.ytimg.com/vi/F8DBTroyPsY/hqdefault.jpg"
+    },
     {
       "team": "Newcastle United",
       "title": "The Blaydon Races (Official Music Video) | Newcastle United, Hector Gannet",
@@ -63,13 +77,6 @@
       "link": "https://www.youtube.com/watch?v=Dt5RvYifEYI",
       "pubDate": "2026-10-13T21:06:52Z",
       "thumb": "https://i.ytimg.com/vi/Dt5RvYifEYI/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "ATLETICO MADRID BATTER UNITED 💩",
-      "link": "https://www.youtube.com/watch?v=aAB8ofsRRT8",
-      "pubDate": "2026-10-13T21:03:43Z",
-      "thumb": "https://i.ytimg.com/vi/aAB8ofsRRT8/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
@@ -490,13 +497,6 @@
       "link": "https://www.youtube.com/watch?v=vuUpSCPM5Cc",
       "pubDate": "2026-10-08T15:18:53Z",
       "thumb": "https://i.ytimg.com/vi/vuUpSCPM5Cc/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "Marco Rose on Alex Scott injury, Rayan & Kroupi Golden Boy Nomination and Chelsea | Press Conference",
-      "link": "https://www.youtube.com/watch?v=_9JLEqkyrYk",
-      "pubDate": "2026-10-08T14:02:02Z",
-      "thumb": "https://i.ytimg.com/vi/_9JLEqkyrYk/hqdefault.jpg"
     },
     {
       "team": "Hull City",
