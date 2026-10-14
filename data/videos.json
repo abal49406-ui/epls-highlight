@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-14T16:10:25.238Z",
+  "updatedAt": "2026-10-14T16:48:53.316Z",
   "videos": [
+    {
+      "team": "Aston Villa",
+      "title": "VILLA v FENERBAHCE || MATCHDAY LIVE || PRESENTED BY VISIT RWANDA",
+      "link": "https://www.youtube.com/watch?v=zWMEsNJmFeU",
+      "pubDate": "2026-10-14T16:19:22Z",
+      "thumb": "https://i.ytimg.com/vi/zWMEsNJmFeU/hqdefault_live.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "LIVE: Champions League pre-match: LASK vs Liverpool",
@@ -17,7 +24,7 @@
     },
     {
       "team": "Crystal Palace",
-      "title": "Pre-match Press Conference: Lyon (A)",
+      "title": "Sage Returns to Lyon 🗣️  Pre-match Press Conference: Lyon (A)",
       "link": "https://www.youtube.com/watch?v=9VWPuzvXobM",
       "pubDate": "2026-10-14T16:06:12Z",
       "thumb": "https://i.ytimg.com/vi/9VWPuzvXobM/hqdefault.jpg"
@@ -462,13 +469,6 @@
       "link": "https://www.youtube.com/watch?v=lji98kP5JlM",
       "pubDate": "2026-10-10T13:53:59Z",
       "thumb": "https://i.ytimg.com/vi/lji98kP5JlM/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "PRE-MATCH LIVE | With Alan McInally and Andy Townsend | Brentford (H)",
-      "link": "https://www.youtube.com/watch?v=j6VpbaEw6GE",
-      "pubDate": "2026-10-10T13:51:09Z",
-      "thumb": "https://i.ytimg.com/vi/j6VpbaEw6GE/hqdefault.jpg"
     },
     {
       "team": "Hull City",
