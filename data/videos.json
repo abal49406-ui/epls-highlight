@@ -1,12 +1,19 @@
 {
-  "updatedAt": "2026-10-14T19:01:25.675Z",
+  "updatedAt": "2026-10-14T19:45:26.684Z",
   "videos": [
     {
       "team": "Sunderland",
       "title": "🎙️ S.C.U. Torreense vs Sunderland AFC | Le Bris & O'Nien | Europa League Press Conference",
+      "link": "https://www.youtube.com/watch?v=3hZaTnmMvTk",
+      "pubDate": "2026-10-14T19:27:27Z",
+      "thumb": "https://i.ytimg.com/vi/3hZaTnmMvTk/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "🎙️ S.C.U. Torreense vs Sunderland AFC | Le Bris & O'Nien | Europa League Press Conference",
       "link": "https://www.youtube.com/watch?v=FUxdsPoAKv0",
-      "pubDate": "2026-10-14T19:01:08Z",
-      "thumb": "https://i.ytimg.com/vi/FUxdsPoAKv0/hqdefault_live.jpg"
+      "pubDate": "2026-10-14T19:03:22Z",
+      "thumb": "https://i.ytimg.com/vi/FUxdsPoAKv0/hqdefault.jpg"
     },
     {
       "team": "Manchester United",
@@ -301,13 +308,6 @@
       "link": "https://www.youtube.com/watch?v=06dvvp2ORLM",
       "pubDate": "2026-10-11T23:01:17Z",
       "thumb": "https://i.ytimg.com/vi/06dvvp2ORLM/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Sunderland AFC 0 - 2 Brighton & Hove Albion | Premier League Highlights I Extended Highlights",
-      "link": "https://www.youtube.com/watch?v=4J0-ApSH9VI",
-      "pubDate": "2026-10-11T23:00:25Z",
-      "thumb": "https://i.ytimg.com/vi/4J0-ApSH9VI/hqdefault.jpg"
     },
     {
       "team": "Tottenham Hotspur",
