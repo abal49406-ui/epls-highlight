@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-14T15:21:10.042Z",
+  "updatedAt": "2026-10-14T16:10:25.238Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "LIVE: Champions League pre-match: LASK vs Liverpool",
+      "link": "https://www.youtube.com/watch?v=AVwR3iH6VFg",
+      "pubDate": "2026-10-14T16:09:25Z",
+      "thumb": "https://i.ytimg.com/vi/AVwR3iH6VFg/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "MATCHDAY LIVE! | Man City v PSG | Champions League",
+      "link": "https://www.youtube.com/watch?v=COTOzihiZj8",
+      "pubDate": "2026-10-14T16:07:00Z",
+      "thumb": "https://i.ytimg.com/vi/COTOzihiZj8/hqdefault_live.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "Pre-match Press Conference: Lyon (A)",
+      "link": "https://www.youtube.com/watch?v=9VWPuzvXobM",
+      "pubDate": "2026-10-14T16:06:12Z",
+      "thumb": "https://i.ytimg.com/vi/9VWPuzvXobM/hqdefault.jpg"
+    },
+    {
+      "team": "Newcastle United",
+      "title": "What the Blaydon Races means to our players",
+      "link": "https://www.youtube.com/watch?v=esUcPROJf2Y",
+      "pubDate": "2026-10-14T16:05:05Z",
+      "thumb": "https://i.ytimg.com/vi/esUcPROJf2Y/hqdefault.jpg"
+    },
     {
       "team": "Brighton & Hove Albion",
       "title": "Brighton v Kauno Zalgiris | Hurzeler & Georginio pre-match press conference 🎙️",
@@ -254,13 +282,6 @@
       "thumb": "https://i.ytimg.com/vi/adcQuC80CGQ/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "LIVE: Champions League pre-match: LASK vs Liverpool",
-      "link": "https://www.youtube.com/watch?v=AVwR3iH6VFg",
-      "pubDate": "2026-10-12T09:35:57Z",
-      "thumb": "https://i.ytimg.com/vi/AVwR3iH6VFg/hqdefault_live.jpg"
-    },
-    {
       "team": "Chelsea",
       "title": "Chelsea 5-1 Bournemouth | HIGHLIGHTS - Extended | Premier League 2026/27",
       "link": "https://www.youtube.com/watch?v=06dvvp2ORLM",
@@ -308,20 +329,6 @@
       "link": "https://www.youtube.com/watch?v=rHDpxdbZOrs",
       "pubDate": "2026-10-11T21:00:27Z",
       "thumb": "https://i.ytimg.com/vi/rHDpxdbZOrs/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "RUTHLESS PALACE WIN ✅ | Crystal Palace 3-1 Nottingham Forest | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=t6AaXaRAeJQ",
-      "pubDate": "2026-10-11T20:30:17Z",
-      "thumb": "https://i.ytimg.com/vi/t6AaXaRAeJQ/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "MATCHDAY LIVE! CITY TRAVEL TO ANFIELD AS THE PREMIER LEAGUE RETURNS! Liverpool v Man City",
-      "link": "https://www.youtube.com/watch?v=oEfv6QSr9GQ",
-      "pubDate": "2026-10-11T18:40:54Z",
-      "thumb": "https://i.ytimg.com/vi/oEfv6QSr9GQ/hqdefault.jpg"
     },
     {
       "team": "Newcastle United",
@@ -471,13 +478,6 @@
       "thumb": "https://i.ytimg.com/vi/8sXV81i8fFA/hqdefault.jpg"
     },
     {
-      "team": "Newcastle United",
-      "title": "What It Really Takes To Feed A Premier League Squad | Newcastle United",
-      "link": "https://www.youtube.com/watch?v=RV-EMORCOuI",
-      "pubDate": "2026-10-09T16:00:06Z",
-      "thumb": "https://i.ytimg.com/vi/RV-EMORCOuI/hqdefault.jpg"
-    },
-    {
       "team": "Fulham",
       "title": "Premier League Returns 🙌 | Ipswich Prep | Motspur Parklife",
       "link": "https://www.youtube.com/watch?v=4BaB27fHmaE",
@@ -490,13 +490,6 @@
       "link": "https://www.youtube.com/watch?v=oxkYPNcGYoE",
       "pubDate": "2026-10-09T09:00:23Z",
       "thumb": "https://i.ytimg.com/vi/oxkYPNcGYoE/hqdefault.jpg"
-    },
-    {
-      "team": "Coventry City",
-      "title": "Frank Lampard Pre-Match Press Conference | Coventry City vs Newcastle United | Premier League",
-      "link": "https://www.youtube.com/watch?v=vuUpSCPM5Cc",
-      "pubDate": "2026-10-08T15:18:53Z",
-      "thumb": "https://i.ytimg.com/vi/vuUpSCPM5Cc/hqdefault.jpg"
     },
     {
       "team": "Hull City",
