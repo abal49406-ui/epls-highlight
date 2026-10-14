@@ -1,11 +1,18 @@
 {
-  "updatedAt": "2026-10-14T08:55:30.529Z",
+  "updatedAt": "2026-10-14T09:20:56.216Z",
   "videos": [
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Can David Bentley recreate THAT goal against Arsenal with a little help from special guests? 👀🎯",
+      "link": "https://www.youtube.com/watch?v=lcFyCtsAxxg",
+      "pubDate": "2026-10-14T09:10:15Z",
+      "thumb": "https://i.ytimg.com/vi/lcFyCtsAxxg/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Players BACK Martinez Outburst! Wilcox MUST Go! Man Utd News",
       "link": "https://www.youtube.com/watch?v=Kx6oAVwo_9U",
-      "pubDate": "2026-10-14T08:39:16Z",
+      "pubDate": "2026-10-14T09:00:58Z",
       "thumb": "https://i.ytimg.com/vi/Kx6oAVwo_9U/hqdefault_live.jpg"
     },
     {
@@ -462,13 +469,6 @@
       "link": "https://www.youtube.com/watch?v=4BaB27fHmaE",
       "pubDate": "2026-10-09T13:00:09Z",
       "thumb": "https://i.ytimg.com/vi/4BaB27fHmaE/hqdefault.jpg"
-    },
-    {
-      "team": "Tottenham Hotspur",
-      "title": "Spurs train ahead of Man Utd trip 🔋",
-      "link": "https://www.youtube.com/watch?v=T76L8KOFiK8",
-      "pubDate": "2026-10-09T11:00:02Z",
-      "thumb": "https://i.ytimg.com/vi/T76L8KOFiK8/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
