@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-14T19:45:26.684Z",
+  "updatedAt": "2026-10-14T20:18:22.175Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Iraola's Reaction: Barcola hat-trick & six goals in Champions League win | LASK 3-6 Liverpool",
+      "link": "https://www.youtube.com/watch?v=v7AnxwxZVWY",
+      "pubDate": "2026-10-14T19:53:58Z",
+      "thumb": "https://i.ytimg.com/vi/v7AnxwxZVWY/hqdefault.jpg"
+    },
     {
       "team": "Sunderland",
       "title": "🎙️ S.C.U. Torreense vs Sunderland AFC | Le Bris & O'Nien | Europa League Press Conference",
@@ -245,13 +252,6 @@
       "link": "https://www.youtube.com/watch?v=g-l9fQq8Bic",
       "pubDate": "2026-10-12T23:00:25Z",
       "thumb": "https://i.ytimg.com/vi/g-l9fQq8Bic/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Highlights: Liverpool 0-3 Man City | Reds loss following red card",
-      "link": "https://www.youtube.com/watch?v=RNgNuIFzCp0",
-      "pubDate": "2026-10-12T23:00:23Z",
-      "thumb": "https://i.ytimg.com/vi/RNgNuIFzCp0/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
