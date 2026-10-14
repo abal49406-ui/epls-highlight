@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-14T11:51:31.893Z",
+  "updatedAt": "2026-10-14T12:20:00.552Z",
   "videos": [
+    {
+      "team": "Newcastle United",
+      "title": "The Blaydon Races (Official Music Video) | Newcastle United, Hector Gannet",
+      "link": "https://www.youtube.com/watch?v=n31nB3LfT10",
+      "pubDate": "2026-10-14T12:00:32Z",
+      "thumb": "https://i.ytimg.com/vi/n31nB3LfT10/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Players BACK Martinez Outburst! Wilcox MUST Go! Man Utd News",
@@ -483,13 +490,6 @@
       "link": "https://www.youtube.com/watch?v=vuUpSCPM5Cc",
       "pubDate": "2026-10-08T15:18:53Z",
       "thumb": "https://i.ytimg.com/vi/vuUpSCPM5Cc/hqdefault.jpg"
-    },
-    {
-      "team": "Newcastle United",
-      "title": "PRESS CONFERENCE | Matthias Jaissle pre-Coventry City",
-      "link": "https://www.youtube.com/watch?v=lcdXCObkHXI",
-      "pubDate": "2026-10-08T14:30:17Z",
-      "thumb": "https://i.ytimg.com/vi/lcdXCObkHXI/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
