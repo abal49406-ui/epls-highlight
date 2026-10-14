@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-14T14:52:09.261Z",
+  "updatedAt": "2026-10-14T15:21:10.042Z",
   "videos": [
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "Brighton v Kauno Zalgiris | Hurzeler & Georginio pre-match press conference 🎙️",
+      "link": "https://www.youtube.com/watch?v=de4C9v2cNY4",
+      "pubDate": "2026-10-14T15:16:19Z",
+      "thumb": "https://i.ytimg.com/vi/de4C9v2cNY4/hqdefault.jpg"
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Behind the scenes at Spurs training!",
+      "link": "https://www.youtube.com/watch?v=m-u_8pvhGA8",
+      "pubDate": "2026-10-14T15:00:04Z",
+      "thumb": "https://i.ytimg.com/vi/m-u_8pvhGA8/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Martinez EXPOSED! Man Utd News",
@@ -359,13 +373,6 @@
       "thumb": "https://i.ytimg.com/vi/fZzW6a6V3D8/hqdefault.jpg"
     },
     {
-      "team": "Tottenham Hotspur",
-      "title": "Solanke strikes late 💪 | Man Utd 1-1 Spurs | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=VbaJwN9teXU",
-      "pubDate": "2026-10-10T21:36:09Z",
-      "thumb": "https://i.ytimg.com/vi/VbaJwN9teXU/hqdefault.jpg"
-    },
-    {
       "team": "Brentford",
       "title": "Aston Villa 2-2 Brentford | Yarmoliuk and Ajer net on the road! | Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=XLQm366y_90",
@@ -413,13 +420,6 @@
       "link": "https://www.youtube.com/watch?v=gxU0HMfb3Nk",
       "pubDate": "2026-10-10T20:14:36Z",
       "thumb": "https://i.ytimg.com/vi/gxU0HMfb3Nk/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "POST MATCH | Hurzeler & De Cuyper | Sunderland v Brighton | Premier League",
-      "link": "https://www.youtube.com/watch?v=7ElP694LCJ4",
-      "pubDate": "2026-10-10T16:50:12Z",
-      "thumb": "https://i.ytimg.com/vi/7ElP694LCJ4/hqdefault.jpg"
     },
     {
       "team": "Aston Villa",
