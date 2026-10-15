@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-15T07:07:48.163Z",
+  "updatedAt": "2026-10-15T07:51:00.564Z",
   "videos": [
+    {
+      "team": "Crystal Palace",
+      "title": "CCTV | Preparations for Lyon 💪",
+      "link": "https://www.youtube.com/watch?v=xaP1nNFFD_U",
+      "pubDate": "2026-10-15T07:30:22Z",
+      "thumb": "https://i.ytimg.com/vi/xaP1nNFFD_U/hqdefault.jpg"
+    },
     {
       "team": "Aston Villa",
       "title": "VILLA 6-0 FENERBAHCE || POST-MATCH (NOT) LIVE || PRESENTED BY VISIT RWANDA",
