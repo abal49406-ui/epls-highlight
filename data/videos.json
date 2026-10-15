@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-15T19:22:41.295Z",
+  "updatedAt": "2026-10-15T20:01:37.631Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "Every Erling Haaland Champions League Goal for Man City | City's new record UCL Goalscorer!",
+      "link": "https://www.youtube.com/watch?v=VRPF49JJo6A",
+      "pubDate": "2026-10-15T20:00:12Z",
+      "thumb": "https://i.ytimg.com/vi/VRPF49JJo6A/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "\"The team showed belief until the end\" | Le Bris & Sadiki Post-Match Reaction",
+      "link": "https://www.youtube.com/watch?v=DcBz3kE0slE",
+      "pubDate": "2026-10-15T19:45:06Z",
+      "thumb": "https://i.ytimg.com/vi/DcBz3kE0slE/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Martinez DROPPED! Leeds vs Man United Goldbridge Preview",
@@ -310,13 +324,6 @@
       "thumb": "https://i.ytimg.com/vi/g-l9fQq8Bic/hqdefault.jpg"
     },
     {
-      "team": "Manchester City",
-      "title": "EXTENDED HIGHLIGHTS | Liverpool 0-3 Man City | Haaland, Doku & Cherki goals in Anfield win!",
-      "link": "https://www.youtube.com/watch?v=RSodWh8pnOc",
-      "pubDate": "2026-10-12T23:00:20Z",
-      "thumb": "https://i.ytimg.com/vi/RSodWh8pnOc/hqdefault.jpg"
-    },
-    {
       "team": "AFC Bournemouth",
       "title": "Premier League Cup Live: AFC Bournemouth v Plymouth Argyle",
       "link": "https://www.youtube.com/watch?v=DxsQfUzfbrA",
@@ -336,13 +343,6 @@
       "link": "https://www.youtube.com/watch?v=Y8wztvyMxOs",
       "pubDate": "2026-10-12T14:10:23Z",
       "thumb": "https://i.ytimg.com/vi/Y8wztvyMxOs/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Ogunsuyi At The Double | Arsenal FC U21s 2 - 2 Sunderland AFC U21s | PL2 Highlights",
-      "link": "https://www.youtube.com/watch?v=adcQuC80CGQ",
-      "pubDate": "2026-10-12T12:05:21Z",
-      "thumb": "https://i.ytimg.com/vi/adcQuC80CGQ/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
