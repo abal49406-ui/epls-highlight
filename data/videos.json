@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T11:50:25.582Z",
+  "updatedAt": "2026-10-15T12:19:07.106Z",
   "videos": [
     {
       "team": "Liverpool",
@@ -21,13 +21,6 @@
       "link": "https://www.youtube.com/watch?v=iPRUSWOZK-o",
       "pubDate": "2026-10-15T09:42:11Z",
       "thumb": "https://i.ytimg.com/vi/iPRUSWOZK-o/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "Fulham (a) | Sergej Jakirović's Live Pre-Match Press Conference",
-      "link": "https://www.youtube.com/watch?v=zqx5NrEMYyI",
-      "pubDate": "2026-10-15T09:08:56Z",
-      "thumb": "https://i.ytimg.com/vi/zqx5NrEMYyI/hqdefault_live.jpg"
     },
     {
       "team": "Coventry City",
@@ -296,13 +289,6 @@
       "thumb": "https://i.ytimg.com/vi/RSodWh8pnOc/hqdefault.jpg"
     },
     {
-      "team": "Crystal Palace",
-      "title": "EXTENDED Highlights | Crystal Palace 3-1 Nottingham Forest | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=2QPAadUED_s",
-      "pubDate": "2026-10-12T21:00:15Z",
-      "thumb": "https://i.ytimg.com/vi/2QPAadUED_s/hqdefault.jpg"
-    },
-    {
       "team": "AFC Bournemouth",
       "title": "Premier League Cup Live: AFC Bournemouth v Plymouth Argyle",
       "link": "https://www.youtube.com/watch?v=DxsQfUzfbrA",
@@ -497,6 +483,13 @@
       "link": "https://www.youtube.com/watch?v=lji98kP5JlM",
       "pubDate": "2026-10-10T13:53:59Z",
       "thumb": "https://i.ytimg.com/vi/lji98kP5JlM/hqdefault.jpg"
+    },
+    {
+      "team": "Hull City",
+      "title": "Everton (H)| Sergej Jakirović's Live Pre-Match Press Conference",
+      "link": "https://www.youtube.com/watch?v=8sXV81i8fFA",
+      "pubDate": "2026-10-10T00:25:43Z",
+      "thumb": "https://i.ytimg.com/vi/8sXV81i8fFA/hqdefault.jpg"
     },
     {
       "team": "Fulham",
