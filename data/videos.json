@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-15T22:43:43.763Z",
+  "updatedAt": "2026-10-15T23:10:44.520Z",
   "videos": [
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "POST MATCH | Hurzeler, Georginio & Hinshelwood | Brighton v Kauno Zalgiris | UEFA Conference League",
+      "link": "https://www.youtube.com/watch?v=15VjoRzjKHM",
+      "pubDate": "2026-10-15T22:52:56Z",
+      "thumb": "https://i.ytimg.com/vi/15VjoRzjKHM/hqdefault.jpg"
+    },
     {
       "team": "Aston Villa",
       "title": "OUR BIGGEST WIN IN EUROPE | Villa 6-0 Fenerbahce | UEFA Champions League Highlights",
@@ -441,13 +448,6 @@
       "link": "https://www.youtube.com/watch?v=mL-qGgJf6Ug",
       "pubDate": "2026-10-10T21:00:36Z",
       "thumb": "https://i.ytimg.com/vi/mL-qGgJf6Ug/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "HIGHLIGHTS | Sunderland v Brighton | Premier League",
-      "link": "https://www.youtube.com/watch?v=tsS18qfmN2s",
-      "pubDate": "2026-10-10T21:00:23Z",
-      "thumb": "https://i.ytimg.com/vi/tsS18qfmN2s/hqdefault.jpg"
     },
     {
       "team": "Fulham",
