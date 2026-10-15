@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-15T21:50:30.707Z",
+  "updatedAt": "2026-10-15T22:15:38.543Z",
   "videos": [
+    {
+      "team": "Aston Villa",
+      "title": "OUR BIGGEST WIN IN EUROPE | Villa 6-0 Fenerbahce | UEFA Champions League Highlights",
+      "link": "https://www.youtube.com/watch?v=I_4-F3cXtzs",
+      "pubDate": "2026-10-15T22:00:36Z",
+      "thumb": "https://i.ytimg.com/vi/I_4-F3cXtzs/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "Aston Villa's biggest European win ever 🍿 #ucl",
+      "link": "https://www.youtube.com/watch?v=ji2wyJoxzXE",
+      "pubDate": "2026-10-15T22:00:27Z",
+      "thumb": "https://i.ytimg.com/vi/ji2wyJoxzXE/hqdefault.jpg"
+    },
     {
       "team": "Manchester City",
       "title": "Every Erling Haaland Champions League Goal for Man City | City's new record UCL Goalscorer!",
@@ -154,13 +168,6 @@
       "link": "https://www.youtube.com/watch?v=8l3hkeil39k",
       "pubDate": "2026-10-14T18:45:13Z",
       "thumb": "https://i.ytimg.com/vi/8l3hkeil39k/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "PRE-MATCH LIVE | With Alan McInally and Ian Taylor | Vs Fenerbahçe",
-      "link": "https://www.youtube.com/watch?v=zWMEsNJmFeU",
-      "pubDate": "2026-10-14T18:18:43Z",
-      "thumb": "https://i.ytimg.com/vi/zWMEsNJmFeU/hqdefault.jpg"
     },
     {
       "team": "Hull City",
@@ -448,13 +455,6 @@
       "link": "https://www.youtube.com/watch?v=l4Nqsz7MIig",
       "pubDate": "2026-10-10T21:00:15Z",
       "thumb": "https://i.ytimg.com/vi/l4Nqsz7MIig/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "Aston Villa 2-2 Brentford | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=7JCkPn7J-y4",
-      "pubDate": "2026-10-10T21:00:05Z",
-      "thumb": "https://i.ytimg.com/vi/7JCkPn7J-y4/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
