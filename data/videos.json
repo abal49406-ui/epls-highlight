@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T15:48:50.994Z",
+  "updatedAt": "2026-10-15T16:18:36.498Z",
   "videos": [
     {
       "team": "Leeds United",
@@ -42,6 +42,13 @@
       "link": "https://www.youtube.com/watch?v=87KncWUeBHU",
       "pubDate": "2026-10-15T11:18:03Z",
       "thumb": "https://i.ytimg.com/vi/87KncWUeBHU/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "RICHY VS KAI 👀🤣 | What Do You Know ❓ | Havertz and Calafiori go head-to-head",
+      "link": "https://www.youtube.com/watch?v=2fclV1f1zFo",
+      "pubDate": "2026-10-15T10:20:51Z",
+      "thumb": "https://i.ytimg.com/vi/2fclV1f1zFo/hqdefault.jpg"
     },
     {
       "team": "Manchester United",
@@ -224,13 +231,6 @@
       "link": "https://www.youtube.com/watch?v=88rVL-LZ6Bo",
       "pubDate": "2026-10-13T20:49:42Z",
       "thumb": "https://i.ytimg.com/vi/88rVL-LZ6Bo/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "THE CHAMPIONS LEAGUE RETURNS TO NORTH LONDON 💫 | Live From N5 | Arsenal v Lille | UCL",
-      "link": "https://www.youtube.com/watch?v=V9SsYsz6lwY",
-      "pubDate": "2026-10-13T19:00:57Z",
-      "thumb": "https://i.ytimg.com/vi/V9SsYsz6lwY/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
