@@ -1,11 +1,25 @@
 {
-  "updatedAt": "2026-10-15T08:56:37.355Z",
+  "updatedAt": "2026-10-15T09:22:28.599Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Press Conference: Brentford vs Liverpool | Andoni Iraola",
+      "link": "https://www.youtube.com/watch?v=87KncWUeBHU",
+      "pubDate": "2026-10-15T09:17:57Z",
+      "thumb": "https://i.ytimg.com/vi/87KncWUeBHU/hqdefault_live.jpg"
+    },
+    {
+      "team": "Hull City",
+      "title": "Fulham (a) | Sergej Jakirović's Live Pre-Match Press Conference",
+      "link": "https://www.youtube.com/watch?v=zqx5NrEMYyI",
+      "pubDate": "2026-10-15T09:08:56Z",
+      "thumb": "https://i.ytimg.com/vi/zqx5NrEMYyI/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Martinez WON'T Apologise! Can CARRICK Recover? Man Utd News",
       "link": "https://www.youtube.com/watch?v=TVGusTCMlrQ",
-      "pubDate": "2026-10-15T08:44:23Z",
+      "pubDate": "2026-10-15T09:00:29Z",
       "thumb": "https://i.ytimg.com/vi/TVGusTCMlrQ/hqdefault_live.jpg"
     },
     {
@@ -217,13 +231,6 @@
       "link": "https://www.youtube.com/watch?v=ag82BndD6JE",
       "pubDate": "2026-10-13T16:00:38Z",
       "thumb": "https://i.ytimg.com/vi/ag82BndD6JE/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Champions League Press Conference: LASK vs Liverpool | Milos Kerkez & Andoni Iraola",
-      "link": "https://www.youtube.com/watch?v=sY8VMoEFg3M",
-      "pubDate": "2026-10-13T15:43:27Z",
-      "thumb": "https://i.ytimg.com/vi/sY8VMoEFg3M/hqdefault.jpg"
     },
     {
       "team": "Sunderland",
@@ -490,13 +497,6 @@
       "link": "https://www.youtube.com/watch?v=lji98kP5JlM",
       "pubDate": "2026-10-10T13:53:59Z",
       "thumb": "https://i.ytimg.com/vi/lji98kP5JlM/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "Everton (H)| Sergej Jakirović's Live Pre-Match Press Conference",
-      "link": "https://www.youtube.com/watch?v=8sXV81i8fFA",
-      "pubDate": "2026-10-10T00:25:43Z",
-      "thumb": "https://i.ytimg.com/vi/8sXV81i8fFA/hqdefault.jpg"
     },
     {
       "team": "Fulham",
