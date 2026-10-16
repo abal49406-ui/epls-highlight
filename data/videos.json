@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-16T10:52:52.962Z",
+  "updatedAt": "2026-10-16T11:17:30.770Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "PERFECT PASSING & UNSTOPPABLE ARSENAL GOALS!",
+      "link": "https://www.youtube.com/watch?v=YXqh-_6B7hA",
+      "pubDate": "2026-10-16T11:01:12Z",
+      "thumb": "https://i.ytimg.com/vi/YXqh-_6B7hA/hqdefault.jpg"
+    },
     {
       "team": "Fulham",
       "title": "Back Home, Looking To Win For The Fans  🗣️ | Álvaro Arbeloa's Hull City Press Conference",
@@ -259,13 +266,6 @@
       "link": "https://www.youtube.com/watch?v=e3WsysMfn0Q",
       "pubDate": "2026-10-13T23:01:11Z",
       "thumb": "https://i.ytimg.com/vi/e3WsysMfn0Q/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "TIMBER, EZE & SAKA GRAB THE GOALS | Live From N5 | Arsenal 3 - 0 Lille | UCL | Post-match",
-      "link": "https://www.youtube.com/watch?v=01tvfupC2cU",
-      "pubDate": "2026-10-13T21:09:17Z",
-      "thumb": "https://i.ytimg.com/vi/01tvfupC2cU/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
