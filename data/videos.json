@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-16T22:46:00.747Z",
+  "updatedAt": "2026-10-16T23:13:01.435Z",
   "videos": [
+    {
+      "team": "Sunderland",
+      "title": "SCU Torreense 1-2 Sunderland AFC| Europa League Highlights",
+      "link": "https://www.youtube.com/watch?v=2JFWPlnj5eM",
+      "pubDate": "2026-10-16T23:05:31Z",
+      "thumb": "https://i.ytimg.com/vi/2JFWPlnj5eM/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "Defeat in Lyon | Olympique Lyonnais 3-2 Crystal Palace | UEFA Europa League",
+      "link": "https://www.youtube.com/watch?v=5JPDrsXwPzA",
+      "pubDate": "2026-10-16T23:00:25Z",
+      "thumb": "https://i.ytimg.com/vi/5JPDrsXwPzA/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "EXTENDED HIGHLIGHTS | Brighton v Kauno Zalgiris | UEFA Conference League",
+      "link": "https://www.youtube.com/watch?v=IPu2tHCPvyg",
+      "pubDate": "2026-10-16T22:59:17Z",
+      "thumb": "https://i.ytimg.com/vi/IPu2tHCPvyg/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "HIGHLIGHTS | Brighton v Kauno Zalgiris | UEFA Conference League",
+      "link": "https://www.youtube.com/watch?v=UPIMJu9ja-c",
+      "pubDate": "2026-10-16T22:59:07Z",
+      "thumb": "https://i.ytimg.com/vi/UPIMJu9ja-c/hqdefault.jpg"
+    },
     {
       "team": "Sunderland",
       "title": "How We Ended a 53-Year Wait in Europe! | Mackems In Portugal",
@@ -247,13 +275,6 @@
       "thumb": "https://i.ytimg.com/vi/3hZaTnmMvTk/hqdefault.jpg"
     },
     {
-      "team": "Sunderland",
-      "title": "🎙️ S.C.U. Torreense vs Sunderland AFC | Le Bris & O'Nien | Europa League Press Conference",
-      "link": "https://www.youtube.com/watch?v=FUxdsPoAKv0",
-      "pubDate": "2026-10-14T19:03:22Z",
-      "thumb": "https://i.ytimg.com/vi/FUxdsPoAKv0/hqdefault.jpg"
-    },
-    {
       "team": "Hull City",
       "title": "Return of the Joffy roll! Behind the Tigers Everton (h)",
       "link": "https://www.youtube.com/watch?v=13DuZ1P3wP4",
@@ -261,25 +282,11 @@
       "thumb": "https://i.ytimg.com/vi/13DuZ1P3wP4/hqdefault.jpg"
     },
     {
-      "team": "Crystal Palace",
-      "title": "Sage Returns to Lyon 🗣️  Pre-match Press Conference: Lyon (A)",
-      "link": "https://www.youtube.com/watch?v=9VWPuzvXobM",
-      "pubDate": "2026-10-14T16:06:12Z",
-      "thumb": "https://i.ytimg.com/vi/9VWPuzvXobM/hqdefault.jpg"
-    },
-    {
       "team": "Newcastle United",
       "title": "What the Blaydon Races means to our players",
       "link": "https://www.youtube.com/watch?v=esUcPROJf2Y",
       "pubDate": "2026-10-14T16:05:05Z",
       "thumb": "https://i.ytimg.com/vi/esUcPROJf2Y/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "Brighton v Kauno Zalgiris | Hurzeler & Georginio pre-match press conference 🎙️",
-      "link": "https://www.youtube.com/watch?v=de4C9v2cNY4",
-      "pubDate": "2026-10-14T15:16:19Z",
-      "thumb": "https://i.ytimg.com/vi/de4C9v2cNY4/hqdefault.jpg"
     },
     {
       "team": "Tottenham Hotspur",
@@ -392,13 +399,6 @@
       "link": "https://www.youtube.com/watch?v=aV_u2wuhDGw",
       "pubDate": "2026-10-12T14:35:45Z",
       "thumb": "https://i.ytimg.com/vi/aV_u2wuhDGw/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "HIGHLIGHTS | Brighton U21 v Sheffield United U21 | Premier League Cup",
-      "link": "https://www.youtube.com/watch?v=Y8wztvyMxOs",
-      "pubDate": "2026-10-12T14:10:23Z",
-      "thumb": "https://i.ytimg.com/vi/Y8wztvyMxOs/hqdefault.jpg"
     },
     {
       "team": "Tottenham Hotspur",
