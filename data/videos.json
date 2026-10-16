@@ -1,12 +1,19 @@
 {
-  "updatedAt": "2026-10-16T09:20:04.232Z",
+  "updatedAt": "2026-10-16T09:53:26.102Z",
   "videos": [
     {
       "team": "Manchester United",
       "title": "United Board STILL Backing Carrick? Man Utd News",
       "link": "https://www.youtube.com/watch?v=cwEHux-VO1A",
-      "pubDate": "2026-10-16T09:00:42Z",
-      "thumb": "https://i.ytimg.com/vi/cwEHux-VO1A/hqdefault_live.jpg"
+      "pubDate": "2026-10-16T09:46:52Z",
+      "thumb": "https://i.ytimg.com/vi/cwEHux-VO1A/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "LIVE! MANAGER PREVIEW | Enzo Maresca Press Conference | Man City v Ipswich",
+      "link": "https://www.youtube.com/watch?v=b4O85yqZRsQ",
+      "pubDate": "2026-10-16T09:45:47Z",
+      "thumb": "https://i.ytimg.com/vi/b4O85yqZRsQ/hqdefault_live.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
@@ -280,13 +287,6 @@
       "link": "https://www.youtube.com/watch?v=ntuaVfbIsMw",
       "pubDate": "2026-10-13T15:24:03Z",
       "thumb": "https://i.ytimg.com/vi/ntuaVfbIsMw/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "WATCH LIVE TRAINING! | Man City v PSG | Champions League",
-      "link": "https://www.youtube.com/watch?v=I4qt_Y9SPeY",
-      "pubDate": "2026-10-13T14:45:06Z",
-      "thumb": "https://i.ytimg.com/vi/I4qt_Y9SPeY/hqdefault.jpg"
     },
     {
       "team": "Fulham",
