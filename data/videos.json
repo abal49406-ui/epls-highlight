@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-16T10:19:09.897Z",
+  "updatedAt": "2026-10-16T10:52:52.962Z",
   "videos": [
+    {
+      "team": "Fulham",
+      "title": "Back Home, Looking To Win For The Fans  🗣️ | Álvaro Arbeloa's Hull City Press Conference",
+      "link": "https://www.youtube.com/watch?v=L1af17VtmFE",
+      "pubDate": "2026-10-16T10:25:01Z",
+      "thumb": "https://i.ytimg.com/vi/L1af17VtmFE/hqdefault.jpg"
+    },
     {
       "team": "Crystal Palace",
       "title": "The 2026/27 Squad Photo - BTS",
@@ -476,13 +483,6 @@
       "link": "https://www.youtube.com/watch?v=8sXV81i8fFA",
       "pubDate": "2026-10-10T00:25:43Z",
       "thumb": "https://i.ytimg.com/vi/8sXV81i8fFA/hqdefault.jpg"
-    },
-    {
-      "team": "Fulham",
-      "title": "Premier League Returns 🙌 | Ipswich Prep | Motspur Parklife",
-      "link": "https://www.youtube.com/watch?v=4BaB27fHmaE",
-      "pubDate": "2026-10-09T13:00:09Z",
-      "thumb": "https://i.ytimg.com/vi/4BaB27fHmaE/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
