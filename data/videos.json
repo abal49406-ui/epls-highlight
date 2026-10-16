@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-16T13:51:37.362Z",
+  "updatedAt": "2026-10-16T14:20:30.875Z",
   "videos": [
+    {
+      "team": "Ipswich Town",
+      "title": "CHRISTIAN WALTON PREVIEWS MAN CITY (A)",
+      "link": "https://www.youtube.com/watch?v=YIvHuJo-CfE",
+      "pubDate": "2026-10-16T14:18:07Z",
+      "thumb": "https://i.ytimg.com/vi/YIvHuJo-CfE/hqdefault.jpg"
+    },
+    {
+      "team": "Ipswich Town",
+      "title": "GARY O'NEIL'S PRE MAN CITY PRESS CONFERENCE",
+      "link": "https://www.youtube.com/watch?v=9rg3O2FOmto",
+      "pubDate": "2026-10-16T14:17:48Z",
+      "thumb": "https://i.ytimg.com/vi/9rg3O2FOmto/hqdefault.jpg"
+    },
+    {
+      "team": "Chelsea",
+      "title": "Alonso Press Conference | 16/10/26 | Everton vs Chelsea | CFC 26/27",
+      "link": "https://www.youtube.com/watch?v=dNQjlVTxyow",
+      "pubDate": "2026-10-16T14:01:06Z",
+      "thumb": "https://i.ytimg.com/vi/dNQjlVTxyow/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Matchday Live: Brentford vs Liverpool | Premier League build-up",
+      "link": "https://www.youtube.com/watch?v=w9PL70aVZ8U",
+      "pubDate": "2026-10-16T13:56:44Z",
+      "thumb": "https://i.ytimg.com/vi/w9PL70aVZ8U/hqdefault_live.jpg"
+    },
     {
       "team": "Leeds United",
       "title": "Daniel Farke pre-match press conference | Leeds United v Manchester United | Premier League",
@@ -429,13 +457,6 @@
       "thumb": "https://i.ytimg.com/vi/XLQm366y_90/hqdefault.jpg"
     },
     {
-      "team": "Chelsea",
-      "title": "Chelsea 5-1 Bournemouth | HIGHLIGHTS | Premier League 2026/27",
-      "link": "https://www.youtube.com/watch?v=mL-qGgJf6Ug",
-      "pubDate": "2026-10-10T21:00:36Z",
-      "thumb": "https://i.ytimg.com/vi/mL-qGgJf6Ug/hqdefault.jpg"
-    },
-    {
       "team": "Fulham",
       "title": "Stoppage Time Heartache 😞 | Ipswich 2-1 Fulham | Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=l4Nqsz7MIig",
@@ -464,25 +485,11 @@
       "thumb": "https://i.ytimg.com/vi/kHrZuJh3Ewk/hqdefault.jpg"
     },
     {
-      "team": "Ipswich Town",
-      "title": "MATCHDAY LIVE | TOWN V FULHAM",
-      "link": "https://www.youtube.com/watch?v=lji98kP5JlM",
-      "pubDate": "2026-10-10T13:53:59Z",
-      "thumb": "https://i.ytimg.com/vi/lji98kP5JlM/hqdefault.jpg"
-    },
-    {
       "team": "Hull City",
       "title": "Everton (H)| Sergej Jakirović's Live Pre-Match Press Conference",
       "link": "https://www.youtube.com/watch?v=8sXV81i8fFA",
       "pubDate": "2026-10-10T00:25:43Z",
       "thumb": "https://i.ytimg.com/vi/8sXV81i8fFA/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "INSIDE TRAINING | PRE-FULHAM (H)",
-      "link": "https://www.youtube.com/watch?v=oxkYPNcGYoE",
-      "pubDate": "2026-10-09T09:00:23Z",
-      "thumb": "https://i.ytimg.com/vi/oxkYPNcGYoE/hqdefault.jpg"
     }
   ]
 }
