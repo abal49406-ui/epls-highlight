@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-16T16:51:53.443Z",
+  "updatedAt": "2026-10-16T17:16:59.605Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "INSIDE CITY 530 | Back from the break and a win at Anfield!",
+      "link": "https://www.youtube.com/watch?v=67FMeu3G0IU",
+      "pubDate": "2026-10-16T17:00:13Z",
+      "thumb": "https://i.ytimg.com/vi/67FMeu3G0IU/hqdefault.jpg"
+    },
     {
       "team": "Crystal Palace",
       "title": "The Presser 🎙️🦅  | Brighton (A)",
@@ -217,13 +224,6 @@
       "link": "https://www.youtube.com/watch?v=tquE7w0cXLQ",
       "pubDate": "2026-10-14T22:08:30Z",
       "thumb": "https://i.ytimg.com/vi/tquE7w0cXLQ/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "MATCHDAY LIVE! | Man City v PSG | Champions League",
-      "link": "https://www.youtube.com/watch?v=COTOzihiZj8",
-      "pubDate": "2026-10-14T22:04:59Z",
-      "thumb": "https://i.ytimg.com/vi/COTOzihiZj8/hqdefault.jpg"
     },
     {
       "team": "Sunderland",
