@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-16T15:45:23.452Z",
+  "updatedAt": "2026-10-16T16:18:25.824Z",
   "videos": [
+    {
+      "team": "Nottingham Forest",
+      "title": "Hard at Work in Preparation for Arsenal 💪 | Inside Training 🎬",
+      "link": "https://www.youtube.com/watch?v=djXi2Y_2Yxk",
+      "pubDate": "2026-10-16T16:00:18Z",
+      "thumb": "https://i.ytimg.com/vi/djXi2Y_2Yxk/hqdefault.jpg"
+    },
     {
       "team": "Ipswich Town",
       "title": "CHRISTIAN WALTON PREVIEWS MAN CITY (A)",
@@ -399,13 +406,6 @@
       "link": "https://www.youtube.com/watch?v=nSkWXRgkjCI",
       "pubDate": "2026-10-11T23:00:17Z",
       "thumb": "https://i.ytimg.com/vi/nSkWXRgkjCI/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Crystal Palace 3-1 Nottingham Forest | Premier League Highlights 📺",
-      "link": "https://www.youtube.com/watch?v=rHDpxdbZOrs",
-      "pubDate": "2026-10-11T21:00:27Z",
-      "thumb": "https://i.ytimg.com/vi/rHDpxdbZOrs/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
