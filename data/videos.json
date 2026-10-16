@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-16T11:17:30.770Z",
+  "updatedAt": "2026-10-16T11:48:59.358Z",
   "videos": [
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "Brighton v Crystal Palace | Hurzeler pre-match press conference 🎙️",
+      "link": "https://www.youtube.com/watch?v=xJK5KjUrbSI",
+      "pubDate": "2026-10-16T11:28:20Z",
+      "thumb": "https://i.ytimg.com/vi/xJK5KjUrbSI/hqdefault.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "PERFECT PASSING & UNSTOPPABLE ARSENAL GOALS!",
@@ -261,13 +268,6 @@
       "thumb": "https://i.ytimg.com/vi/ogazRsmTE1c/hqdefault.jpg"
     },
     {
-      "team": "Arsenal",
-      "title": "TIMBER, EZE & SAKA GOALS MAINTAIN 100% CHAMPIONS LEAGUE START | HIGHLIGHTS | Arsenal vs Lille (3-0)",
-      "link": "https://www.youtube.com/watch?v=e3WsysMfn0Q",
-      "pubDate": "2026-10-13T23:01:11Z",
-      "thumb": "https://i.ytimg.com/vi/e3WsysMfn0Q/hqdefault.jpg"
-    },
-    {
       "team": "Chelsea",
       "title": "Reading 0-2 Cobham Next Gen | HIGHLIGHTS | EFL Trophy | 2026/27",
       "link": "https://www.youtube.com/watch?v=88rVL-LZ6Bo",
@@ -371,13 +371,6 @@
       "link": "https://www.youtube.com/watch?v=nSkWXRgkjCI",
       "pubDate": "2026-10-11T23:00:17Z",
       "thumb": "https://i.ytimg.com/vi/nSkWXRgkjCI/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "EXTENDED HIGHLIGHTS | Sunderland v Brighton | Premier League",
-      "link": "https://www.youtube.com/watch?v=67dmHqnHch4",
-      "pubDate": "2026-10-11T22:59:25Z",
-      "thumb": "https://i.ytimg.com/vi/67dmHqnHch4/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
