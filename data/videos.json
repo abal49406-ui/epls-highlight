@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-16T17:46:29.170Z",
+  "updatedAt": "2026-10-16T18:15:38.510Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "I'm DISGUSTED By This! Goldbridge Man Utd News",
+      "link": "https://www.youtube.com/watch?v=8VepTPomKSo",
+      "pubDate": "2026-10-16T18:00:31Z",
+      "thumb": "https://i.ytimg.com/vi/8VepTPomKSo/hqdefault.jpg"
+    },
     {
       "team": "Manchester City",
       "title": "INSIDE CITY 530 | Back from the break and a win at Anfield!",
@@ -175,13 +182,6 @@
       "link": "https://www.youtube.com/watch?v=2QhZzUSDwl8",
       "pubDate": "2026-10-15T15:00:30Z",
       "thumb": "https://i.ytimg.com/vi/2QhZzUSDwl8/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Conte to Man Utd? Martinez FALLOUT Revealed! | Ben Jacobs Man United News",
-      "link": "https://www.youtube.com/watch?v=zk25qh6USzI",
-      "pubDate": "2026-10-15T14:09:48Z",
-      "thumb": "https://i.ytimg.com/vi/zk25qh6USzI/hqdefault.jpg"
     },
     {
       "team": "Newcastle United",
@@ -434,13 +434,6 @@
       "link": "https://www.youtube.com/watch?v=2Uu_xxao4Ec",
       "pubDate": "2026-10-11T12:40:01Z",
       "thumb": "https://i.ytimg.com/vi/2Uu_xxao4Ec/hqdefault_live.jpg"
-    },
-    {
-      "team": "Tottenham Hotspur",
-      "title": "맨체스터 유나이티드 1-1 토트넘 | 프리미어리그 6R 하이라이트",
-      "link": "https://www.youtube.com/watch?v=CFMaFLHe8CE",
-      "pubDate": "2026-10-11T01:06:32Z",
-      "thumb": "https://i.ytimg.com/vi/CFMaFLHe8CE/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
