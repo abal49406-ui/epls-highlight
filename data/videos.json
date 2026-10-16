@@ -1,26 +1,33 @@
 {
-  "updatedAt": "2026-10-16T13:04:11.670Z",
+  "updatedAt": "2026-10-16T13:51:37.362Z",
   "videos": [
     {
-      "team": "Manchester City",
-      "title": "LIVE! MANAGER PREVIEW | Enzo Maresca Press Conference | Man City v Ipswich",
-      "link": "https://www.youtube.com/watch?v=b4O85yqZRsQ",
-      "pubDate": "2026-10-16T12:51:48Z",
-      "thumb": "https://i.ytimg.com/vi/b4O85yqZRsQ/hqdefault.jpg"
+      "team": "Leeds United",
+      "title": "Daniel Farke pre-match press conference | Leeds United v Manchester United | Premier League",
+      "link": "https://www.youtube.com/watch?v=KIB0MCH-2ZY",
+      "pubDate": "2026-10-16T13:40:22Z",
+      "thumb": "https://i.ytimg.com/vi/KIB0MCH-2ZY/hqdefault.jpg"
     },
     {
       "team": "Manchester United",
       "title": "Carrick BACKS THE BOARD? Big Injury News! Man United Presser Reaction",
       "link": "https://www.youtube.com/watch?v=7g4-tXXIj_4",
-      "pubDate": "2026-10-16T12:48:54Z",
-      "thumb": "https://i.ytimg.com/vi/7g4-tXXIj_4/hqdefault_live.jpg"
+      "pubDate": "2026-10-16T13:40:21Z",
+      "thumb": "https://i.ytimg.com/vi/7g4-tXXIj_4/hqdefault.jpg"
     },
     {
-      "team": "Leeds United",
-      "title": "Daniel Farke pre-match press conference | Leeds United v Manchester United | Premier League",
-      "link": "https://www.youtube.com/watch?v=KIB0MCH-2ZY",
-      "pubDate": "2026-10-16T12:17:06Z",
-      "thumb": "https://i.ytimg.com/vi/KIB0MCH-2ZY/hqdefault_live.jpg"
+      "team": "Nottingham Forest",
+      "title": "Oliver Glasner Press Conference 🎙️ | Nottingham Forest vs Arsenal | Premier League",
+      "link": "https://www.youtube.com/watch?v=BDhpI1h1RZY",
+      "pubDate": "2026-10-16T13:18:03Z",
+      "thumb": "https://i.ytimg.com/vi/BDhpI1h1RZY/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "MANAGERS PREVIEW | Maresca says Haaland and team-mates will need rest | Man City v Ipswich",
+      "link": "https://www.youtube.com/watch?v=b4O85yqZRsQ",
+      "pubDate": "2026-10-16T12:51:48Z",
+      "thumb": "https://i.ytimg.com/vi/b4O85yqZRsQ/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
@@ -133,13 +140,6 @@
       "link": "https://www.youtube.com/watch?v=qDndP5tWCmY",
       "pubDate": "2026-10-15T14:08:32Z",
       "thumb": "https://i.ytimg.com/vi/qDndP5tWCmY/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "TIMBER, EZE & SAKA GRAB THE GOALS | Live From N5 | Arsenal 3 - 0 Lille | UCL | Post-match",
-      "link": "https://www.youtube.com/watch?v=BO8cVlpRlsU",
-      "pubDate": "2026-10-15T12:24:35Z",
-      "thumb": "https://i.ytimg.com/vi/BO8cVlpRlsU/hqdefault_live.jpg"
     },
     {
       "team": "Liverpool",
@@ -268,6 +268,13 @@
       "thumb": "https://i.ytimg.com/vi/ogazRsmTE1c/hqdefault.jpg"
     },
     {
+      "team": "Arsenal",
+      "title": "TIMBER, EZE & SAKA GOALS MAINTAIN 100% CHAMPIONS LEAGUE START | HIGHLIGHTS | Arsenal vs Lille (3-0)",
+      "link": "https://www.youtube.com/watch?v=e3WsysMfn0Q",
+      "pubDate": "2026-10-13T23:01:11Z",
+      "thumb": "https://i.ytimg.com/vi/e3WsysMfn0Q/hqdefault.jpg"
+    },
+    {
       "team": "Chelsea",
       "title": "Reading 0-2 Cobham Next Gen | HIGHLIGHTS | EFL Trophy | 2026/27",
       "link": "https://www.youtube.com/watch?v=88rVL-LZ6Bo",
@@ -392,13 +399,6 @@
       "link": "https://www.youtube.com/watch?v=rqolsyB1bp4",
       "pubDate": "2026-10-11T17:02:28Z",
       "thumb": "https://i.ytimg.com/vi/rqolsyB1bp4/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Oliver Glasner's Reaction 🗣️ | Crystal Palace vs Nottingham Forest | Premier League",
-      "link": "https://www.youtube.com/watch?v=dZYK9Liep0Q",
-      "pubDate": "2026-10-11T16:19:35Z",
-      "thumb": "https://i.ytimg.com/vi/dZYK9Liep0Q/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
