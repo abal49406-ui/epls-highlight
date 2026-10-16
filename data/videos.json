@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-16T16:18:25.824Z",
+  "updatedAt": "2026-10-16T16:51:53.443Z",
   "videos": [
+    {
+      "team": "Crystal Palace",
+      "title": "The Presser 🎙️🦅  | Brighton (A)",
+      "link": "https://www.youtube.com/watch?v=HtxY3wdzbP8",
+      "pubDate": "2026-10-16T16:45:16Z",
+      "thumb": "https://i.ytimg.com/vi/HtxY3wdzbP8/hqdefault.jpg"
+    },
     {
       "team": "Nottingham Forest",
       "title": "Hard at Work in Preparation for Arsenal 💪 | Inside Training 🎬",
