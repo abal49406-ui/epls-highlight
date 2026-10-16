@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-16T20:12:00.588Z",
+  "updatedAt": "2026-10-16T20:45:50.867Z",
   "videos": [
+    {
+      "team": "Chelsea",
+      "title": "Stoke City U21's 1-2 Cobham Next Gen | HIGHLIGHTS | Premier League 2 | 2026/27",
+      "link": "https://www.youtube.com/watch?v=ULfiQe8brtU",
+      "pubDate": "2026-10-16T20:40:37Z",
+      "thumb": "https://i.ytimg.com/vi/ULfiQe8brtU/hqdefault.jpg"
+    },
     {
       "team": "Aston Villa",
       "title": "A 5̶ 6 Star Performance! 🌟 Aston Villa vs Fenerbahće | PITCHSIDE",
@@ -392,13 +399,6 @@
       "link": "https://www.youtube.com/watch?v=Y8wztvyMxOs",
       "pubDate": "2026-10-12T14:10:23Z",
       "thumb": "https://i.ytimg.com/vi/Y8wztvyMxOs/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "Chelsea 5-1 Bournemouth | HIGHLIGHTS - Extended | Premier League 2026/27",
-      "link": "https://www.youtube.com/watch?v=06dvvp2ORLM",
-      "pubDate": "2026-10-11T23:01:17Z",
-      "thumb": "https://i.ytimg.com/vi/06dvvp2ORLM/hqdefault.jpg"
     },
     {
       "team": "Tottenham Hotspur",
