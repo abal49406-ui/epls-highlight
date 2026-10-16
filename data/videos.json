@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-16T09:53:26.102Z",
+  "updatedAt": "2026-10-16T10:19:09.897Z",
   "videos": [
+    {
+      "team": "Crystal Palace",
+      "title": "The 2026/27 Squad Photo - BTS",
+      "link": "https://www.youtube.com/watch?v=V37gx6o-p5Y",
+      "pubDate": "2026-10-16T10:00:06Z",
+      "thumb": "https://i.ytimg.com/vi/V37gx6o-p5Y/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "United Board STILL Backing Carrick? Man Utd News",
@@ -259,13 +266,6 @@
       "link": "https://www.youtube.com/watch?v=88rVL-LZ6Bo",
       "pubDate": "2026-10-13T20:49:42Z",
       "thumb": "https://i.ytimg.com/vi/88rVL-LZ6Bo/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "DUGOUT CAM 🎥 | Crystal Palace 3-1 Nottingham Forest",
-      "link": "https://www.youtube.com/watch?v=qrhcfhAih5M",
-      "pubDate": "2026-10-13T18:00:23Z",
-      "thumb": "https://i.ytimg.com/vi/qrhcfhAih5M/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
