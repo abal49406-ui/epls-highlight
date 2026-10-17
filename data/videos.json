@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-17T13:19:19.835Z",
+  "updatedAt": "2026-10-17T13:45:29.669Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Matchday Live: Brentford vs Liverpool | Premier League build-up",
+      "link": "https://www.youtube.com/watch?v=w9PL70aVZ8U",
+      "pubDate": "2026-10-17T13:29:28Z",
+      "thumb": "https://i.ytimg.com/vi/w9PL70aVZ8U/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "MATCHDAY LIVE! | Man City v Ipswich Town | Premier League",
+      "link": "https://www.youtube.com/watch?v=IRC51fcsDHY",
+      "pubDate": "2026-10-17T13:24:13Z",
+      "thumb": "https://i.ytimg.com/vi/IRC51fcsDHY/hqdefault_live.jpg"
+    },
     {
       "team": "Ipswich Town",
       "title": "MATCHDAY LIVE | MANCHESTER CITY V TOWN",
@@ -9,25 +23,11 @@
       "thumb": "https://i.ytimg.com/vi/RAWK8-d7_zE/hqdefault_live.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "Matchday Live: Brentford vs Liverpool | Premier League build-up",
-      "link": "https://www.youtube.com/watch?v=w9PL70aVZ8U",
-      "pubDate": "2026-10-17T12:34:41Z",
-      "thumb": "https://i.ytimg.com/vi/w9PL70aVZ8U/hqdefault_live.jpg"
-    },
-    {
       "team": "AFC Bournemouth",
       "title": "Women's live stream: Plymouth Argyle v AFC Bournemouth",
       "link": "https://www.youtube.com/watch?v=ms5YVcb6Te4",
       "pubDate": "2026-10-17T12:17:17Z",
       "thumb": "https://i.ytimg.com/vi/ms5YVcb6Te4/hqdefault_live.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "MATCHDAY LIVE! | Man City v Ipswich Town | Premier League",
-      "link": "https://www.youtube.com/watch?v=IRC51fcsDHY",
-      "pubDate": "2026-10-17T11:06:02Z",
-      "thumb": "https://i.ytimg.com/vi/IRC51fcsDHY/hqdefault_live.jpg"
     },
     {
       "team": "Nottingham Forest",
