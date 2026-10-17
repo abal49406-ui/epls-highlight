@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-17T10:20:02.542Z",
+  "updatedAt": "2026-10-17T10:46:29.100Z",
   "videos": [
+    {
+      "team": "Nottingham Forest",
+      "title": "Nottingham Forest 3-2 Manchester United | Premier League 2 Highlights 🎬",
+      "link": "https://www.youtube.com/watch?v=yveXXThPQWY",
+      "pubDate": "2026-10-17T10:30:34Z",
+      "thumb": "https://i.ytimg.com/vi/yveXXThPQWY/hqdefault.jpg"
+    },
     {
       "team": "Sunderland",
       "title": "Last Minute Winners & Stoppage Time Goals | Sadiki, Brobbey, Ballard etc",
@@ -364,13 +371,6 @@
       "link": "https://www.youtube.com/watch?v=fdFwOGBFTbg",
       "pubDate": "2026-10-13T17:08:17Z",
       "thumb": "https://i.ytimg.com/vi/fdFwOGBFTbg/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "American Forest Fans Visit City Ground for the First Time! | Stateside to Trentside 🇺🇸🔴",
-      "link": "https://www.youtube.com/watch?v=ag82BndD6JE",
-      "pubDate": "2026-10-13T16:00:38Z",
-      "thumb": "https://i.ytimg.com/vi/ag82BndD6JE/hqdefault.jpg"
     },
     {
       "team": "Fulham",
