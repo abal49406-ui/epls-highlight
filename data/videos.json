@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-17T09:59:33.361Z",
+  "updatedAt": "2026-10-17T10:20:02.542Z",
   "videos": [
+    {
+      "team": "Sunderland",
+      "title": "Last Minute Winners & Stoppage Time Goals | Sadiki, Brobbey, Ballard etc",
+      "link": "https://www.youtube.com/watch?v=R-4BvlIigoM",
+      "pubDate": "2026-10-17T10:00:38Z",
+      "thumb": "https://i.ytimg.com/vi/R-4BvlIigoM/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Five-Goal Thriller At The City Ground! 🤩 | Nottingham Forest 3-2 Arsenal | Classic Highlights 🎬",
+      "link": "https://www.youtube.com/watch?v=GfoyvaCkbWU",
+      "pubDate": "2026-10-17T10:00:26Z",
+      "thumb": "https://i.ytimg.com/vi/GfoyvaCkbWU/hqdefault.jpg"
+    },
     {
       "team": "AFC Bournemouth",
       "title": "U18s Premier League LIVE: AFC Bournemouth v Norwich City",
@@ -289,13 +303,6 @@
       "thumb": "https://i.ytimg.com/vi/xaP1nNFFD_U/hqdefault.jpg"
     },
     {
-      "team": "Sunderland",
-      "title": "🎙️ S.C.U. Torreense vs Sunderland AFC | Le Bris & O'Nien | Europa League Press Conference",
-      "link": "https://www.youtube.com/watch?v=3hZaTnmMvTk",
-      "pubDate": "2026-10-14T19:27:27Z",
-      "thumb": "https://i.ytimg.com/vi/3hZaTnmMvTk/hqdefault.jpg"
-    },
-    {
       "team": "Hull City",
       "title": "Return of the Joffy roll! Behind the Tigers Everton (h)",
       "link": "https://www.youtube.com/watch?v=13DuZ1P3wP4",
@@ -392,13 +399,6 @@
       "link": "https://www.youtube.com/watch?v=YZyS3affLao",
       "pubDate": "2026-10-12T23:00:26Z",
       "thumb": "https://i.ytimg.com/vi/YZyS3affLao/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Crystal Palace 3-1 Nottingham Forest | Premier League | Extended Highlights 🎬",
-      "link": "https://www.youtube.com/watch?v=g-l9fQq8Bic",
-      "pubDate": "2026-10-12T23:00:25Z",
-      "thumb": "https://i.ytimg.com/vi/g-l9fQq8Bic/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
