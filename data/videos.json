@@ -1,19 +1,26 @@
 {
-  "updatedAt": "2026-10-17T16:11:46.374Z",
+  "updatedAt": "2026-10-17T16:42:24.609Z",
   "videos": [
+    {
+      "team": "Ipswich Town",
+      "title": "MATCHDAY LIVE | HT: MANCHESTER CITY V TOWN",
+      "link": "https://www.youtube.com/watch?v=pjjh8Tlqn10",
+      "pubDate": "2026-10-17T16:33:44Z",
+      "thumb": "https://i.ytimg.com/vi/pjjh8Tlqn10/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "Gym work, shooting drills & small-sided games 🎯 l INSIDE TRAINING l Fired up for Nottingham Forest",
+      "link": "https://www.youtube.com/watch?v=XTnCWr-svG0",
+      "pubDate": "2026-10-17T16:28:09Z",
+      "thumb": "https://i.ytimg.com/vi/XTnCWr-svG0/hqdefault.jpg"
+    },
     {
       "team": "AFC Bournemouth",
       "title": "INCREDIBLE Evanilson header from pitchside in memorable victory in Europe | Alt Angle",
       "link": "https://www.youtube.com/watch?v=AMYEDbM0lU8",
       "pubDate": "2026-10-17T16:00:02Z",
       "thumb": "https://i.ytimg.com/vi/AMYEDbM0lU8/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "MATCHDAY LIVE | HT: MANCHESTER CITY V TOWN",
-      "link": "https://www.youtube.com/watch?v=pjjh8Tlqn10",
-      "pubDate": "2026-10-17T15:04:36Z",
-      "thumb": "https://i.ytimg.com/vi/pjjh8Tlqn10/hqdefault_live.jpg"
     },
     {
       "team": "Ipswich Town",
@@ -308,13 +315,6 @@
       "link": "https://www.youtube.com/watch?v=qDndP5tWCmY",
       "pubDate": "2026-10-15T14:08:32Z",
       "thumb": "https://i.ytimg.com/vi/qDndP5tWCmY/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Press Conference: Brentford vs Liverpool | Andoni Iraola",
-      "link": "https://www.youtube.com/watch?v=87KncWUeBHU",
-      "pubDate": "2026-10-15T11:18:03Z",
-      "thumb": "https://i.ytimg.com/vi/87KncWUeBHU/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
