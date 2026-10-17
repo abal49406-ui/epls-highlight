@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-17T12:11:48.855Z",
+  "updatedAt": "2026-10-17T12:49:33.512Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Matchday Live: Brentford vs Liverpool | Premier League build-up",
+      "link": "https://www.youtube.com/watch?v=w9PL70aVZ8U",
+      "pubDate": "2026-10-17T12:34:41Z",
+      "thumb": "https://i.ytimg.com/vi/w9PL70aVZ8U/hqdefault_live.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "Women's live stream: Plymouth Argyle v AFC Bournemouth",
+      "link": "https://www.youtube.com/watch?v=ms5YVcb6Te4",
+      "pubDate": "2026-10-17T12:17:17Z",
+      "thumb": "https://i.ytimg.com/vi/ms5YVcb6Te4/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester City",
       "title": "MATCHDAY LIVE! | Man City v Ipswich Town | Premier League",
@@ -147,13 +161,6 @@
       "link": "https://www.youtube.com/watch?v=dNQjlVTxyow",
       "pubDate": "2026-10-16T14:01:06Z",
       "thumb": "https://i.ytimg.com/vi/dNQjlVTxyow/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Matchday Live: Brentford vs Liverpool | Premier League build-up",
-      "link": "https://www.youtube.com/watch?v=w9PL70aVZ8U",
-      "pubDate": "2026-10-16T13:56:44Z",
-      "thumb": "https://i.ytimg.com/vi/w9PL70aVZ8U/hqdefault_live.jpg"
     },
     {
       "team": "Leeds United",
@@ -441,13 +448,6 @@
       "link": "https://www.youtube.com/watch?v=2Uu_xxao4Ec",
       "pubDate": "2026-10-11T12:40:01Z",
       "thumb": "https://i.ytimg.com/vi/2Uu_xxao4Ec/hqdefault_live.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: Everton U18 v AFC Bournemouth U18",
-      "link": "https://www.youtube.com/watch?v=fZzW6a6V3D8",
-      "pubDate": "2026-10-11T00:17:53Z",
-      "thumb": "https://i.ytimg.com/vi/fZzW6a6V3D8/hqdefault.jpg"
     },
     {
       "team": "Brentford",
