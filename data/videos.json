@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T11:40:26.510Z",
+  "updatedAt": "2026-10-17T12:11:48.855Z",
   "videos": [
     {
       "team": "Manchester City",
@@ -28,13 +28,6 @@
       "link": "https://www.youtube.com/watch?v=GfoyvaCkbWU",
       "pubDate": "2026-10-17T10:00:26Z",
       "thumb": "https://i.ytimg.com/vi/GfoyvaCkbWU/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "U18s Premier League LIVE: AFC Bournemouth v Norwich City",
-      "link": "https://www.youtube.com/watch?v=a1gtVkswtpI",
-      "pubDate": "2026-10-17T09:45:00Z",
-      "thumb": "https://i.ytimg.com/vi/a1gtVkswtpI/hqdefault_live.jpg"
     },
     {
       "team": "Tottenham Hotspur",
@@ -448,6 +441,13 @@
       "link": "https://www.youtube.com/watch?v=2Uu_xxao4Ec",
       "pubDate": "2026-10-11T12:40:01Z",
       "thumb": "https://i.ytimg.com/vi/2Uu_xxao4Ec/hqdefault_live.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: Everton U18 v AFC Bournemouth U18",
+      "link": "https://www.youtube.com/watch?v=fZzW6a6V3D8",
+      "pubDate": "2026-10-11T00:17:53Z",
+      "thumb": "https://i.ytimg.com/vi/fZzW6a6V3D8/hqdefault.jpg"
     },
     {
       "team": "Brentford",
