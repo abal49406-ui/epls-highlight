@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-17T16:42:24.609Z",
+  "updatedAt": "2026-10-17T17:11:59.860Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "MATCHDAY LIVE! | CITY ARE SEVEN WINS FROM SEVEN! | Man City 3-2 Ipswich Town | Premier League",
+      "link": "https://www.youtube.com/watch?v=IRC51fcsDHY",
+      "pubDate": "2026-10-17T16:58:39Z",
+      "thumb": "https://i.ytimg.com/vi/IRC51fcsDHY/hqdefault_live.jpg"
+    },
     {
       "team": "Ipswich Town",
       "title": "MATCHDAY LIVE | HT: MANCHESTER CITY V TOWN",
@@ -35,13 +42,6 @@
       "link": "https://www.youtube.com/watch?v=w9PL70aVZ8U",
       "pubDate": "2026-10-17T13:29:28Z",
       "thumb": "https://i.ytimg.com/vi/w9PL70aVZ8U/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "MATCHDAY LIVE! | CITY ARE SEVEN WINS FROM SEVEN! | Man City 3-2 Ipswich Town | Premier League",
-      "link": "https://www.youtube.com/watch?v=IRC51fcsDHY",
-      "pubDate": "2026-10-17T13:24:13Z",
-      "thumb": "https://i.ytimg.com/vi/IRC51fcsDHY/hqdefault_live.jpg"
     },
     {
       "team": "AFC Bournemouth",
