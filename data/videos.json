@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-17T05:14:52.347Z",
+  "updatedAt": "2026-10-17T05:42:28.961Z",
   "videos": [
+    {
+      "team": "Hull City",
+      "title": "Fulham (a) | Sergej Jakirović's Live Pre-Match Press Conference",
+      "link": "https://www.youtube.com/watch?v=zqx5NrEMYyI",
+      "pubDate": "2026-10-17T05:22:35Z",
+      "thumb": "https://i.ytimg.com/vi/zqx5NrEMYyI/hqdefault.jpg"
+    },
     {
       "team": "Sunderland",
       "title": "SCU Torreense 1-2 Sunderland AFC| Europa League Highlights",
@@ -476,13 +483,6 @@
       "link": "https://www.youtube.com/watch?v=kHrZuJh3Ewk",
       "pubDate": "2026-10-10T14:30:40Z",
       "thumb": "https://i.ytimg.com/vi/kHrZuJh3Ewk/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "Everton (H)| Sergej Jakirović's Live Pre-Match Press Conference",
-      "link": "https://www.youtube.com/watch?v=8sXV81i8fFA",
-      "pubDate": "2026-10-10T00:25:43Z",
-      "thumb": "https://i.ytimg.com/vi/8sXV81i8fFA/hqdefault.jpg"
     }
   ]
 }
