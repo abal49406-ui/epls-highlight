@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-17T19:11:56.399Z",
+  "updatedAt": "2026-10-17T19:37:11.680Z",
   "videos": [
+    {
+      "team": "Aston Villa",
+      "title": "🗣️ \"The victory is really very fantastic\"  | Unai Emery on Newcastle United Victory | POST MATCH",
+      "link": "https://www.youtube.com/watch?v=MaT2Js9_pGE",
+      "pubDate": "2026-10-17T19:23:06Z",
+      "thumb": "https://i.ytimg.com/vi/MaT2Js9_pGE/hqdefault.jpg"
+    },
+    {
+      "team": "Hull City",
+      "title": "Fulham 1-0 Hull City | Sergej Jakirović's Post Match Reaction",
+      "link": "https://www.youtube.com/watch?v=vkRpq_OsFuw",
+      "pubDate": "2026-10-17T19:15:21Z",
+      "thumb": "https://i.ytimg.com/vi/vkRpq_OsFuw/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "The END For Bruno! Man Utd News",
@@ -289,13 +303,6 @@
       "thumb": "https://i.ytimg.com/vi/I_4-F3cXtzs/hqdefault.jpg"
     },
     {
-      "team": "Aston Villa",
-      "title": "Aston Villa's biggest European win ever 🍿 #ucl",
-      "link": "https://www.youtube.com/watch?v=ji2wyJoxzXE",
-      "pubDate": "2026-10-15T22:00:27Z",
-      "thumb": "https://i.ytimg.com/vi/ji2wyJoxzXE/hqdefault.jpg"
-    },
-    {
       "team": "Manchester City",
       "title": "Every Erling Haaland Champions League Goal for Man City | City's new record UCL Goalscorer!",
       "link": "https://www.youtube.com/watch?v=VRPF49JJo6A",
@@ -455,13 +462,6 @@
       "link": "https://www.youtube.com/watch?v=yzAF_dowtbg",
       "pubDate": "2026-10-11T17:53:44Z",
       "thumb": "https://i.ytimg.com/vi/yzAF_dowtbg/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "Hull City 2-2 Everton | Sergej Jakirović's Post Match Reaction",
-      "link": "https://www.youtube.com/watch?v=rqolsyB1bp4",
-      "pubDate": "2026-10-11T17:02:28Z",
-      "thumb": "https://i.ytimg.com/vi/rqolsyB1bp4/hqdefault.jpg"
     },
     {
       "team": "Brentford",
