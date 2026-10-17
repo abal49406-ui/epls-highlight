@@ -1,12 +1,19 @@
 {
-  "updatedAt": "2026-10-17T09:20:39.821Z",
+  "updatedAt": "2026-10-17T09:59:33.361Z",
   "videos": [
     {
       "team": "AFC Bournemouth",
       "title": "U18s Premier League LIVE: AFC Bournemouth v Norwich City",
       "link": "https://www.youtube.com/watch?v=a1gtVkswtpI",
-      "pubDate": "2026-10-17T09:00:28Z",
+      "pubDate": "2026-10-17T09:45:00Z",
       "thumb": "https://i.ytimg.com/vi/a1gtVkswtpI/hqdefault_live.jpg"
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "title": "At Home With Conor Gallagher | An Original Spurs Production",
+      "link": "https://www.youtube.com/watch?v=eiyXhqhWlOA",
+      "pubDate": "2026-10-17T09:30:31Z",
+      "thumb": "https://i.ytimg.com/vi/eiyXhqhWlOA/hqdefault.jpg"
     },
     {
       "team": "Aston Villa",
@@ -66,7 +73,7 @@
     },
     {
       "team": "Aston Villa",
-      "title": "A 5̶ 6 Star Performance! 🌟 Aston Villa vs Fenerbahće | PITCHSIDE",
+      "title": "A 6-Star Performance! 🌟 Aston Villa vs Fenerbahçe | PITCHSIDE",
       "link": "https://www.youtube.com/watch?v=UJOP6CYt4rc",
       "pubDate": "2026-10-16T18:30:25Z",
       "thumb": "https://i.ytimg.com/vi/UJOP6CYt4rc/hqdefault.jpg"
