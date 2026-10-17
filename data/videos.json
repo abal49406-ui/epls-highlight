@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-17T20:40:39.629Z",
+  "updatedAt": "2026-10-17T21:11:40.139Z",
   "videos": [
+    {
+      "team": "Brentford",
+      "title": "Brentford 1-2 Liverpool | Defeat at the Gtech | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=hPSVl8MxITI",
+      "pubDate": "2026-10-17T21:01:19Z",
+      "thumb": "https://i.ytimg.com/vi/hPSVl8MxITI/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "HIGHLIGHTS | Man City 3-2 Ipswich | Haaland brace and Foden goal!",
+      "link": "https://www.youtube.com/watch?v=9Bd8gb6k7hE",
+      "pubDate": "2026-10-17T21:00:33Z",
+      "thumb": "https://i.ytimg.com/vi/9Bd8gb6k7hE/hqdefault.jpg"
+    },
+    {
+      "team": "Fulham",
+      "title": "Iwobi seals the 3️⃣ | Fulham 1-0 Hull City | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=ZoT4QMx2_ys",
+      "pubDate": "2026-10-17T21:00:33Z",
+      "thumb": "https://i.ytimg.com/vi/ZoT4QMx2_ys/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Highlights: Brentford 1-2 Liverpool | Munoz & Isak Goals in Comeback Win!",
+      "link": "https://www.youtube.com/watch?v=QeVs-m7og9E",
+      "pubDate": "2026-10-17T21:00:07Z",
+      "thumb": "https://i.ytimg.com/vi/QeVs-m7og9E/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "Champions League Press Conference: Liverpool vs Villarreal | Andoni Iraola",
@@ -317,13 +345,6 @@
       "thumb": "https://i.ytimg.com/vi/I_4-F3cXtzs/hqdefault.jpg"
     },
     {
-      "team": "Manchester City",
-      "title": "Every Erling Haaland Champions League Goal for Man City | City's new record UCL Goalscorer!",
-      "link": "https://www.youtube.com/watch?v=VRPF49JJo6A",
-      "pubDate": "2026-10-15T20:00:12Z",
-      "thumb": "https://i.ytimg.com/vi/VRPF49JJo6A/hqdefault.jpg"
-    },
-    {
       "team": "Sunderland",
       "title": "\"The team showed belief until the end\" | Le Bris & Sadiki Post-Match Reaction",
       "link": "https://www.youtube.com/watch?v=DcBz3kE0slE",
@@ -436,13 +457,6 @@
       "thumb": "https://i.ytimg.com/vi/6kFtwvfrIIA/hqdefault.jpg"
     },
     {
-      "team": "Newcastle United",
-      "title": "Coventry City 4 Newcastle United 1 | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=YZyS3affLao",
-      "pubDate": "2026-10-12T23:00:26Z",
-      "thumb": "https://i.ytimg.com/vi/YZyS3affLao/hqdefault.jpg"
-    },
-    {
       "team": "AFC Bournemouth",
       "title": "Premier League Cup Live: AFC Bournemouth v Plymouth Argyle",
       "link": "https://www.youtube.com/watch?v=DxsQfUzfbrA",
@@ -476,13 +490,6 @@
       "link": "https://www.youtube.com/watch?v=XLQm366y_90",
       "pubDate": "2026-10-10T21:02:30Z",
       "thumb": "https://i.ytimg.com/vi/XLQm366y_90/hqdefault.jpg"
-    },
-    {
-      "team": "Fulham",
-      "title": "Stoppage Time Heartache 😞 | Ipswich 2-1 Fulham | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=l4Nqsz7MIig",
-      "pubDate": "2026-10-10T21:00:15Z",
-      "thumb": "https://i.ytimg.com/vi/l4Nqsz7MIig/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
