@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-17T10:46:29.100Z",
+  "updatedAt": "2026-10-17T11:12:06.790Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "MATCHDAY LIVE! | Man City v Ipswich Town | Premier League",
+      "link": "https://www.youtube.com/watch?v=IRC51fcsDHY",
+      "pubDate": "2026-10-17T11:06:02Z",
+      "thumb": "https://i.ytimg.com/vi/IRC51fcsDHY/hqdefault_live.jpg"
+    },
     {
       "team": "Nottingham Forest",
       "title": "Nottingham Forest 3-2 Manchester United | Premier League 2 Highlights 🎬",
@@ -259,13 +266,6 @@
       "link": "https://www.youtube.com/watch?v=uVLmY9tJo1s",
       "pubDate": "2026-10-15T19:00:09Z",
       "thumb": "https://i.ytimg.com/vi/uVLmY9tJo1s/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "HIGHLIGHTS | Man City 2-4 PSG | Six goal thriller at the Etihad!",
-      "link": "https://www.youtube.com/watch?v=GiK8cwvu9BE",
-      "pubDate": "2026-10-15T17:00:20Z",
-      "thumb": "https://i.ytimg.com/vi/GiK8cwvu9BE/hqdefault.jpg"
     },
     {
       "team": "Arsenal",
