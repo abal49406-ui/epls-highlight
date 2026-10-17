@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-17T21:41:20.692Z",
+  "updatedAt": "2026-10-17T22:10:04.421Z",
   "videos": [
+    {
+      "team": "Chelsea",
+      "title": "West Brom U18 3-5 Chelsea U18| HIGHLIGHTS | U18 Premier League | 2026/27",
+      "link": "https://www.youtube.com/watch?v=EHfu2mCYxoE",
+      "pubDate": "2026-10-17T21:50:09Z",
+      "thumb": "https://i.ytimg.com/vi/EHfu2mCYxoE/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Live Training: Liverpool vs Villarreal | UEFA Champions League preparation",
+      "link": "https://www.youtube.com/watch?v=bH9AO4aMank",
+      "pubDate": "2026-10-17T21:42:28Z",
+      "thumb": "https://i.ytimg.com/vi/bH9AO4aMank/hqdefault_live.jpg"
+    },
     {
       "team": "Brentford",
       "title": "Brentford 1-2 Liverpool | Defeat at the Gtech | Premier League Highlights",
@@ -24,7 +38,7 @@
     },
     {
       "team": "Liverpool",
-      "title": "Highlights: Brentford 1-2 Liverpool | Munoz & Isak Goals in Premier League Win!",
+      "title": "Highlights: Brentford 1-2 Liverpool | Munoz & Isak Goals win it!",
       "link": "https://www.youtube.com/watch?v=QeVs-m7og9E",
       "pubDate": "2026-10-17T21:00:07Z",
       "thumb": "https://i.ytimg.com/vi/QeVs-m7og9E/hqdefault.jpg"
@@ -112,13 +126,6 @@
       "link": "https://www.youtube.com/watch?v=AMYEDbM0lU8",
       "pubDate": "2026-10-17T16:00:02Z",
       "thumb": "https://i.ytimg.com/vi/AMYEDbM0lU8/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Matchday Live: Brentford vs Liverpool | Premier League build-up",
-      "link": "https://www.youtube.com/watch?v=w9PL70aVZ8U",
-      "pubDate": "2026-10-17T13:29:28Z",
-      "thumb": "https://i.ytimg.com/vi/w9PL70aVZ8U/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
@@ -427,13 +434,6 @@
       "link": "https://www.youtube.com/watch?v=ogazRsmTE1c",
       "pubDate": "2026-10-13T23:01:30Z",
       "thumb": "https://i.ytimg.com/vi/ogazRsmTE1c/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "Reading 0-2 Cobham Next Gen | HIGHLIGHTS | EFL Trophy | 2026/27",
-      "link": "https://www.youtube.com/watch?v=88rVL-LZ6Bo",
-      "pubDate": "2026-10-13T20:49:42Z",
-      "thumb": "https://i.ytimg.com/vi/88rVL-LZ6Bo/hqdefault.jpg"
     },
     {
       "team": "Fulham",
