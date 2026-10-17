@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-17T18:13:40.954Z",
+  "updatedAt": "2026-10-17T18:43:26.012Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "The END For Bruno! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=UHZ3oiVKp8E",
+      "pubDate": "2026-10-17T18:30:23Z",
+      "thumb": "https://i.ytimg.com/vi/UHZ3oiVKp8E/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "Szoboszlai & Frimpong Update | Andoni Iraola Press Conference | Brentford 1-2 Liverpool",
@@ -301,13 +308,6 @@
       "link": "https://www.youtube.com/watch?v=DcBz3kE0slE",
       "pubDate": "2026-10-15T19:45:06Z",
       "thumb": "https://i.ytimg.com/vi/DcBz3kE0slE/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Martinez DROPPED! Leeds vs Man United Goldbridge Preview",
-      "link": "https://www.youtube.com/watch?v=uVLmY9tJo1s",
-      "pubDate": "2026-10-15T19:00:09Z",
-      "thumb": "https://i.ytimg.com/vi/uVLmY9tJo1s/hqdefault.jpg"
     },
     {
       "team": "Arsenal",
