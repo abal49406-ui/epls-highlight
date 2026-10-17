@@ -1,12 +1,33 @@
 {
-  "updatedAt": "2026-10-17T17:11:59.860Z",
+  "updatedAt": "2026-10-17T17:40:00.683Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Szoboszlai & Frimpong Update | AndonI iraola Press Conference | Brentford 1-2 Liverpool",
+      "link": "https://www.youtube.com/watch?v=V5ptLTLy9IY",
+      "pubDate": "2026-10-17T17:36:40Z",
+      "thumb": "https://i.ytimg.com/vi/V5ptLTLy9IY/hqdefault.jpg"
+    },
+    {
+      "team": "Chelsea",
+      "title": "ALONSO & HENDERSON react post-Everton | Everton 0-2 Chelsea | Premier League 2026/27",
+      "link": "https://www.youtube.com/watch?v=MSRdWZFPDrk",
+      "pubDate": "2026-10-17T17:17:07Z",
+      "thumb": "https://i.ytimg.com/vi/MSRdWZFPDrk/hqdefault.jpg"
+    },
     {
       "team": "Manchester City",
       "title": "MATCHDAY LIVE! | CITY ARE SEVEN WINS FROM SEVEN! | Man City 3-2 Ipswich Town | Premier League",
       "link": "https://www.youtube.com/watch?v=IRC51fcsDHY",
-      "pubDate": "2026-10-17T16:58:39Z",
-      "thumb": "https://i.ytimg.com/vi/IRC51fcsDHY/hqdefault_live.jpg"
+      "pubDate": "2026-10-17T17:15:33Z",
+      "thumb": "https://i.ytimg.com/vi/IRC51fcsDHY/hqdefault.jpg"
+    },
+    {
+      "team": "Ipswich Town",
+      "title": "MATCHDAY LIVE | MANCHESTER CITY V TOWN",
+      "link": "https://www.youtube.com/watch?v=RAWK8-d7_zE",
+      "pubDate": "2026-10-17T17:14:37Z",
+      "thumb": "https://i.ytimg.com/vi/RAWK8-d7_zE/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
@@ -28,13 +49,6 @@
       "link": "https://www.youtube.com/watch?v=AMYEDbM0lU8",
       "pubDate": "2026-10-17T16:00:02Z",
       "thumb": "https://i.ytimg.com/vi/AMYEDbM0lU8/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "MATCHDAY LIVE | MANCHESTER CITY V TOWN",
-      "link": "https://www.youtube.com/watch?v=RAWK8-d7_zE",
-      "pubDate": "2026-10-17T14:00:04Z",
-      "thumb": "https://i.ytimg.com/vi/RAWK8-d7_zE/hqdefault_live.jpg"
     },
     {
       "team": "Liverpool",
@@ -385,13 +399,6 @@
       "link": "https://www.youtube.com/watch?v=88rVL-LZ6Bo",
       "pubDate": "2026-10-13T20:49:42Z",
       "thumb": "https://i.ytimg.com/vi/88rVL-LZ6Bo/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "Reading U18 0-3 Chelsea U18| HIGHLIGHTS | U18 Premier League | 2026/27",
-      "link": "https://www.youtube.com/watch?v=fdFwOGBFTbg",
-      "pubDate": "2026-10-13T17:08:17Z",
-      "thumb": "https://i.ytimg.com/vi/fdFwOGBFTbg/hqdefault.jpg"
     },
     {
       "team": "Fulham",
