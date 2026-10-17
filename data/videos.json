@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-17T15:41:01.872Z",
+  "updatedAt": "2026-10-17T16:11:46.374Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "INCREDIBLE Evanilson header from pitchside in memorable victory in Europe | Alt Angle",
+      "link": "https://www.youtube.com/watch?v=AMYEDbM0lU8",
+      "pubDate": "2026-10-17T16:00:02Z",
+      "thumb": "https://i.ytimg.com/vi/AMYEDbM0lU8/hqdefault.jpg"
+    },
     {
       "team": "Ipswich Town",
       "title": "MATCHDAY LIVE | HT: MANCHESTER CITY V TOWN",
@@ -24,7 +31,7 @@
     },
     {
       "team": "Manchester City",
-      "title": "MATCHDAY LIVE! | Foden & Haaland on the scoresheet! | Man City 2-1 Ipswich Town | Premier League",
+      "title": "MATCHDAY LIVE! | CITY ARE SEVEN WINS FROM SEVEN! | Man City 3-2 Ipswich Town | Premier League",
       "link": "https://www.youtube.com/watch?v=IRC51fcsDHY",
       "pubDate": "2026-10-17T13:24:13Z",
       "thumb": "https://i.ytimg.com/vi/IRC51fcsDHY/hqdefault_live.jpg"
@@ -448,13 +455,6 @@
       "link": "https://www.youtube.com/watch?v=rqolsyB1bp4",
       "pubDate": "2026-10-11T17:02:28Z",
       "thumb": "https://i.ytimg.com/vi/rqolsyB1bp4/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: AFC Bournemouth Women v Fulham Women",
-      "link": "https://www.youtube.com/watch?v=2Uu_xxao4Ec",
-      "pubDate": "2026-10-11T12:40:01Z",
-      "thumb": "https://i.ytimg.com/vi/2Uu_xxao4Ec/hqdefault_live.jpg"
     },
     {
       "team": "Brentford",
