@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-17T20:10:11.940Z",
+  "updatedAt": "2026-10-17T20:40:39.629Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Champions League Press Conference: Liverpool vs Villarreal | Andoni Iraola",
+      "link": "https://www.youtube.com/watch?v=PrdJKdbG2Ug",
+      "pubDate": "2026-10-17T20:24:55Z",
+      "thumb": "https://i.ytimg.com/vi/PrdJKdbG2Ug/hqdefault_live.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "U18 Match Highlights | Ipswich Town 2-6 Crystal Palace",
+      "link": "https://www.youtube.com/watch?v=L_iWnh_ua9g",
+      "pubDate": "2026-10-17T20:16:59Z",
+      "thumb": "https://i.ytimg.com/vi/L_iWnh_ua9g/hqdefault.jpg"
+    },
     {
       "team": "Aston Villa",
       "title": "🗣️ \"The victory is really very fantastic\"  | Unai Emery on Newcastle United Victory | POST MATCH",
@@ -343,13 +357,6 @@
       "link": "https://www.youtube.com/watch?v=qeb4nLyrvZA",
       "pubDate": "2026-10-15T08:40:11Z",
       "thumb": "https://i.ytimg.com/vi/qeb4nLyrvZA/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "CCTV | Preparations for Lyon 💪",
-      "link": "https://www.youtube.com/watch?v=xaP1nNFFD_U",
-      "pubDate": "2026-10-15T07:30:22Z",
-      "thumb": "https://i.ytimg.com/vi/xaP1nNFFD_U/hqdefault.jpg"
     },
     {
       "team": "Hull City",
