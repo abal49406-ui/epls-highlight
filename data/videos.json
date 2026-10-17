@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-17T12:49:33.512Z",
+  "updatedAt": "2026-10-17T13:19:19.835Z",
   "videos": [
+    {
+      "team": "Ipswich Town",
+      "title": "MATCHDAY LIVE | MANCHESTER CITY V TOWN",
+      "link": "https://www.youtube.com/watch?v=RAWK8-d7_zE",
+      "pubDate": "2026-10-17T12:50:25Z",
+      "thumb": "https://i.ytimg.com/vi/RAWK8-d7_zE/hqdefault_live.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "Matchday Live: Brentford vs Liverpool | Premier League build-up",
@@ -469,13 +476,6 @@
       "link": "https://www.youtube.com/watch?v=p2kZ0O4IJg4",
       "pubDate": "2026-10-10T21:00:04Z",
       "thumb": "https://i.ytimg.com/vi/p2kZ0O4IJg4/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "MATCHDAY LIVE | HALF-TIME: TOWN V FULHAM",
-      "link": "https://www.youtube.com/watch?v=y3B81mlcO18",
-      "pubDate": "2026-10-10T15:11:56Z",
-      "thumb": "https://i.ytimg.com/vi/y3B81mlcO18/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
