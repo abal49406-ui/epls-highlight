@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-17T22:10:04.421Z",
+  "updatedAt": "2026-10-17T22:39:12.165Z",
   "videos": [
+    {
+      "team": "Hull City",
+      "title": "Defeat At Craven Cottage | Fulham 1-0 Hull City",
+      "link": "https://www.youtube.com/watch?v=ntLrCtVR3pA",
+      "pubDate": "2026-10-17T22:11:07Z",
+      "thumb": "https://i.ytimg.com/vi/ntLrCtVR3pA/hqdefault.jpg"
+    },
     {
       "team": "Chelsea",
       "title": "West Brom U18 3-5 Chelsea U18| HIGHLIGHTS | U18 Premier League | 2026/27",
@@ -38,7 +45,7 @@
     },
     {
       "team": "Liverpool",
-      "title": "Highlights: Brentford 1-2 Liverpool | Munoz & Isak Goals win it!",
+      "title": "Highlights: Brentford 1-2 Liverpool | Munoz & Isak Goals!",
       "link": "https://www.youtube.com/watch?v=QeVs-m7og9E",
       "pubDate": "2026-10-17T21:00:07Z",
       "thumb": "https://i.ytimg.com/vi/QeVs-m7og9E/hqdefault.jpg"
@@ -469,13 +476,6 @@
       "link": "https://www.youtube.com/watch?v=7rjYwH4YiUA",
       "pubDate": "2026-10-11T23:00:19Z",
       "thumb": "https://i.ytimg.com/vi/7rjYwH4YiUA/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "Points Shared in a Thriller at the MKM! Hull City 2-2 Everton | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=nSkWXRgkjCI",
-      "pubDate": "2026-10-11T23:00:17Z",
-      "thumb": "https://i.ytimg.com/vi/nSkWXRgkjCI/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
