@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-18T11:12:00.348Z",
+  "updatedAt": "2026-10-18T11:40:05.429Z",
   "videos": [
+    {
+      "team": "Ipswich Town",
+      "title": "HIGHLIGHTS | MAN CITY 3 TOWN 2",
+      "link": "https://www.youtube.com/watch?v=vlu2Kt3QHko",
+      "pubDate": "2026-10-18T11:27:52Z",
+      "thumb": "https://i.ytimg.com/vi/vlu2Kt3QHko/hqdefault.jpg"
+    },
     {
       "team": "Leeds United",
       "title": "Matchday Live | Leeds United v Manchester United",
@@ -287,13 +294,6 @@
       "link": "https://www.youtube.com/watch?v=djXi2Y_2Yxk",
       "pubDate": "2026-10-16T16:00:18Z",
       "thumb": "https://i.ytimg.com/vi/djXi2Y_2Yxk/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "CHRISTIAN WALTON PREVIEWS MAN CITY (A)",
-      "link": "https://www.youtube.com/watch?v=YIvHuJo-CfE",
-      "pubDate": "2026-10-16T14:18:07Z",
-      "thumb": "https://i.ytimg.com/vi/YIvHuJo-CfE/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
