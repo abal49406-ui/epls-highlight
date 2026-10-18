@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-18T10:46:26.648Z",
+  "updatedAt": "2026-10-18T11:12:00.348Z",
   "videos": [
+    {
+      "team": "Leeds United",
+      "title": "Matchday Live | Leeds United v Manchester United",
+      "link": "https://www.youtube.com/watch?v=HACszKuKAbc",
+      "pubDate": "2026-10-18T11:02:47Z",
+      "thumb": "https://i.ytimg.com/vi/HACszKuKAbc/hqdefault_live.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "LEEDS VS MAN UNITED! Countdown to Kickoff!",
+      "link": "https://www.youtube.com/watch?v=Z2koBcj6tNk",
+      "pubDate": "2026-10-18T11:00:40Z",
+      "thumb": "https://i.ytimg.com/vi/Z2koBcj6tNk/hqdefault_live.jpg"
+    },
     {
       "team": "Ipswich Town",
       "title": "GARY O'NEIL'S ASSESSMENT FOLLOWING OUR DEFEAT TO MAN CITY",
@@ -14,13 +28,6 @@
       "link": "https://www.youtube.com/watch?v=JzvNlbB9a6M",
       "pubDate": "2026-10-18T10:12:04Z",
       "thumb": "https://i.ytimg.com/vi/JzvNlbB9a6M/hqdefault_live.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "LEEDS VS MAN UNITED! Countdown to Kickoff!",
-      "link": "https://www.youtube.com/watch?v=Z2koBcj6tNk",
-      "pubDate": "2026-10-18T09:29:54Z",
-      "thumb": "https://i.ytimg.com/vi/Z2koBcj6tNk/hqdefault_live.jpg"
     },
     {
       "team": "Manchester United",
@@ -490,13 +497,6 @@
       "link": "https://www.youtube.com/watch?v=p2kZ0O4IJg4",
       "pubDate": "2026-10-10T21:00:04Z",
       "thumb": "https://i.ytimg.com/vi/p2kZ0O4IJg4/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "“I’m proud and heartbroken\" | Daniel Farke reaction | Arsenal 2-1 Leeds United",
-      "link": "https://www.youtube.com/watch?v=kHrZuJh3Ewk",
-      "pubDate": "2026-10-10T14:30:40Z",
-      "thumb": "https://i.ytimg.com/vi/kHrZuJh3Ewk/hqdefault.jpg"
     }
   ]
 }
