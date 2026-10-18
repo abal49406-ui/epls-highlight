@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-10-18T20:40:21.361Z",
+  "updatedAt": "2026-10-18T21:10:58.463Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "Cherries pick up first Premier League win of the campaign | AFC Bournemouth 2-0 Sunderland",
+      "link": "https://www.youtube.com/watch?v=5uV-0ZX9KKk",
+      "pubDate": "2026-10-18T21:00:36Z",
+      "thumb": "https://i.ytimg.com/vi/5uV-0ZX9KKk/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Defeat at the Vitality | Bournemouth 2-0 Sunderland AFC | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=4jHAWGeAbuk",
+      "pubDate": "2026-10-18T21:00:28Z",
+      "thumb": "https://i.ytimg.com/vi/4jHAWGeAbuk/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "Match Highlights | Brighton 5-0 Crystal Palace | Premier League",
+      "link": "https://www.youtube.com/watch?v=_6xir8xv6bI",
+      "pubDate": "2026-10-18T21:00:24Z",
+      "thumb": "https://i.ytimg.com/vi/_6xir8xv6bI/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Nottingham Forest 0-1 Arsenal | Premier League Highlights 📺",
+      "link": "https://www.youtube.com/watch?v=5rR7NWafSS4",
+      "pubDate": "2026-10-18T21:00:22Z",
+      "thumb": "https://i.ytimg.com/vi/5rR7NWafSS4/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "MADUEKE STRIKE EARNS ALL THREE POINTS! | Nottingham Forest vs Arsenal (0-1) | Premier League",
+      "link": "https://www.youtube.com/watch?v=s8sBXEo2l94",
+      "pubDate": "2026-10-18T21:00:03Z",
+      "thumb": "https://i.ytimg.com/vi/s8sBXEo2l94/hqdefault.jpg"
+    },
     {
       "team": "Nottingham Forest",
       "title": "Oliver Glasner's Reaction 🗣️ | Nottingham Forest vs Arsenal | Premier League",
@@ -296,27 +331,6 @@
       "thumb": "https://i.ytimg.com/vi/5JPDrsXwPzA/hqdefault.jpg"
     },
     {
-      "team": "Brighton & Hove Albion",
-      "title": "EXTENDED HIGHLIGHTS | Brighton v Kauno Zalgiris | UEFA Conference League",
-      "link": "https://www.youtube.com/watch?v=IPu2tHCPvyg",
-      "pubDate": "2026-10-16T22:59:17Z",
-      "thumb": "https://i.ytimg.com/vi/IPu2tHCPvyg/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "HIGHLIGHTS | Brighton v Kauno Zalgiris | UEFA Conference League",
-      "link": "https://www.youtube.com/watch?v=UPIMJu9ja-c",
-      "pubDate": "2026-10-16T22:59:07Z",
-      "thumb": "https://i.ytimg.com/vi/UPIMJu9ja-c/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "How We Ended a 53-Year Wait in Europe! | Mackems In Portugal",
-      "link": "https://www.youtube.com/watch?v=c6eMuHhv2gM",
-      "pubDate": "2026-10-16T21:00:17Z",
-      "thumb": "https://i.ytimg.com/vi/c6eMuHhv2gM/hqdefault.jpg"
-    },
-    {
       "team": "Chelsea",
       "title": "Stoke City U21's 1-2 Cobham Next Gen | HIGHLIGHTS | Premier League 2 | 2026/27",
       "link": "https://www.youtube.com/watch?v=ULfiQe8brtU",
@@ -345,13 +359,6 @@
       "thumb": "https://i.ytimg.com/vi/HtxY3wdzbP8/hqdefault.jpg"
     },
     {
-      "team": "Nottingham Forest",
-      "title": "Hard at Work in Preparation for Arsenal 💪 | Inside Training 🎬",
-      "link": "https://www.youtube.com/watch?v=djXi2Y_2Yxk",
-      "pubDate": "2026-10-16T16:00:18Z",
-      "thumb": "https://i.ytimg.com/vi/djXi2Y_2Yxk/hqdefault.jpg"
-    },
-    {
       "team": "Chelsea",
       "title": "Alonso Press Conference | 16/10/26 | Everton vs Chelsea | CFC 26/27",
       "link": "https://www.youtube.com/watch?v=dNQjlVTxyow",
@@ -378,13 +385,6 @@
       "link": "https://www.youtube.com/watch?v=L1af17VtmFE",
       "pubDate": "2026-10-16T10:25:01Z",
       "thumb": "https://i.ytimg.com/vi/L1af17VtmFE/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "The 2026/27 Squad Photo - BTS",
-      "link": "https://www.youtube.com/watch?v=V37gx6o-p5Y",
-      "pubDate": "2026-10-16T10:00:06Z",
-      "thumb": "https://i.ytimg.com/vi/V37gx6o-p5Y/hqdefault.jpg"
     },
     {
       "team": "Arsenal",
@@ -483,13 +483,6 @@
       "link": "https://www.youtube.com/watch?v=6kFtwvfrIIA",
       "pubDate": "2026-10-12T23:10:19Z",
       "thumb": "https://i.ytimg.com/vi/6kFtwvfrIIA/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "Premier League Cup Live: AFC Bournemouth v Plymouth Argyle",
-      "link": "https://www.youtube.com/watch?v=DxsQfUzfbrA",
-      "pubDate": "2026-10-12T20:38:09Z",
-      "thumb": "https://i.ytimg.com/vi/DxsQfUzfbrA/hqdefault.jpg"
     },
     {
       "team": "Brentford",
