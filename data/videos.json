@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-10-18T16:12:20.803Z",
+  "updatedAt": "2026-10-18T16:43:12.315Z",
   "videos": [
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "POST MATCH | Hurzeler, Dunk & Ayari | Brighton v Crystal Palace | Premier League",
+      "link": "https://www.youtube.com/watch?v=unzvcuQCLIs",
+      "pubDate": "2026-10-18T16:38:26Z",
+      "thumb": "https://i.ytimg.com/vi/unzvcuQCLIs/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Carrick MUST Go? Goldbridge Man Utd vs Leeds Reaction",
+      "link": "https://www.youtube.com/watch?v=QGoWmwNaMHA",
+      "pubDate": "2026-10-18T16:30:12Z",
+      "thumb": "https://i.ytimg.com/vi/QGoWmwNaMHA/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "“We deserved to win this game” | Daniel Farke reaction | Leeds United 1-1 Manchester United",
+      "link": "https://www.youtube.com/watch?v=lIULocr--oo",
+      "pubDate": "2026-10-18T16:29:10Z",
+      "thumb": "https://i.ytimg.com/vi/lIULocr--oo/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "BOTTLED IT AGAIN! Carrick Safe?! Leeds 1-1 Man United Fans' Forum",
+      "link": "https://www.youtube.com/watch?v=bRXloZ0VmjE",
+      "pubDate": "2026-10-18T16:28:12Z",
+      "thumb": "https://i.ytimg.com/vi/bRXloZ0VmjE/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "“I loved it” | Tarik Muharemović on the battle | Leeds United 1-1 Manchester United",
+      "link": "https://www.youtube.com/watch?v=s_57OSIAIY4",
+      "pubDate": "2026-10-18T16:14:11Z",
+      "thumb": "https://i.ytimg.com/vi/s_57OSIAIY4/hqdefault.jpg"
+    },
     {
       "team": "Sunderland",
       "title": "\"It's a tough learning process\" | Le Bris & Roefs Post-Match Reaction",
@@ -14,13 +49,6 @@
       "link": "https://www.youtube.com/watch?v=gAmi4BeNnh4",
       "pubDate": "2026-10-18T15:28:27Z",
       "thumb": "https://i.ytimg.com/vi/gAmi4BeNnh4/hqdefault_live.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "BOTTLED IT AGAIN! Carrick Safe?! Leeds 1-1 Man United Fans' Forum",
-      "link": "https://www.youtube.com/watch?v=bRXloZ0VmjE",
-      "pubDate": "2026-10-18T15:19:36Z",
-      "thumb": "https://i.ytimg.com/vi/bRXloZ0VmjE/hqdefault_live.jpg"
     },
     {
       "team": "Manchester United",
@@ -63,13 +91,6 @@
       "link": "https://www.youtube.com/watch?v=2iAEqUM2gYA",
       "pubDate": "2026-10-18T10:44:00Z",
       "thumb": "https://i.ytimg.com/vi/2iAEqUM2gYA/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Carrick’s LAST CHANCE?! Man United vs Leeds Road Trip",
-      "link": "https://www.youtube.com/watch?v=ZzoQSNMeow4",
-      "pubDate": "2026-10-18T09:00:11Z",
-      "thumb": "https://i.ytimg.com/vi/ZzoQSNMeow4/hqdefault.jpg"
     },
     {
       "team": "Hull City",
@@ -317,13 +338,6 @@
       "thumb": "https://i.ytimg.com/vi/dNQjlVTxyow/hqdefault.jpg"
     },
     {
-      "team": "Leeds United",
-      "title": "Daniel Farke pre-match press conference | Leeds United v Manchester United | Premier League",
-      "link": "https://www.youtube.com/watch?v=KIB0MCH-2ZY",
-      "pubDate": "2026-10-16T13:40:22Z",
-      "thumb": "https://i.ytimg.com/vi/KIB0MCH-2ZY/hqdefault.jpg"
-    },
-    {
       "team": "Nottingham Forest",
       "title": "Oliver Glasner Press Conference 🎙️ | Nottingham Forest vs Arsenal | Premier League",
       "link": "https://www.youtube.com/watch?v=BDhpI1h1RZY",
@@ -364,13 +378,6 @@
       "link": "https://www.youtube.com/watch?v=V37gx6o-p5Y",
       "pubDate": "2026-10-16T10:00:06Z",
       "thumb": "https://i.ytimg.com/vi/V37gx6o-p5Y/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "POST MATCH | Hurzeler, Georginio & Hinshelwood | Brighton v Kauno Zalgiris | UEFA Conference League",
-      "link": "https://www.youtube.com/watch?v=15VjoRzjKHM",
-      "pubDate": "2026-10-15T22:52:56Z",
-      "thumb": "https://i.ytimg.com/vi/15VjoRzjKHM/hqdefault.jpg"
     },
     {
       "team": "Aston Villa",
@@ -483,13 +490,6 @@
       "link": "https://www.youtube.com/watch?v=DxsQfUzfbrA",
       "pubDate": "2026-10-12T20:38:09Z",
       "thumb": "https://i.ytimg.com/vi/DxsQfUzfbrA/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "LIVE FOOTBALL: Leeds United Women v Norton & Stockton Ancients | FA Women's National League",
-      "link": "https://www.youtube.com/watch?v=yzAF_dowtbg",
-      "pubDate": "2026-10-11T17:53:44Z",
-      "thumb": "https://i.ytimg.com/vi/yzAF_dowtbg/hqdefault.jpg"
     },
     {
       "team": "Brentford",
