@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-18T09:58:49.226Z",
+  "updatedAt": "2026-10-18T10:18:54.655Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "LEEDS vs MAN UNITED LIVE Watchalong",
+      "link": "https://www.youtube.com/watch?v=JzvNlbB9a6M",
+      "pubDate": "2026-10-18T10:12:04Z",
+      "thumb": "https://i.ytimg.com/vi/JzvNlbB9a6M/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "LEEDS VS MAN UNITED! Countdown to Kickoff!",
@@ -245,13 +252,6 @@
       "link": "https://www.youtube.com/watch?v=UJOP6CYt4rc",
       "pubDate": "2026-10-16T18:30:25Z",
       "thumb": "https://i.ytimg.com/vi/UJOP6CYt4rc/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "I'm DISGUSTED By This! Goldbridge Man Utd News",
-      "link": "https://www.youtube.com/watch?v=8VepTPomKSo",
-      "pubDate": "2026-10-16T18:00:31Z",
-      "thumb": "https://i.ytimg.com/vi/8VepTPomKSo/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
