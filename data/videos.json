@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-18T18:15:31.342Z",
+  "updatedAt": "2026-10-18T18:44:56.682Z",
   "videos": [
+    {
+      "team": "Nottingham Forest",
+      "title": "Oliver Glasner's Reaction 🗣️ | Nottingham Forest vs Arsenal | Premier League",
+      "link": "https://www.youtube.com/watch?v=mEmLqDb2Z4c",
+      "pubDate": "2026-10-18T18:33:48Z",
+      "thumb": "https://i.ytimg.com/vi/mEmLqDb2Z4c/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "🫪 Bruno 3/10? Yoro MAN OF THE MATCH! Leeds 1-1 Man United Player Ratings",
+      "link": "https://www.youtube.com/watch?v=eP9aE-NFuH4",
+      "pubDate": "2026-10-18T18:30:02Z",
+      "thumb": "https://i.ytimg.com/vi/eP9aE-NFuH4/hqdefault.jpg"
+    },
     {
       "team": "Leeds United",
       "title": "Matchday Live: The Verdict | Leeds United v Manchester United",
@@ -91,13 +105,6 @@
       "link": "https://www.youtube.com/watch?v=HACszKuKAbc",
       "pubDate": "2026-10-18T13:34:25Z",
       "thumb": "https://i.ytimg.com/vi/HACszKuKAbc/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "LEEDS VS MAN UNITED! Countdown to Kickoff!",
-      "link": "https://www.youtube.com/watch?v=Z2koBcj6tNk",
-      "pubDate": "2026-10-18T12:41:08Z",
-      "thumb": "https://i.ytimg.com/vi/Z2koBcj6tNk/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
@@ -350,13 +357,6 @@
       "link": "https://www.youtube.com/watch?v=dNQjlVTxyow",
       "pubDate": "2026-10-16T14:01:06Z",
       "thumb": "https://i.ytimg.com/vi/dNQjlVTxyow/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Oliver Glasner Press Conference 🎙️ | Nottingham Forest vs Arsenal | Premier League",
-      "link": "https://www.youtube.com/watch?v=BDhpI1h1RZY",
-      "pubDate": "2026-10-16T13:18:03Z",
-      "thumb": "https://i.ytimg.com/vi/BDhpI1h1RZY/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
