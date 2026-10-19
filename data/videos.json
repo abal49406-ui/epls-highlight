@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-19T03:19:17.852Z",
+  "updatedAt": "2026-10-19T03:56:27.366Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "Women's live stream: Plymouth Argyle v AFC Bournemouth",
+      "link": "https://www.youtube.com/watch?v=ms5YVcb6Te4",
+      "pubDate": "2026-10-19T03:24:11Z",
+      "thumb": "https://i.ytimg.com/vi/ms5YVcb6Te4/hqdefault.jpg"
+    },
     {
       "team": "Chelsea",
       "title": "Everton 0-2 Chelsea | HIGHLIGHTS - Extended | Premier League 2026/27",
@@ -154,13 +161,6 @@
       "link": "https://www.youtube.com/watch?v=JzvNlbB9a6M",
       "pubDate": "2026-10-18T15:07:23Z",
       "thumb": "https://i.ytimg.com/vi/JzvNlbB9a6M/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "Women's live stream: Plymouth Argyle v AFC Bournemouth",
-      "link": "https://www.youtube.com/watch?v=ms5YVcb6Te4",
-      "pubDate": "2026-10-18T15:01:29Z",
-      "thumb": "https://i.ytimg.com/vi/ms5YVcb6Te4/hqdefault_live.jpg"
     },
     {
       "team": "Leeds United",
