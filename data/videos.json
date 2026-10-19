@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-19T07:26:11.710Z",
+  "updatedAt": "2026-10-19T08:16:30.516Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Carrick TALKING Nonsense? Glazer's WIN Again! Goldbridge Man Utd News",
+      "link": "https://www.youtube.com/watch?v=4BiWlOQKGH4",
+      "pubDate": "2026-10-19T08:08:34Z",
+      "thumb": "https://i.ytimg.com/vi/4BiWlOQKGH4/hqdefault_live.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "U21 Highlights | Leeds United 1-4 Crystal Palace",
+      "link": "https://www.youtube.com/watch?v=6Mn1_DPufgE",
+      "pubDate": "2026-10-19T08:00:36Z",
+      "thumb": "https://i.ytimg.com/vi/6Mn1_DPufgE/hqdefault.jpg"
+    },
     {
       "team": "AFC Bournemouth",
       "title": "Women's live stream: Plymouth Argyle v AFC Bournemouth",
@@ -154,13 +168,6 @@
       "link": "https://www.youtube.com/watch?v=wTgq69U91jU",
       "pubDate": "2026-10-18T16:05:15Z",
       "thumb": "https://i.ytimg.com/vi/wTgq69U91jU/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "LEEDS vs MAN UNITED LIVE Watchalong",
-      "link": "https://www.youtube.com/watch?v=JzvNlbB9a6M",
-      "pubDate": "2026-10-18T15:07:23Z",
-      "thumb": "https://i.ytimg.com/vi/JzvNlbB9a6M/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
@@ -364,13 +371,6 @@
       "link": "https://www.youtube.com/watch?v=67FMeu3G0IU",
       "pubDate": "2026-10-16T17:00:13Z",
       "thumb": "https://i.ytimg.com/vi/67FMeu3G0IU/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "The Presser 🎙️🦅  | Brighton (A)",
-      "link": "https://www.youtube.com/watch?v=HtxY3wdzbP8",
-      "pubDate": "2026-10-16T16:45:16Z",
-      "thumb": "https://i.ytimg.com/vi/HtxY3wdzbP8/hqdefault.jpg"
     },
     {
       "team": "Arsenal",
