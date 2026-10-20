@@ -1,6 +1,55 @@
 {
-  "updatedAt": "2026-10-19T20:47:43.109Z",
+  "updatedAt": "2026-10-20T00:02:19.847Z",
   "videos": [
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Marmoush's first goal! | Spurs 3-1 Coventry City | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=pDyaurLPeko",
+      "pubDate": "2026-10-19T23:07:38Z",
+      "thumb": "https://i.ytimg.com/vi/pDyaurLPeko/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Nottingham Forest 0-1 Arsenal | Premier League | Extended Highlights 🎬",
+      "link": "https://www.youtube.com/watch?v=M4l65s09UMA",
+      "pubDate": "2026-10-19T23:00:36Z",
+      "thumb": "https://i.ytimg.com/vi/M4l65s09UMA/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "MADUEKE THE MATCHWINNER! | EXTENDED HIGHLIGHTS | Nottingham Forest vs Arsenal (0-1) | Premier League",
+      "link": "https://www.youtube.com/watch?v=m0G_UKNoSqY",
+      "pubDate": "2026-10-19T23:00:10Z",
+      "thumb": "https://i.ytimg.com/vi/m0G_UKNoSqY/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Extended Premier League Highlights | Bournemouth 2 - 0 Sunderland AFC",
+      "link": "https://www.youtube.com/watch?v=kiW6y4xlZPY",
+      "pubDate": "2026-10-19T23:00:09Z",
+      "thumb": "https://i.ytimg.com/vi/kiW6y4xlZPY/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "EXTENDED HIGHLIGHTS | Brighton v Crystal Palace | Premier League",
+      "link": "https://www.youtube.com/watch?v=CJy4j-bOJnU",
+      "pubDate": "2026-10-19T22:59:17Z",
+      "thumb": "https://i.ytimg.com/vi/CJy4j-bOJnU/hqdefault.jpg"
+    },
+    {
+      "team": "Coventry City",
+      "title": "Frank Lampard, Matt Grimes & Jack Rudoni Reaction | Spurs vs Coventry City | Premier League",
+      "link": "https://www.youtube.com/watch?v=rWE9JljeV7s",
+      "pubDate": "2026-10-19T22:25:25Z",
+      "thumb": "https://i.ytimg.com/vi/rWE9JljeV7s/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Inside: Brentford 1-2 Liverpool | Unseen footage from Premier League comeback!",
+      "link": "https://www.youtube.com/watch?v=4AvNZwBKUq0",
+      "pubDate": "2026-10-19T21:00:07Z",
+      "thumb": "https://i.ytimg.com/vi/4AvNZwBKUq0/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Carrick EXIT Talks! Bruno SILENCED By INEOS? Goldbridge Man Utd News",
@@ -28,13 +77,6 @@
       "link": "https://www.youtube.com/watch?v=bH9AO4aMank",
       "pubDate": "2026-10-19T16:45:51Z",
       "thumb": "https://i.ytimg.com/vi/bH9AO4aMank/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Inside: Brentford 1-2 Liverpool | Unseen footage from Premier League comeback!",
-      "link": "https://www.youtube.com/watch?v=4AvNZwBKUq0",
-      "pubDate": "2026-10-19T15:53:33Z",
-      "thumb": "https://i.ytimg.com/vi/4AvNZwBKUq0/hqdefault.jpg"
     },
     {
       "team": "Aston Villa",
@@ -366,32 +408,11 @@
       "thumb": "https://i.ytimg.com/vi/R-4BvlIigoM/hqdefault.jpg"
     },
     {
-      "team": "Nottingham Forest",
-      "title": "Five-Goal Thriller At The City Ground! 🤩 | Nottingham Forest 3-2 Arsenal | Classic Highlights 🎬",
-      "link": "https://www.youtube.com/watch?v=GfoyvaCkbWU",
-      "pubDate": "2026-10-17T10:00:26Z",
-      "thumb": "https://i.ytimg.com/vi/GfoyvaCkbWU/hqdefault.jpg"
-    },
-    {
-      "team": "Tottenham Hotspur",
-      "title": "At Home With Conor Gallagher | An Original Spurs Production",
-      "link": "https://www.youtube.com/watch?v=eiyXhqhWlOA",
-      "pubDate": "2026-10-17T09:30:31Z",
-      "thumb": "https://i.ytimg.com/vi/eiyXhqhWlOA/hqdefault.jpg"
-    },
-    {
       "team": "Hull City",
       "title": "Fulham (a) | Sergej Jakirović's Live Pre-Match Press Conference",
       "link": "https://www.youtube.com/watch?v=zqx5NrEMYyI",
       "pubDate": "2026-10-17T05:22:35Z",
       "thumb": "https://i.ytimg.com/vi/zqx5NrEMYyI/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "SCU Torreense 1-2 Sunderland AFC| Europa League Highlights",
-      "link": "https://www.youtube.com/watch?v=2JFWPlnj5eM",
-      "pubDate": "2026-10-16T23:05:31Z",
-      "thumb": "https://i.ytimg.com/vi/2JFWPlnj5eM/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
@@ -443,13 +464,6 @@
       "thumb": "https://i.ytimg.com/vi/esUcPROJf2Y/hqdefault.jpg"
     },
     {
-      "team": "Tottenham Hotspur",
-      "title": "Behind the scenes at Spurs training!",
-      "link": "https://www.youtube.com/watch?v=m-u_8pvhGA8",
-      "pubDate": "2026-10-14T15:00:04Z",
-      "thumb": "https://i.ytimg.com/vi/m-u_8pvhGA8/hqdefault.jpg"
-    },
-    {
       "team": "Newcastle United",
       "title": "The Blaydon Races (Official Music Video) | Newcastle United, Hector Gannet",
       "link": "https://www.youtube.com/watch?v=n31nB3LfT10",
@@ -469,13 +483,6 @@
       "link": "https://www.youtube.com/watch?v=-wkTNQGkXLQ",
       "pubDate": "2026-10-13T11:00:33Z",
       "thumb": "https://i.ytimg.com/vi/-wkTNQGkXLQ/hqdefault.jpg"
-    },
-    {
-      "team": "Coventry City",
-      "title": "Coventry City 4-1 Newcastle United | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=6kFtwvfrIIA",
-      "pubDate": "2026-10-12T23:10:19Z",
-      "thumb": "https://i.ytimg.com/vi/6kFtwvfrIIA/hqdefault.jpg"
     }
   ]
 }
