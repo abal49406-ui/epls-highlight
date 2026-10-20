@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-20T04:53:30.349Z",
+  "updatedAt": "2026-10-20T09:43:22.410Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "BEST Arsenal Goals vs German Giants Ft. Madueke vs Bayern Munich",
+      "link": "https://www.youtube.com/watch?v=AI_DD1m51PY",
+      "pubDate": "2026-10-20T07:01:25Z",
+      "thumb": "https://i.ytimg.com/vi/AI_DD1m51PY/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Steve Bruce: Can Michael Carrick Really Rebuild Man United? | Stick to United EP 10",
+      "link": "https://www.youtube.com/watch?v=ki0oBG1kxi0",
+      "pubDate": "2026-10-20T07:00:22Z",
+      "thumb": "https://i.ytimg.com/vi/ki0oBG1kxi0/hqdefault.jpg"
+    },
     {
       "team": "Coventry City",
       "title": "Tottenham Hotspur 3-1 Coventry City | Premier League Highlights",
@@ -163,18 +177,18 @@
       "thumb": "https://i.ytimg.com/vi/QMFsdp8MG8w/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Carrick TALKING Nonsense? Glazer's WIN Again! Goldbridge Man Utd News",
-      "link": "https://www.youtube.com/watch?v=4BiWlOQKGH4",
-      "pubDate": "2026-10-19T09:53:34Z",
-      "thumb": "https://i.ytimg.com/vi/4BiWlOQKGH4/hqdefault.jpg"
-    },
-    {
       "team": "Crystal Palace",
       "title": "U21 Highlights | Leeds United 1-4 Crystal Palace",
       "link": "https://www.youtube.com/watch?v=OIfbzQZP7nE",
       "pubDate": "2026-10-19T09:09:57Z",
       "thumb": "https://i.ytimg.com/vi/OIfbzQZP7nE/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "A Taste of Home | Rayan Aït-Nouri talks secret recipes and memories of meals from home 🇩🇿🍴",
+      "link": "https://www.youtube.com/watch?v=QmxpsSQeYRE",
+      "pubDate": "2026-10-19T09:00:38Z",
+      "thumb": "https://i.ytimg.com/vi/QmxpsSQeYRE/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
@@ -343,13 +357,6 @@
       "link": "https://www.youtube.com/watch?v=hPSVl8MxITI",
       "pubDate": "2026-10-17T21:01:19Z",
       "thumb": "https://i.ytimg.com/vi/hPSVl8MxITI/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "HIGHLIGHTS | Man City 3-2 Ipswich | Haaland brace and Foden goal!",
-      "link": "https://www.youtube.com/watch?v=9Bd8gb6k7hE",
-      "pubDate": "2026-10-17T21:00:33Z",
-      "thumb": "https://i.ytimg.com/vi/9Bd8gb6k7hE/hqdefault.jpg"
     },
     {
       "team": "Fulham",
