@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-20T18:41:03.910Z",
+  "updatedAt": "2026-10-20T21:59:19.734Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "FODEN HAT-TRICK FOR CITY! | Man City 5-1 AEK Athens | Champions League",
+      "link": "https://www.youtube.com/watch?v=SSF2Z4-gUH8",
+      "pubDate": "2026-10-20T21:58:31Z",
+      "thumb": "https://i.ytimg.com/vi/SSF2Z4-gUH8/hqdefault_live.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Carrick In TROUBLE! Como vs Man United Goldbridge Preview",
+      "link": "https://www.youtube.com/watch?v=td4_Sv6wRWo",
+      "pubDate": "2026-10-20T18:59:53Z",
+      "thumb": "https://i.ytimg.com/vi/td4_Sv6wRWo/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "LIVE: Champions League pre-match: Liverpool vs Villarreal",
@@ -9,25 +23,11 @@
       "thumb": "https://i.ytimg.com/vi/sREW6bmOEDc/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Carrick In TROUBLE! Como vs Man United Goldbridge Preview",
-      "link": "https://www.youtube.com/watch?v=td4_Sv6wRWo",
-      "pubDate": "2026-10-20T18:08:39Z",
-      "thumb": "https://i.ytimg.com/vi/td4_Sv6wRWo/hqdefault_live.jpg"
-    },
-    {
       "team": "Hull City",
       "title": "David Meyler Takes On Premier League Fan Fest In Denver! Behind the Tigers",
       "link": "https://www.youtube.com/watch?v=ACrIyELiHJM",
       "pubDate": "2026-10-20T18:00:04Z",
       "thumb": "https://i.ytimg.com/vi/ACrIyELiHJM/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "MATCHDAY LIVE! | Man City v AEK Athens | Champions League",
-      "link": "https://www.youtube.com/watch?v=SSF2Z4-gUH8",
-      "pubDate": "2026-10-20T17:24:42Z",
-      "thumb": "https://i.ytimg.com/vi/SSF2Z4-gUH8/hqdefault_live.jpg"
     },
     {
       "team": "Crystal Palace",
@@ -462,13 +462,6 @@
       "link": "https://www.youtube.com/watch?v=esUcPROJf2Y",
       "pubDate": "2026-10-14T16:05:05Z",
       "thumb": "https://i.ytimg.com/vi/esUcPROJf2Y/hqdefault.jpg"
-    },
-    {
-      "team": "Newcastle United",
-      "title": "The Blaydon Races (Official Music Video) | Newcastle United, Hector Gannet",
-      "link": "https://www.youtube.com/watch?v=n31nB3LfT10",
-      "pubDate": "2026-10-14T12:00:32Z",
-      "thumb": "https://i.ytimg.com/vi/n31nB3LfT10/hqdefault.jpg"
     }
   ]
 }
