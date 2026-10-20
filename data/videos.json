@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-20T00:02:19.847Z",
+  "updatedAt": "2026-10-20T04:53:30.349Z",
   "videos": [
+    {
+      "team": "Coventry City",
+      "title": "Tottenham Hotspur 3-1 Coventry City | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=8zDqk9B81TQ",
+      "pubDate": "2026-10-20T00:08:24Z",
+      "thumb": "https://i.ytimg.com/vi/8zDqk9B81TQ/hqdefault.jpg"
+    },
     {
       "team": "Tottenham Hotspur",
       "title": "Marmoush's first goal! | Spurs 3-1 Coventry City | Premier League Highlights",
@@ -469,13 +476,6 @@
       "link": "https://www.youtube.com/watch?v=n31nB3LfT10",
       "pubDate": "2026-10-14T12:00:32Z",
       "thumb": "https://i.ytimg.com/vi/n31nB3LfT10/hqdefault.jpg"
-    },
-    {
-      "team": "Coventry City",
-      "title": "Coventry City 4-1 Newcastle United | Extended Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=ogazRsmTE1c",
-      "pubDate": "2026-10-13T23:01:30Z",
-      "thumb": "https://i.ytimg.com/vi/ogazRsmTE1c/hqdefault.jpg"
     },
     {
       "team": "Fulham",
