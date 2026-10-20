@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-10-20T09:43:22.410Z",
+  "updatedAt": "2026-10-20T14:34:11.286Z",
   "videos": [
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "HIGHLIGHTS | Brighton U21 v Bournemouth U21 | PL2",
+      "link": "https://www.youtube.com/watch?v=757Xo39kidA",
+      "pubDate": "2026-10-20T14:00:17Z",
+      "thumb": "https://i.ytimg.com/vi/757Xo39kidA/hqdefault.jpg"
+    },
+    {
+      "team": "Fulham",
+      "title": "💪 Up & Running | Behind the scenes vs Hull | FUL ACCESS",
+      "link": "https://www.youtube.com/watch?v=AiifB8gVRfg",
+      "pubDate": "2026-10-20T12:30:21Z",
+      "thumb": "https://i.ytimg.com/vi/AiifB8gVRfg/hqdefault.jpg"
+    },
+    {
+      "team": "Fulham",
+      "title": "🇳🇬 Iwobi's Winning Goal | All Angles | Premier League 2025/26",
+      "link": "https://www.youtube.com/watch?v=DKH88EF2ZPU",
+      "pubDate": "2026-10-20T11:00:21Z",
+      "thumb": "https://i.ytimg.com/vi/DKH88EF2ZPU/hqdefault.jpg"
+    },
+    {
+      "team": "Fulham",
+      "title": "Dominant at the Cottage | Fulham 1-0 Hull | Extended Highlights",
+      "link": "https://www.youtube.com/watch?v=IV_Gorp05-Q",
+      "pubDate": "2026-10-20T11:00:02Z",
+      "thumb": "https://i.ytimg.com/vi/IV_Gorp05-Q/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "🎙️ Lech Poznań vs Sunderland AFC | Le Bris & Sadiki | Europa League Press Conference",
+      "link": "https://www.youtube.com/watch?v=sA4M6XJXwA0",
+      "pubDate": "2026-10-20T10:29:01Z",
+      "thumb": "https://i.ytimg.com/vi/sA4M6XJXwA0/hqdefault_live.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "BEST Arsenal Goals vs German Giants Ft. Madueke vs Bayern Munich",
@@ -289,13 +324,6 @@
       "thumb": "https://i.ytimg.com/vi/aGfm9Bi0VqM/hqdefault.jpg"
     },
     {
-      "team": "Brighton & Hove Albion",
-      "title": "POST MATCH | Hurzeler, Dunk & Ayari | Brighton v Crystal Palace | Premier League",
-      "link": "https://www.youtube.com/watch?v=unzvcuQCLIs",
-      "pubDate": "2026-10-18T16:38:26Z",
-      "thumb": "https://i.ytimg.com/vi/unzvcuQCLIs/hqdefault.jpg"
-    },
-    {
       "team": "Leeds United",
       "title": "“We deserved to win this game” | Daniel Farke reaction | Leeds United 1-1 Manchester United",
       "link": "https://www.youtube.com/watch?v=lIULocr--oo",
@@ -359,13 +387,6 @@
       "thumb": "https://i.ytimg.com/vi/hPSVl8MxITI/hqdefault.jpg"
     },
     {
-      "team": "Fulham",
-      "title": "Iwobi seals the 3️⃣ | Fulham 1-0 Hull City | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=ZoT4QMx2_ys",
-      "pubDate": "2026-10-17T21:00:33Z",
-      "thumb": "https://i.ytimg.com/vi/ZoT4QMx2_ys/hqdefault.jpg"
-    },
-    {
       "team": "Crystal Palace",
       "title": "U18 Match Highlights | Ipswich Town 2-6 Crystal Palace",
       "link": "https://www.youtube.com/watch?v=L_iWnh_ua9g",
@@ -401,25 +422,11 @@
       "thumb": "https://i.ytimg.com/vi/RAWK8-d7_zE/hqdefault.jpg"
     },
     {
-      "team": "Arsenal",
-      "title": "Gym work, shooting drills & small-sided games 🎯 l INSIDE TRAINING l Fired up for Nottingham Forest",
-      "link": "https://www.youtube.com/watch?v=XTnCWr-svG0",
-      "pubDate": "2026-10-17T16:28:09Z",
-      "thumb": "https://i.ytimg.com/vi/XTnCWr-svG0/hqdefault.jpg"
-    },
-    {
       "team": "Nottingham Forest",
       "title": "Nottingham Forest 3-2 Manchester United | Premier League 2 Highlights 🎬",
       "link": "https://www.youtube.com/watch?v=yveXXThPQWY",
       "pubDate": "2026-10-17T10:30:34Z",
       "thumb": "https://i.ytimg.com/vi/yveXXThPQWY/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Last Minute Winners & Stoppage Time Goals | Sadiki, Brobbey, Ballard etc",
-      "link": "https://www.youtube.com/watch?v=R-4BvlIigoM",
-      "pubDate": "2026-10-17T10:00:38Z",
-      "thumb": "https://i.ytimg.com/vi/R-4BvlIigoM/hqdefault.jpg"
     },
     {
       "team": "Hull City",
@@ -434,13 +441,6 @@
       "link": "https://www.youtube.com/watch?v=ULfiQe8brtU",
       "pubDate": "2026-10-16T20:40:37Z",
       "thumb": "https://i.ytimg.com/vi/ULfiQe8brtU/hqdefault.jpg"
-    },
-    {
-      "team": "Fulham",
-      "title": "Back Home, Looking To Win For The Fans  🗣️ | Álvaro Arbeloa's Hull City Press Conference",
-      "link": "https://www.youtube.com/watch?v=L1af17VtmFE",
-      "pubDate": "2026-10-16T10:25:01Z",
-      "thumb": "https://i.ytimg.com/vi/L1af17VtmFE/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
@@ -483,13 +483,6 @@
       "link": "https://www.youtube.com/watch?v=n31nB3LfT10",
       "pubDate": "2026-10-14T12:00:32Z",
       "thumb": "https://i.ytimg.com/vi/n31nB3LfT10/hqdefault.jpg"
-    },
-    {
-      "team": "Fulham",
-      "title": "Gillies double downs Cherries 🍒 | Bournemouth 1-2 Fulham | Women's Highlights",
-      "link": "https://www.youtube.com/watch?v=-wkTNQGkXLQ",
-      "pubDate": "2026-10-13T11:00:33Z",
-      "thumb": "https://i.ytimg.com/vi/-wkTNQGkXLQ/hqdefault.jpg"
     }
   ]
 }
