@@ -1,12 +1,26 @@
 {
-  "updatedAt": "2026-10-20T21:59:19.734Z",
+  "updatedAt": "2026-10-21T00:24:16.131Z",
   "videos": [
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Spurs 3-1 Coventry City | Premier League Extended Highlights",
+      "link": "https://www.youtube.com/watch?v=r92uvxmxKqs",
+      "pubDate": "2026-10-20T23:00:23Z",
+      "thumb": "https://i.ytimg.com/vi/r92uvxmxKqs/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Iraola's Reaction: Ngumoha & Mac Allister performances, tactical changes | Liverpool 4-3 Villarreal",
+      "link": "https://www.youtube.com/watch?v=Dhp_C7oS2KE",
+      "pubDate": "2026-10-20T23:00:03Z",
+      "thumb": "https://i.ytimg.com/vi/Dhp_C7oS2KE/hqdefault.jpg"
+    },
     {
       "team": "Manchester City",
       "title": "FODEN HAT-TRICK FOR CITY! | Man City 5-1 AEK Athens | Champions League",
       "link": "https://www.youtube.com/watch?v=SSF2Z4-gUH8",
-      "pubDate": "2026-10-20T21:58:31Z",
-      "thumb": "https://i.ytimg.com/vi/SSF2Z4-gUH8/hqdefault_live.jpg"
+      "pubDate": "2026-10-20T22:06:22Z",
+      "thumb": "https://i.ytimg.com/vi/SSF2Z4-gUH8/hqdefault.jpg"
     },
     {
       "team": "Manchester United",
@@ -182,13 +196,6 @@
       "link": "https://www.youtube.com/watch?v=GfbinNx7mZI",
       "pubDate": "2026-10-19T14:41:58Z",
       "thumb": "https://i.ytimg.com/vi/GfbinNx7mZI/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Highlights: Aston Villa 2-1 Liverpool FC Women | Super Ramos Strike in WSL Defeat",
-      "link": "https://www.youtube.com/watch?v=5PR2bWhKiAQ",
-      "pubDate": "2026-10-19T14:27:50Z",
-      "thumb": "https://i.ytimg.com/vi/5PR2bWhKiAQ/hqdefault.jpg"
     },
     {
       "team": "Fulham",
