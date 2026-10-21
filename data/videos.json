@@ -1,33 +1,40 @@
 {
-  "updatedAt": "2026-10-21T19:20:33.346Z",
+  "updatedAt": "2026-10-21T22:41:20.744Z",
   "videos": [
+    {
+      "team": "Aston Villa",
+      "title": "\"We are delighted!\" 😀 | Unai Emery on win over Viking FK | POST MATCH",
+      "link": "https://www.youtube.com/watch?v=PiKjoJ8hlV8",
+      "pubDate": "2026-10-21T22:00:58Z",
+      "thumb": "https://i.ytimg.com/vi/PiKjoJ8hlV8/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "United Hit ROCK BOTTOM! Como 4 - 1 Man United! Fans Forum",
+      "link": "https://www.youtube.com/watch?v=1JwH04Y0IbU",
+      "pubDate": "2026-10-21T20:32:02Z",
+      "thumb": "https://i.ytimg.com/vi/1JwH04Y0IbU/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "D*LOT and CARRICK Get 1/10? 🤯 Como 4-1 Man United Player Ratings",
+      "link": "https://www.youtube.com/watch?v=RtC1RfMaD9w",
+      "pubDate": "2026-10-21T20:22:46Z",
+      "thumb": "https://i.ytimg.com/vi/RtC1RfMaD9w/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "CARRICK OUT! Como 4-1 Man United Goldbridge Match Reaction",
+      "link": "https://www.youtube.com/watch?v=AeHoI9mzFD0",
+      "pubDate": "2026-10-21T19:27:35Z",
+      "thumb": "https://i.ytimg.com/vi/AeHoI9mzFD0/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "COMO vs MAN UNITED LIVE Champions League Watchalong",
       "link": "https://www.youtube.com/watch?v=VE7sKT26Nbc",
       "pubDate": "2026-10-21T18:51:42Z",
       "thumb": "https://i.ytimg.com/vi/VE7sKT26Nbc/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "CARRICK OUT! Como 4-1 Man United Goldbridge Match Reaction",
-      "link": "https://www.youtube.com/watch?v=AeHoI9mzFD0",
-      "pubDate": "2026-10-21T18:45:32Z",
-      "thumb": "https://i.ytimg.com/vi/AeHoI9mzFD0/hqdefault_live.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "United Hit ROCK BOTTOM! Como 4 - 1 Man United! Fans Forum",
-      "link": "https://www.youtube.com/watch?v=1JwH04Y0IbU",
-      "pubDate": "2026-10-21T18:41:02Z",
-      "thumb": "https://i.ytimg.com/vi/1JwH04Y0IbU/hqdefault_live.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "COMO BATTER MAN UNITED! 🤬",
-      "link": "https://www.youtube.com/watch?v=JwQjH4cVw0g",
-      "pubDate": "2026-10-21T18:39:31Z",
-      "thumb": "https://i.ytimg.com/vi/JwQjH4cVw0g/hqdefault.jpg"
     },
     {
       "team": "Aston Villa",
@@ -90,21 +97,21 @@
       "title": "Matchday Live: Liverpool vs Brighton | Team news, updates & more!",
       "link": "https://www.youtube.com/watch?v=KAot6neyRlQ",
       "pubDate": "2026-10-21T12:59:36Z",
-      "thumb": "https://i.ytimg.com/vi/KAot6neyRlQ/hqdefault_live.jpg"
+      "thumb": "https://i.ytimg.com/vi/KAot6neyRlQ/hqdefault.jpg?v=6ad8b739"
     },
     {
       "team": "Leeds United",
       "title": "Daniel Farke pre-match press conference | Sunderland v Leeds United | Premier League",
       "link": "https://www.youtube.com/watch?v=MRj8bxSCx1k",
       "pubDate": "2026-10-21T12:56:14Z",
-      "thumb": "https://i.ytimg.com/vi/MRj8bxSCx1k/hqdefault_live.jpg"
+      "thumb": "https://i.ytimg.com/vi/MRj8bxSCx1k/hqdefault.jpg?v=6ad8b66e"
     },
     {
       "team": "Liverpool",
       "title": "Press Conference: Liverpool vs Brighton | Andoni Iraola pre-match update",
       "link": "https://www.youtube.com/watch?v=UXEyn4cjLoE",
       "pubDate": "2026-10-21T09:53:12Z",
-      "thumb": "https://i.ytimg.com/vi/UXEyn4cjLoE/hqdefault_live.jpg"
+      "thumb": "https://i.ytimg.com/vi/UXEyn4cjLoE/hqdefault.jpg?v=6ad88b8a"
     },
     {
       "team": "Leeds United",
@@ -357,13 +364,6 @@
       "link": "https://www.youtube.com/watch?v=gAmi4BeNnh4",
       "pubDate": "2026-10-18T18:00:38Z",
       "thumb": "https://i.ytimg.com/vi/gAmi4BeNnh4/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "Happy Birthday SUPER JOHN McGINN! 🥳💜 | John McGinn Top 10 Aston Villa Goals",
-      "link": "https://www.youtube.com/watch?v=sM-T6qXp_OU",
-      "pubDate": "2026-10-18T17:00:18Z",
-      "thumb": "https://i.ytimg.com/vi/sM-T6qXp_OU/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
