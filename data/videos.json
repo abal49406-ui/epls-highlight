@@ -1,12 +1,68 @@
 {
-  "updatedAt": "2026-10-21T10:12:08.114Z",
+  "updatedAt": "2026-10-21T15:17:21.663Z",
   "videos": [
+    {
+      "team": "Sunderland",
+      "title": "A Sunderland Away Day He'll NEVER Forget!",
+      "link": "https://www.youtube.com/watch?v=lZ0a_ejadlQ",
+      "pubDate": "2026-10-21T15:00:24Z",
+      "thumb": "https://i.ytimg.com/vi/lZ0a_ejadlQ/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "Marco Rose and Justin Kluivert on special fixture against AC Milan | Europa League Press Conference",
+      "link": "https://www.youtube.com/watch?v=HL-sroFrplw",
+      "pubDate": "2026-10-21T14:56:00Z",
+      "thumb": "https://i.ytimg.com/vi/HL-sroFrplw/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "COMO vs MAN UNITED! Countdown To Kickoff!",
+      "link": "https://www.youtube.com/watch?v=69m6ZhNTZBw",
+      "pubDate": "2026-10-21T14:47:18Z",
+      "thumb": "https://i.ytimg.com/vi/69m6ZhNTZBw/hqdefault_live.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Oliver Glasner Press Conference 🎙️ | Ipswich Town vs Nottingham Forest | Premier League",
+      "link": "https://www.youtube.com/watch?v=dsNC6uzQEhQ",
+      "pubDate": "2026-10-21T13:46:15Z",
+      "thumb": "https://i.ytimg.com/vi/dsNC6uzQEhQ/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "COMO vs MAN UNITED LIVE Champions League Watchalong",
+      "link": "https://www.youtube.com/watch?v=VE7sKT26Nbc",
+      "pubDate": "2026-10-21T13:05:36Z",
+      "thumb": "https://i.ytimg.com/vi/VE7sKT26Nbc/hqdefault_live.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Matchday Live: Liverpool vs Brighton | Team news, updates & more!",
+      "link": "https://www.youtube.com/watch?v=KAot6neyRlQ",
+      "pubDate": "2026-10-21T12:59:36Z",
+      "thumb": "https://i.ytimg.com/vi/KAot6neyRlQ/hqdefault_live.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Daniel Farke pre-match press conference | Sunderland v Leeds United | Premier League",
+      "link": "https://www.youtube.com/watch?v=MRj8bxSCx1k",
+      "pubDate": "2026-10-21T12:56:14Z",
+      "thumb": "https://i.ytimg.com/vi/MRj8bxSCx1k/hqdefault_live.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Ten Hag SHOCKING INEOS Reveal! Carrick CAN'T Win! Man Utd News",
       "link": "https://www.youtube.com/watch?v=cjFYsMbBVCQ",
       "pubDate": "2026-10-21T09:56:53Z",
       "thumb": "https://i.ytimg.com/vi/cjFYsMbBVCQ/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Press Conference: Liverpool vs Brighton | Andoni Iraola pre-match update",
+      "link": "https://www.youtube.com/watch?v=UXEyn4cjLoE",
+      "pubDate": "2026-10-21T09:53:12Z",
+      "thumb": "https://i.ytimg.com/vi/UXEyn4cjLoE/hqdefault_live.jpg"
     },
     {
       "team": "Leeds United",
@@ -49,13 +105,6 @@
       "link": "https://www.youtube.com/watch?v=SSF2Z4-gUH8",
       "pubDate": "2026-10-20T22:06:22Z",
       "thumb": "https://i.ytimg.com/vi/SSF2Z4-gUH8/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Carrick In TROUBLE! Como vs Man United Goldbridge Preview",
-      "link": "https://www.youtube.com/watch?v=td4_Sv6wRWo",
-      "pubDate": "2026-10-20T18:59:53Z",
-      "thumb": "https://i.ytimg.com/vi/td4_Sv6wRWo/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
@@ -128,13 +177,6 @@
       "thumb": "https://i.ytimg.com/vi/AI_DD1m51PY/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Steve Bruce: Can Michael Carrick Really Rebuild Man United? | Stick to United EP 10",
-      "link": "https://www.youtube.com/watch?v=ki0oBG1kxi0",
-      "pubDate": "2026-10-20T07:00:22Z",
-      "thumb": "https://i.ytimg.com/vi/ki0oBG1kxi0/hqdefault.jpg"
-    },
-    {
       "team": "Coventry City",
       "title": "Tottenham Hotspur 3-1 Coventry City | Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=8zDqk9B81TQ",
@@ -182,20 +224,6 @@
       "link": "https://www.youtube.com/watch?v=rWE9JljeV7s",
       "pubDate": "2026-10-19T22:25:25Z",
       "thumb": "https://i.ytimg.com/vi/rWE9JljeV7s/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Inside: Brentford 1-2 Liverpool | Unseen footage from Premier League comeback!",
-      "link": "https://www.youtube.com/watch?v=4AvNZwBKUq0",
-      "pubDate": "2026-10-19T21:00:07Z",
-      "thumb": "https://i.ytimg.com/vi/4AvNZwBKUq0/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Live Training: Liverpool vs Villarreal | UEFA Champions League preparation",
-      "link": "https://www.youtube.com/watch?v=bH9AO4aMank",
-      "pubDate": "2026-10-19T16:45:51Z",
-      "thumb": "https://i.ytimg.com/vi/bH9AO4aMank/hqdefault.jpg"
     },
     {
       "team": "Aston Villa",
@@ -289,13 +317,6 @@
       "thumb": "https://i.ytimg.com/vi/vFiNBhiwj38/hqdefault.jpg"
     },
     {
-      "team": "AFC Bournemouth",
-      "title": "Cherries pick up first Premier League win of the campaign | AFC Bournemouth 2-0 Sunderland",
-      "link": "https://www.youtube.com/watch?v=5uV-0ZX9KKk",
-      "pubDate": "2026-10-18T21:00:36Z",
-      "thumb": "https://i.ytimg.com/vi/5uV-0ZX9KKk/hqdefault.jpg"
-    },
-    {
       "team": "Sunderland",
       "title": "Defeat at the Vitality | Bournemouth 2-0 Sunderland AFC | Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=4jHAWGeAbuk",
@@ -343,20 +364,6 @@
       "link": "https://www.youtube.com/watch?v=aGfm9Bi0VqM",
       "pubDate": "2026-10-18T16:49:19Z",
       "thumb": "https://i.ytimg.com/vi/aGfm9Bi0VqM/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "“We deserved to win this game” | Daniel Farke reaction | Leeds United 1-1 Manchester United",
-      "link": "https://www.youtube.com/watch?v=lIULocr--oo",
-      "pubDate": "2026-10-18T16:29:10Z",
-      "thumb": "https://i.ytimg.com/vi/lIULocr--oo/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "\"It's a tough learning process\" | Le Bris & Roefs Post-Match Reaction",
-      "link": "https://www.youtube.com/watch?v=wTgq69U91jU",
-      "pubDate": "2026-10-18T16:05:15Z",
-      "thumb": "https://i.ytimg.com/vi/wTgq69U91jU/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
@@ -420,13 +427,6 @@
       "link": "https://www.youtube.com/watch?v=RAWK8-d7_zE",
       "pubDate": "2026-10-17T17:14:37Z",
       "thumb": "https://i.ytimg.com/vi/RAWK8-d7_zE/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Nottingham Forest 3-2 Manchester United | Premier League 2 Highlights 🎬",
-      "link": "https://www.youtube.com/watch?v=yveXXThPQWY",
-      "pubDate": "2026-10-17T10:30:34Z",
-      "thumb": "https://i.ytimg.com/vi/yveXXThPQWY/hqdefault.jpg"
     },
     {
       "team": "Hull City",
