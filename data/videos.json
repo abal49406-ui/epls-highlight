@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-10-21T15:17:21.663Z",
+  "updatedAt": "2026-10-21T19:20:33.346Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "COMO vs MAN UNITED LIVE Champions League Watchalong",
+      "link": "https://www.youtube.com/watch?v=VE7sKT26Nbc",
+      "pubDate": "2026-10-21T18:51:42Z",
+      "thumb": "https://i.ytimg.com/vi/VE7sKT26Nbc/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "CARRICK OUT! Como 4-1 Man United Goldbridge Match Reaction",
+      "link": "https://www.youtube.com/watch?v=AeHoI9mzFD0",
+      "pubDate": "2026-10-21T18:45:32Z",
+      "thumb": "https://i.ytimg.com/vi/AeHoI9mzFD0/hqdefault_live.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "United Hit ROCK BOTTOM! Como 4 - 1 Man United! Fans Forum",
+      "link": "https://www.youtube.com/watch?v=1JwH04Y0IbU",
+      "pubDate": "2026-10-21T18:41:02Z",
+      "thumb": "https://i.ytimg.com/vi/1JwH04Y0IbU/hqdefault_live.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "COMO BATTER MAN UNITED! 🤬",
+      "link": "https://www.youtube.com/watch?v=JwQjH4cVw0g",
+      "pubDate": "2026-10-21T18:39:31Z",
+      "thumb": "https://i.ytimg.com/vi/JwQjH4cVw0g/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "VILLA v VIKING FK || MATCHDAY LIVE || PRESENTED BY VISIT RWANDA",
+      "link": "https://www.youtube.com/watch?v=keFlAmWpCQU",
+      "pubDate": "2026-10-21T18:20:32Z",
+      "thumb": "https://i.ytimg.com/vi/keFlAmWpCQU/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "🎙️ Lech Poznań vs Sunderland AFC | Le Bris & Sadiki | Europa League Press Conference",
+      "link": "https://www.youtube.com/watch?v=6oU5DVHJfL4",
+      "pubDate": "2026-10-21T18:10:01Z",
+      "thumb": "https://i.ytimg.com/vi/6oU5DVHJfL4/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "🎙️ Lech Poznań vs Sunderland AFC | Le Bris & Sadiki | Europa League Press Conference",
+      "link": "https://www.youtube.com/watch?v=sA4M6XJXwA0",
+      "pubDate": "2026-10-21T17:38:54Z",
+      "thumb": "https://i.ytimg.com/vi/sA4M6XJXwA0/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "The Presser 🇹🇷 | Europa league  - Beşiktaş (A)",
+      "link": "https://www.youtube.com/watch?v=p_j_ymXIfq0",
+      "pubDate": "2026-10-21T17:30:17Z",
+      "thumb": "https://i.ytimg.com/vi/p_j_ymXIfq0/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "HIGHLIGHTS | Man City 5-1 AEK Athens | Foden hat-trick and Cherki magic in Champions League rout!",
+      "link": "https://www.youtube.com/watch?v=RKdtcQYFBxE",
+      "pubDate": "2026-10-21T17:00:29Z",
+      "thumb": "https://i.ytimg.com/vi/RKdtcQYFBxE/hqdefault.jpg"
+    },
     {
       "team": "Sunderland",
       "title": "A Sunderland Away Day He'll NEVER Forget!",
@@ -16,25 +79,11 @@
       "thumb": "https://i.ytimg.com/vi/HL-sroFrplw/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "COMO vs MAN UNITED! Countdown To Kickoff!",
-      "link": "https://www.youtube.com/watch?v=69m6ZhNTZBw",
-      "pubDate": "2026-10-21T14:47:18Z",
-      "thumb": "https://i.ytimg.com/vi/69m6ZhNTZBw/hqdefault_live.jpg"
-    },
-    {
       "team": "Nottingham Forest",
       "title": "Oliver Glasner Press Conference 🎙️ | Ipswich Town vs Nottingham Forest | Premier League",
       "link": "https://www.youtube.com/watch?v=dsNC6uzQEhQ",
       "pubDate": "2026-10-21T13:46:15Z",
       "thumb": "https://i.ytimg.com/vi/dsNC6uzQEhQ/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "COMO vs MAN UNITED LIVE Champions League Watchalong",
-      "link": "https://www.youtube.com/watch?v=VE7sKT26Nbc",
-      "pubDate": "2026-10-21T13:05:36Z",
-      "thumb": "https://i.ytimg.com/vi/VE7sKT26Nbc/hqdefault_live.jpg"
     },
     {
       "team": "Liverpool",
@@ -49,13 +98,6 @@
       "link": "https://www.youtube.com/watch?v=MRj8bxSCx1k",
       "pubDate": "2026-10-21T12:56:14Z",
       "thumb": "https://i.ytimg.com/vi/MRj8bxSCx1k/hqdefault_live.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Ten Hag SHOCKING INEOS Reveal! Carrick CAN'T Win! Man Utd News",
-      "link": "https://www.youtube.com/watch?v=cjFYsMbBVCQ",
-      "pubDate": "2026-10-21T09:56:53Z",
-      "thumb": "https://i.ytimg.com/vi/cjFYsMbBVCQ/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
@@ -77,13 +119,6 @@
       "link": "https://www.youtube.com/watch?v=IPvlP0WWPHw",
       "pubDate": "2026-10-21T07:27:06Z",
       "thumb": "https://i.ytimg.com/vi/IPvlP0WWPHw/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Carrick MUST DO THIS! Man United vs Como Road Trip",
-      "link": "https://www.youtube.com/watch?v=3VshXPklQW4",
-      "pubDate": "2026-10-21T06:00:38Z",
-      "thumb": "https://i.ytimg.com/vi/3VshXPklQW4/hqdefault.jpg"
     },
     {
       "team": "Tottenham Hotspur",
@@ -122,7 +157,7 @@
     },
     {
       "team": "Crystal Palace",
-      "title": "\"Eb's is a clown\" 😂 | Tyrick Mitchell's Journey: 250 Appearances 💫",
+      "title": "\"Ebs is a clown\" 😂 | Tyrick Mitchell's Journey: 250 Appearances 💫",
       "link": "https://www.youtube.com/watch?v=OwMS5mJD0yY",
       "pubDate": "2026-10-20T16:00:17Z",
       "thumb": "https://i.ytimg.com/vi/OwMS5mJD0yY/hqdefault.jpg"
@@ -161,13 +196,6 @@
       "link": "https://www.youtube.com/watch?v=IV_Gorp05-Q",
       "pubDate": "2026-10-20T11:00:02Z",
       "thumb": "https://i.ytimg.com/vi/IV_Gorp05-Q/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "🎙️ Lech Poznań vs Sunderland AFC | Le Bris & Sadiki | Europa League Press Conference",
-      "link": "https://www.youtube.com/watch?v=sA4M6XJXwA0",
-      "pubDate": "2026-10-20T10:29:01Z",
-      "thumb": "https://i.ytimg.com/vi/sA4M6XJXwA0/hqdefault_live.jpg"
     },
     {
       "team": "Arsenal",
@@ -289,13 +317,6 @@
       "thumb": "https://i.ytimg.com/vi/OIfbzQZP7nE/hqdefault.jpg"
     },
     {
-      "team": "Manchester City",
-      "title": "A Taste of Home | Rayan Aït-Nouri talks secret recipes and memories of meals from home 🇩🇿🍴",
-      "link": "https://www.youtube.com/watch?v=QmxpsSQeYRE",
-      "pubDate": "2026-10-19T09:00:38Z",
-      "thumb": "https://i.ytimg.com/vi/QmxpsSQeYRE/hqdefault.jpg"
-    },
-    {
       "team": "AFC Bournemouth",
       "title": "Women's live stream: Plymouth Argyle v AFC Bournemouth",
       "link": "https://www.youtube.com/watch?v=ms5YVcb6Te4",
@@ -315,20 +336,6 @@
       "link": "https://www.youtube.com/watch?v=vFiNBhiwj38",
       "pubDate": "2026-10-18T23:00:03Z",
       "thumb": "https://i.ytimg.com/vi/vFiNBhiwj38/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Defeat at the Vitality | Bournemouth 2-0 Sunderland AFC | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=4jHAWGeAbuk",
-      "pubDate": "2026-10-18T21:00:28Z",
-      "thumb": "https://i.ytimg.com/vi/4jHAWGeAbuk/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "Match Highlights | Brighton 5-0 Crystal Palace | Premier League",
-      "link": "https://www.youtube.com/watch?v=_6xir8xv6bI",
-      "pubDate": "2026-10-18T21:00:24Z",
-      "thumb": "https://i.ytimg.com/vi/_6xir8xv6bI/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
@@ -399,13 +406,6 @@
       "link": "https://www.youtube.com/watch?v=hPSVl8MxITI",
       "pubDate": "2026-10-17T21:01:19Z",
       "thumb": "https://i.ytimg.com/vi/hPSVl8MxITI/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "🗣️ \"The victory is really very fantastic\"  | Unai Emery on Newcastle United Victory | POST MATCH",
-      "link": "https://www.youtube.com/watch?v=MaT2Js9_pGE",
-      "pubDate": "2026-10-17T19:23:06Z",
-      "thumb": "https://i.ytimg.com/vi/MaT2Js9_pGE/hqdefault.jpg"
     },
     {
       "team": "Hull City",
