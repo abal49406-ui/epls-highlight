@@ -1,6 +1,55 @@
 {
-  "updatedAt": "2026-10-22T06:08:09.916Z",
+  "updatedAt": "2026-10-22T11:56:00.039Z",
   "videos": [
+    {
+      "team": "Aston Villa",
+      "title": "POST-MATCH LIVE | With Alan McInally and Ian Taylor | Vs Viking FK",
+      "link": "https://www.youtube.com/watch?v=tZQIzEvZ7-c",
+      "pubDate": "2026-10-22T11:09:55Z",
+      "thumb": "https://i.ytimg.com/vi/tZQIzEvZ7-c/hqdefault.jpg"
+    },
+    {
+      "team": "Coventry City",
+      "title": "Jack Rudoni surprises Coventry City FC fans 💖 | Breast Cancer Awareness Month",
+      "link": "https://www.youtube.com/watch?v=tD63-r-PjBY",
+      "pubDate": "2026-10-22T10:59:13Z",
+      "thumb": "https://i.ytimg.com/vi/tD63-r-PjBY/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "FK Jablonec v Brighton | Hurzeler & O’Riley pre-match press conference 🎙️",
+      "link": "https://www.youtube.com/watch?v=E7csdv1f9Ns",
+      "pubDate": "2026-10-22T10:38:01Z",
+      "thumb": "https://i.ytimg.com/vi/E7csdv1f9Ns/hqdefault.jpg"
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Sonny, Dele and Kane (2) on target against Liverpool 🔥",
+      "link": "https://www.youtube.com/watch?v=ShpZzLNbj4c",
+      "pubDate": "2026-10-22T10:00:38Z",
+      "thumb": "https://i.ytimg.com/vi/ShpZzLNbj4c/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Carrick SACKING Update! Bruno NEXT? Man Utd News",
+      "link": "https://www.youtube.com/watch?v=Ot7BZ49o5Pc",
+      "pubDate": "2026-10-22T09:59:59Z",
+      "thumb": "https://i.ytimg.com/vi/Ot7BZ49o5Pc/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "MANAGERS PREVIEW | Maresca says Haaland is 100% available for Villa trip | Aston Villa v Man City",
+      "link": "https://www.youtube.com/watch?v=kLpsnrI32u4",
+      "pubDate": "2026-10-22T09:49:27Z",
+      "thumb": "https://i.ytimg.com/vi/kLpsnrI32u4/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "CCTV |  London To Besiktas ⚽️ 🦅",
+      "link": "https://www.youtube.com/watch?v=fDsK-B1Hk2A",
+      "pubDate": "2026-10-22T09:00:32Z",
+      "thumb": "https://i.ytimg.com/vi/fDsK-B1Hk2A/hqdefault.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "EZE AND RICE GOALS IN CRAZY GAME 🤯 | Bayern Munich vs Arsenal (2-2) | Champions League",
@@ -37,13 +86,6 @@
       "thumb": "https://i.ytimg.com/vi/AeHoI9mzFD0/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "COMO vs MAN UNITED LIVE Champions League Watchalong",
-      "link": "https://www.youtube.com/watch?v=VE7sKT26Nbc",
-      "pubDate": "2026-10-21T18:51:42Z",
-      "thumb": "https://i.ytimg.com/vi/VE7sKT26Nbc/hqdefault.jpg"
-    },
-    {
       "team": "Aston Villa",
       "title": "VILLA v VIKING FK || MATCHDAY LIVE || PRESENTED BY VISIT RWANDA",
       "link": "https://www.youtube.com/watch?v=keFlAmWpCQU",
@@ -66,7 +108,7 @@
     },
     {
       "team": "Crystal Palace",
-      "title": "The Presser 🇹🇷 | Europa league  - Beşiktaş (A)",
+      "title": "\"It's a good moment for a big challenge\" 🗣️ | Pre-match Press Conference: Beşiktaş 🇹🇷",
       "link": "https://www.youtube.com/watch?v=p_j_ymXIfq0",
       "pubDate": "2026-10-21T17:30:17Z",
       "thumb": "https://i.ytimg.com/vi/p_j_ymXIfq0/hqdefault.jpg"
@@ -115,7 +157,7 @@
     },
     {
       "team": "Liverpool",
-      "title": "Press Conference: Liverpool vs Brighton | Andoni Iraola pre-match update",
+      "title": "Press Conference: Liverpool vs Brighton | Andoni Iraola | Pre-match update",
       "link": "https://www.youtube.com/watch?v=UXEyn4cjLoE",
       "pubDate": "2026-10-21T09:53:12Z",
       "thumb": "https://i.ytimg.com/vi/UXEyn4cjLoE/hqdefault.jpg?v=6ad88b8a"
@@ -154,13 +196,6 @@
       "link": "https://www.youtube.com/watch?v=SSF2Z4-gUH8",
       "pubDate": "2026-10-20T22:06:22Z",
       "thumb": "https://i.ytimg.com/vi/SSF2Z4-gUH8/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "LIVE: Champions League pre-match: Liverpool vs Villarreal",
-      "link": "https://www.youtube.com/watch?v=sREW6bmOEDc",
-      "pubDate": "2026-10-20T18:22:07Z",
-      "thumb": "https://i.ytimg.com/vi/sREW6bmOEDc/hqdefault.jpg"
     },
     {
       "team": "Hull City",
@@ -303,13 +338,6 @@
       "thumb": "https://i.ytimg.com/vi/vFptL187mJ0/hqdefault.jpg"
     },
     {
-      "team": "Manchester City",
-      "title": "WATCH LIVE: MATCH PREVIEW | Man City v AEK Athens | UEFA Champions League",
-      "link": "https://www.youtube.com/watch?v=qYc6qHNUlrA",
-      "pubDate": "2026-10-19T11:39:33Z",
-      "thumb": "https://i.ytimg.com/vi/qYc6qHNUlrA/hqdefault.jpg"
-    },
-    {
       "team": "Crystal Palace",
       "title": "Women's highlights | Palace 0-1 West Ham",
       "link": "https://www.youtube.com/watch?v=oTxkAZHcOLw",
@@ -324,13 +352,6 @@
       "thumb": "https://i.ytimg.com/vi/QMFsdp8MG8w/hqdefault.jpg"
     },
     {
-      "team": "Crystal Palace",
-      "title": "U21 Highlights | Leeds United 1-4 Crystal Palace",
-      "link": "https://www.youtube.com/watch?v=OIfbzQZP7nE",
-      "pubDate": "2026-10-19T09:09:57Z",
-      "thumb": "https://i.ytimg.com/vi/OIfbzQZP7nE/hqdefault.jpg"
-    },
-    {
       "team": "AFC Bournemouth",
       "title": "Women's live stream: Plymouth Argyle v AFC Bournemouth",
       "link": "https://www.youtube.com/watch?v=ms5YVcb6Te4",
@@ -343,13 +364,6 @@
       "link": "https://www.youtube.com/watch?v=Bht1xOnl6Ik",
       "pubDate": "2026-10-18T23:00:31Z",
       "thumb": "https://i.ytimg.com/vi/Bht1xOnl6Ik/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "\"HE'S IN YOUR HEAD\"🗣️🇨🇭 | Newcastle United 0-1 Aston Villa | Premier League Extended Highlights",
-      "link": "https://www.youtube.com/watch?v=vFiNBhiwj38",
-      "pubDate": "2026-10-18T23:00:03Z",
-      "thumb": "https://i.ytimg.com/vi/vFiNBhiwj38/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
@@ -462,13 +476,6 @@
       "link": "https://www.youtube.com/watch?v=qDndP5tWCmY",
       "pubDate": "2026-10-15T14:08:32Z",
       "thumb": "https://i.ytimg.com/vi/qDndP5tWCmY/hqdefault.jpg"
-    },
-    {
-      "team": "Coventry City",
-      "title": "Coventry City HIT Newcastle for FOUR to make it back-to-back Premier League wins | City Unseen EP174",
-      "link": "https://www.youtube.com/watch?v=qeb4nLyrvZA",
-      "pubDate": "2026-10-15T08:40:11Z",
-      "thumb": "https://i.ytimg.com/vi/qeb4nLyrvZA/hqdefault.jpg"
     },
     {
       "team": "Newcastle United",
