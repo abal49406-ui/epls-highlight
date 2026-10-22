@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-22T20:16:14.895Z",
+  "updatedAt": "2026-10-22T23:25:29.323Z",
   "videos": [
+    {
+      "team": "Aston Villa",
+      "title": "VILLA 3-1 VIKING FK | UEFA Champions League Highlights",
+      "link": "https://www.youtube.com/watch?v=z3MMAqIgdjA",
+      "pubDate": "2026-10-22T22:00:22Z",
+      "thumb": "https://i.ytimg.com/vi/z3MMAqIgdjA/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "3️⃣ wins out of 3️⃣ in the #ucl 🔥",
+      "link": "https://www.youtube.com/watch?v=38gwvdrvUjg",
+      "pubDate": "2026-10-22T22:00:17Z",
+      "thumb": "https://i.ytimg.com/vi/38gwvdrvUjg/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Carrick SURVIVES! Board BLAME The Players! Man Utd News",
@@ -147,13 +161,6 @@
       "link": "https://www.youtube.com/watch?v=PiKjoJ8hlV8",
       "pubDate": "2026-10-21T22:00:58Z",
       "thumb": "https://i.ytimg.com/vi/PiKjoJ8hlV8/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "VILLA v VIKING FK || MATCHDAY LIVE || PRESENTED BY VISIT RWANDA",
-      "link": "https://www.youtube.com/watch?v=keFlAmWpCQU",
-      "pubDate": "2026-10-21T18:20:32Z",
-      "thumb": "https://i.ytimg.com/vi/keFlAmWpCQU/hqdefault.jpg"
     },
     {
       "team": "Sunderland",
@@ -324,13 +331,6 @@
       "thumb": "https://i.ytimg.com/vi/CJy4j-bOJnU/hqdefault.jpg"
     },
     {
-      "team": "Aston Villa",
-      "title": "Manzambi silences St. James' 🥭🇨🇭 | Newcastle v Aston Villa | PITCHSIDE",
-      "link": "https://www.youtube.com/watch?v=T4LAouNk81w",
-      "pubDate": "2026-10-19T15:18:29Z",
-      "thumb": "https://i.ytimg.com/vi/T4LAouNk81w/hqdefault.jpg"
-    },
-    {
       "team": "Manchester City",
       "title": "LIVE TRAINING! | Man City v AEK Athens | Champions League",
       "link": "https://www.youtube.com/watch?v=GfbinNx7mZI",
@@ -343,13 +343,6 @@
       "link": "https://www.youtube.com/watch?v=Cy1X8QRW37c",
       "pubDate": "2026-10-19T13:00:21Z",
       "thumb": "https://i.ytimg.com/vi/Cy1X8QRW37c/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "EVERY ANGLE | Gomez's breathtaking HALFWAY-LINE strike",
-      "link": "https://www.youtube.com/watch?v=vFptL187mJ0",
-      "pubDate": "2026-10-19T12:30:20Z",
-      "thumb": "https://i.ytimg.com/vi/vFptL187mJ0/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
