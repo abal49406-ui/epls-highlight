@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-10-23T06:43:51.288Z",
+  "updatedAt": "2026-10-23T12:16:50.910Z",
   "videos": [
+    {
+      "team": "Hull City",
+      "title": "Brentford (h) | Sergej Jakirović's Live Pre-Match Press Conference",
+      "link": "https://www.youtube.com/watch?v=N3OulGYTsyg",
+      "pubDate": "2026-10-23T12:05:54Z",
+      "thumb": "https://i.ytimg.com/vi/N3OulGYTsyg/hqdefault.jpg?v=6adb3f12"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Man United vs Bournemouth! Press Conference Reaction!",
+      "link": "https://www.youtube.com/watch?v=rEJrVXkbels",
+      "pubDate": "2026-10-23T11:54:57Z",
+      "thumb": "https://i.ytimg.com/vi/rEJrVXkbels/hqdefault.jpg?v=6adb4b13"
+    },
+    {
+      "team": "Ipswich Town",
+      "title": "MARK ASHTON & GARY O'NEIL CHAT TO MATT HOLLAND",
+      "link": "https://www.youtube.com/watch?v=PhLha3ME0aA",
+      "pubDate": "2026-10-23T11:50:22Z",
+      "thumb": "https://i.ytimg.com/vi/PhLha3ME0aA/hqdefault.jpg"
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Behind the scenes at Tottenham training ahead of Chelsea in the Premier League!",
+      "link": "https://www.youtube.com/watch?v=BGfQgGud-ME",
+      "pubDate": "2026-10-23T11:30:07Z",
+      "thumb": "https://i.ytimg.com/vi/BGfQgGud-ME/hqdefault.jpg"
+    },
+    {
+      "team": "Fulham",
+      "title": "\"We need to fight again for the win\" 🗣️ | Álvaro Arbeloa's Press Conference | Coventry v Fulham",
+      "link": "https://www.youtube.com/watch?v=eoWKaD7xsVA",
+      "pubDate": "2026-10-23T11:01:12Z",
+      "thumb": "https://i.ytimg.com/vi/eoWKaD7xsVA/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "Arsenal’s YOUNGEST Premier League Goalscorers Ft. Max Dowman & Myles Lewis-Skelly",
+      "link": "https://www.youtube.com/watch?v=lgzT9UiEENk",
+      "pubDate": "2026-10-23T10:01:17Z",
+      "thumb": "https://i.ytimg.com/vi/lgzT9UiEENk/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "HOWE NEXT?! Wilcox WINS New Manager Race! Man United News",
+      "link": "https://www.youtube.com/watch?v=mOPFt9QVKac",
+      "pubDate": "2026-10-23T10:01:16Z",
+      "thumb": "https://i.ytimg.com/vi/mOPFt9QVKac/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Highlights: Liverpool FC Women 3-5 Man United | Kapocs Hat-trick in Cup Defeat",
+      "link": "https://www.youtube.com/watch?v=OKv2M_Jhen4",
+      "pubDate": "2026-10-23T09:38:44Z",
+      "thumb": "https://i.ytimg.com/vi/OKv2M_Jhen4/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "POST MATCH | Hurzeler & Svoboda | FK Jablonec v Brighton | UEFA Conference League",
+      "link": "https://www.youtube.com/watch?v=pVxsZy3viEk",
+      "pubDate": "2026-10-23T09:07:02Z",
+      "thumb": "https://i.ytimg.com/vi/pVxsZy3viEk/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Jeremie Frimpong Meets Howard Gayle | Liverpool FC's First Black Player",
+      "link": "https://www.youtube.com/watch?v=wtXUJgSTY94",
+      "pubDate": "2026-10-23T09:00:05Z",
+      "thumb": "https://i.ytimg.com/vi/wtXUJgSTY94/hqdefault.jpg"
+    },
     {
       "team": "Aston Villa",
       "title": "VILLA 3-1 VIKING FK | UEFA Champions League Highlights",
@@ -86,13 +156,6 @@
       "thumb": "https://i.ytimg.com/vi/mng0WAkxXoI/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Hurzeler REJECTS United! Carrick Could WALK? Man United News",
-      "link": "https://www.youtube.com/watch?v=kRHGwgyUKUU",
-      "pubDate": "2026-10-22T13:54:28Z",
-      "thumb": "https://i.ytimg.com/vi/kRHGwgyUKUU/hqdefault.jpg"
-    },
-    {
       "team": "Sunderland",
       "title": "Inside Régis Le Bris' First 100 Games at Sunderland",
       "link": "https://www.youtube.com/watch?v=PEtFaQPB7cI",
@@ -126,13 +189,6 @@
       "link": "https://www.youtube.com/watch?v=ShpZzLNbj4c",
       "pubDate": "2026-10-22T10:00:38Z",
       "thumb": "https://i.ytimg.com/vi/ShpZzLNbj4c/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Carrick SACKING Update! Bruno NEXT? Man Utd News",
-      "link": "https://www.youtube.com/watch?v=Ot7BZ49o5Pc",
-      "pubDate": "2026-10-22T09:59:59Z",
-      "thumb": "https://i.ytimg.com/vi/Ot7BZ49o5Pc/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
@@ -282,20 +338,6 @@
       "thumb": "https://i.ytimg.com/vi/DKH88EF2ZPU/hqdefault.jpg"
     },
     {
-      "team": "Fulham",
-      "title": "Dominant at the Cottage | Fulham 1-0 Hull | Extended Highlights",
-      "link": "https://www.youtube.com/watch?v=IV_Gorp05-Q",
-      "pubDate": "2026-10-20T11:00:02Z",
-      "thumb": "https://i.ytimg.com/vi/IV_Gorp05-Q/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "BEST Arsenal Goals vs German Giants Ft. Madueke vs Bayern Munich",
-      "link": "https://www.youtube.com/watch?v=AI_DD1m51PY",
-      "pubDate": "2026-10-20T07:01:25Z",
-      "thumb": "https://i.ytimg.com/vi/AI_DD1m51PY/hqdefault.jpg"
-    },
-    {
       "team": "Coventry City",
       "title": "Tottenham Hotspur 3-1 Coventry City | Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=8zDqk9B81TQ",
@@ -303,25 +345,11 @@
       "thumb": "https://i.ytimg.com/vi/8zDqk9B81TQ/hqdefault.jpg"
     },
     {
-      "team": "Tottenham Hotspur",
-      "title": "Marmoush's first goal! | Spurs 3-1 Coventry City | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=pDyaurLPeko",
-      "pubDate": "2026-10-19T23:07:38Z",
-      "thumb": "https://i.ytimg.com/vi/pDyaurLPeko/hqdefault.jpg"
-    },
-    {
       "team": "Nottingham Forest",
       "title": "Nottingham Forest 0-1 Arsenal | Premier League | Extended Highlights 🎬",
       "link": "https://www.youtube.com/watch?v=M4l65s09UMA",
       "pubDate": "2026-10-19T23:00:36Z",
       "thumb": "https://i.ytimg.com/vi/M4l65s09UMA/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "MADUEKE THE MATCHWINNER! | EXTENDED HIGHLIGHTS | Nottingham Forest vs Arsenal (0-1) | Premier League",
-      "link": "https://www.youtube.com/watch?v=m0G_UKNoSqY",
-      "pubDate": "2026-10-19T23:00:10Z",
-      "thumb": "https://i.ytimg.com/vi/m0G_UKNoSqY/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
@@ -394,13 +422,6 @@
       "thumb": "https://i.ytimg.com/vi/aGfm9Bi0VqM/hqdefault.jpg"
     },
     {
-      "team": "Ipswich Town",
-      "title": "HIGHLIGHTS | MAN CITY 3 TOWN 2",
-      "link": "https://www.youtube.com/watch?v=vlu2Kt3QHko",
-      "pubDate": "2026-10-18T11:27:52Z",
-      "thumb": "https://i.ytimg.com/vi/vlu2Kt3QHko/hqdefault.jpg"
-    },
-    {
       "team": "Hull City",
       "title": "Defeat At Craven Cottage | Fulham 1-0 Hull City",
       "link": "https://www.youtube.com/watch?v=ntLrCtVR3pA",
@@ -436,25 +457,11 @@
       "thumb": "https://i.ytimg.com/vi/MSRdWZFPDrk/hqdefault.jpg"
     },
     {
-      "team": "Hull City",
-      "title": "Fulham (a) | Sergej Jakirović's Live Pre-Match Press Conference",
-      "link": "https://www.youtube.com/watch?v=zqx5NrEMYyI",
-      "pubDate": "2026-10-17T05:22:35Z",
-      "thumb": "https://i.ytimg.com/vi/zqx5NrEMYyI/hqdefault.jpg"
-    },
-    {
       "team": "Chelsea",
       "title": "Stoke City U21's 1-2 Cobham Next Gen | HIGHLIGHTS | Premier League 2 | 2026/27",
       "link": "https://www.youtube.com/watch?v=ULfiQe8brtU",
       "pubDate": "2026-10-16T20:40:37Z",
       "thumb": "https://i.ytimg.com/vi/ULfiQe8brtU/hqdefault.jpg"
-    },
-    {
-      "team": "Newcastle United",
-      "title": "PRESS CONFERENCE | Matthias Jaissle pre-Aston Villa (H)",
-      "link": "https://www.youtube.com/watch?v=qDndP5tWCmY",
-      "pubDate": "2026-10-15T14:08:32Z",
-      "thumb": "https://i.ytimg.com/vi/qDndP5tWCmY/hqdefault.jpg"
     }
   ]
 }
