@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-10-23T17:13:04.591Z",
+  "updatedAt": "2026-10-23T20:28:32.119Z",
   "videos": [
+    {
+      "team": "Ipswich Town",
+      "title": "MATCHDAY LIVE | HT: TOWN V NOTTINGHAM FOREST",
+      "link": "https://www.youtube.com/watch?v=WPuW9q2ZsyI",
+      "pubDate": "2026-10-23T20:08:49Z",
+      "thumb": "https://i.ytimg.com/vi/WPuW9q2ZsyI/hqdefault.jpg"
+    },
+    {
+      "team": "Ipswich Town",
+      "title": "MATCHDAY LIVE | TOWN V NOTTINGHAM FOREST",
+      "link": "https://www.youtube.com/watch?v=ufq9ryZVmbI",
+      "pubDate": "2026-10-23T19:05:11Z",
+      "thumb": "https://i.ytimg.com/vi/ufq9ryZVmbI/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "DOWMAN & MERINO FINE TUNE THEIR FINISHING ⚽️ | Arsenal prepare for Everton | Inside Training l PL",
+      "link": "https://www.youtube.com/watch?v=XF0tOwM6ciY",
+      "pubDate": "2026-10-23T19:01:40Z",
+      "thumb": "https://i.ytimg.com/vi/XF0tOwM6ciY/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "VILLA VICTORIOUS OVER VIKINGS 🪓🦁 | Aston Villa v Viking FK | PITCHSIDE",
+      "link": "https://www.youtube.com/watch?v=fY9fw-t6bR8",
+      "pubDate": "2026-10-23T19:00:13Z",
+      "thumb": "https://i.ytimg.com/vi/fY9fw-t6bR8/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Bruno DROPPED! Man United vs Bournemouth Goldbridge Preview",
+      "link": "https://www.youtube.com/watch?v=gaH4H087gao",
+      "pubDate": "2026-10-23T18:00:18Z",
+      "thumb": "https://i.ytimg.com/vi/gaH4H087gao/hqdefault.jpg"
+    },
     {
       "team": "Aston Villa",
       "title": "🎥 UNAI CAM | Aston Villa 3-1 Viking",
@@ -149,13 +184,6 @@
       "thumb": "https://i.ytimg.com/vi/38gwvdrvUjg/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Carrick SURVIVES! Board BLAME The Players! Man Utd News",
-      "link": "https://www.youtube.com/watch?v=SEPOqt4a2Ns",
-      "pubDate": "2026-10-22T20:14:10Z",
-      "thumb": "https://i.ytimg.com/vi/SEPOqt4a2Ns/hqdefault.jpg"
-    },
-    {
       "team": "Sunderland",
       "title": "\"It's a good point away from home\" | Le Bris & Tutierov Post-Match Reaction",
       "link": "https://www.youtube.com/watch?v=E0Tn7SUcWhM",
@@ -191,13 +219,6 @@
       "thumb": "https://i.ytimg.com/vi/fid1Xh6mAeA/hqdefault.jpg"
     },
     {
-      "team": "Ipswich Town",
-      "title": "CHUBA AKPOM PREVIEWS FOREST (H)",
-      "link": "https://www.youtube.com/watch?v=5ytDqJNBHgw",
-      "pubDate": "2026-10-22T14:48:31Z",
-      "thumb": "https://i.ytimg.com/vi/5ytDqJNBHgw/hqdefault.jpg"
-    },
-    {
       "team": "Coventry City",
       "title": "Tottenham Hotspur 3-1 Coventry City | Extended Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=suh-dCaCYhI",
@@ -217,13 +238,6 @@
       "link": "https://www.youtube.com/watch?v=PEtFaQPB7cI",
       "pubDate": "2026-10-22T13:47:15Z",
       "thumb": "https://i.ytimg.com/vi/PEtFaQPB7cI/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "POST-MATCH LIVE | With Alan McInally and Ian Taylor | Vs Viking FK",
-      "link": "https://www.youtube.com/watch?v=tZQIzEvZ7-c",
-      "pubDate": "2026-10-22T11:09:55Z",
-      "thumb": "https://i.ytimg.com/vi/tZQIzEvZ7-c/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
@@ -315,13 +329,6 @@
       "link": "https://www.youtube.com/watch?v=sVX5MQXqI1M",
       "pubDate": "2026-10-21T08:24:55Z",
       "thumb": "https://i.ytimg.com/vi/sVX5MQXqI1M/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "PRESS CONFERENCE | Mikel Arteta previews HUGE Bayern Munich clash | Champions League",
-      "link": "https://www.youtube.com/watch?v=IPvlP0WWPHw",
-      "pubDate": "2026-10-21T07:27:06Z",
-      "thumb": "https://i.ytimg.com/vi/IPvlP0WWPHw/hqdefault.jpg"
     },
     {
       "team": "Tottenham Hotspur",
@@ -434,13 +441,6 @@
       "link": "https://www.youtube.com/watch?v=5rR7NWafSS4",
       "pubDate": "2026-10-18T21:00:22Z",
       "thumb": "https://i.ytimg.com/vi/5rR7NWafSS4/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "🐟 🎣 TIGHT LINES | EPISODE ONE WITH LEIF DAVIS",
-      "link": "https://www.youtube.com/watch?v=aGfm9Bi0VqM",
-      "pubDate": "2026-10-18T16:49:19Z",
-      "thumb": "https://i.ytimg.com/vi/aGfm9Bi0VqM/hqdefault.jpg"
     },
     {
       "team": "Hull City",
