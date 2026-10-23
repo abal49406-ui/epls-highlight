@@ -1,19 +1,82 @@
 {
-  "updatedAt": "2026-10-23T12:16:50.910Z",
+  "updatedAt": "2026-10-23T17:13:04.591Z",
   "videos": [
     {
-      "team": "Hull City",
-      "title": "Brentford (h) | Sergej Jakirović's Live Pre-Match Press Conference",
-      "link": "https://www.youtube.com/watch?v=N3OulGYTsyg",
-      "pubDate": "2026-10-23T12:05:54Z",
-      "thumb": "https://i.ytimg.com/vi/N3OulGYTsyg/hqdefault.jpg?v=6adb3f12"
+      "team": "Aston Villa",
+      "title": "🎥 UNAI CAM | Aston Villa 3-1 Viking",
+      "link": "https://www.youtube.com/watch?v=EIg0_fPY5U4",
+      "pubDate": "2026-10-23T17:00:07Z",
+      "thumb": "https://i.ytimg.com/vi/EIg0_fPY5U4/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Matchday Live | Sunderland v Leeds United",
+      "link": "https://www.youtube.com/watch?v=egAEoYoPAXM",
+      "pubDate": "2026-10-23T16:44:27Z",
+      "thumb": "https://i.ytimg.com/vi/egAEoYoPAXM/hqdefault.jpg?v=6adb8eed"
+    },
+    {
+      "team": "Leeds United",
+      "title": "LIVE FOOTBALL: Leeds United Women v York City Ladies | FA Women's National League",
+      "link": "https://www.youtube.com/watch?v=dSvc900tIk4",
+      "pubDate": "2026-10-23T15:31:49Z",
+      "thumb": "https://i.ytimg.com/vi/dSvc900tIk4/hqdefault.jpg?v=6adb7de6"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "Liverpool v Brighton | Hurzeler pre-match press conference 🎙️",
+      "link": "https://www.youtube.com/watch?v=-aHVx0_SB_4",
+      "pubDate": "2026-10-23T14:52:25Z",
+      "thumb": "https://i.ytimg.com/vi/-aHVx0_SB_4/hqdefault.jpg"
+    },
+    {
+      "team": "Newcastle United",
+      "title": "PRESS CONFERENCE | Matthias Jaissle pre-Crystal Palace (A)",
+      "link": "https://www.youtube.com/watch?v=nAlJn0IamnY",
+      "pubDate": "2026-10-23T14:10:29Z",
+      "thumb": "https://i.ytimg.com/vi/nAlJn0IamnY/hqdefault.jpg"
     },
     {
       "team": "Manchester United",
-      "title": "Man United vs Bournemouth! Press Conference Reaction!",
+      "title": "NO WAY CARRICK SAID THIS",
+      "link": "https://www.youtube.com/watch?v=MMsB1e-mzvE",
+      "pubDate": "2026-10-23T13:56:46Z",
+      "thumb": "https://i.ytimg.com/vi/MMsB1e-mzvE/hqdefault.jpg"
+    },
+    {
+      "team": "Chelsea",
+      "title": "Alonso Press Conference | 23/10/26 | Chelsea vs Tottenham | CFC 26/27",
+      "link": "https://www.youtube.com/watch?v=YJg2MTcl5Qc",
+      "pubDate": "2026-10-23T13:50:05Z",
+      "thumb": "https://i.ytimg.com/vi/YJg2MTcl5Qc/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "LIVE PRESS CONFERENCE 🚨 | Mikel Arteta previews Everton game | Premier League",
+      "link": "https://www.youtube.com/watch?v=Qr8VLIVln40",
+      "pubDate": "2026-10-23T13:27:25Z",
+      "thumb": "https://i.ytimg.com/vi/Qr8VLIVln40/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Carrick Looks BROKEN! Man United vs Bournemouth! Presser Reaction!",
       "link": "https://www.youtube.com/watch?v=rEJrVXkbels",
-      "pubDate": "2026-10-23T11:54:57Z",
-      "thumb": "https://i.ytimg.com/vi/rEJrVXkbels/hqdefault.jpg?v=6adb4b13"
+      "pubDate": "2026-10-23T13:23:50Z",
+      "thumb": "https://i.ytimg.com/vi/rEJrVXkbels/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Daniel Farke pre-match press conference | Sunderland v Leeds United | Premier League",
+      "link": "https://www.youtube.com/watch?v=MRj8bxSCx1k",
+      "pubDate": "2026-10-23T13:15:06Z",
+      "thumb": "https://i.ytimg.com/vi/MRj8bxSCx1k/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Press Conference: Liverpool vs Brighton | Andoni Iraola | Pre-match update",
+      "link": "https://www.youtube.com/watch?v=UXEyn4cjLoE",
+      "pubDate": "2026-10-23T12:46:13Z",
+      "thumb": "https://i.ytimg.com/vi/UXEyn4cjLoE/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
@@ -94,7 +157,7 @@
     },
     {
       "team": "Sunderland",
-      "title": "\"It's a good point away from home\" | Le Bris & Tutyerov Post-Match Reaction",
+      "title": "\"It's a good point away from home\" | Le Bris & Tutierov Post-Match Reaction",
       "link": "https://www.youtube.com/watch?v=E0Tn7SUcWhM",
       "pubDate": "2026-10-22T19:30:17Z",
       "thumb": "https://i.ytimg.com/vi/E0Tn7SUcWhM/hqdefault.jpg"
@@ -140,13 +203,6 @@
       "link": "https://www.youtube.com/watch?v=suh-dCaCYhI",
       "pubDate": "2026-10-22T14:20:06Z",
       "thumb": "https://i.ytimg.com/vi/suh-dCaCYhI/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "\"The Dressing Room Has Been RIPPED APART!\" Wayne Rooney Man Utd Como Reaction!",
-      "link": "https://www.youtube.com/watch?v=_D6CiZtlzWE",
-      "pubDate": "2026-10-22T14:05:06Z",
-      "thumb": "https://i.ytimg.com/vi/_D6CiZtlzWE/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
@@ -212,13 +268,6 @@
       "thumb": "https://i.ytimg.com/vi/dx7x6C5-diY/hqdefault.jpg"
     },
     {
-      "team": "Aston Villa",
-      "title": "\"We are delighted!\" 😀 | Unai Emery on win over Viking FK | POST MATCH",
-      "link": "https://www.youtube.com/watch?v=PiKjoJ8hlV8",
-      "pubDate": "2026-10-21T22:00:58Z",
-      "thumb": "https://i.ytimg.com/vi/PiKjoJ8hlV8/hqdefault.jpg"
-    },
-    {
       "team": "Sunderland",
       "title": "🎙️ Lech Poznań vs Sunderland AFC | Le Bris & Sadiki | Europa League Press Conference",
       "link": "https://www.youtube.com/watch?v=6oU5DVHJfL4",
@@ -259,13 +308,6 @@
       "link": "https://www.youtube.com/watch?v=dsNC6uzQEhQ",
       "pubDate": "2026-10-21T13:46:15Z",
       "thumb": "https://i.ytimg.com/vi/dsNC6uzQEhQ/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "Daniel Farke pre-match press conference | Sunderland v Leeds United | Premier League",
-      "link": "https://www.youtube.com/watch?v=MRj8bxSCx1k",
-      "pubDate": "2026-10-21T12:56:14Z",
-      "thumb": "https://i.ytimg.com/vi/MRj8bxSCx1k/hqdefault.jpg?v=6ad8b66e"
     },
     {
       "team": "Leeds United",
@@ -310,13 +352,6 @@
       "thumb": "https://i.ytimg.com/vi/OwMS5mJD0yY/hqdefault.jpg"
     },
     {
-      "team": "Leeds United",
-      "title": "War of the Roses at Elland Road | Uncut exclusive footage | Leeds United 1-1 Manchester United",
-      "link": "https://www.youtube.com/watch?v=1besSatcPzs",
-      "pubDate": "2026-10-20T16:00:17Z",
-      "thumb": "https://i.ytimg.com/vi/1besSatcPzs/hqdefault.jpg"
-    },
-    {
       "team": "Brighton & Hove Albion",
       "title": "HIGHLIGHTS | Brighton U21 v Bournemouth U21 | PL2",
       "link": "https://www.youtube.com/watch?v=757Xo39kidA",
@@ -350,13 +385,6 @@
       "link": "https://www.youtube.com/watch?v=M4l65s09UMA",
       "pubDate": "2026-10-19T23:00:36Z",
       "thumb": "https://i.ytimg.com/vi/M4l65s09UMA/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "EXTENDED HIGHLIGHTS | Brighton v Crystal Palace | Premier League",
-      "link": "https://www.youtube.com/watch?v=CJy4j-bOJnU",
-      "pubDate": "2026-10-19T22:59:17Z",
-      "thumb": "https://i.ytimg.com/vi/CJy4j-bOJnU/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
@@ -408,13 +436,6 @@
       "thumb": "https://i.ytimg.com/vi/5rR7NWafSS4/hqdefault.jpg"
     },
     {
-      "team": "Leeds United",
-      "title": "Matchday Live: The Verdict | Leeds United v Manchester United",
-      "link": "https://www.youtube.com/watch?v=gAmi4BeNnh4",
-      "pubDate": "2026-10-18T18:00:38Z",
-      "thumb": "https://i.ytimg.com/vi/gAmi4BeNnh4/hqdefault.jpg"
-    },
-    {
       "team": "Ipswich Town",
       "title": "🐟 🎣 TIGHT LINES | EPISODE ONE WITH LEIF DAVIS",
       "link": "https://www.youtube.com/watch?v=aGfm9Bi0VqM",
@@ -457,11 +478,11 @@
       "thumb": "https://i.ytimg.com/vi/MSRdWZFPDrk/hqdefault.jpg"
     },
     {
-      "team": "Chelsea",
-      "title": "Stoke City U21's 1-2 Cobham Next Gen | HIGHLIGHTS | Premier League 2 | 2026/27",
-      "link": "https://www.youtube.com/watch?v=ULfiQe8brtU",
-      "pubDate": "2026-10-16T20:40:37Z",
-      "thumb": "https://i.ytimg.com/vi/ULfiQe8brtU/hqdefault.jpg"
+      "team": "Hull City",
+      "title": "Fulham (a) | Sergej Jakirović's Live Pre-Match Press Conference",
+      "link": "https://www.youtube.com/watch?v=zqx5NrEMYyI",
+      "pubDate": "2026-10-17T05:22:35Z",
+      "thumb": "https://i.ytimg.com/vi/zqx5NrEMYyI/hqdefault.jpg"
     }
   ]
 }
