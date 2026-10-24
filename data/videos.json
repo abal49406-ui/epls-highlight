@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-24T17:43:02.702Z",
+  "updatedAt": "2026-10-24T19:58:14.328Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Goldbridge LIVE Man Utd News",
+      "link": "https://www.youtube.com/watch?v=c3rP5NxZJT0",
+      "pubDate": "2026-10-24T19:10:23Z",
+      "thumb": "https://i.ytimg.com/vi/c3rP5NxZJT0/hqdefault.jpg?v=6adcf4c7"
+    },
     {
       "team": "Arsenal",
       "title": "BIG GOALS FROM BIG GABI AND KONSA | Live From N5 | Arsenal 2 - 0 Everton | PL | Post-match",
@@ -252,13 +259,6 @@
       "link": "https://www.youtube.com/watch?v=Qr8VLIVln40",
       "pubDate": "2026-10-23T13:27:25Z",
       "thumb": "https://i.ytimg.com/vi/Qr8VLIVln40/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Carrick Looks BROKEN! Man United vs Bournemouth! Presser Reaction!",
-      "link": "https://www.youtube.com/watch?v=rEJrVXkbels",
-      "pubDate": "2026-10-23T13:23:50Z",
-      "thumb": "https://i.ytimg.com/vi/rEJrVXkbels/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
