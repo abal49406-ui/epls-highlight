@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-23T23:26:18.330Z",
+  "updatedAt": "2026-10-24T01:55:15.026Z",
   "videos": [
+    {
+      "team": "Nottingham Forest",
+      "title": "Ipswich Town 1-1 Nottingham Forest | Premier League Highlights 🎬",
+      "link": "https://www.youtube.com/watch?v=EAEImlm12Yc",
+      "pubDate": "2026-10-24T00:16:53Z",
+      "thumb": "https://i.ytimg.com/vi/EAEImlm12Yc/hqdefault.jpg"
+    },
     {
       "team": "Ipswich Town",
       "title": "HIGHLIGHTS | TOWN 1 NOTTINGHAM FOREST 1",
@@ -406,13 +413,6 @@
       "link": "https://www.youtube.com/watch?v=8zDqk9B81TQ",
       "pubDate": "2026-10-20T00:08:24Z",
       "thumb": "https://i.ytimg.com/vi/8zDqk9B81TQ/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Nottingham Forest 0-1 Arsenal | Premier League | Extended Highlights 🎬",
-      "link": "https://www.youtube.com/watch?v=M4l65s09UMA",
-      "pubDate": "2026-10-19T23:00:36Z",
-      "thumb": "https://i.ytimg.com/vi/M4l65s09UMA/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
