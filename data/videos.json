@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-25T05:12:34.441Z",
+  "updatedAt": "2026-10-25T09:50:06.313Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "NO Bruno? Carrick’s LAST Chance? Man United vs Bournemouth Road Trip!",
+      "link": "https://www.youtube.com/watch?v=vELmZ86FmE4",
+      "pubDate": "2026-10-25T09:00:02Z",
+      "thumb": "https://i.ytimg.com/vi/vELmZ86FmE4/hqdefault.jpg"
+    },
     {
       "team": "AFC Bournemouth",
       "title": "U18s Premier League LIVE: Birmingham City v AFC Bournemouth",
@@ -303,13 +310,6 @@
       "thumb": "https://i.ytimg.com/vi/nAlJn0IamnY/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "NO WAY CARRICK SAID THIS",
-      "link": "https://www.youtube.com/watch?v=MMsB1e-mzvE",
-      "pubDate": "2026-10-23T13:56:46Z",
-      "thumb": "https://i.ytimg.com/vi/MMsB1e-mzvE/hqdefault.jpg"
-    },
-    {
       "team": "Leeds United",
       "title": "Daniel Farke pre-match press conference | Sunderland v Leeds United | Premier League",
       "link": "https://www.youtube.com/watch?v=MRj8bxSCx1k",
@@ -322,13 +322,6 @@
       "link": "https://www.youtube.com/watch?v=UXEyn4cjLoE",
       "pubDate": "2026-10-23T12:46:13Z",
       "thumb": "https://i.ytimg.com/vi/UXEyn4cjLoE/hqdefault.jpg"
-    },
-    {
-      "team": "Tottenham Hotspur",
-      "title": "Behind the scenes at Tottenham training ahead of Chelsea in the Premier League!",
-      "link": "https://www.youtube.com/watch?v=BGfQgGud-ME",
-      "pubDate": "2026-10-23T11:30:07Z",
-      "thumb": "https://i.ytimg.com/vi/BGfQgGud-ME/hqdefault.jpg"
     },
     {
       "team": "Fulham",
