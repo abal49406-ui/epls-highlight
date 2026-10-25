@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-10-25T09:50:06.313Z",
+  "updatedAt": "2026-10-25T14:00:24.799Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: Women's FA Cup: AFCB Women v Feniton",
+      "link": "https://www.youtube.com/watch?v=9umRzFjbZzc",
+      "pubDate": "2026-10-25T13:59:57Z",
+      "thumb": "https://i.ytimg.com/vi/9umRzFjbZzc/hqdefault.jpg?v=6addf7e9"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Man United vs Bournemouth! Countdown To Kickoff!",
+      "link": "https://www.youtube.com/watch?v=oBRiV0ZyLt8",
+      "pubDate": "2026-10-25T13:32:37Z",
+      "thumb": "https://i.ytimg.com/vi/oBRiV0ZyLt8/hqdefault.jpg?v=6addd842"
+    },
+    {
+      "team": "Manchester United",
+      "title": "MAN UNITED vs BOURNEMOUTH LIVE Premier League Watchalong",
+      "link": "https://www.youtube.com/watch?v=qyp_vhRPAao",
+      "pubDate": "2026-10-25T13:30:18Z",
+      "thumb": "https://i.ytimg.com/vi/qyp_vhRPAao/hqdefault.jpg?v=6addfc8f"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Matchday Live: Liverpool vs Brighton | Team news, updates & more!",
+      "link": "https://www.youtube.com/watch?v=KAot6neyRlQ",
+      "pubDate": "2026-10-25T13:29:43Z",
+      "thumb": "https://i.ytimg.com/vi/KAot6neyRlQ/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "\"It will be another big challenge\" - Fabian previews Liverpool. 💪 #BHAFC #Premierleague #PL",
+      "link": "https://www.youtube.com/watch?v=CinvMPvEZOA",
+      "pubDate": "2026-10-25T13:29:19Z",
+      "thumb": "https://i.ytimg.com/vi/CinvMPvEZOA/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "NO Bruno? Carrick’s LAST Chance? Man United vs Bournemouth Road Trip!",
@@ -184,13 +219,6 @@
       "thumb": "https://i.ytimg.com/vi/j-hIvkVRcGU/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Carrick Is FINISHED! Wilcox WANTS Howe! Man Utd News",
-      "link": "https://www.youtube.com/watch?v=rMatRQQwemE",
-      "pubDate": "2026-10-24T10:15:13Z",
-      "thumb": "https://i.ytimg.com/vi/rMatRQQwemE/hqdefault.jpg"
-    },
-    {
       "team": "Nottingham Forest",
       "title": "Ipswich Town 1-1 Nottingham Forest | Premier League Highlights 🎬",
       "link": "https://www.youtube.com/watch?v=EAEImlm12Yc",
@@ -273,13 +301,6 @@
       "link": "https://www.youtube.com/watch?v=XF0tOwM6ciY",
       "pubDate": "2026-10-23T19:01:40Z",
       "thumb": "https://i.ytimg.com/vi/XF0tOwM6ciY/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Bruno DROPPED! Man United vs Bournemouth Goldbridge Preview",
-      "link": "https://www.youtube.com/watch?v=gaH4H087gao",
-      "pubDate": "2026-10-23T18:00:18Z",
-      "thumb": "https://i.ytimg.com/vi/gaH4H087gao/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
@@ -387,20 +408,6 @@
       "thumb": "https://i.ytimg.com/vi/suh-dCaCYhI/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "Which memory would Victor Munoz store forever? 📸 @WasabiTube",
-      "link": "https://www.youtube.com/watch?v=mng0WAkxXoI",
-      "pubDate": "2026-10-22T14:00:42Z",
-      "thumb": "https://i.ytimg.com/vi/mng0WAkxXoI/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "FK Jablonec v Brighton | Hurzeler & O’Riley pre-match press conference 🎙️",
-      "link": "https://www.youtube.com/watch?v=E7csdv1f9Ns",
-      "pubDate": "2026-10-22T10:38:01Z",
-      "thumb": "https://i.ytimg.com/vi/E7csdv1f9Ns/hqdefault.jpg"
-    },
-    {
       "team": "Manchester City",
       "title": "MANAGERS PREVIEW | Maresca says Haaland is 100% available for Villa trip | Aston Villa v Man City",
       "link": "https://www.youtube.com/watch?v=kLpsnrI32u4",
@@ -420,13 +427,6 @@
       "link": "https://www.youtube.com/watch?v=RKdtcQYFBxE",
       "pubDate": "2026-10-21T17:00:29Z",
       "thumb": "https://i.ytimg.com/vi/RKdtcQYFBxE/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "Marco Rose and Justin Kluivert on special fixture against AC Milan | Europa League Press Conference",
-      "link": "https://www.youtube.com/watch?v=HL-sroFrplw",
-      "pubDate": "2026-10-21T14:56:00Z",
-      "thumb": "https://i.ytimg.com/vi/HL-sroFrplw/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
