@@ -1,19 +1,61 @@
 {
-  "updatedAt": "2026-10-25T19:56:25.998Z",
+  "updatedAt": "2026-10-25T22:13:03.768Z",
   "videos": [
+    {
+      "team": "Newcastle United",
+      "title": "Crystal Palace 0 Newcastle United 2 | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=SK5ZGFC1EPg",
+      "pubDate": "2026-10-25T22:00:39Z",
+      "thumb": "https://i.ytimg.com/vi/SK5ZGFC1EPg/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Highlights: Liverpool 2-0 Brighton | Isak Strikes Reds To Victory!",
+      "link": "https://www.youtube.com/watch?v=Ju2qucCkEYI",
+      "pubDate": "2026-10-25T22:00:26Z",
+      "thumb": "https://i.ytimg.com/vi/Ju2qucCkEYI/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Sunderland 0-0 Leeds United | Premier League highlights",
+      "link": "https://www.youtube.com/watch?v=hRkff_TlbRo",
+      "pubDate": "2026-10-25T22:00:25Z",
+      "thumb": "https://i.ytimg.com/vi/hRkff_TlbRo/hqdefault.jpg"
+    },
+    {
+      "team": "Brentford",
+      "title": "Hull City 1-1 Brentford | Dango Ouattara opens his account on the road! | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=eCK-yWkw_wc",
+      "pubDate": "2026-10-25T22:00:17Z",
+      "thumb": "https://i.ytimg.com/vi/eCK-yWkw_wc/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Sunderland AFC 0-0 Leeds United | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=S7xGnHvT8Vo",
+      "pubDate": "2026-10-25T22:00:11Z",
+      "thumb": "https://i.ytimg.com/vi/S7xGnHvT8Vo/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "Crystal Palace 0-2 Newcastle United | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=kwlvbl7okEE",
+      "pubDate": "2026-10-25T21:30:06Z",
+      "thumb": "https://i.ytimg.com/vi/kwlvbl7okEE/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Carrick SACKED Tomorrow! Eddie HOWE Next? Man Utd News",
+      "link": "https://www.youtube.com/watch?v=lZmaIedpWes",
+      "pubDate": "2026-10-25T21:10:47Z",
+      "thumb": "https://i.ytimg.com/vi/lZmaIedpWes/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "SACK CARRICK & WILCOX! Man United 0-3 Bournemouth Goldbridge Match Reaction",
       "link": "https://www.youtube.com/watch?v=0L2-tFNOhvg",
       "pubDate": "2026-10-25T19:44:25Z",
       "thumb": "https://i.ytimg.com/vi/0L2-tFNOhvg/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Carrick SACKED Tomorrow! Eddie HOWE Next? Man Utd News",
-      "link": "https://www.youtube.com/watch?v=lZmaIedpWes",
-      "pubDate": "2026-10-25T19:27:46Z",
-      "thumb": "https://i.ytimg.com/vi/lZmaIedpWes/hqdefault.jpg?v=6ade5834"
     },
     {
       "team": "Sunderland",
@@ -213,7 +255,7 @@
     },
     {
       "team": "Chelsea",
-      "title": "Chelsea U18's 4-1 Ipswich U18's | HIGHLIGHTS | U18 Premier League | 2026/27",
+      "title": "Chelsea U18s 4-1 Ipswich U18s | HIGHLIGHTS | U18 Premier League | 2026/27",
       "link": "https://www.youtube.com/watch?v=8aOyhn3oIlE",
       "pubDate": "2026-10-24T16:19:27Z",
       "thumb": "https://i.ytimg.com/vi/8aOyhn3oIlE/hqdefault.jpg"
@@ -331,13 +373,6 @@
       "thumb": "https://i.ytimg.com/vi/-bkI4Kxtm5I/hqdefault.jpg"
     },
     {
-      "team": "Sunderland",
-      "title": "An Intense European Night I Mackems in Poznań",
-      "link": "https://www.youtube.com/watch?v=sovgv8raKv4",
-      "pubDate": "2026-10-23T21:00:12Z",
-      "thumb": "https://i.ytimg.com/vi/sovgv8raKv4/hqdefault.jpg"
-    },
-    {
       "team": "Ipswich Town",
       "title": "MATCHDAY LIVE | HT: TOWN V NOTTINGHAM FOREST",
       "link": "https://www.youtube.com/watch?v=WPuW9q2ZsyI",
@@ -350,13 +385,6 @@
       "link": "https://www.youtube.com/watch?v=XF0tOwM6ciY",
       "pubDate": "2026-10-23T19:01:40Z",
       "thumb": "https://i.ytimg.com/vi/XF0tOwM6ciY/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "LIVE FOOTBALL: Leeds United Women v York City Ladies | FA Women's National League",
-      "link": "https://www.youtube.com/watch?v=dSvc900tIk4",
-      "pubDate": "2026-10-23T15:31:49Z",
-      "thumb": "https://i.ytimg.com/vi/dSvc900tIk4/hqdefault.jpg?v=6adb7de6"
     },
     {
       "team": "Brighton & Hove Albion",
@@ -385,13 +413,6 @@
       "link": "https://www.youtube.com/watch?v=eoWKaD7xsVA",
       "pubDate": "2026-10-23T11:01:12Z",
       "thumb": "https://i.ytimg.com/vi/eoWKaD7xsVA/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Highlights: Liverpool FC Women 3-5 Man United | Kapocs Hat-trick in Cup Defeat",
-      "link": "https://www.youtube.com/watch?v=OKv2M_Jhen4",
-      "pubDate": "2026-10-23T09:38:44Z",
-      "thumb": "https://i.ytimg.com/vi/OKv2M_Jhen4/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
@@ -427,13 +448,6 @@
       "link": "https://www.youtube.com/watch?v=kLpsnrI32u4",
       "pubDate": "2026-10-22T09:49:27Z",
       "thumb": "https://i.ytimg.com/vi/kLpsnrI32u4/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "CCTV |  London To Besiktas ⚽️ 🦅",
-      "link": "https://www.youtube.com/watch?v=fDsK-B1Hk2A",
-      "pubDate": "2026-10-22T09:00:32Z",
-      "thumb": "https://i.ytimg.com/vi/fDsK-B1Hk2A/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
