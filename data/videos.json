@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-26T00:24:13.766Z",
+  "updatedAt": "2026-10-26T05:13:28.650Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: Women's FA Cup: AFCB Women v Feniton",
+      "link": "https://www.youtube.com/watch?v=9umRzFjbZzc",
+      "pubDate": "2026-10-26T03:58:36Z",
+      "thumb": "https://i.ytimg.com/vi/9umRzFjbZzc/hqdefault.jpg"
+    },
     {
       "team": "Chelsea",
       "title": "Chelsea 0-2 Spurs | HIGHLIGHTS - Extended | Premier League 2026/27",
@@ -168,13 +175,6 @@
       "link": "https://www.youtube.com/watch?v=egAEoYoPAXM",
       "pubDate": "2026-10-25T16:28:57Z",
       "thumb": "https://i.ytimg.com/vi/egAEoYoPAXM/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: Women's FA Cup: AFCB Women v Feniton",
-      "link": "https://www.youtube.com/watch?v=9umRzFjbZzc",
-      "pubDate": "2026-10-25T15:56:13Z",
-      "thumb": "https://i.ytimg.com/vi/9umRzFjbZzc/hqdefault.jpg?v=6addf7e9"
     },
     {
       "team": "Liverpool",
