@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-10-26T11:09:04.920Z",
+  "updatedAt": "2026-10-26T17:24:03.824Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "Evanilson's SENSATIONAL finish at Old Trafford from unique pitchside angle | Alt Angle",
+      "link": "https://www.youtube.com/watch?v=FogfCuFIuKM",
+      "pubDate": "2026-10-26T17:00:05Z",
+      "thumb": "https://i.ytimg.com/vi/FogfCuFIuKM/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "THIS IS UNACCEPTABLE! Carrick STAYS For Chelsea? Man United News",
+      "link": "https://www.youtube.com/watch?v=HZiqyaQa07U",
+      "pubDate": "2026-10-26T14:41:28Z",
+      "thumb": "https://i.ytimg.com/vi/HZiqyaQa07U/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "ARTETA REACTS TO KONSA AND GABRIEL GOALS 🤩 | Bench Cam | Arsenal 2-0 Everton | PL",
+      "link": "https://www.youtube.com/watch?v=l7zkNFVLCI8",
+      "pubDate": "2026-10-26T14:00:23Z",
+      "thumb": "https://i.ytimg.com/vi/l7zkNFVLCI8/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "HIGHLIGHTS | Fulham U21 v Brighton U21 | PL2",
+      "link": "https://www.youtube.com/watch?v=XCaGkasadGc",
+      "pubDate": "2026-10-26T13:50:30Z",
+      "thumb": "https://i.ytimg.com/vi/XCaGkasadGc/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "Crystal Palace 1-3 Chelsea | WSL Highlights",
+      "link": "https://www.youtube.com/watch?v=0k1EVmE1rbc",
+      "pubDate": "2026-10-26T12:00:22Z",
+      "thumb": "https://i.ytimg.com/vi/0k1EVmE1rbc/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Carrick SACKED Today? Bruno HITS Back? Man United News",
@@ -177,13 +212,6 @@
       "thumb": "https://i.ytimg.com/vi/Ill85v8PixU/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "MAN UNITED vs BOURNEMOUTH LIVE Premier League Watchalong",
-      "link": "https://www.youtube.com/watch?v=qyp_vhRPAao",
-      "pubDate": "2026-10-25T18:23:36Z",
-      "thumb": "https://i.ytimg.com/vi/qyp_vhRPAao/hqdefault.jpg"
-    },
-    {
       "team": "AFC Bournemouth",
       "title": "THREE goals at Old Trafford as Cherries run riot AGAIN | Manchester United 0-3 AFC Bournemouth",
       "link": "https://www.youtube.com/watch?v=pQF14OXgR9I",
@@ -217,13 +245,6 @@
       "link": "https://www.youtube.com/watch?v=CinvMPvEZOA",
       "pubDate": "2026-10-25T13:29:19Z",
       "thumb": "https://i.ytimg.com/vi/CinvMPvEZOA/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "U18s Premier League LIVE: Birmingham City v AFC Bournemouth",
-      "link": "https://www.youtube.com/watch?v=5ilhzmT2-DE",
-      "pubDate": "2026-10-25T00:12:20Z",
-      "thumb": "https://i.ytimg.com/vi/5ilhzmT2-DE/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
@@ -331,13 +352,6 @@
       "thumb": "https://i.ytimg.com/vi/asDP3b6jE4Y/hqdefault.jpg"
     },
     {
-      "team": "Arsenal",
-      "title": "BACK IN NORTH LONDON FOR THE 3PM KICK-OFF | Live From N5 | Arsenal v Everton | PL",
-      "link": "https://www.youtube.com/watch?v=wXOGIX4kL6E",
-      "pubDate": "2026-10-24T14:53:39Z",
-      "thumb": "https://i.ytimg.com/vi/wXOGIX4kL6E/hqdefault.jpg"
-    },
-    {
       "team": "Manchester City",
       "title": "MATCHDAY LIVE! Aston Villa v Man City | Premier League",
       "link": "https://www.youtube.com/watch?v=FYLHLbLlRzQ",
@@ -385,20 +399,6 @@
       "link": "https://www.youtube.com/watch?v=fWGatXsaspg",
       "pubDate": "2026-10-23T23:00:36Z",
       "thumb": "https://i.ytimg.com/vi/fWGatXsaspg/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "MATETA SCORES ON RETURN 😍 | Beșiktaş 2-2 Crystal Palace | UEFA Europa League Highlights",
-      "link": "https://www.youtube.com/watch?v=_Ce4am5sLTc",
-      "pubDate": "2026-10-23T23:00:23Z",
-      "thumb": "https://i.ytimg.com/vi/_Ce4am5sLTc/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "HIGHLIGHTS | FK Jablonec v Brighton | UEFA Conference League",
-      "link": "https://www.youtube.com/watch?v=KUjZbLs0lgU",
-      "pubDate": "2026-10-23T22:59:36Z",
-      "thumb": "https://i.ytimg.com/vi/KUjZbLs0lgU/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
