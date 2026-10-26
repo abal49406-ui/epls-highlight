@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-10-25T22:13:03.768Z",
+  "updatedAt": "2026-10-26T00:24:13.766Z",
   "videos": [
+    {
+      "team": "Chelsea",
+      "title": "Chelsea 0-2 Spurs | HIGHLIGHTS - Extended | Premier League 2026/27",
+      "link": "https://www.youtube.com/watch?v=qSmpCizhtkw",
+      "pubDate": "2026-10-26T00:01:16Z",
+      "thumb": "https://i.ytimg.com/vi/qSmpCizhtkw/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "THREE POINTS IN THE RAIN | EXTENDED HIGHLIGHTS | Arsenal vs Everton (2-0) | Konsa, Gabriel | PL",
+      "link": "https://www.youtube.com/watch?v=-13UkyhX9hE",
+      "pubDate": "2026-10-26T00:01:03Z",
+      "thumb": "https://i.ytimg.com/vi/-13UkyhX9hE/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "EXTENDED HIGHLIGHTS | Aston Villa 2-1 Man City | A first league setback for the Blues",
+      "link": "https://www.youtube.com/watch?v=xac6qY6d9pI",
+      "pubDate": "2026-10-26T00:00:15Z",
+      "thumb": "https://i.ytimg.com/vi/xac6qY6d9pI/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "Jack of all trades! 🃏 | Aston Villa 2-1 Manchester City| Premier League Extended Highlights",
+      "link": "https://www.youtube.com/watch?v=acj8Nqr1JZ0",
+      "pubDate": "2026-10-25T23:49:00Z",
+      "thumb": "https://i.ytimg.com/vi/acj8Nqr1JZ0/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "HIGHLIGHTS | Liverpool v Brighton | Premier League",
+      "link": "https://www.youtube.com/watch?v=s7PE2T94v8A",
+      "pubDate": "2026-10-25T22:15:29Z",
+      "thumb": "https://i.ytimg.com/vi/s7PE2T94v8A/hqdefault.jpg"
+    },
     {
       "team": "Newcastle United",
       "title": "Crystal Palace 0 Newcastle United 2 | Premier League Highlights",
@@ -275,13 +310,6 @@
       "thumb": "https://i.ytimg.com/vi/Gg_0KoDrRVc/hqdefault.jpg"
     },
     {
-      "team": "Chelsea",
-      "title": "From Where I Sit | The Harding family 💙",
-      "link": "https://www.youtube.com/watch?v=yEcOUErlCzQ",
-      "pubDate": "2026-10-24T15:42:51Z",
-      "thumb": "https://i.ytimg.com/vi/yEcOUErlCzQ/hqdefault.jpg"
-    },
-    {
       "team": "Arsenal",
       "title": "BACK IN NORTH LONDON FOR THE 3PM KICK-OFF | Live From N5 | Arsenal v Everton | PL",
       "link": "https://www.youtube.com/watch?v=wXOGIX4kL6E",
@@ -315,13 +343,6 @@
       "link": "https://www.youtube.com/watch?v=6JbSfYOY0JQ",
       "pubDate": "2026-10-24T12:19:04Z",
       "thumb": "https://i.ytimg.com/vi/6JbSfYOY0JQ/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "VILLA v MAN CITY || MATCHDAY LIVE || PRESENTED BY VISIT RWANDA",
-      "link": "https://www.youtube.com/watch?v=j-hIvkVRcGU",
-      "pubDate": "2026-10-24T11:20:42Z",
-      "thumb": "https://i.ytimg.com/vi/j-hIvkVRcGU/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
@@ -380,20 +401,6 @@
       "thumb": "https://i.ytimg.com/vi/WPuW9q2ZsyI/hqdefault.jpg"
     },
     {
-      "team": "Arsenal",
-      "title": "DOWMAN & MERINO FINE TUNE THEIR FINISHING ⚽️ | Arsenal prepare for Everton | Inside Training l PL",
-      "link": "https://www.youtube.com/watch?v=XF0tOwM6ciY",
-      "pubDate": "2026-10-23T19:01:40Z",
-      "thumb": "https://i.ytimg.com/vi/XF0tOwM6ciY/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "Liverpool v Brighton | Hurzeler pre-match press conference 🎙️",
-      "link": "https://www.youtube.com/watch?v=-aHVx0_SB_4",
-      "pubDate": "2026-10-23T14:52:25Z",
-      "thumb": "https://i.ytimg.com/vi/-aHVx0_SB_4/hqdefault.jpg"
-    },
-    {
       "team": "Newcastle United",
       "title": "PRESS CONFERENCE | Matthias Jaissle pre-Crystal Palace (A)",
       "link": "https://www.youtube.com/watch?v=nAlJn0IamnY",
@@ -448,13 +455,6 @@
       "link": "https://www.youtube.com/watch?v=kLpsnrI32u4",
       "pubDate": "2026-10-22T09:49:27Z",
       "thumb": "https://i.ytimg.com/vi/kLpsnrI32u4/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "HIGHLIGHTS | Man City 5-1 AEK Athens | Foden hat-trick and Cherki magic in Champions League rout!",
-      "link": "https://www.youtube.com/watch?v=RKdtcQYFBxE",
-      "pubDate": "2026-10-21T17:00:29Z",
-      "thumb": "https://i.ytimg.com/vi/RKdtcQYFBxE/hqdefault.jpg"
     },
     {
       "team": "Hull City",
