@@ -1,6 +1,55 @@
 {
-  "updatedAt": "2026-10-26T05:13:28.650Z",
+  "updatedAt": "2026-10-26T11:09:04.920Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Carrick SACKED Today? Bruno HITS Back? Man United News",
+      "link": "https://www.youtube.com/watch?v=fJB1O2NK_7s",
+      "pubDate": "2026-10-26T10:57:42Z",
+      "thumb": "https://i.ytimg.com/vi/fJB1O2NK_7s/hqdefault.jpg"
+    },
+    {
+      "team": "Hull City",
+      "title": "City Continue their Unbeaten Home Run! Hull City 1-1 Brentford | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=83G0UfSGoXU",
+      "pubDate": "2026-10-26T10:31:10Z",
+      "thumb": "https://i.ytimg.com/vi/83G0UfSGoXU/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "Extended Highlights: Rayan stars as Cherries record third 3-0 victory at Man United in four seasons",
+      "link": "https://www.youtube.com/watch?v=SVet7Qh28xI",
+      "pubDate": "2026-10-26T10:16:25Z",
+      "thumb": "https://i.ytimg.com/vi/SVet7Qh28xI/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Matchday Live: Liverpool vs Arsenal | Premier League build-up from Anfield",
+      "link": "https://www.youtube.com/watch?v=0tG-WfQ9ggE",
+      "pubDate": "2026-10-26T09:46:47Z",
+      "thumb": "https://i.ytimg.com/vi/0tG-WfQ9ggE/hqdefault.jpg?v=6adf2189"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Matchday Live: Liverpool vs Chelsea | Team news, build-up and more!",
+      "link": "https://www.youtube.com/watch?v=m8_w4o-nu-Y",
+      "pubDate": "2026-10-26T08:54:22Z",
+      "thumb": "https://i.ytimg.com/vi/m8_w4o-nu-Y/hqdefault.jpg?v=6adf1540"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Press Conference: Liverpool vs Chelsea | Carabao Cup Preview",
+      "link": "https://www.youtube.com/watch?v=mOU9K_I7zj4",
+      "pubDate": "2026-10-26T08:51:26Z",
+      "thumb": "https://i.ytimg.com/vi/mOU9K_I7zj4/hqdefault.jpg?v=6adf1490"
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Chelsea 0-2 Tottenham | Premier League Extended Highlights",
+      "link": "https://www.youtube.com/watch?v=-CorEPR-y1o",
+      "pubDate": "2026-10-26T08:00:14Z",
+      "thumb": "https://i.ytimg.com/vi/-CorEPR-y1o/hqdefault.jpg"
+    },
     {
       "team": "AFC Bournemouth",
       "title": "🔴 LIVE: Women's FA Cup: AFCB Women v Feniton",
@@ -136,24 +185,10 @@
     },
     {
       "team": "AFC Bournemouth",
-      "title": "THREE goals at Old Trafford as Cherries run riot AGAIN | Man United 0-3 AFC Bournemouth",
+      "title": "THREE goals at Old Trafford as Cherries run riot AGAIN | Manchester United 0-3 AFC Bournemouth",
       "link": "https://www.youtube.com/watch?v=pQF14OXgR9I",
       "pubDate": "2026-10-25T18:14:33Z",
       "thumb": "https://i.ytimg.com/vi/pQF14OXgR9I/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Isak's Form, Ronald Araujo, Anfield Win | Liverpool 2-0 Brighton | Andoni Iraola",
-      "link": "https://www.youtube.com/watch?v=J1YJOP94V0Y",
-      "pubDate": "2026-10-25T18:07:24Z",
-      "thumb": "https://i.ytimg.com/vi/J1YJOP94V0Y/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Carrick SACKED? Owners, Have SHAME! Man United 0-3 Bournemouth Fans Forum (PT.2)",
-      "link": "https://www.youtube.com/watch?v=0ZRfG2QeZrc",
-      "pubDate": "2026-10-25T17:54:00Z",
-      "thumb": "https://i.ytimg.com/vi/0ZRfG2QeZrc/hqdefault.jpg"
     },
     {
       "team": "Hull City",
@@ -175,13 +210,6 @@
       "link": "https://www.youtube.com/watch?v=egAEoYoPAXM",
       "pubDate": "2026-10-25T16:28:57Z",
       "thumb": "https://i.ytimg.com/vi/egAEoYoPAXM/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Matchday Live: Liverpool vs Brighton | Team news, updates & more!",
-      "link": "https://www.youtube.com/watch?v=KAot6neyRlQ",
-      "pubDate": "2026-10-25T13:29:43Z",
-      "thumb": "https://i.ytimg.com/vi/KAot6neyRlQ/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
@@ -303,13 +331,6 @@
       "thumb": "https://i.ytimg.com/vi/asDP3b6jE4Y/hqdefault.jpg"
     },
     {
-      "team": "AFC Bournemouth",
-      "title": "Amine Adli's BEAUTY of a free-kick from pitchside in historic European win | Alt Angle",
-      "link": "https://www.youtube.com/watch?v=Gg_0KoDrRVc",
-      "pubDate": "2026-10-24T16:00:31Z",
-      "thumb": "https://i.ytimg.com/vi/Gg_0KoDrRVc/hqdefault.jpg"
-    },
-    {
       "team": "Arsenal",
       "title": "BACK IN NORTH LONDON FOR THE 3PM KICK-OFF | Live From N5 | Arsenal v Everton | PL",
       "link": "https://www.youtube.com/watch?v=wXOGIX4kL6E",
@@ -408,13 +429,6 @@
       "thumb": "https://i.ytimg.com/vi/nAlJn0IamnY/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "Press Conference: Liverpool vs Brighton | Andoni Iraola | Pre-match update",
-      "link": "https://www.youtube.com/watch?v=UXEyn4cjLoE",
-      "pubDate": "2026-10-23T12:46:13Z",
-      "thumb": "https://i.ytimg.com/vi/UXEyn4cjLoE/hqdefault.jpg"
-    },
-    {
       "team": "Fulham",
       "title": "\"We need to fight again for the win\" 🗣️ | Álvaro Arbeloa's Press Conference | Coventry v Fulham",
       "link": "https://www.youtube.com/watch?v=eoWKaD7xsVA",
@@ -476,13 +490,6 @@
       "link": "https://www.youtube.com/watch?v=hPSVl8MxITI",
       "pubDate": "2026-10-17T21:01:19Z",
       "thumb": "https://i.ytimg.com/vi/hPSVl8MxITI/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "Fulham 1-0 Hull City | Sergej Jakirović's Post Match Reaction",
-      "link": "https://www.youtube.com/watch?v=vkRpq_OsFuw",
-      "pubDate": "2026-10-17T19:15:21Z",
-      "thumb": "https://i.ytimg.com/vi/vkRpq_OsFuw/hqdefault.jpg"
     }
   ]
 }
