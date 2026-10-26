@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-26T17:24:03.824Z",
+  "updatedAt": "2026-10-26T21:49:33.497Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Carrick STAYS!? Man Utd News",
+      "link": "https://www.youtube.com/watch?v=VXE_QUw1hBg",
+      "pubDate": "2026-10-26T21:11:52Z",
+      "thumb": "https://i.ytimg.com/vi/VXE_QUw1hBg/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Highlights: Liverpool FC Women 2-2 London City | Olsson scores in WSL draw",
+      "link": "https://www.youtube.com/watch?v=Xj7-5Q58O70",
+      "pubDate": "2026-10-26T18:44:55Z",
+      "thumb": "https://i.ytimg.com/vi/Xj7-5Q58O70/hqdefault.jpg"
+    },
+    {
+      "team": "Fulham",
+      "title": "Back-To-Back 👌 | Behind-The-Scenes In Coventry | Coventry 0-1 Fulham",
+      "link": "https://www.youtube.com/watch?v=7IBVjnRFjP0",
+      "pubDate": "2026-10-26T17:30:32Z",
+      "thumb": "https://i.ytimg.com/vi/7IBVjnRFjP0/hqdefault.jpg"
+    },
     {
       "team": "AFC Bournemouth",
       "title": "Evanilson's SENSATIONAL finish at Old Trafford from unique pitchside angle | Alt Angle",
@@ -135,13 +156,6 @@
       "thumb": "https://i.ytimg.com/vi/SK5ZGFC1EPg/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "Highlights: Liverpool 2-0 Brighton | Isak Strikes Reds To Victory!",
-      "link": "https://www.youtube.com/watch?v=Ju2qucCkEYI",
-      "pubDate": "2026-10-25T22:00:26Z",
-      "thumb": "https://i.ytimg.com/vi/Ju2qucCkEYI/hqdefault.jpg"
-    },
-    {
       "team": "Leeds United",
       "title": "Sunderland 0-0 Leeds United | Premier League highlights",
       "link": "https://www.youtube.com/watch?v=hRkff_TlbRo",
@@ -175,13 +189,6 @@
       "link": "https://www.youtube.com/watch?v=lZmaIedpWes",
       "pubDate": "2026-10-25T21:10:47Z",
       "thumb": "https://i.ytimg.com/vi/lZmaIedpWes/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "SACK CARRICK & WILCOX! Man United 0-3 Bournemouth Goldbridge Match Reaction",
-      "link": "https://www.youtube.com/watch?v=0L2-tFNOhvg",
-      "pubDate": "2026-10-25T19:44:25Z",
-      "thumb": "https://i.ytimg.com/vi/0L2-tFNOhvg/hqdefault.jpg"
     },
     {
       "team": "Sunderland",
@@ -422,13 +429,6 @@
       "thumb": "https://i.ytimg.com/vi/WPuW9q2ZsyI/hqdefault.jpg"
     },
     {
-      "team": "Newcastle United",
-      "title": "PRESS CONFERENCE | Matthias Jaissle pre-Crystal Palace (A)",
-      "link": "https://www.youtube.com/watch?v=nAlJn0IamnY",
-      "pubDate": "2026-10-23T14:10:29Z",
-      "thumb": "https://i.ytimg.com/vi/nAlJn0IamnY/hqdefault.jpg"
-    },
-    {
       "team": "Fulham",
       "title": "\"We need to fight again for the win\" 🗣️ | Álvaro Arbeloa's Press Conference | Coventry v Fulham",
       "link": "https://www.youtube.com/watch?v=eoWKaD7xsVA",
@@ -441,13 +441,6 @@
       "link": "https://www.youtube.com/watch?v=rVLYSvmAq1c",
       "pubDate": "2026-10-22T17:00:01Z",
       "thumb": "https://i.ytimg.com/vi/rVLYSvmAq1c/hqdefault.jpg"
-    },
-    {
-      "team": "Fulham",
-      "title": "Behind the scenes at a Fulham training session 🎦 | Coventry prep 💪 | Motspur Parklife",
-      "link": "https://www.youtube.com/watch?v=OTbqjR_XWbc",
-      "pubDate": "2026-10-22T16:31:04Z",
-      "thumb": "https://i.ytimg.com/vi/OTbqjR_XWbc/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
