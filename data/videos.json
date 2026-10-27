@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-27T18:02:10.943Z",
+  "updatedAt": "2026-10-27T22:16:30.570Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Why CARRICK Survived! INEOS Out Of Ideas! Goldbridge Man Utd News",
+      "link": "https://www.youtube.com/watch?v=JjjhePh9Wvk",
+      "pubDate": "2026-10-27T21:13:44Z",
+      "thumb": "https://i.ytimg.com/vi/JjjhePh9Wvk/hqdefault.jpg"
+    },
+    {
+      "team": "Hull City",
+      "title": "Ice Cold From McBurnie! Behind the Tigers Brentford (h)",
+      "link": "https://www.youtube.com/watch?v=I9o5DfxtMoM",
+      "pubDate": "2026-10-27T19:00:19Z",
+      "thumb": "https://i.ytimg.com/vi/I9o5DfxtMoM/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "Giorgi's favourite moments ❤️ @WasabiTube",
@@ -149,13 +163,6 @@
       "thumb": "https://i.ytimg.com/vi/XFTsz7uQXfQ/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Carrick STAYS!? Man Utd News",
-      "link": "https://www.youtube.com/watch?v=VXE_QUw1hBg",
-      "pubDate": "2026-10-26T21:11:52Z",
-      "thumb": "https://i.ytimg.com/vi/VXE_QUw1hBg/hqdefault.jpg"
-    },
-    {
       "team": "Fulham",
       "title": "Back-To-Back 👌 | Behind the scenes in Coventry | FUL ACCESS",
       "link": "https://www.youtube.com/watch?v=7IBVjnRFjP0",
@@ -252,13 +259,6 @@
       "link": "https://www.youtube.com/watch?v=s7PE2T94v8A",
       "pubDate": "2026-10-25T22:15:29Z",
       "thumb": "https://i.ytimg.com/vi/s7PE2T94v8A/hqdefault.jpg"
-    },
-    {
-      "team": "Newcastle United",
-      "title": "Crystal Palace 0 Newcastle United 2 | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=SK5ZGFC1EPg",
-      "pubDate": "2026-10-25T22:00:39Z",
-      "thumb": "https://i.ytimg.com/vi/SK5ZGFC1EPg/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
@@ -483,13 +483,6 @@
       "link": "https://www.youtube.com/watch?v=ACrIyELiHJM",
       "pubDate": "2026-10-20T18:00:04Z",
       "thumb": "https://i.ytimg.com/vi/ACrIyELiHJM/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "Defeat At Craven Cottage | Fulham 1-0 Hull City",
-      "link": "https://www.youtube.com/watch?v=ntLrCtVR3pA",
-      "pubDate": "2026-10-17T22:11:07Z",
-      "thumb": "https://i.ytimg.com/vi/ntLrCtVR3pA/hqdefault.jpg"
     },
     {
       "team": "Brentford",
