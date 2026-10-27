@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-26T21:49:33.497Z",
+  "updatedAt": "2026-10-27T00:59:55.432Z",
   "videos": [
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "EXTENDED HIGHLIGHTS | Liverpool v Brighton | Premier League",
+      "link": "https://www.youtube.com/watch?v=DBFCO-atnfk",
+      "pubDate": "2026-10-27T00:15:15Z",
+      "thumb": "https://i.ytimg.com/vi/DBFCO-atnfk/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Extended Highlights: Liverpool 2-0 Brighton | Premier League Win At Anfield",
+      "link": "https://www.youtube.com/watch?v=oQ801H0LOT8",
+      "pubDate": "2026-10-27T00:00:33Z",
+      "thumb": "https://i.ytimg.com/vi/oQ801H0LOT8/hqdefault.jpg"
+    },
+    {
+      "team": "Newcastle United",
+      "title": "Crystal Palace 0 Newcastle United 2 | EXTENDED Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=KuJ9Gvq0zGA",
+      "pubDate": "2026-10-27T00:00:30Z",
+      "thumb": "https://i.ytimg.com/vi/KuJ9Gvq0zGA/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Extended Premier League Highlights | Sunderland AFC 0-0 Leeds United",
+      "link": "https://www.youtube.com/watch?v=XFTsz7uQXfQ",
+      "pubDate": "2026-10-27T00:00:08Z",
+      "thumb": "https://i.ytimg.com/vi/XFTsz7uQXfQ/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Carrick STAYS!? Man Utd News",
@@ -91,13 +119,6 @@
       "link": "https://www.youtube.com/watch?v=m8_w4o-nu-Y",
       "pubDate": "2026-10-26T08:54:22Z",
       "thumb": "https://i.ytimg.com/vi/m8_w4o-nu-Y/hqdefault.jpg?v=6adf1540"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Press Conference: Liverpool vs Chelsea | Carabao Cup Preview",
-      "link": "https://www.youtube.com/watch?v=mOU9K_I7zj4",
-      "pubDate": "2026-10-26T08:51:26Z",
-      "thumb": "https://i.ytimg.com/vi/mOU9K_I7zj4/hqdefault.jpg?v=6adf1490"
     },
     {
       "team": "Tottenham Hotspur",
@@ -247,13 +268,6 @@
       "thumb": "https://i.ytimg.com/vi/egAEoYoPAXM/hqdefault.jpg"
     },
     {
-      "team": "Brighton & Hove Albion",
-      "title": "\"It will be another big challenge\" - Fabian previews Liverpool. 💪 #BHAFC #Premierleague #PL",
-      "link": "https://www.youtube.com/watch?v=CinvMPvEZOA",
-      "pubDate": "2026-10-25T13:29:19Z",
-      "thumb": "https://i.ytimg.com/vi/CinvMPvEZOA/hqdefault.jpg"
-    },
-    {
       "team": "Chelsea",
       "title": "Chelsea 0-2 Spurs | HIGHLIGHTS | Premier League 2026/27",
       "link": "https://www.youtube.com/watch?v=TPKlbCGbDP8",
@@ -399,13 +413,6 @@
       "link": "https://www.youtube.com/watch?v=wQAczphZCok",
       "pubDate": "2026-10-23T23:17:43Z",
       "thumb": "https://i.ytimg.com/vi/wQAczphZCok/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Lech Poznań 1-1 Sunderland AFC | Europa League Highlights",
-      "link": "https://www.youtube.com/watch?v=fWGatXsaspg",
-      "pubDate": "2026-10-23T23:00:36Z",
-      "thumb": "https://i.ytimg.com/vi/fWGatXsaspg/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
