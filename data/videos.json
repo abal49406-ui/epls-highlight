@@ -1,6 +1,55 @@
 {
-  "updatedAt": "2026-10-27T06:03:10.605Z",
+  "updatedAt": "2026-10-27T12:15:18.825Z",
   "videos": [
+    {
+      "team": "Fulham",
+      "title": "Oscar for the win 🔥 | Coventry 0-1 Fulham | Extended Highlights",
+      "link": "https://www.youtube.com/watch?v=ZToWbUXbSUI",
+      "pubDate": "2026-10-27T12:00:25Z",
+      "thumb": "https://i.ytimg.com/vi/ZToWbUXbSUI/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Nottingham Forest Women 2-2 Newcastle United Women | Barclays WSL Highlights",
+      "link": "https://www.youtube.com/watch?v=siM9X9JXvLo",
+      "pubDate": "2026-10-27T11:58:07Z",
+      "thumb": "https://i.ytimg.com/vi/siM9X9JXvLo/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "Enzo Maresca press conference | Brighton (H) | EFL Cup",
+      "link": "https://www.youtube.com/watch?v=HYE_7FteogA",
+      "pubDate": "2026-10-27T10:36:30Z",
+      "thumb": "https://i.ytimg.com/vi/HYE_7FteogA/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Brobbey Returns & Angulo Shines | ACCESS ALL AREAS | Sunderland AFC vs Leeds United",
+      "link": "https://www.youtube.com/watch?v=W5z0DFQSp80",
+      "pubDate": "2026-10-27T10:24:37Z",
+      "thumb": "https://i.ytimg.com/vi/W5z0DFQSp80/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "An emotional Wayne Rooney tears into the Man United players after another humiliating defeat.",
+      "link": "https://www.youtube.com/watch?v=TZ3HP67I3-U",
+      "pubDate": "2026-10-27T10:00:24Z",
+      "thumb": "https://i.ytimg.com/vi/TZ3HP67I3-U/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Inside Anfield: Liverpool 2-0 Brighton | BEST behind-the-scenes from Premier League win!",
+      "link": "https://www.youtube.com/watch?v=usK3_J20ycQ",
+      "pubDate": "2026-10-27T09:00:07Z",
+      "thumb": "https://i.ytimg.com/vi/usK3_J20ycQ/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Carrick on the BRINK? Rooney Reacts to Man United's Crisis! | Stick to United EP 11",
+      "link": "https://www.youtube.com/watch?v=aG4uwt5-Rps",
+      "pubDate": "2026-10-27T08:00:03Z",
+      "thumb": "https://i.ytimg.com/vi/aG4uwt5-Rps/hqdefault.jpg"
+    },
     {
       "team": "Brighton & Hove Albion",
       "title": "EXTENDED HIGHLIGHTS | Liverpool v Brighton | Premier League",
@@ -45,7 +94,7 @@
     },
     {
       "team": "Fulham",
-      "title": "Back-To-Back 👌 | Behind-The-Scenes In Coventry | Coventry 0-1 Fulham",
+      "title": "Back-To-Back 👌 | Behind the scenes in Coventry | FUL ACCESS",
       "link": "https://www.youtube.com/watch?v=7IBVjnRFjP0",
       "pubDate": "2026-10-26T17:30:32Z",
       "thumb": "https://i.ytimg.com/vi/7IBVjnRFjP0/hqdefault.jpg"
@@ -86,13 +135,6 @@
       "thumb": "https://i.ytimg.com/vi/0k1EVmE1rbc/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Carrick SACKED Today? Bruno HITS Back? Man United News",
-      "link": "https://www.youtube.com/watch?v=fJB1O2NK_7s",
-      "pubDate": "2026-10-26T10:57:42Z",
-      "thumb": "https://i.ytimg.com/vi/fJB1O2NK_7s/hqdefault.jpg"
-    },
-    {
       "team": "Hull City",
       "title": "City Continue their Unbeaten Home Run! Hull City 1-1 Brentford | Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=83G0UfSGoXU",
@@ -105,20 +147,6 @@
       "link": "https://www.youtube.com/watch?v=SVet7Qh28xI",
       "pubDate": "2026-10-26T10:16:25Z",
       "thumb": "https://i.ytimg.com/vi/SVet7Qh28xI/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Matchday Live: Liverpool vs Arsenal | Premier League build-up from Anfield",
-      "link": "https://www.youtube.com/watch?v=0tG-WfQ9ggE",
-      "pubDate": "2026-10-26T09:46:47Z",
-      "thumb": "https://i.ytimg.com/vi/0tG-WfQ9ggE/hqdefault.jpg?v=6adf2189"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Matchday Live: Liverpool vs Chelsea | Team news, build-up and more!",
-      "link": "https://www.youtube.com/watch?v=m8_w4o-nu-Y",
-      "pubDate": "2026-10-26T08:54:22Z",
-      "thumb": "https://i.ytimg.com/vi/m8_w4o-nu-Y/hqdefault.jpg?v=6adf1540"
     },
     {
       "team": "Tottenham Hotspur",
@@ -203,13 +231,6 @@
       "link": "https://www.youtube.com/watch?v=kwlvbl7okEE",
       "pubDate": "2026-10-25T21:30:06Z",
       "thumb": "https://i.ytimg.com/vi/kwlvbl7okEE/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Carrick SACKED Tomorrow! Eddie HOWE Next? Man Utd News",
-      "link": "https://www.youtube.com/watch?v=lZmaIedpWes",
-      "pubDate": "2026-10-25T21:10:47Z",
-      "thumb": "https://i.ytimg.com/vi/lZmaIedpWes/hqdefault.jpg"
     },
     {
       "team": "Sunderland",
@@ -338,13 +359,6 @@
       "thumb": "https://i.ytimg.com/vi/fANhMtBl30s/hqdefault.jpg"
     },
     {
-      "team": "Arsenal",
-      "title": "BIG GOALS FROM BIG GABI AND KONSA | Live From N5 | Arsenal 2 - 0 Everton | PL | Post-match",
-      "link": "https://www.youtube.com/watch?v=OyC6rfklk-A",
-      "pubDate": "2026-10-24T17:40:58Z",
-      "thumb": "https://i.ytimg.com/vi/OyC6rfklk-A/hqdefault.jpg"
-    },
-    {
       "team": "Chelsea",
       "title": "Cobham Next Gen 2-2 Liverpool U21's | HIGHLIGHTS | Premier League 2 | 2026/27",
       "link": "https://www.youtube.com/watch?v=QxSBMyhWGfM",
@@ -388,17 +402,10 @@
     },
     {
       "team": "Aston Villa",
-      "title": "VILLA 2-1 MAN CITY || POST-MATCH LIVE || PRESENTED BY VISIT RWANDA",
+      "title": "POST-MATCH LIVE | With Kate Tracey and Alan McInally",
       "link": "https://www.youtube.com/watch?v=GzyMNZH33L8",
       "pubDate": "2026-10-24T13:46:34Z",
       "thumb": "https://i.ytimg.com/vi/GzyMNZH33L8/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Foundation of Light Kids Ask Sunderland Players ANYTHING! 😂",
-      "link": "https://www.youtube.com/watch?v=6JbSfYOY0JQ",
-      "pubDate": "2026-10-24T12:19:04Z",
-      "thumb": "https://i.ytimg.com/vi/6JbSfYOY0JQ/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
@@ -436,20 +443,6 @@
       "thumb": "https://i.ytimg.com/vi/WPuW9q2ZsyI/hqdefault.jpg"
     },
     {
-      "team": "Fulham",
-      "title": "\"We need to fight again for the win\" 🗣️ | Álvaro Arbeloa's Press Conference | Coventry v Fulham",
-      "link": "https://www.youtube.com/watch?v=eoWKaD7xsVA",
-      "pubDate": "2026-10-23T11:01:12Z",
-      "thumb": "https://i.ytimg.com/vi/eoWKaD7xsVA/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "ELANGA BAGS A BRACE! ✌️ | Ipswich Town 2-4 Nottingham Forest | Classic Highlights 🎬",
-      "link": "https://www.youtube.com/watch?v=rVLYSvmAq1c",
-      "pubDate": "2026-10-22T17:00:01Z",
-      "thumb": "https://i.ytimg.com/vi/rVLYSvmAq1c/hqdefault.jpg"
-    },
-    {
       "team": "Coventry City",
       "title": "Frank Lampard Pre-Match Press Conference | Coventry City vs Fulham | Premier League",
       "link": "https://www.youtube.com/watch?v=r_iOX-wdhVQ",
@@ -462,13 +455,6 @@
       "link": "https://www.youtube.com/watch?v=suh-dCaCYhI",
       "pubDate": "2026-10-22T14:20:06Z",
       "thumb": "https://i.ytimg.com/vi/suh-dCaCYhI/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "MANAGERS PREVIEW | Maresca says Haaland is 100% available for Villa trip | Aston Villa v Man City",
-      "link": "https://www.youtube.com/watch?v=kLpsnrI32u4",
-      "pubDate": "2026-10-22T09:49:27Z",
-      "thumb": "https://i.ytimg.com/vi/kLpsnrI32u4/hqdefault.jpg"
     },
     {
       "team": "Hull City",
