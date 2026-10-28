@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-27T22:16:30.570Z",
+  "updatedAt": "2026-10-28T01:25:41.348Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "HIGHLIGHTS | Fleetwood Town vs Arsenal (1-1, Fleetwood win 5-3 on penalties)",
+      "link": "https://www.youtube.com/watch?v=hrPIy8bBLtc",
+      "pubDate": "2026-10-27T23:29:37Z",
+      "thumb": "https://i.ytimg.com/vi/hrPIy8bBLtc/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Why CARRICK Survived! INEOS Out Of Ideas! Goldbridge Man Utd News",
@@ -364,13 +371,6 @@
       "link": "https://www.youtube.com/watch?v=DceKecuCkKM",
       "pubDate": "2026-10-24T21:00:24Z",
       "thumb": "https://i.ytimg.com/vi/DceKecuCkKM/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "KONSA AND GABRIEL, OUR GOALSCORING CENTRE-HALVES 👊 | Arsenal vs Everton (2-0) | Premier League",
-      "link": "https://www.youtube.com/watch?v=GTLPc85qrp4",
-      "pubDate": "2026-10-24T21:00:21Z",
-      "thumb": "https://i.ytimg.com/vi/GTLPc85qrp4/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
