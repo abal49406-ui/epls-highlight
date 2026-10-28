@@ -1,47 +1,89 @@
 {
-  "updatedAt": "2026-10-28T19:35:42.213Z",
+  "updatedAt": "2026-10-28T23:29:05.072Z",
   "videos": [
+    {
+      "team": "Sunderland",
+      "title": "Coventry City vs Sunderland | Régis Le Bris' Premier League Press Conference",
+      "link": "https://www.youtube.com/watch?v=Ua7s53ep6nk",
+      "pubDate": "2026-10-28T23:24:52Z",
+      "thumb": "https://i.ytimg.com/vi/Ua7s53ep6nk/hqdefault.jpg?v=6ae28445"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "\"Keep going forward\" | Unai Emery on Bournemouth defeat 🗣️",
+      "link": "https://www.youtube.com/watch?v=Wri6VZzNexY",
+      "pubDate": "2026-10-28T23:05:08Z",
+      "thumb": "https://i.ytimg.com/vi/Wri6VZzNexY/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Through to the Quarter-Finals | Sunderland AFC 3 - 2 Brentford FC | Carabao Cup Highlights",
+      "link": "https://www.youtube.com/watch?v=-TwmxLOljzQ",
+      "pubDate": "2026-10-28T23:00:15Z",
+      "thumb": "https://i.ytimg.com/vi/-TwmxLOljzQ/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "Cherries into quarter-finals with convincing performance | AFC Bournemouth 3-0 Aston Villa",
+      "link": "https://www.youtube.com/watch?v=C-pltSFTw5E",
+      "pubDate": "2026-10-28T22:52:27Z",
+      "thumb": "https://i.ytimg.com/vi/C-pltSFTw5E/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "\"I'm really pleased with the performance\" | Le Bris & Fofana Post-Match Reaction",
+      "link": "https://www.youtube.com/watch?v=h88khZ7kZfs",
+      "pubDate": "2026-10-28T22:41:11Z",
+      "thumb": "https://i.ytimg.com/vi/h88khZ7kZfs/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "MATCHDAY LIVE! Man City v Brighton | Carabao Cup",
+      "link": "https://www.youtube.com/watch?v=IeqPFbtn94Y",
+      "pubDate": "2026-10-28T22:38:15Z",
+      "thumb": "https://i.ytimg.com/vi/IeqPFbtn94Y/hqdefault.jpg"
+    },
+    {
+      "team": "Chelsea",
+      "title": "Flora 2-2 Cobham Next Gen | HIGHLIGHTS | UEFA Youth League | 2026/27",
+      "link": "https://www.youtube.com/watch?v=0cQj7XqrM6g",
+      "pubDate": "2026-10-28T22:25:39Z",
+      "thumb": "https://i.ytimg.com/vi/0cQj7XqrM6g/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "LIVE FOOTBALL: Leeds United Women v York City Ladies | FA Women's National League",
+      "link": "https://www.youtube.com/watch?v=dSvc900tIk4",
+      "pubDate": "2026-10-28T21:59:57Z",
+      "thumb": "https://i.ytimg.com/vi/dSvc900tIk4/hqdefault.jpg?v=6adb7de6"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: Hampshire Senior Cup: Baffins Milton Rovers vs AFC Bournemouth.",
+      "link": "https://www.youtube.com/watch?v=5CLctuAJ9yY",
+      "pubDate": "2026-10-28T21:56:52Z",
+      "thumb": "https://i.ytimg.com/vi/5CLctuAJ9yY/hqdefault.jpg?v=6ae22e73"
+    },
     {
       "team": "AFC Bournemouth",
       "title": "🔴 LIVE: AFCB Women v Portsmouth Women",
       "link": "https://www.youtube.com/watch?v=sA9VF8OZaoQ",
-      "pubDate": "2026-10-28T19:31:11Z",
+      "pubDate": "2026-10-28T21:54:39Z",
       "thumb": "https://i.ytimg.com/vi/sA9VF8OZaoQ/hqdefault.jpg?v=6ae22c20"
     },
     {
       "team": "Liverpool",
       "title": "Matchday Live: Liverpool vs Chelsea | Team news, build-up and more!",
       "link": "https://www.youtube.com/watch?v=m8_w4o-nu-Y",
-      "pubDate": "2026-10-28T19:22:54Z",
-      "thumb": "https://i.ytimg.com/vi/m8_w4o-nu-Y/hqdefault.jpg?v=6adf1540"
-    },
-    {
-      "team": "Leeds United",
-      "title": "LIVE FOOTBALL: Leeds United Women v York City Ladies | FA Women's National League",
-      "link": "https://www.youtube.com/watch?v=dSvc900tIk4",
-      "pubDate": "2026-10-28T19:19:12Z",
-      "thumb": "https://i.ytimg.com/vi/dSvc900tIk4/hqdefault.jpg?v=6adb7de6"
+      "pubDate": "2026-10-28T21:31:39Z",
+      "thumb": "https://i.ytimg.com/vi/m8_w4o-nu-Y/hqdefault.jpg"
     },
     {
       "team": "Manchester United",
       "title": "SHOCKING! United BRUNO PR is a JOKE! Goldbridge Man Utd News",
       "link": "https://www.youtube.com/watch?v=czFaCR7C1nc",
-      "pubDate": "2026-10-28T19:06:40Z",
-      "thumb": "https://i.ytimg.com/vi/czFaCR7C1nc/hqdefault.jpg?v=6ae24239"
-    },
-    {
-      "team": "Manchester City",
-      "title": "MATCHDAY LIVE! Man City v Brighton | Carabao Cup",
-      "link": "https://www.youtube.com/watch?v=IeqPFbtn94Y",
-      "pubDate": "2026-10-28T18:53:31Z",
-      "thumb": "https://i.ytimg.com/vi/IeqPFbtn94Y/hqdefault.jpg?v=6ae23dff"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: Hampshire Senior Cup: Baffins Milton Rovers vs AFC Bournemouth.",
-      "link": "https://www.youtube.com/watch?v=5CLctuAJ9yY",
-      "pubDate": "2026-10-28T17:18:43Z",
-      "thumb": "https://i.ytimg.com/vi/5CLctuAJ9yY/hqdefault.jpg?v=6ae22e73"
+      "pubDate": "2026-10-28T19:51:59Z",
+      "thumb": "https://i.ytimg.com/vi/czFaCR7C1nc/hqdefault.jpg"
     },
     {
       "team": "Manchester United",
@@ -198,13 +240,6 @@
       "thumb": "https://i.ytimg.com/vi/KuJ9Gvq0zGA/hqdefault.jpg"
     },
     {
-      "team": "Sunderland",
-      "title": "Extended Premier League Highlights | Sunderland AFC 0-0 Leeds United",
-      "link": "https://www.youtube.com/watch?v=XFTsz7uQXfQ",
-      "pubDate": "2026-10-27T00:00:08Z",
-      "thumb": "https://i.ytimg.com/vi/XFTsz7uQXfQ/hqdefault.jpg"
-    },
-    {
       "team": "Fulham",
       "title": "Back-To-Back 👌 | Behind the scenes in Coventry | FUL ACCESS",
       "link": "https://www.youtube.com/watch?v=7IBVjnRFjP0",
@@ -245,13 +280,6 @@
       "link": "https://www.youtube.com/watch?v=83G0UfSGoXU",
       "pubDate": "2026-10-26T10:31:10Z",
       "thumb": "https://i.ytimg.com/vi/83G0UfSGoXU/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "Extended Highlights: Rayan stars as Cherries record third 3-0 victory at Man United in four seasons",
-      "link": "https://www.youtube.com/watch?v=SVet7Qh28xI",
-      "pubDate": "2026-10-26T10:16:25Z",
-      "thumb": "https://i.ytimg.com/vi/SVet7Qh28xI/hqdefault.jpg"
     },
     {
       "team": "Tottenham Hotspur",
@@ -310,25 +338,11 @@
       "thumb": "https://i.ytimg.com/vi/eCK-yWkw_wc/hqdefault.jpg"
     },
     {
-      "team": "Sunderland",
-      "title": "Sunderland AFC 0-0 Leeds United | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=S7xGnHvT8Vo",
-      "pubDate": "2026-10-25T22:00:11Z",
-      "thumb": "https://i.ytimg.com/vi/S7xGnHvT8Vo/hqdefault.jpg"
-    },
-    {
       "team": "Crystal Palace",
       "title": "Crystal Palace 0-2 Newcastle United | Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=kwlvbl7okEE",
       "pubDate": "2026-10-25T21:30:06Z",
       "thumb": "https://i.ytimg.com/vi/kwlvbl7okEE/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "\"We are in a good position to get the rewards soon\" | Le Bris & Hume Post-Match Reaction",
-      "link": "https://www.youtube.com/watch?v=jh_NyzGvLZ4",
-      "pubDate": "2026-10-25T19:15:52Z",
-      "thumb": "https://i.ytimg.com/vi/jh_NyzGvLZ4/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
@@ -394,13 +408,6 @@
       "thumb": "https://i.ytimg.com/vi/fANhMtBl30s/hqdefault.jpg"
     },
     {
-      "team": "Chelsea",
-      "title": "Cobham Next Gen 2-2 Liverpool U21's | HIGHLIGHTS | Premier League 2 | 2026/27",
-      "link": "https://www.youtube.com/watch?v=QxSBMyhWGfM",
-      "pubDate": "2026-10-24T17:38:01Z",
-      "thumb": "https://i.ytimg.com/vi/QxSBMyhWGfM/hqdefault.jpg"
-    },
-    {
       "team": "Coventry City",
       "title": "Frank Lampard, Jay Dasilva & Ethan Pinnock Reaction | Coventry City vs Fulham | Premier League",
       "link": "https://www.youtube.com/watch?v=1Fh7eWN5jS0",
@@ -413,13 +420,6 @@
       "link": "https://www.youtube.com/watch?v=asDP3b6jE4Y",
       "pubDate": "2026-10-24T16:01:41Z",
       "thumb": "https://i.ytimg.com/vi/asDP3b6jE4Y/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "\"Everything today was positive!\" 💪 | Unai Emery FULL post-match interview",
-      "link": "https://www.youtube.com/watch?v=xN_Cosi8gC4",
-      "pubDate": "2026-10-24T14:31:08Z",
-      "thumb": "https://i.ytimg.com/vi/xN_Cosi8gC4/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
