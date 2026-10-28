@@ -1,12 +1,54 @@
 {
-  "updatedAt": "2026-10-28T14:07:28.869Z",
+  "updatedAt": "2026-10-28T19:35:42.213Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: AFCB Women v Portsmouth Women",
+      "link": "https://www.youtube.com/watch?v=sA9VF8OZaoQ",
+      "pubDate": "2026-10-28T19:31:11Z",
+      "thumb": "https://i.ytimg.com/vi/sA9VF8OZaoQ/hqdefault.jpg?v=6ae22c20"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Matchday Live: Liverpool vs Chelsea | Team news, build-up and more!",
+      "link": "https://www.youtube.com/watch?v=m8_w4o-nu-Y",
+      "pubDate": "2026-10-28T19:22:54Z",
+      "thumb": "https://i.ytimg.com/vi/m8_w4o-nu-Y/hqdefault.jpg?v=6adf1540"
+    },
+    {
+      "team": "Leeds United",
+      "title": "LIVE FOOTBALL: Leeds United Women v York City Ladies | FA Women's National League",
+      "link": "https://www.youtube.com/watch?v=dSvc900tIk4",
+      "pubDate": "2026-10-28T19:19:12Z",
+      "thumb": "https://i.ytimg.com/vi/dSvc900tIk4/hqdefault.jpg?v=6adb7de6"
+    },
+    {
+      "team": "Manchester United",
+      "title": "SHOCKING! United BRUNO PR is a JOKE! Goldbridge Man Utd News",
+      "link": "https://www.youtube.com/watch?v=czFaCR7C1nc",
+      "pubDate": "2026-10-28T19:06:40Z",
+      "thumb": "https://i.ytimg.com/vi/czFaCR7C1nc/hqdefault.jpg?v=6ae24239"
+    },
+    {
+      "team": "Manchester City",
+      "title": "MATCHDAY LIVE! Man City v Brighton | Carabao Cup",
+      "link": "https://www.youtube.com/watch?v=IeqPFbtn94Y",
+      "pubDate": "2026-10-28T18:53:31Z",
+      "thumb": "https://i.ytimg.com/vi/IeqPFbtn94Y/hqdefault.jpg?v=6ae23dff"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: Hampshire Senior Cup: Baffins Milton Rovers vs AFC Bournemouth.",
+      "link": "https://www.youtube.com/watch?v=5CLctuAJ9yY",
+      "pubDate": "2026-10-28T17:18:43Z",
+      "thumb": "https://i.ytimg.com/vi/5CLctuAJ9yY/hqdefault.jpg?v=6ae22e73"
+    },
     {
       "team": "Manchester United",
       "title": "Bruno BACKS Carrick! Man Utd News",
       "link": "https://www.youtube.com/watch?v=2XdASGX0yIM",
-      "pubDate": "2026-10-28T14:01:55Z",
-      "thumb": "https://i.ytimg.com/vi/2XdASGX0yIM/hqdefault.jpg?v=6ae1f5ba"
+      "pubDate": "2026-10-28T14:47:51Z",
+      "thumb": "https://i.ytimg.com/vi/2XdASGX0yIM/hqdefault.jpg"
     },
     {
       "team": "Manchester United",
@@ -86,13 +128,6 @@
       "thumb": "https://i.ytimg.com/vi/R8RbeJoc0pw/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "BOARD BACK CARRICK! Goldbridge Man Utd News",
-      "link": "https://www.youtube.com/watch?v=g2d7wGlo8uA",
-      "pubDate": "2026-10-27T13:42:36Z",
-      "thumb": "https://i.ytimg.com/vi/g2d7wGlo8uA/hqdefault.jpg"
-    },
-    {
       "team": "Newcastle United",
       "title": "Newcastle United 3 Sunderland 2 | U21 PL2 Highlights",
       "link": "https://www.youtube.com/watch?v=de1fpranFLw",
@@ -154,13 +189,6 @@
       "link": "https://www.youtube.com/watch?v=DBFCO-atnfk",
       "pubDate": "2026-10-27T00:15:15Z",
       "thumb": "https://i.ytimg.com/vi/DBFCO-atnfk/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Extended Highlights: Liverpool 2-0 Brighton | Premier League Win At Anfield",
-      "link": "https://www.youtube.com/watch?v=oQ801H0LOT8",
-      "pubDate": "2026-10-27T00:00:33Z",
-      "thumb": "https://i.ytimg.com/vi/oQ801H0LOT8/hqdefault.jpg"
     },
     {
       "team": "Newcastle United",
@@ -231,13 +259,6 @@
       "link": "https://www.youtube.com/watch?v=-CorEPR-y1o",
       "pubDate": "2026-10-26T08:00:14Z",
       "thumb": "https://i.ytimg.com/vi/-CorEPR-y1o/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: Women's FA Cup: AFCB Women v Feniton",
-      "link": "https://www.youtube.com/watch?v=9umRzFjbZzc",
-      "pubDate": "2026-10-26T03:58:36Z",
-      "thumb": "https://i.ytimg.com/vi/9umRzFjbZzc/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
@@ -317,25 +338,11 @@
       "thumb": "https://i.ytimg.com/vi/N3qVUmy8yQs/hqdefault.jpg"
     },
     {
-      "team": "Leeds United",
-      "title": "Matchday Live: The Verdict | Sunderland v Leeds United",
-      "link": "https://www.youtube.com/watch?v=nGU_q1P0W7Y",
-      "pubDate": "2026-10-25T19:08:19Z",
-      "thumb": "https://i.ytimg.com/vi/nGU_q1P0W7Y/hqdefault.jpg"
-    },
-    {
       "team": "Ipswich Town",
       "title": "TOWN IN FIVE | NOTTINGHAM FOREST (H)",
       "link": "https://www.youtube.com/watch?v=Ill85v8PixU",
       "pubDate": "2026-10-25T18:30:17Z",
       "thumb": "https://i.ytimg.com/vi/Ill85v8PixU/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "THREE goals at Old Trafford as Cherries run riot AGAIN | Manchester United 0-3 AFC Bournemouth",
-      "link": "https://www.youtube.com/watch?v=pQF14OXgR9I",
-      "pubDate": "2026-10-25T18:14:33Z",
-      "thumb": "https://i.ytimg.com/vi/pQF14OXgR9I/hqdefault.jpg"
     },
     {
       "team": "Hull City",
@@ -406,13 +413,6 @@
       "link": "https://www.youtube.com/watch?v=asDP3b6jE4Y",
       "pubDate": "2026-10-24T16:01:41Z",
       "thumb": "https://i.ytimg.com/vi/asDP3b6jE4Y/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "MATCHDAY LIVE! Aston Villa v Man City | Premier League",
-      "link": "https://www.youtube.com/watch?v=FYLHLbLlRzQ",
-      "pubDate": "2026-10-24T14:40:07Z",
-      "thumb": "https://i.ytimg.com/vi/FYLHLbLlRzQ/hqdefault.jpg"
     },
     {
       "team": "Aston Villa",
