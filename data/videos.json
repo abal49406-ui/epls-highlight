@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-28T07:19:36.879Z",
+  "updatedAt": "2026-10-28T14:07:28.869Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Bruno BACKS Carrick! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=2XdASGX0yIM",
+      "pubDate": "2026-10-28T14:01:55Z",
+      "thumb": "https://i.ytimg.com/vi/2XdASGX0yIM/hqdefault.jpg?v=6ae1f5ba"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Game OVER For Carrick & Players! Goldbridge Man Utd News",
+      "link": "https://www.youtube.com/watch?v=KJ9Aj523gpA",
+      "pubDate": "2026-10-28T10:51:02Z",
+      "thumb": "https://i.ytimg.com/vi/KJ9Aj523gpA/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Sing-along with Jayden Bogle! | The Official Leeds United Podcast",
+      "link": "https://www.youtube.com/watch?v=BElf6LN8VTk",
+      "pubDate": "2026-10-28T09:00:21Z",
+      "thumb": "https://i.ytimg.com/vi/BElf6LN8VTk/hqdefault.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "HIGHLIGHTS | Fleetwood Town vs Arsenal (1-1, Fleetwood win 5-3 on penalties)",
@@ -121,25 +142,11 @@
       "thumb": "https://i.ytimg.com/vi/W5z0DFQSp80/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "An emotional Wayne Rooney tears into the Man United players after another humiliating defeat.",
-      "link": "https://www.youtube.com/watch?v=TZ3HP67I3-U",
-      "pubDate": "2026-10-27T10:00:24Z",
-      "thumb": "https://i.ytimg.com/vi/TZ3HP67I3-U/hqdefault.jpg"
-    },
-    {
       "team": "Liverpool",
       "title": "Inside Anfield: Liverpool 2-0 Brighton | BEST behind-the-scenes from Premier League win!",
       "link": "https://www.youtube.com/watch?v=usK3_J20ycQ",
       "pubDate": "2026-10-27T09:00:07Z",
       "thumb": "https://i.ytimg.com/vi/usK3_J20ycQ/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Carrick on the BRINK? Rooney Reacts to Man United's Crisis! | Stick to United EP 11",
-      "link": "https://www.youtube.com/watch?v=aG4uwt5-Rps",
-      "pubDate": "2026-10-27T08:00:03Z",
-      "thumb": "https://i.ytimg.com/vi/aG4uwt5-Rps/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
@@ -338,13 +345,6 @@
       "thumb": "https://i.ytimg.com/vi/zodn4FJfdng/hqdefault.jpg"
     },
     {
-      "team": "Leeds United",
-      "title": "Matchday Live | Sunderland v Leeds United",
-      "link": "https://www.youtube.com/watch?v=egAEoYoPAXM",
-      "pubDate": "2026-10-25T16:28:57Z",
-      "thumb": "https://i.ytimg.com/vi/egAEoYoPAXM/hqdefault.jpg"
-    },
-    {
       "team": "Chelsea",
       "title": "Chelsea 0-2 Spurs | HIGHLIGHTS | Premier League 2026/27",
       "link": "https://www.youtube.com/watch?v=TPKlbCGbDP8",
@@ -378,13 +378,6 @@
       "link": "https://www.youtube.com/watch?v=NkqLjSFaKPQ",
       "pubDate": "2026-10-24T21:00:16Z",
       "thumb": "https://i.ytimg.com/vi/NkqLjSFaKPQ/hqdefault.jpg"
-    },
-    {
-      "team": "Tottenham Hotspur",
-      "title": "Tel scores a BEAUTY at the Bridge! | Chelsea 0-2 Tottenham | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=YD9G7iuZGjw",
-      "pubDate": "2026-10-24T20:59:36Z",
-      "thumb": "https://i.ytimg.com/vi/YD9G7iuZGjw/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
