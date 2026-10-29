@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-29T02:46:54.360Z",
+  "updatedAt": "2026-10-29T09:05:41.815Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Extended Highlights: Liverpool 1-1 Chelsea | Penalty shootout win!",
+      "link": "https://www.youtube.com/watch?v=hn3fpfByQCc",
+      "pubDate": "2026-10-29T09:05:06Z",
+      "thumb": "https://i.ytimg.com/vi/hn3fpfByQCc/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "Extended Highlights: Goals from Adli, Cook and Rodríguez seal a place in the quarter-finals",
+      "link": "https://www.youtube.com/watch?v=Q49A9z5njas",
+      "pubDate": "2026-10-29T09:00:01Z",
+      "thumb": "https://i.ytimg.com/vi/Q49A9z5njas/hqdefault.jpg"
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "title": "A true Premier League class 🍿 Arsenal 4-4 Tottenham 📺",
+      "link": "https://www.youtube.com/watch?v=IPu-jCC1tjc",
+      "pubDate": "2026-10-29T08:30:01Z",
+      "thumb": "https://i.ytimg.com/vi/IPu-jCC1tjc/hqdefault.jpg"
+    },
+    {
+      "team": "Brentford",
+      "title": "Sunderland 3-2 Brentford | Defeat at the Stadium of Light | Carabao Cup Highlights",
+      "link": "https://www.youtube.com/watch?v=IyyvNZK5Ks0",
+      "pubDate": "2026-10-29T07:50:54Z",
+      "thumb": "https://i.ytimg.com/vi/IyyvNZK5Ks0/hqdefault.jpg"
+    },
     {
       "team": "Chelsea",
       "title": "Liverpool 1-1 Chelsea (6-5 pens) | HIGHLIGHTS | Carabao Cup 2026/27",
@@ -233,13 +261,6 @@
       "thumb": "https://i.ytimg.com/vi/Qw65jW4z9EY/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "Press Conference: Liverpool vs Chelsea | Carabao Cup Preview",
-      "link": "https://www.youtube.com/watch?v=mOU9K_I7zj4",
-      "pubDate": "2026-10-27T12:45:04Z",
-      "thumb": "https://i.ytimg.com/vi/mOU9K_I7zj4/hqdefault.jpg"
-    },
-    {
       "team": "Fulham",
       "title": "Oscar for the win 🔥 | Coventry 0-1 Fulham | Extended Highlights",
       "link": "https://www.youtube.com/watch?v=ZToWbUXbSUI",
@@ -280,13 +301,6 @@
       "link": "https://www.youtube.com/watch?v=7IBVjnRFjP0",
       "pubDate": "2026-10-26T17:30:32Z",
       "thumb": "https://i.ytimg.com/vi/7IBVjnRFjP0/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "Evanilson's SENSATIONAL finish at Old Trafford from unique pitchside angle | Alt Angle",
-      "link": "https://www.youtube.com/watch?v=FogfCuFIuKM",
-      "pubDate": "2026-10-26T17:00:05Z",
-      "thumb": "https://i.ytimg.com/vi/FogfCuFIuKM/hqdefault.jpg"
     },
     {
       "team": "Arsenal",
