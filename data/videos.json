@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-10-28T23:29:05.072Z",
+  "updatedAt": "2026-10-29T02:46:54.360Z",
   "videos": [
+    {
+      "team": "Chelsea",
+      "title": "Liverpool 1-1 Chelsea (6-5 pens) | HIGHLIGHTS | Carabao Cup 2026/27",
+      "link": "https://www.youtube.com/watch?v=_e74c-a1r1o",
+      "pubDate": "2026-10-29T01:43:12Z",
+      "thumb": "https://i.ytimg.com/vi/_e74c-a1r1o/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "EXTENDED HIGHLIGHTS | Man City 2-2 Brighton | City go through on pens! (4-3)",
+      "link": "https://www.youtube.com/watch?v=FYOQPzXc4T4",
+      "pubDate": "2026-10-29T01:00:16Z",
+      "thumb": "https://i.ytimg.com/vi/FYOQPzXc4T4/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "LIVE FOOTBALL: Leeds United Women v York City Ladies | FA Women's National League",
+      "link": "https://www.youtube.com/watch?v=dSvc900tIk4",
+      "pubDate": "2026-10-29T00:31:17Z",
+      "thumb": "https://i.ytimg.com/vi/dSvc900tIk4/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "Carabao Cup Highlights | AFC Bournemouth v Aston Villa",
+      "link": "https://www.youtube.com/watch?v=HbeWWm7J8NM",
+      "pubDate": "2026-10-29T00:00:39Z",
+      "thumb": "https://i.ytimg.com/vi/HbeWWm7J8NM/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Extended Carabao Cup Highlights | Sunderland AFC 3 - 2 Brentford FC",
+      "link": "https://www.youtube.com/watch?v=kKm51i19Zc0",
+      "pubDate": "2026-10-29T00:00:18Z",
+      "thumb": "https://i.ytimg.com/vi/kKm51i19Zc0/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "NKETIAH AGAIN 🎯 | Fulham 0-1 Crystal Palace | Carabao Cup Highlights",
+      "link": "https://www.youtube.com/watch?v=6CVBDbazykw",
+      "pubDate": "2026-10-28T23:56:02Z",
+      "thumb": "https://i.ytimg.com/vi/6CVBDbazykw/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Highlights: Liverpool 1-1 Chelsea | Reds win on penalties!",
+      "link": "https://www.youtube.com/watch?v=6Pn5qnuCVg8",
+      "pubDate": "2026-10-28T23:50:05Z",
+      "thumb": "https://i.ytimg.com/vi/6Pn5qnuCVg8/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "POST MATCH | Fabian Hurzeler | Manchester City v Brighton | Carabao Cup",
+      "link": "https://www.youtube.com/watch?v=MxCHVRhVo-s",
+      "pubDate": "2026-10-28T23:40:54Z",
+      "thumb": "https://i.ytimg.com/vi/MxCHVRhVo-s/hqdefault.jpg"
+    },
     {
       "team": "Sunderland",
       "title": "Coventry City vs Sunderland | Régis Le Bris' Premier League Press Conference",
@@ -49,13 +105,6 @@
       "link": "https://www.youtube.com/watch?v=0cQj7XqrM6g",
       "pubDate": "2026-10-28T22:25:39Z",
       "thumb": "https://i.ytimg.com/vi/0cQj7XqrM6g/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "LIVE FOOTBALL: Leeds United Women v York City Ladies | FA Women's National League",
-      "link": "https://www.youtube.com/watch?v=dSvc900tIk4",
-      "pubDate": "2026-10-28T21:59:57Z",
-      "thumb": "https://i.ytimg.com/vi/dSvc900tIk4/hqdefault.jpg?v=6adb7de6"
     },
     {
       "team": "AFC Bournemouth",
@@ -212,20 +261,6 @@
       "thumb": "https://i.ytimg.com/vi/HYE_7FteogA/hqdefault.jpg"
     },
     {
-      "team": "Sunderland",
-      "title": "Brobbey Returns & Angulo Shines | ACCESS ALL AREAS | Sunderland AFC vs Leeds United",
-      "link": "https://www.youtube.com/watch?v=W5z0DFQSp80",
-      "pubDate": "2026-10-27T10:24:37Z",
-      "thumb": "https://i.ytimg.com/vi/W5z0DFQSp80/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Inside Anfield: Liverpool 2-0 Brighton | BEST behind-the-scenes from Premier League win!",
-      "link": "https://www.youtube.com/watch?v=usK3_J20ycQ",
-      "pubDate": "2026-10-27T09:00:07Z",
-      "thumb": "https://i.ytimg.com/vi/usK3_J20ycQ/hqdefault.jpg"
-    },
-    {
       "team": "Brighton & Hove Albion",
       "title": "EXTENDED HIGHLIGHTS | Liverpool v Brighton | Premier League",
       "link": "https://www.youtube.com/watch?v=DBFCO-atnfk",
@@ -317,13 +352,6 @@
       "thumb": "https://i.ytimg.com/vi/acj8Nqr1JZ0/hqdefault.jpg"
     },
     {
-      "team": "Brighton & Hove Albion",
-      "title": "HIGHLIGHTS | Liverpool v Brighton | Premier League",
-      "link": "https://www.youtube.com/watch?v=s7PE2T94v8A",
-      "pubDate": "2026-10-25T22:15:29Z",
-      "thumb": "https://i.ytimg.com/vi/s7PE2T94v8A/hqdefault.jpg"
-    },
-    {
       "team": "Leeds United",
       "title": "Sunderland 0-0 Leeds United | Premier League highlights",
       "link": "https://www.youtube.com/watch?v=hRkff_TlbRo",
@@ -366,13 +394,6 @@
       "thumb": "https://i.ytimg.com/vi/zodn4FJfdng/hqdefault.jpg"
     },
     {
-      "team": "Chelsea",
-      "title": "Chelsea 0-2 Spurs | HIGHLIGHTS | Premier League 2026/27",
-      "link": "https://www.youtube.com/watch?v=TPKlbCGbDP8",
-      "pubDate": "2026-10-24T23:01:05Z",
-      "thumb": "https://i.ytimg.com/vi/TPKlbCGbDP8/hqdefault.jpg"
-    },
-    {
       "team": "Nottingham Forest",
       "title": "Ipswich Town 1-1 Nottingham Forest | Premier League | Extended Highlights 📺",
       "link": "https://www.youtube.com/watch?v=xNDisoM5oxE",
@@ -387,20 +408,6 @@
       "thumb": "https://i.ytimg.com/vi/xJZ53nV8t1Q/hqdefault.jpg"
     },
     {
-      "team": "Aston Villa",
-      "title": "Jackson Brace Shocks City 🔥 | Aston Villa 2-1 Manchester City | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=DceKecuCkKM",
-      "pubDate": "2026-10-24T21:00:24Z",
-      "thumb": "https://i.ytimg.com/vi/DceKecuCkKM/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "HIGHLIGHTS | Aston Villa 2-1 Man City | The Blues left frustrated at Villa Park",
-      "link": "https://www.youtube.com/watch?v=NkqLjSFaKPQ",
-      "pubDate": "2026-10-24T21:00:16Z",
-      "thumb": "https://i.ytimg.com/vi/NkqLjSFaKPQ/hqdefault.jpg"
-    },
-    {
       "team": "Crystal Palace",
       "title": "Match Cut 📽️ | Beşiktaş (A)",
       "link": "https://www.youtube.com/watch?v=fANhMtBl30s",
@@ -413,13 +420,6 @@
       "link": "https://www.youtube.com/watch?v=1Fh7eWN5jS0",
       "pubDate": "2026-10-24T16:56:35Z",
       "thumb": "https://i.ytimg.com/vi/1Fh7eWN5jS0/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "EIGHT-GOAL THRILLER | Crystal Palace 5-3 Reading | U18 Highlights",
-      "link": "https://www.youtube.com/watch?v=asDP3b6jE4Y",
-      "pubDate": "2026-10-24T16:01:41Z",
-      "thumb": "https://i.ytimg.com/vi/asDP3b6jE4Y/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
