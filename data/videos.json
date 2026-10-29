@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-29T16:09:03.809Z",
+  "updatedAt": "2026-10-29T21:08:40.982Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Carrick's LAST Game! Chelsea vs Man United Goldbridge Preview",
+      "link": "https://www.youtube.com/watch?v=sCXDHQMDDoQ",
+      "pubDate": "2026-10-29T21:06:49Z",
+      "thumb": "https://i.ytimg.com/vi/sCXDHQMDDoQ/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Inside Anfield: Liverpool vs Chelsea | Brilliant scenes from penalty shootout win!",
+      "link": "https://www.youtube.com/watch?v=0GVEp6T5JIo",
+      "pubDate": "2026-10-29T18:39:33Z",
+      "thumb": "https://i.ytimg.com/vi/0GVEp6T5JIo/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Oliver Glasner Press Conference 🎙️ | Brentford vs Nottingham Forest | Premier League",
+      "link": "https://www.youtube.com/watch?v=L8RTOFr_G2Y",
+      "pubDate": "2026-10-29T16:42:46Z",
+      "thumb": "https://i.ytimg.com/vi/L8RTOFr_G2Y/hqdefault.jpg"
+    },
     {
       "team": "Coventry City",
       "title": "Frank Lampard Pre-Match Press Conference | Coventry City vs Sunderland | Premier League",
@@ -163,13 +184,6 @@
       "thumb": "https://i.ytimg.com/vi/6CVBDbazykw/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "Highlights: Liverpool 1-1 Chelsea | Reds win on penalties!",
-      "link": "https://www.youtube.com/watch?v=6Pn5qnuCVg8",
-      "pubDate": "2026-10-28T23:50:05Z",
-      "thumb": "https://i.ytimg.com/vi/6Pn5qnuCVg8/hqdefault.jpg"
-    },
-    {
       "team": "Brighton & Hove Albion",
       "title": "POST MATCH | Fabian Hurzeler | Manchester City v Brighton | Carabao Cup",
       "link": "https://www.youtube.com/watch?v=MxCHVRhVo-s",
@@ -217,13 +231,6 @@
       "link": "https://www.youtube.com/watch?v=czFaCR7C1nc",
       "pubDate": "2026-10-28T19:51:59Z",
       "thumb": "https://i.ytimg.com/vi/czFaCR7C1nc/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Bruno BACKS Carrick! Man Utd News",
-      "link": "https://www.youtube.com/watch?v=2XdASGX0yIM",
-      "pubDate": "2026-10-28T14:47:51Z",
-      "thumb": "https://i.ytimg.com/vi/2XdASGX0yIM/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
@@ -471,13 +478,6 @@
       "thumb": "https://i.ytimg.com/vi/2L5j32quJMo/hqdefault.jpg"
     },
     {
-      "team": "Nottingham Forest",
-      "title": "Oliver Glasner's Reaction 🗣️ | Ipswich Town vs Nottingham Forest | Premier League",
-      "link": "https://www.youtube.com/watch?v=-bkI4Kxtm5I",
-      "pubDate": "2026-10-23T22:00:39Z",
-      "thumb": "https://i.ytimg.com/vi/-bkI4Kxtm5I/hqdefault.jpg"
-    },
-    {
       "team": "Ipswich Town",
       "title": "MATCHDAY LIVE | HT: TOWN V NOTTINGHAM FOREST",
       "link": "https://www.youtube.com/watch?v=WPuW9q2ZsyI",
@@ -490,13 +490,6 @@
       "link": "https://www.youtube.com/watch?v=r_iOX-wdhVQ",
       "pubDate": "2026-10-22T15:07:07Z",
       "thumb": "https://i.ytimg.com/vi/r_iOX-wdhVQ/hqdefault.jpg"
-    },
-    {
-      "team": "Brentford",
-      "title": "Brentford 1-2 Liverpool | Defeat at the Gtech | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=hPSVl8MxITI",
-      "pubDate": "2026-10-17T21:01:19Z",
-      "thumb": "https://i.ytimg.com/vi/hPSVl8MxITI/hqdefault.jpg"
     }
   ]
 }
