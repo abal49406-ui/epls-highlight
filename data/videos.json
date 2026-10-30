@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-30T19:24:41.071Z",
+  "updatedAt": "2026-10-30T23:09:56.606Z",
   "videos": [
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Dejan Kulusevski: 526 days | An Original Spurs Production",
+      "link": "https://www.youtube.com/watch?v=E6pRgXa-5Lo",
+      "pubDate": "2026-10-30T20:00:39Z",
+      "thumb": "https://i.ytimg.com/vi/E6pRgXa-5Lo/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Top 10: BEST Liverpool vs Arsenal Premier League games at Anfield",
+      "link": "https://www.youtube.com/watch?v=r9UcOBrPqPo",
+      "pubDate": "2026-10-30T20:00:18Z",
+      "thumb": "https://i.ytimg.com/vi/r9UcOBrPqPo/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Carrick SACKED Tomorrow? Players Left CONFUSED! Man Utd News",
@@ -189,13 +203,6 @@
       "link": "https://www.youtube.com/watch?v=sCXDHQMDDoQ",
       "pubDate": "2026-10-29T21:06:49Z",
       "thumb": "https://i.ytimg.com/vi/sCXDHQMDDoQ/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Inside Anfield: Liverpool vs Chelsea | Brilliant scenes from penalty shootout win!",
-      "link": "https://www.youtube.com/watch?v=0GVEp6T5JIo",
-      "pubDate": "2026-10-29T18:39:33Z",
-      "thumb": "https://i.ytimg.com/vi/0GVEp6T5JIo/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
@@ -455,13 +462,6 @@
       "link": "https://www.youtube.com/watch?v=83G0UfSGoXU",
       "pubDate": "2026-10-26T10:31:10Z",
       "thumb": "https://i.ytimg.com/vi/83G0UfSGoXU/hqdefault.jpg"
-    },
-    {
-      "team": "Tottenham Hotspur",
-      "title": "Chelsea 0-2 Tottenham | Premier League Extended Highlights",
-      "link": "https://www.youtube.com/watch?v=-CorEPR-y1o",
-      "pubDate": "2026-10-26T08:00:14Z",
-      "thumb": "https://i.ytimg.com/vi/-CorEPR-y1o/hqdefault.jpg"
     },
     {
       "team": "Brentford",
