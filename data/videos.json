@@ -1,12 +1,110 @@
 {
-  "updatedAt": "2026-10-31T18:54:49.074Z",
+  "updatedAt": "2026-10-31T22:02:26.916Z",
   "videos": [
+    {
+      "team": "Brentford",
+      "title": "Brentford 2-0 Nottingham Forest | Igor Thiago on target at the Gtech! 🤩 | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=JYed_SWxHaQ",
+      "pubDate": "2026-10-31T22:01:02Z",
+      "thumb": "https://i.ytimg.com/vi/JYed_SWxHaQ/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "AFC Bournemouth 2-0 Leeds United | Premier League highlights",
+      "link": "https://www.youtube.com/watch?v=tpg1wXI9jJw",
+      "pubDate": "2026-10-31T22:00:39Z",
+      "thumb": "https://i.ytimg.com/vi/tpg1wXI9jJw/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Brentford 2-0 Nottingham Forest | Premier League Highlights 🎬",
+      "link": "https://www.youtube.com/watch?v=0tCLp-mNYY0",
+      "pubDate": "2026-10-31T22:00:36Z",
+      "thumb": "https://i.ytimg.com/vi/0tCLp-mNYY0/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Defeat Away at Coventry | Coventry City 3-1 Sunderland AFC | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=PDbclShsYXs",
+      "pubDate": "2026-10-31T22:00:33Z",
+      "thumb": "https://i.ytimg.com/vi/PDbclShsYXs/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "Evanilson and Adli net in a third successive Premier League win | AFC Bournemouth 2-0 Leeds United",
+      "link": "https://www.youtube.com/watch?v=RDmurKN7uJo",
+      "pubDate": "2026-10-31T22:00:32Z",
+      "thumb": "https://i.ytimg.com/vi/RDmurKN7uJo/hqdefault.jpg"
+    },
+    {
+      "team": "Chelsea",
+      "title": "Chelsea 2-0 Man Utd | HIGHLIGHTS | Premier League 2026/27",
+      "link": "https://www.youtube.com/watch?v=OI58_-4ezU8",
+      "pubDate": "2026-10-31T22:00:30Z",
+      "thumb": "https://i.ytimg.com/vi/OI58_-4ezU8/hqdefault.jpg"
+    },
+    {
+      "team": "Ipswich Town",
+      "title": "HIGHLIGHTS | HULL CITY 2 TOWN 2",
+      "link": "https://www.youtube.com/watch?v=3OJyQKPxd9o",
+      "pubDate": "2026-10-31T22:00:28Z",
+      "thumb": "https://i.ytimg.com/vi/3OJyQKPxd9o/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "HIGHLIGHTS | Man City 0-1 Brighton | City unable to finish their chances at the Etihad!",
+      "link": "https://www.youtube.com/watch?v=kfkJYSDWNLA",
+      "pubDate": "2026-10-31T22:00:27Z",
+      "thumb": "https://i.ytimg.com/vi/kfkJYSDWNLA/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "Tottenham Hotspur 2-0 Crystal Palace | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=4-Pq69QJKCU",
+      "pubDate": "2026-10-31T22:00:20Z",
+      "thumb": "https://i.ytimg.com/vi/4-Pq69QJKCU/hqdefault.jpg"
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Spurs win three in a row | Tottenham 2-0 Crystal Palace | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=-HLgn5JpE6Y",
+      "pubDate": "2026-10-31T22:00:12Z",
+      "thumb": "https://i.ytimg.com/vi/-HLgn5JpE6Y/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "HIGHLIGHTS | Manchester City v Brighton | Premier League",
+      "link": "https://www.youtube.com/watch?v=e_XOWf9mqoE",
+      "pubDate": "2026-10-31T22:00:08Z",
+      "thumb": "https://i.ytimg.com/vi/e_XOWf9mqoE/hqdefault.jpg"
+    },
+    {
+      "team": "Coventry City",
+      "title": "Coventry City 3-1 Sunderland | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=0XdKLPbHm-c",
+      "pubDate": "2026-10-31T22:00:08Z",
+      "thumb": "https://i.ytimg.com/vi/0XdKLPbHm-c/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "Villa 1-1 Fulham || Post-Match Live || Presented by Visit Rwanda",
+      "link": "https://www.youtube.com/watch?v=VB5qE1CcyWw",
+      "pubDate": "2026-10-31T21:58:07Z",
+      "thumb": "https://i.ytimg.com/vi/VB5qE1CcyWw/hqdefault.jpg?v=6ae6646f"
+    },
     {
       "team": "Aston Villa",
       "title": "Villa v Fulham || Matchday Live || Presented by Visit Rwanda",
       "link": "https://www.youtube.com/watch?v=yW8HegBA99g",
-      "pubDate": "2026-10-31T18:45:00Z",
-      "thumb": "https://i.ytimg.com/vi/yW8HegBA99g/hqdefault.jpg?v=6ae62283"
+      "pubDate": "2026-10-31T19:49:41Z",
+      "thumb": "https://i.ytimg.com/vi/yW8HegBA99g/hqdefault.jpg"
+    },
+    {
+      "team": "Ipswich Town",
+      "title": "GARY O'NEIL ON DRAW WITH HULL",
+      "link": "https://www.youtube.com/watch?v=7oK6FAqDzCk",
+      "pubDate": "2026-10-31T18:57:11Z",
+      "thumb": "https://i.ytimg.com/vi/7oK6FAqDzCk/hqdefault.jpg"
     },
     {
       "team": "Manchester United",
@@ -149,13 +247,6 @@
       "thumb": "https://i.ytimg.com/vi/pszOyQysFZQ/hqdefault.jpg?v=6ae5bc8f"
     },
     {
-      "team": "Ipswich Town",
-      "title": "GARY O'NEIL LOOKS AHEAD TO HULL",
-      "link": "https://www.youtube.com/watch?v=3u0cVfYZbgk",
-      "pubDate": "2026-10-31T13:20:52Z",
-      "thumb": "https://i.ytimg.com/vi/3u0cVfYZbgk/hqdefault.jpg"
-    },
-    {
       "team": "Newcastle United",
       "title": "A special visit for some of our Junior Mags 🎃 #newcastle #football #halloween",
       "link": "https://www.youtube.com/watch?v=HVce8DGifRk",
@@ -254,13 +345,6 @@
       "thumb": "https://i.ytimg.com/vi/Z1B98M_4tM0/hqdefault.jpg"
     },
     {
-      "team": "Tottenham Hotspur",
-      "title": "Tottenham training ahead of Crystal Palace clash in the Premier League!",
-      "link": "https://www.youtube.com/watch?v=lrHLTyzZCuQ",
-      "pubDate": "2026-10-30T12:30:36Z",
-      "thumb": "https://i.ytimg.com/vi/lrHLTyzZCuQ/hqdefault.jpg"
-    },
-    {
       "team": "Sunderland",
       "title": "Jobe Bellingham, Granit Xhaka & More! | Sunderland's Funniest Psycho Path Moments 🎃",
       "link": "https://www.youtube.com/watch?v=j7XCfGjo7wo",
@@ -338,13 +422,6 @@
       "thumb": "https://i.ytimg.com/vi/uhGlN1TDK6Y/hqdefault.jpg"
     },
     {
-      "team": "Nottingham Forest",
-      "title": "Oliver Glasner Press Conference 🎙️ | Brentford vs Nottingham Forest | Premier League",
-      "link": "https://www.youtube.com/watch?v=L8RTOFr_G2Y",
-      "pubDate": "2026-10-29T16:42:46Z",
-      "thumb": "https://i.ytimg.com/vi/L8RTOFr_G2Y/hqdefault.jpg"
-    },
-    {
       "team": "Coventry City",
       "title": "Frank Lampard Pre-Match Press Conference | Coventry City vs Sunderland | Premier League",
       "link": "https://www.youtube.com/watch?v=lzUQ9OgtiEY",
@@ -366,13 +443,6 @@
       "thumb": "https://i.ytimg.com/vi/Mp-kkQuc-DU/hqdefault.jpg"
     },
     {
-      "team": "Leeds United",
-      "title": "Daniel Farke pre-match press conference | AFC Bournemouth v Leeds United | Premier League",
-      "link": "https://www.youtube.com/watch?v=plLJTc6KMGM",
-      "pubDate": "2026-10-29T14:00:02Z",
-      "thumb": "https://i.ytimg.com/vi/plLJTc6KMGM/hqdefault.jpg"
-    },
-    {
       "team": "Sunderland",
       "title": "Coventry City vs Sunderland | Régis Le Bris' Premier League Press Conference",
       "link": "https://www.youtube.com/watch?v=Ua7s53ep6nk",
@@ -387,20 +457,6 @@
       "thumb": "https://i.ytimg.com/vi/nMPDnxXBwzA/hqdefault.jpg"
     },
     {
-      "team": "AFC Bournemouth",
-      "title": "Sneaky Lewis Cook goal from unique pitchside angle as Cherries go through in Carabao Cup | Alt Angle",
-      "link": "https://www.youtube.com/watch?v=3mmVv0VzOgI",
-      "pubDate": "2026-10-29T11:04:51Z",
-      "thumb": "https://i.ytimg.com/vi/3mmVv0VzOgI/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "HIGHLIGHTS | Manchester City v Brighton | Carabao Cup",
-      "link": "https://www.youtube.com/watch?v=u8AgNM4r9qQ",
-      "pubDate": "2026-10-29T09:53:33Z",
-      "thumb": "https://i.ytimg.com/vi/u8AgNM4r9qQ/hqdefault.jpg"
-    },
-    {
       "team": "Brentford",
       "title": "Sunderland 3-2 Brentford | Defeat at the Stadium of Light | Carabao Cup Highlights",
       "link": "https://www.youtube.com/watch?v=IyyvNZK5Ks0",
@@ -408,46 +464,11 @@
       "thumb": "https://i.ytimg.com/vi/IyyvNZK5Ks0/hqdefault.jpg"
     },
     {
-      "team": "Chelsea",
-      "title": "Liverpool 1-1 Chelsea (6-5 pens) | HIGHLIGHTS | Carabao Cup 2026/27",
-      "link": "https://www.youtube.com/watch?v=_e74c-a1r1o",
-      "pubDate": "2026-10-29T01:43:12Z",
-      "thumb": "https://i.ytimg.com/vi/_e74c-a1r1o/hqdefault.jpg"
-    },
-    {
       "team": "Manchester City",
       "title": "EXTENDED HIGHLIGHTS | Man City 2-2 Brighton | City go through on pens! (4-3)",
       "link": "https://www.youtube.com/watch?v=FYOQPzXc4T4",
       "pubDate": "2026-10-29T01:00:16Z",
       "thumb": "https://i.ytimg.com/vi/FYOQPzXc4T4/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "Carabao Cup Highlights | AFC Bournemouth v Aston Villa",
-      "link": "https://www.youtube.com/watch?v=HbeWWm7J8NM",
-      "pubDate": "2026-10-29T00:00:39Z",
-      "thumb": "https://i.ytimg.com/vi/HbeWWm7J8NM/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Extended Carabao Cup Highlights | Sunderland AFC 3 - 2 Brentford FC",
-      "link": "https://www.youtube.com/watch?v=kKm51i19Zc0",
-      "pubDate": "2026-10-29T00:00:18Z",
-      "thumb": "https://i.ytimg.com/vi/kKm51i19Zc0/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "NKETIAH AGAIN 🎯 | Fulham 0-1 Crystal Palace | Carabao Cup Highlights",
-      "link": "https://www.youtube.com/watch?v=6CVBDbazykw",
-      "pubDate": "2026-10-28T23:56:02Z",
-      "thumb": "https://i.ytimg.com/vi/6CVBDbazykw/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "MATCHDAY LIVE! Man City v Brighton | Carabao Cup",
-      "link": "https://www.youtube.com/watch?v=IeqPFbtn94Y",
-      "pubDate": "2026-10-28T22:38:15Z",
-      "thumb": "https://i.ytimg.com/vi/IeqPFbtn94Y/hqdefault.jpg"
     },
     {
       "team": "Hull City",
@@ -499,25 +520,11 @@
       "thumb": "https://i.ytimg.com/vi/eCK-yWkw_wc/hqdefault.jpg"
     },
     {
-      "team": "Ipswich Town",
-      "title": "TOWN IN FIVE | NOTTINGHAM FOREST (H)",
-      "link": "https://www.youtube.com/watch?v=Ill85v8PixU",
-      "pubDate": "2026-10-25T18:30:17Z",
-      "thumb": "https://i.ytimg.com/vi/Ill85v8PixU/hqdefault.jpg"
-    },
-    {
       "team": "Coventry City",
       "title": "Coventry City 0-1 Fulham | Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=xJZ53nV8t1Q",
       "pubDate": "2026-10-24T23:00:13Z",
       "thumb": "https://i.ytimg.com/vi/xJZ53nV8t1Q/hqdefault.jpg"
-    },
-    {
-      "team": "Coventry City",
-      "title": "Frank Lampard, Jay Dasilva & Ethan Pinnock Reaction | Coventry City vs Fulham | Premier League",
-      "link": "https://www.youtube.com/watch?v=1Fh7eWN5jS0",
-      "pubDate": "2026-10-24T16:56:35Z",
-      "thumb": "https://i.ytimg.com/vi/1Fh7eWN5jS0/hqdefault.jpg"
     }
   ]
 }
