@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-30T23:09:56.606Z",
+  "updatedAt": "2026-10-31T02:24:47.083Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "MAN CITY v FRIIIGHTON 🎃 👻 🕸️ | Halloween Special v Brighton! MATCHDAY LIVE! | Premier League",
+      "link": "https://www.youtube.com/watch?v=Xydy9sZGdHM",
+      "pubDate": "2026-10-31T00:00:00Z",
+      "thumb": "https://i.ytimg.com/vi/Xydy9sZGdHM/hqdefault.jpg?v=6ae52f82"
+    },
     {
       "team": "Tottenham Hotspur",
       "title": "Dejan Kulusevski: 526 days | An Original Spurs Production",
@@ -434,13 +441,6 @@
       "link": "https://www.youtube.com/watch?v=siM9X9JXvLo",
       "pubDate": "2026-10-27T11:58:07Z",
       "thumb": "https://i.ytimg.com/vi/siM9X9JXvLo/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "Enzo Maresca press conference | Brighton (H) | EFL Cup",
-      "link": "https://www.youtube.com/watch?v=HYE_7FteogA",
-      "pubDate": "2026-10-27T10:36:30Z",
-      "thumb": "https://i.ytimg.com/vi/HYE_7FteogA/hqdefault.jpg"
     },
     {
       "team": "Newcastle United",
