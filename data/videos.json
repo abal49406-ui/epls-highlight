@@ -1,12 +1,124 @@
 {
-  "updatedAt": "2026-10-31T14:54:48.997Z",
+  "updatedAt": "2026-10-31T18:54:49.074Z",
   "videos": [
+    {
+      "team": "Aston Villa",
+      "title": "Villa v Fulham || Matchday Live || Presented by Visit Rwanda",
+      "link": "https://www.youtube.com/watch?v=yW8HegBA99g",
+      "pubDate": "2026-10-31T18:45:00Z",
+      "thumb": "https://i.ytimg.com/vi/yW8HegBA99g/hqdefault.jpg?v=6ae62283"
+    },
+    {
+      "team": "Manchester United",
+      "title": "CARRICK Has To GO! Chelsea 2-0 Man United Goldbridge Match Reaction",
+      "link": "https://www.youtube.com/watch?v=7zsOxx9ftC0",
+      "pubDate": "2026-10-31T18:31:20Z",
+      "thumb": "https://i.ytimg.com/vi/7zsOxx9ftC0/hqdefault.jpg"
+    },
+    {
+      "team": "Coventry City",
+      "title": "Frank Lampard, Jack Rudoni and Stephen Mfuni Reaction | Coventry City vs Sunderland | Premier League",
+      "link": "https://www.youtube.com/watch?v=qLaHtlk1xy0",
+      "pubDate": "2026-10-31T18:27:31Z",
+      "thumb": "https://i.ytimg.com/vi/qLaHtlk1xy0/hqdefault.jpg"
+    },
+    {
+      "team": "Hull City",
+      "title": "Hull City 2-2 Ipswich Town | Sergej Jakirović's Post-Match Reaction",
+      "link": "https://www.youtube.com/watch?v=FQk2RAiMnH8",
+      "pubDate": "2026-10-31T18:24:04Z",
+      "thumb": "https://i.ytimg.com/vi/FQk2RAiMnH8/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "POST-MATCH | Hurzeler, Verbruggen & Ayari | Manchester City v Brighton | Premier League",
+      "link": "https://www.youtube.com/watch?v=WyxX8TR-VpE",
+      "pubDate": "2026-10-31T18:08:33Z",
+      "thumb": "https://i.ytimg.com/vi/WyxX8TR-VpE/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "MAN CITY v FRIIIGHTON 🎃 👻 🕸️ | Halloween Special v Brighton! MATCHDAY LIVE! | Premier League",
+      "link": "https://www.youtube.com/watch?v=Xydy9sZGdHM",
+      "pubDate": "2026-10-31T18:03:38Z",
+      "thumb": "https://i.ytimg.com/vi/Xydy9sZGdHM/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Oliver Glasner's Reaction 🗣️ | Brentford vs Nottingham Forest | Premier League",
+      "link": "https://www.youtube.com/watch?v=9R3TJOIjx8I",
+      "pubDate": "2026-10-31T17:57:07Z",
+      "thumb": "https://i.ytimg.com/vi/9R3TJOIjx8I/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "\"We have to stick together\" | Le Bris & Xhaka Post-Match Reaction",
+      "link": "https://www.youtube.com/watch?v=ykEVP5am9_o",
+      "pubDate": "2026-10-31T17:52:57Z",
+      "thumb": "https://i.ytimg.com/vi/ykEVP5am9_o/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "“Football can be brutal” | Daniel Farke reaction | AFC Bournemouth 2-0 Leeds United",
+      "link": "https://www.youtube.com/watch?v=xOEg4hazFHE",
+      "pubDate": "2026-10-31T17:48:52Z",
+      "thumb": "https://i.ytimg.com/vi/xOEg4hazFHE/hqdefault.jpg"
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Spurs v Crystal Palace | THE WARM-UP LIVE",
+      "link": "https://www.youtube.com/watch?v=apy8r59ZeIA",
+      "pubDate": "2026-10-31T17:30:25Z",
+      "thumb": "https://i.ytimg.com/vi/apy8r59ZeIA/hqdefault.jpg?v=6ae60cb9"
+    },
+    {
+      "team": "Chelsea",
+      "title": "ALONSO & LAVIA react post-Man Utd | Chelsea 2-0 Man Utd | Premier League 2026/27",
+      "link": "https://www.youtube.com/watch?v=9ySO3x7j23E",
+      "pubDate": "2026-10-31T17:17:02Z",
+      "thumb": "https://i.ytimg.com/vi/9ySO3x7j23E/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "CHELSEA vs MAN UNITED LIVE Premier League Watchalong",
+      "link": "https://www.youtube.com/watch?v=Rh0B0Y_vhCE",
+      "pubDate": "2026-10-31T16:33:25Z",
+      "thumb": "https://i.ytimg.com/vi/Rh0B0Y_vhCE/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Man United CAPITULATE Again! Chelsea 2-0 Man United! Fans Forum.",
+      "link": "https://www.youtube.com/watch?v=mk2EkRoV6Wk",
+      "pubDate": "2026-10-31T16:28:59Z",
+      "thumb": "https://i.ytimg.com/vi/mk2EkRoV6Wk/hqdefault.jpg"
+    },
     {
       "team": "Ipswich Town",
       "title": "MATCHDAY LIVE | HULL CITY V TOWN",
       "link": "https://www.youtube.com/watch?v=URuI6D5JM98",
-      "pubDate": "2026-10-31T14:52:36Z",
-      "thumb": "https://i.ytimg.com/vi/URuI6D5JM98/hqdefault.jpg?v=d"
+      "pubDate": "2026-10-31T16:13:26Z",
+      "thumb": "https://i.ytimg.com/vi/URuI6D5JM98/hqdefault.jpg"
+    },
+    {
+      "team": "Ipswich Town",
+      "title": "MATCHDAY LIVE | HT: HULL CITY V TOWN",
+      "link": "https://www.youtube.com/watch?v=SuC1pqMXoNg",
+      "pubDate": "2026-10-31T16:06:55Z",
+      "thumb": "https://i.ytimg.com/vi/SuC1pqMXoNg/hqdefault.jpg"
+    },
+    {
+      "team": "Newcastle United",
+      "title": "Newcastle United 2 Peterborough United 0 | U21s PL Cup Highlights",
+      "link": "https://www.youtube.com/watch?v=lYW0K7Zl078",
+      "pubDate": "2026-10-31T15:09:16Z",
+      "thumb": "https://i.ytimg.com/vi/lYW0K7Zl078/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Matchday Live | AFC Bournemouth v Leeds United",
+      "link": "https://www.youtube.com/watch?v=fdtLrrGWMr4",
+      "pubDate": "2026-10-31T14:57:14Z",
+      "thumb": "https://i.ytimg.com/vi/fdtLrrGWMr4/hqdefault.jpg"
     },
     {
       "team": "Arsenal",
@@ -14,27 +126,6 @@
       "link": "https://www.youtube.com/watch?v=EUNOmrZIoOc",
       "pubDate": "2026-10-31T14:39:42Z",
       "thumb": "https://i.ytimg.com/vi/EUNOmrZIoOc/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "CARRICK Has To GO! Chelsea 2-0 Man United Goldbridge Match Reaction",
-      "link": "https://www.youtube.com/watch?v=7zsOxx9ftC0",
-      "pubDate": "2026-10-31T14:39:08Z",
-      "thumb": "https://i.ytimg.com/vi/7zsOxx9ftC0/hqdefault.jpg?v=6ae5fbe7"
-    },
-    {
-      "team": "Manchester United",
-      "title": "CHELSEA vs MAN UNITED LIVE Premier League Watchalong",
-      "link": "https://www.youtube.com/watch?v=Rh0B0Y_vhCE",
-      "pubDate": "2026-10-31T14:33:37Z",
-      "thumb": "https://i.ytimg.com/vi/Rh0B0Y_vhCE/hqdefault.jpg?v=6ae5bd85"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Man United CAPITULATE Again! Chelsea 2-0 Man United! Fans Forum.",
-      "link": "https://www.youtube.com/watch?v=mk2EkRoV6Wk",
-      "pubDate": "2026-10-31T14:30:51Z",
-      "thumb": "https://i.ytimg.com/vi/mk2EkRoV6Wk/hqdefault.jpg?v=6ae5fb9d"
     },
     {
       "team": "Manchester United",
@@ -49,20 +140,6 @@
       "link": "https://www.youtube.com/watch?v=QTsPAqrkfX4",
       "pubDate": "2026-10-31T14:30:13Z",
       "thumb": "https://i.ytimg.com/vi/QTsPAqrkfX4/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "Matchday Live | AFC Bournemouth v Leeds United",
-      "link": "https://www.youtube.com/watch?v=fdtLrrGWMr4",
-      "pubDate": "2026-10-31T14:23:23Z",
-      "thumb": "https://i.ytimg.com/vi/fdtLrrGWMr4/hqdefault.jpg?v=6ae4a4b6"
-    },
-    {
-      "team": "Manchester City",
-      "title": "MAN CITY v FRIIIGHTON 🎃 👻 🕸️ | Halloween Special v Brighton! MATCHDAY LIVE! | Premier League",
-      "link": "https://www.youtube.com/watch?v=Xydy9sZGdHM",
-      "pubDate": "2026-10-31T14:22:09Z",
-      "thumb": "https://i.ytimg.com/vi/Xydy9sZGdHM/hqdefault.jpg?v=6ae52f82"
     },
     {
       "team": "AFC Bournemouth",
@@ -324,13 +401,6 @@
       "thumb": "https://i.ytimg.com/vi/u8AgNM4r9qQ/hqdefault.jpg"
     },
     {
-      "team": "Tottenham Hotspur",
-      "title": "A true Premier League classic 🍿 Arsenal 4-4 Tottenham 📺",
-      "link": "https://www.youtube.com/watch?v=IPu-jCC1tjc",
-      "pubDate": "2026-10-29T08:30:01Z",
-      "thumb": "https://i.ytimg.com/vi/IPu-jCC1tjc/hqdefault.jpg"
-    },
-    {
       "team": "Brentford",
       "title": "Sunderland 3-2 Brentford | Defeat at the Stadium of Light | Carabao Cup Highlights",
       "link": "https://www.youtube.com/watch?v=IyyvNZK5Ks0",
@@ -350,13 +420,6 @@
       "link": "https://www.youtube.com/watch?v=FYOQPzXc4T4",
       "pubDate": "2026-10-29T01:00:16Z",
       "thumb": "https://i.ytimg.com/vi/FYOQPzXc4T4/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "LIVE FOOTBALL: Leeds United Women v York City Ladies | FA Women's National League",
-      "link": "https://www.youtube.com/watch?v=dSvc900tIk4",
-      "pubDate": "2026-10-29T00:31:17Z",
-      "thumb": "https://i.ytimg.com/vi/dSvc900tIk4/hqdefault.jpg"
     },
     {
       "team": "Aston Villa",
@@ -380,27 +443,6 @@
       "thumb": "https://i.ytimg.com/vi/6CVBDbazykw/hqdefault.jpg"
     },
     {
-      "team": "Brighton & Hove Albion",
-      "title": "POST MATCH | Fabian Hurzeler | Manchester City v Brighton | Carabao Cup",
-      "link": "https://www.youtube.com/watch?v=MxCHVRhVo-s",
-      "pubDate": "2026-10-28T23:40:54Z",
-      "thumb": "https://i.ytimg.com/vi/MxCHVRhVo-s/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "\"Keep going forward\" | Unai Emery on Bournemouth defeat 🗣️",
-      "link": "https://www.youtube.com/watch?v=Wri6VZzNexY",
-      "pubDate": "2026-10-28T23:05:08Z",
-      "thumb": "https://i.ytimg.com/vi/Wri6VZzNexY/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Through to the Quarter-Finals | Sunderland AFC 3 - 2 Brentford FC | Carabao Cup Highlights",
-      "link": "https://www.youtube.com/watch?v=-TwmxLOljzQ",
-      "pubDate": "2026-10-28T23:00:15Z",
-      "thumb": "https://i.ytimg.com/vi/-TwmxLOljzQ/hqdefault.jpg"
-    },
-    {
       "team": "Manchester City",
       "title": "MATCHDAY LIVE! Man City v Brighton | Carabao Cup",
       "link": "https://www.youtube.com/watch?v=IeqPFbtn94Y",
@@ -408,25 +450,11 @@
       "thumb": "https://i.ytimg.com/vi/IeqPFbtn94Y/hqdefault.jpg"
     },
     {
-      "team": "Chelsea",
-      "title": "Flora 2-2 Cobham Next Gen | HIGHLIGHTS | UEFA Youth League | 2026/27",
-      "link": "https://www.youtube.com/watch?v=0cQj7XqrM6g",
-      "pubDate": "2026-10-28T22:25:39Z",
-      "thumb": "https://i.ytimg.com/vi/0cQj7XqrM6g/hqdefault.jpg"
-    },
-    {
       "team": "Hull City",
       "title": "Ice Cold From McBurnie! Behind the Tigers Brentford (h)",
       "link": "https://www.youtube.com/watch?v=I9o5DfxtMoM",
       "pubDate": "2026-10-27T19:00:19Z",
       "thumb": "https://i.ytimg.com/vi/I9o5DfxtMoM/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "Manchester City v Brighton | Hurzeler pre-match press conference 🎙️",
-      "link": "https://www.youtube.com/watch?v=a4mntyNqDqQ",
-      "pubDate": "2026-10-27T15:48:15Z",
-      "thumb": "https://i.ytimg.com/vi/a4mntyNqDqQ/hqdefault.jpg"
     },
     {
       "team": "Fulham",
@@ -443,13 +471,6 @@
       "thumb": "https://i.ytimg.com/vi/R8RbeJoc0pw/hqdefault.jpg"
     },
     {
-      "team": "Newcastle United",
-      "title": "Newcastle United 3 Sunderland 2 | U21 PL2 Highlights",
-      "link": "https://www.youtube.com/watch?v=de1fpranFLw",
-      "pubDate": "2026-10-27T13:27:06Z",
-      "thumb": "https://i.ytimg.com/vi/de1fpranFLw/hqdefault.jpg"
-    },
-    {
       "team": "Fulham",
       "title": "\"We are ready for another battle\" ⚔️ | Álvaro Arbeloa Carabao Cup Press Conference | Fulham v Palace",
       "link": "https://www.youtube.com/watch?v=Qw65jW4z9EY",
@@ -462,13 +483,6 @@
       "link": "https://www.youtube.com/watch?v=ZToWbUXbSUI",
       "pubDate": "2026-10-27T12:00:25Z",
       "thumb": "https://i.ytimg.com/vi/ZToWbUXbSUI/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Nottingham Forest Women 2-2 Newcastle United Women | Barclays WSL Highlights",
-      "link": "https://www.youtube.com/watch?v=siM9X9JXvLo",
-      "pubDate": "2026-10-27T11:58:07Z",
-      "thumb": "https://i.ytimg.com/vi/siM9X9JXvLo/hqdefault.jpg"
     },
     {
       "team": "Hull City",
@@ -492,13 +506,6 @@
       "thumb": "https://i.ytimg.com/vi/Ill85v8PixU/hqdefault.jpg"
     },
     {
-      "team": "Hull City",
-      "title": "Hull City 1-1 Brentford | Sergej Jakirović's Post-Match Reaction",
-      "link": "https://www.youtube.com/watch?v=zodn4FJfdng",
-      "pubDate": "2026-10-25T17:18:52Z",
-      "thumb": "https://i.ytimg.com/vi/zodn4FJfdng/hqdefault.jpg"
-    },
-    {
       "team": "Coventry City",
       "title": "Coventry City 0-1 Fulham | Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=xJZ53nV8t1Q",
@@ -511,20 +518,6 @@
       "link": "https://www.youtube.com/watch?v=1Fh7eWN5jS0",
       "pubDate": "2026-10-24T16:56:35Z",
       "thumb": "https://i.ytimg.com/vi/1Fh7eWN5jS0/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "HIGHLIGHTS | TOWN 1 NOTTINGHAM FOREST 1",
-      "link": "https://www.youtube.com/watch?v=wQAczphZCok",
-      "pubDate": "2026-10-23T23:17:43Z",
-      "thumb": "https://i.ytimg.com/vi/wQAczphZCok/hqdefault.jpg"
-    },
-    {
-      "team": "Coventry City",
-      "title": "Frank Lampard Pre-Match Press Conference | Coventry City vs Fulham | Premier League",
-      "link": "https://www.youtube.com/watch?v=r_iOX-wdhVQ",
-      "pubDate": "2026-10-22T15:07:07Z",
-      "thumb": "https://i.ytimg.com/vi/r_iOX-wdhVQ/hqdefault.jpg"
     }
   ]
 }
