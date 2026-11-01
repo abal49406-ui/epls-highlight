@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-11-01T19:09:35.968Z",
+  "updatedAt": "2026-11-01T22:50:55.769Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "Highlights: Liverpool 0-1 Arsenal",
+      "link": "https://www.youtube.com/watch?v=j5hEW0LVhTI",
+      "pubDate": "2026-11-01T22:05:28Z",
+      "thumb": "https://i.ytimg.com/vi/j5hEW0LVhTI/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "HAVERTZ GOAL EARNS VITAL WIN IN THE TITLE RACE | HIGHLIGHTS | Liverpool vs Arsenal (0-1) l PL",
+      "link": "https://www.youtube.com/watch?v=Zt1VugPdwFw",
+      "pubDate": "2026-11-01T22:01:34Z",
+      "thumb": "https://i.ytimg.com/vi/Zt1VugPdwFw/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Highlights: Liverpool 0-1 Arsenal | Havertz Scores In Premier League Defeat",
+      "link": "https://www.youtube.com/watch?v=sjase4s7R0I",
+      "pubDate": "2026-11-01T22:00:13Z",
+      "thumb": "https://i.ytimg.com/vi/sjase4s7R0I/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "United's SHOCK Carrick Plan Revealed! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=zyhxp7vaDOg",
+      "pubDate": "2026-11-01T21:04:48Z",
+      "thumb": "https://i.ytimg.com/vi/zyhxp7vaDOg/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Andoni Iraola Reacts To Liverpool 0-1 Arsenal | Premier League",
+      "link": "https://www.youtube.com/watch?v=d0RNr8xJmYo",
+      "pubDate": "2026-11-01T19:53:00Z",
+      "thumb": "https://i.ytimg.com/vi/d0RNr8xJmYo/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "Matchday Live: Liverpool vs Arsenal | Premier League build-up from Anfield",
@@ -261,13 +296,6 @@
       "thumb": "https://i.ytimg.com/vi/Rh0B0Y_vhCE/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Man United CAPITULATE Again! Chelsea 2-0 Man United! Fans Forum.",
-      "link": "https://www.youtube.com/watch?v=mk2EkRoV6Wk",
-      "pubDate": "2026-10-31T16:28:59Z",
-      "thumb": "https://i.ytimg.com/vi/mk2EkRoV6Wk/hqdefault.jpg"
-    },
-    {
       "team": "Ipswich Town",
       "title": "MATCHDAY LIVE | HULL CITY V TOWN",
       "link": "https://www.youtube.com/watch?v=URuI6D5JM98",
@@ -317,13 +345,6 @@
       "thumb": "https://i.ytimg.com/vi/VG1bL1gqnnI/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "Top 10: BEST Liverpool vs Arsenal Premier League games at Anfield",
-      "link": "https://www.youtube.com/watch?v=r9UcOBrPqPo",
-      "pubDate": "2026-10-30T20:00:18Z",
-      "thumb": "https://i.ytimg.com/vi/r9UcOBrPqPo/hqdefault.jpg"
-    },
-    {
       "team": "Brentford",
       "title": "Community made them. Role models inspired them.",
       "link": "https://www.youtube.com/watch?v=ztulBkFwiuM",
@@ -350,13 +371,6 @@
       "link": "https://www.youtube.com/watch?v=LG0ych5lF2s",
       "pubDate": "2026-10-30T14:27:58Z",
       "thumb": "https://i.ytimg.com/vi/LG0ych5lF2s/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Press Conference: Liverpool vs Arsenal | Andoni Iraola",
-      "link": "https://www.youtube.com/watch?v=M3vKp7bGl5I",
-      "pubDate": "2026-10-30T14:04:26Z",
-      "thumb": "https://i.ytimg.com/vi/M3vKp7bGl5I/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
@@ -394,13 +408,6 @@
       "thumb": "https://i.ytimg.com/vi/k6BCI7Bpw40/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "Inside Training: Goals & Full Access with Liverpool FC Under-21s",
-      "link": "https://www.youtube.com/watch?v=LYQQcVjFVGM",
-      "pubDate": "2026-10-30T11:50:18Z",
-      "thumb": "https://i.ytimg.com/vi/LYQQcVjFVGM/hqdefault.jpg"
-    },
-    {
       "team": "Crystal Palace",
       "title": "Fulham Carabao Cup | Nketiah sends Palace into quarter-finals! | Access All Over 🎯",
       "link": "https://www.youtube.com/watch?v=by3r7WueCTk",
@@ -413,13 +420,6 @@
       "link": "https://www.youtube.com/watch?v=fxs6pt4nzcM",
       "pubDate": "2026-10-30T10:00:06Z",
       "thumb": "https://i.ytimg.com/vi/fxs6pt4nzcM/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "RAPID REACTIONS | Arsenal’s Best Rebound Goals Ft. Saka & Merino vs Liverpool",
-      "link": "https://www.youtube.com/watch?v=bHnmrhRCoWk",
-      "pubDate": "2026-10-30T09:00:33Z",
-      "thumb": "https://i.ytimg.com/vi/bHnmrhRCoWk/hqdefault.jpg"
     },
     {
       "team": "Newcastle United",
