@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-01T01:12:32.367Z",
+  "updatedAt": "2026-11-01T07:35:17.106Z",
   "videos": [
+    {
+      "team": "Fulham",
+      "title": "Deserved Point 💪 | Villa 1-1 Fulham | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=HdsjjxoAA2M",
+      "pubDate": "2026-11-01T03:00:05Z",
+      "thumb": "https://i.ytimg.com/vi/HdsjjxoAA2M/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: U18 Premier League South: AFC Bournemouth v Tottenham Hotspur",
+      "link": "https://www.youtube.com/watch?v=pszOyQysFZQ",
+      "pubDate": "2026-11-01T01:41:10Z",
+      "thumb": "https://i.ytimg.com/vi/pszOyQysFZQ/hqdefault.jpg"
+    },
     {
       "team": "Aston Villa",
       "title": "Villa 1-1 Fulham | Premier League Highlights",
@@ -261,13 +275,6 @@
       "thumb": "https://i.ytimg.com/vi/QTsPAqrkfX4/hqdefault.jpg"
     },
     {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: U18 Premier League South: AFC Bournemouth v Tottenham Hotspur",
-      "link": "https://www.youtube.com/watch?v=pszOyQysFZQ",
-      "pubDate": "2026-10-31T13:51:57Z",
-      "thumb": "https://i.ytimg.com/vi/pszOyQysFZQ/hqdefault.jpg?v=6ae5bc8f"
-    },
-    {
       "team": "Newcastle United",
       "title": "A special visit for some of our Junior Mags 🎃 #newcastle #football #halloween",
       "link": "https://www.youtube.com/watch?v=HVce8DGifRk",
@@ -280,13 +287,6 @@
       "link": "https://www.youtube.com/watch?v=VG1bL1gqnnI",
       "pubDate": "2026-10-31T09:00:29Z",
       "thumb": "https://i.ytimg.com/vi/VG1bL1gqnnI/hqdefault.jpg"
-    },
-    {
-      "team": "Tottenham Hotspur",
-      "title": "Dejan Kulusevski: 526 days | An Original Spurs Production",
-      "link": "https://www.youtube.com/watch?v=E6pRgXa-5Lo",
-      "pubDate": "2026-10-30T20:00:39Z",
-      "thumb": "https://i.ytimg.com/vi/E6pRgXa-5Lo/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
@@ -497,13 +497,6 @@
       "link": "https://www.youtube.com/watch?v=Qw65jW4z9EY",
       "pubDate": "2026-10-27T13:10:57Z",
       "thumb": "https://i.ytimg.com/vi/Qw65jW4z9EY/hqdefault.jpg"
-    },
-    {
-      "team": "Fulham",
-      "title": "Oscar for the win 🔥 | Coventry 0-1 Fulham | Extended Highlights",
-      "link": "https://www.youtube.com/watch?v=ZToWbUXbSUI",
-      "pubDate": "2026-10-27T12:00:25Z",
-      "thumb": "https://i.ytimg.com/vi/ZToWbUXbSUI/hqdefault.jpg"
     },
     {
       "team": "Brentford",
