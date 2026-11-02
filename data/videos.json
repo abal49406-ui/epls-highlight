@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-02T01:58:12.763Z",
+  "updatedAt": "2026-11-02T08:52:58.451Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: FA Women's National League Cup: AFC Wimbledon Women v AFC Bournemouth Women",
+      "link": "https://www.youtube.com/watch?v=-3rn802f_Bs",
+      "pubDate": "2026-11-02T04:12:22Z",
+      "thumb": "https://i.ytimg.com/vi/-3rn802f_Bs/hqdefault.jpg"
+    },
     {
       "team": "Brighton & Hove Albion",
       "title": "EXTENDED HIGHLIGHTS | Manchester City v Brighton | Premier League",
@@ -91,13 +98,6 @@
       "link": "https://www.youtube.com/watch?v=ZDGV-mrfYfo",
       "pubDate": "2026-11-01T18:26:03Z",
       "thumb": "https://i.ytimg.com/vi/ZDGV-mrfYfo/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: FA Women's National League Cup: AFC Wimbledon Women v AFC Bournemouth Women",
-      "link": "https://www.youtube.com/watch?v=-3rn802f_Bs",
-      "pubDate": "2026-11-01T16:07:26Z",
-      "thumb": "https://i.ytimg.com/vi/-3rn802f_Bs/hqdefault.jpg?v=6ae736d2"
     },
     {
       "team": "Ipswich Town",
