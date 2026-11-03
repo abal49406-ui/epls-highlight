@@ -1,12 +1,40 @@
 {
-  "updatedAt": "2026-11-02T18:58:18.078Z",
+  "updatedAt": "2026-11-03T01:27:04.349Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "EXTENDED HIGHLIGHTS | Colossal defensive performance at Anfield l Liverpool vs Arsenal (0-1) | PL",
+      "link": "https://www.youtube.com/watch?v=0xIV9hDNGvU",
+      "pubDate": "2026-11-03T00:01:38Z",
+      "thumb": "https://i.ytimg.com/vi/0xIV9hDNGvU/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Extended Highlights: Liverpool 0-1 Arsenal | Premier League",
+      "link": "https://www.youtube.com/watch?v=XdsXWwSU9rA",
+      "pubDate": "2026-11-03T00:00:14Z",
+      "thumb": "https://i.ytimg.com/vi/XdsXWwSU9rA/hqdefault.jpg"
+    },
+    {
+      "team": "Newcastle United",
+      "title": "Newcastle United 0 Everton 1 | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=dUKL-nkjzVI",
+      "pubDate": "2026-11-03T00:00:02Z",
+      "thumb": "https://i.ytimg.com/vi/dUKL-nkjzVI/hqdefault.jpg"
+    },
     {
       "team": "AFC Bournemouth",
       "title": "Premier League Cup Live: AFC Bournemouth v Cardiff City",
       "link": "https://www.youtube.com/watch?v=JYKWGq5j0Oc",
-      "pubDate": "2026-11-02T18:46:10Z",
-      "thumb": "https://i.ytimg.com/vi/JYKWGq5j0Oc/hqdefault.jpg?v=6ae8c066"
+      "pubDate": "2026-11-02T21:11:25Z",
+      "thumb": "https://i.ytimg.com/vi/JYKWGq5j0Oc/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Carrick CONFIDENT! Emery NEXT? Man United vs Roma Goldbridge Preview",
+      "link": "https://www.youtube.com/watch?v=E2mHh5PxKmY",
+      "pubDate": "2026-11-02T21:03:02Z",
+      "thumb": "https://i.ytimg.com/vi/E2mHh5PxKmY/hqdefault.jpg"
     },
     {
       "team": "Aston Villa",
@@ -56,13 +84,6 @@
       "link": "https://www.youtube.com/watch?v=QAO9vA6HJM8",
       "pubDate": "2026-11-02T14:01:57Z",
       "thumb": "https://i.ytimg.com/vi/QAO9vA6HJM8/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Matchday Live: Crystal Palace vs Liverpool | Premier League build-up",
-      "link": "https://www.youtube.com/watch?v=qPCDF0U80IA",
-      "pubDate": "2026-11-02T13:50:11Z",
-      "thumb": "https://i.ytimg.com/vi/qPCDF0U80IA/hqdefault.jpg?v=6ae89515"
     },
     {
       "team": "Sunderland",
@@ -182,13 +203,6 @@
       "link": "https://www.youtube.com/watch?v=4Idq18drlSU",
       "pubDate": "2026-11-01T15:39:27Z",
       "thumb": "https://i.ytimg.com/vi/4Idq18drlSU/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "RIDICULOUS! Club BACK Carrick Again! Man Utd News",
-      "link": "https://www.youtube.com/watch?v=mKowehJHpfI",
-      "pubDate": "2026-11-01T12:57:21Z",
-      "thumb": "https://i.ytimg.com/vi/mKowehJHpfI/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
