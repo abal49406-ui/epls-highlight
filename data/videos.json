@@ -1,12 +1,54 @@
 {
-  "updatedAt": "2026-11-04T16:23:46.281Z",
+  "updatedAt": "2026-11-04T22:08:11.864Z",
   "videos": [
+    {
+      "team": "Brentford",
+      "title": "Kelleher's fan surprise + 100th Home PL Game BTS | Inside Brentford | Brentford 2-0 Forest",
+      "link": "https://www.youtube.com/watch?v=yCTFXkz-WDI",
+      "pubDate": "2026-11-04T22:00:05Z",
+      "thumb": "https://i.ytimg.com/vi/yCTFXkz-WDI/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "This is MADNESS! Goldbridge Man Utd News",
+      "link": "https://www.youtube.com/watch?v=IdresEwwdxc",
+      "pubDate": "2026-11-04T21:10:06Z",
+      "thumb": "https://i.ytimg.com/vi/IdresEwwdxc/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Post-Match Press Conference: Andoni on defeat, front line & more | Fenerbahce vs Liverpool",
+      "link": "https://www.youtube.com/watch?v=5teel-xg7Sk",
+      "pubDate": "2026-11-04T20:57:40Z",
+      "thumb": "https://i.ytimg.com/vi/5teel-xg7Sk/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "MATCHDAY LIVE | RB Leipzig v Man City | Champions League",
+      "link": "https://www.youtube.com/watch?v=aDZBbDBOn7w",
+      "pubDate": "2026-11-04T18:22:34Z",
+      "thumb": "https://i.ytimg.com/vi/aDZBbDBOn7w/hqdefault.jpg?v=6aeb71a8"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "Marco Rose and James Hill on the Cherries first ever game in Czechia, & a potential England call up.",
+      "link": "https://www.youtube.com/watch?v=fnLjE5VWS2s",
+      "pubDate": "2026-11-04T18:01:34Z",
+      "thumb": "https://i.ytimg.com/vi/fnLjE5VWS2s/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "Matchday Live: Fenerbahce vs Liverpool | UEFA Champions League build-up",
       "link": "https://www.youtube.com/watch?v=biZFcYpTEKg",
-      "pubDate": "2026-11-04T16:21:12Z",
-      "thumb": "https://i.ytimg.com/vi/biZFcYpTEKg/hqdefault.jpg?v=6ae88fc6"
+      "pubDate": "2026-11-04T17:09:05Z",
+      "thumb": "https://i.ytimg.com/vi/biZFcYpTEKg/hqdefault.jpg"
+    },
+    {
+      "team": "Chelsea",
+      "title": "Cobham Next Gen 2-3 Flora | HIGHLIGHTS | UEFA Youth League | 2026/27",
+      "link": "https://www.youtube.com/watch?v=v1kTjEAGFMw",
+      "pubDate": "2026-11-04T17:00:13Z",
+      "thumb": "https://i.ytimg.com/vi/v1kTjEAGFMw/hqdefault.jpg"
     },
     {
       "team": "Sunderland",
@@ -135,13 +177,6 @@
       "thumb": "https://i.ytimg.com/vi/lrm2uLPt7vk/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "MAN UNITED vs ROMA LIVE Champions League Watchalong",
-      "link": "https://www.youtube.com/watch?v=9NhZqCXBDcE",
-      "pubDate": "2026-11-03T22:03:16Z",
-      "thumb": "https://i.ytimg.com/vi/9NhZqCXBDcE/hqdefault.jpg"
-    },
-    {
       "team": "Aston Villa",
       "title": "LIVE FROM THE CAMP NOU || FC Barcelona v Villa || Matchday Live",
       "link": "https://www.youtube.com/watch?v=Rg90nBSB68M",
@@ -196,13 +231,6 @@
       "link": "https://www.youtube.com/watch?v=viCtXjORYnk",
       "pubDate": "2026-11-03T17:00:07Z",
       "thumb": "https://i.ytimg.com/vi/viCtXjORYnk/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Champions League Press Conference: Fenerbahce vs Liverpool | Andoni Iraola & Cody Gakpo",
-      "link": "https://www.youtube.com/watch?v=OH02JuZeq44",
-      "pubDate": "2026-11-03T16:42:56Z",
-      "thumb": "https://i.ytimg.com/vi/OH02JuZeq44/hqdefault.jpg"
     },
     {
       "team": "Tottenham Hotspur",
@@ -303,13 +331,6 @@
       "thumb": "https://i.ytimg.com/vi/e-gnjVecmBw/hqdefault.jpg"
     },
     {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: FA Women's National League Cup: AFC Wimbledon Women v AFC Bournemouth Women",
-      "link": "https://www.youtube.com/watch?v=-3rn802f_Bs",
-      "pubDate": "2026-11-02T04:12:22Z",
-      "thumb": "https://i.ytimg.com/vi/-3rn802f_Bs/hqdefault.jpg"
-    },
-    {
       "team": "Brighton & Hove Albion",
       "title": "EXTENDED HIGHLIGHTS | Manchester City v Brighton | Premier League",
       "link": "https://www.youtube.com/watch?v=17hc9VTEAjU",
@@ -322,13 +343,6 @@
       "link": "https://www.youtube.com/watch?v=mTd65s8ewwc",
       "pubDate": "2026-11-02T00:00:31Z",
       "thumb": "https://i.ytimg.com/vi/mTd65s8ewwc/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "EXTENDED HIGHLIGHTS | Man City 0-1 Brighton | City dominance but Ayari wins it for the visitors!",
-      "link": "https://www.youtube.com/watch?v=ubqfOQUcWAk",
-      "pubDate": "2026-11-02T00:00:27Z",
-      "thumb": "https://i.ytimg.com/vi/ubqfOQUcWAk/hqdefault.jpg"
     },
     {
       "team": "Sunderland",
@@ -441,13 +455,6 @@
       "link": "https://www.youtube.com/watch?v=WyxX8TR-VpE",
       "pubDate": "2026-10-31T18:08:33Z",
       "thumb": "https://i.ytimg.com/vi/WyxX8TR-VpE/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "ALONSO & LAVIA react post-Man Utd | Chelsea 2-0 Man Utd | Premier League 2026/27",
-      "link": "https://www.youtube.com/watch?v=9ySO3x7j23E",
-      "pubDate": "2026-10-31T17:17:02Z",
-      "thumb": "https://i.ytimg.com/vi/9ySO3x7j23E/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
