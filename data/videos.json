@@ -1,12 +1,40 @@
 {
-  "updatedAt": "2026-11-03T21:56:18.755Z",
+  "updatedAt": "2026-11-04T01:46:53.470Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: U18 Premier League South: Southampton FC v AFC Bournemouth",
+      "link": "https://www.youtube.com/watch?v=m0ZvjjFP6Vo",
+      "pubDate": "2026-11-04T01:30:52Z",
+      "thumb": "https://i.ytimg.com/vi/m0ZvjjFP6Vo/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "Unai Emery on defeat to Barcelona 🗣️",
+      "link": "https://www.youtube.com/watch?v=D5LNiRkdSPU",
+      "pubDate": "2026-11-03T23:39:17Z",
+      "thumb": "https://i.ytimg.com/vi/D5LNiRkdSPU/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "CUNHA SAVES CARRICK! Man United 3-2 Roma Goldbridge Match Reaction",
       "link": "https://www.youtube.com/watch?v=44DAZLuIQZg",
-      "pubDate": "2026-11-03T21:52:12Z",
-      "thumb": "https://i.ytimg.com/vi/44DAZLuIQZg/hqdefault.jpg?v=6aea578f"
+      "pubDate": "2026-11-03T22:48:18Z",
+      "thumb": "https://i.ytimg.com/vi/44DAZLuIQZg/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "PRESS CONFERENCE 🎙️ | Mikel Arteta previews Slavia Prague | Champions League",
+      "link": "https://www.youtube.com/watch?v=lrm2uLPt7vk",
+      "pubDate": "2026-11-03T22:43:47Z",
+      "thumb": "https://i.ytimg.com/vi/lrm2uLPt7vk/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "MAN UNITED vs ROMA LIVE Champions League Watchalong",
+      "link": "https://www.youtube.com/watch?v=9NhZqCXBDcE",
+      "pubDate": "2026-11-03T22:03:16Z",
+      "thumb": "https://i.ytimg.com/vi/9NhZqCXBDcE/hqdefault.jpg"
     },
     {
       "team": "Manchester United",
@@ -14,13 +42,6 @@
       "link": "https://www.youtube.com/watch?v=Q1XidG5RAgM",
       "pubDate": "2026-11-03T19:36:58Z",
       "thumb": "https://i.ytimg.com/vi/Q1XidG5RAgM/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "MAN UNITED vs ROMA LIVE Champions League Watchalong",
-      "link": "https://www.youtube.com/watch?v=9NhZqCXBDcE",
-      "pubDate": "2026-11-03T19:31:10Z",
-      "thumb": "https://i.ytimg.com/vi/9NhZqCXBDcE/hqdefault.jpg?v=6aea0f11"
     },
     {
       "team": "Aston Villa",
@@ -121,13 +142,6 @@
       "thumb": "https://i.ytimg.com/vi/tIx5AsSybaI/hqdefault.jpg"
     },
     {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: U18 Premier League South: Southampton FC v AFC Bournemouth",
-      "link": "https://www.youtube.com/watch?v=m0ZvjjFP6Vo",
-      "pubDate": "2026-11-03T13:14:16Z",
-      "thumb": "https://i.ytimg.com/vi/m0ZvjjFP6Vo/hqdefault.jpg?v=6ae9b1f5"
-    },
-    {
       "team": "Sunderland",
       "title": "Brian Brobbey signs new Sunderland contract ✍️ | EXCLUSIVE INTERVIEW",
       "link": "https://www.youtube.com/watch?v=0LfUs363cDM",
@@ -156,13 +170,6 @@
       "thumb": "https://i.ytimg.com/vi/KRpst_S47Ro/hqdefault.jpg"
     },
     {
-      "team": "Arsenal",
-      "title": "ARSENAL LEGEND | Every Ian Wright Premier League Goal For The Gunners",
-      "link": "https://www.youtube.com/watch?v=ybJpxQjjm58",
-      "pubDate": "2026-11-03T09:00:09Z",
-      "thumb": "https://i.ytimg.com/vi/ybJpxQjjm58/hqdefault.jpg"
-    },
-    {
       "team": "Liverpool",
       "title": "Extended Highlights: Liverpool 0-1 Arsenal | Premier League",
       "link": "https://www.youtube.com/watch?v=XdsXWwSU9rA",
@@ -182,13 +189,6 @@
       "link": "https://www.youtube.com/watch?v=JYKWGq5j0Oc",
       "pubDate": "2026-11-02T21:11:25Z",
       "thumb": "https://i.ytimg.com/vi/JYKWGq5j0Oc/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "💪 \"We've proven against the BEST teams we can compete\" | John McGinn ahead of Barcelona | PRE MATCH",
-      "link": "https://www.youtube.com/watch?v=pKGtMdqfdBA",
-      "pubDate": "2026-11-02T18:18:33Z",
-      "thumb": "https://i.ytimg.com/vi/pKGtMdqfdBA/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
