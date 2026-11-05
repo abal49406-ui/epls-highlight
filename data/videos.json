@@ -1,12 +1,61 @@
 {
-  "updatedAt": "2026-11-05T09:47:47.195Z",
+  "updatedAt": "2026-11-05T17:45:29.229Z",
   "videos": [
+    {
+      "team": "Sunderland",
+      "title": "Sunderland AFC vs Chelsea | Régis Le Bris' Premier League Press Conference",
+      "link": "https://www.youtube.com/watch?v=LJnipOgnNjI",
+      "pubDate": "2026-11-05T17:35:19Z",
+      "thumb": "https://i.ytimg.com/vi/LJnipOgnNjI/hqdefault.jpg?v=6aecbe59"
+    },
+    {
+      "team": "Arsenal",
+      "title": "PUT TO THE TEST 👀 | GUESS THE ARSENAL PLAYER 7 | Viktor Gyokeres, Noni Madueke, Sharky & Frimmy",
+      "link": "https://www.youtube.com/watch?v=4wVrSX4EI0M",
+      "pubDate": "2026-11-05T17:00:31Z",
+      "thumb": "https://i.ytimg.com/vi/4wVrSX4EI0M/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Oliver Glasner Press Conference 🎙️ | Nottingham Forest vs Manchester City | Premier League",
+      "link": "https://www.youtube.com/watch?v=nebgM9mV1sY",
+      "pubDate": "2026-11-05T15:30:00Z",
+      "thumb": "https://i.ytimg.com/vi/nebgM9mV1sY/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "Feature: Jiri Skalak in Jablonec | Who Scored It Better?",
+      "link": "https://www.youtube.com/watch?v=YppwyOBpbqs",
+      "pubDate": "2026-11-05T14:50:02Z",
+      "thumb": "https://i.ytimg.com/vi/YppwyOBpbqs/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "United WANT Deschamps NEXT!? Carrick In DANGER! Man United News",
+      "link": "https://www.youtube.com/watch?v=Lr7sSDZU-u8",
+      "pubDate": "2026-11-05T14:46:56Z",
+      "thumb": "https://i.ytimg.com/vi/Lr7sSDZU-u8/hqdefault.jpg"
+    },
+    {
+      "team": "Hull City",
+      "title": "Arsenal (A) | Sergej Jakirović's Live Pre-Match Press Conference",
+      "link": "https://www.youtube.com/watch?v=ZFKsc3Ppe_Q",
+      "pubDate": "2026-11-05T14:24:43Z",
+      "thumb": "https://i.ytimg.com/vi/ZFKsc3Ppe_Q/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Daniel Farke pre-match press conference | Leeds United v Tottenham Hotspur | Premier League",
+      "link": "https://www.youtube.com/watch?v=r-e7agwLuiI",
+      "pubDate": "2026-11-05T14:07:15Z",
+      "thumb": "https://i.ytimg.com/vi/r-e7agwLuiI/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Glazers EXPOSED! United Are FINISHED! Man Utd News",
       "link": "https://www.youtube.com/watch?v=hGERIqJNJMs",
-      "pubDate": "2026-11-05T09:34:53Z",
-      "thumb": "https://i.ytimg.com/vi/hGERIqJNJMs/hqdefault.jpg?v=6aec4dbf"
+      "pubDate": "2026-11-05T11:20:08Z",
+      "thumb": "https://i.ytimg.com/vi/hGERIqJNJMs/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
@@ -80,7 +129,7 @@
     },
     {
       "team": "AFC Bournemouth",
-      "title": "Marco Rose and James Hill on the Cherries first ever game in Czechia, & a potential England call up.",
+      "title": "Marco Rose and James Hill on Cherries' first ever game in Czechia and a potential England call up",
       "link": "https://www.youtube.com/watch?v=fnLjE5VWS2s",
       "pubDate": "2026-11-04T18:01:34Z",
       "thumb": "https://i.ytimg.com/vi/fnLjE5VWS2s/hqdefault.jpg"
@@ -177,13 +226,6 @@
       "thumb": "https://i.ytimg.com/vi/MUx0FltE2jU/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Carrick CRITICS Silenced? Wilcox WINS Again? Man Utd News",
-      "link": "https://www.youtube.com/watch?v=_DnxKwOugrQ",
-      "pubDate": "2026-11-04T10:58:08Z",
-      "thumb": "https://i.ytimg.com/vi/_DnxKwOugrQ/hqdefault.jpg"
-    },
-    {
       "team": "Nottingham Forest",
       "title": "Nottingham Forest Women 4-0 Burnley Women | Subway Players Cup Highlights",
       "link": "https://www.youtube.com/watch?v=v3V2QAq7rnE",
@@ -192,7 +234,7 @@
     },
     {
       "team": "Leeds United",
-      "title": "⁠“It was a little bit of a gamble” | Lukas Nmecha | The Official Leeds United Podcast",
+      "title": "⁠Lukas Nmecha | The Official Leeds United Podcast",
       "link": "https://www.youtube.com/watch?v=DAbCFzeTYTg",
       "pubDate": "2026-11-04T09:07:27Z",
       "thumb": "https://i.ytimg.com/vi/DAbCFzeTYTg/hqdefault.jpg"
@@ -261,25 +303,11 @@
       "thumb": "https://i.ytimg.com/vi/geJ7ZK0Y8no/hqdefault.jpg"
     },
     {
-      "team": "Arsenal",
-      "title": "ALL THE TOUCHLINE EMOTIONS! | BENCH CAM | Liverpool vs Arsenal (0-1) | Havertz | Premier League",
-      "link": "https://www.youtube.com/watch?v=viCtXjORYnk",
-      "pubDate": "2026-11-03T17:00:07Z",
-      "thumb": "https://i.ytimg.com/vi/viCtXjORYnk/hqdefault.jpg"
-    },
-    {
       "team": "Tottenham Hotspur",
       "title": "Tottenham Hotspur Goal of the Month | October 2026",
       "link": "https://www.youtube.com/watch?v=3de9XJNem7U",
       "pubDate": "2026-11-03T16:02:49Z",
       "thumb": "https://i.ytimg.com/vi/3de9XJNem7U/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "Daniel Farke pre-match press conference | Leeds United v Tottenham Hotspur | Premier League",
-      "link": "https://www.youtube.com/watch?v=r-e7agwLuiI",
-      "pubDate": "2026-11-03T15:09:33Z",
-      "thumb": "https://i.ytimg.com/vi/r-e7agwLuiI/hqdefault.jpg?v=6ae9f92d"
     },
     {
       "team": "Aston Villa",
@@ -350,20 +378,6 @@
       "link": "https://www.youtube.com/watch?v=17hc9VTEAjU",
       "pubDate": "2026-11-02T00:30:19Z",
       "thumb": "https://i.ytimg.com/vi/17hc9VTEAjU/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Brentford 2-0 Nottingham Forest | Premier League | Extended Highlights 📺",
-      "link": "https://www.youtube.com/watch?v=mTd65s8ewwc",
-      "pubDate": "2026-11-02T00:00:31Z",
-      "thumb": "https://i.ytimg.com/vi/mTd65s8ewwc/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Extended Premier League Highlights | Coventry City 3-1 Sunderland AFC",
-      "link": "https://www.youtube.com/watch?v=wBXjAiqeXxM",
-      "pubDate": "2026-11-02T00:00:05Z",
-      "thumb": "https://i.ytimg.com/vi/wBXjAiqeXxM/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
@@ -450,13 +464,6 @@
       "thumb": "https://i.ytimg.com/vi/FQk2RAiMnH8/hqdefault.jpg"
     },
     {
-      "team": "Brighton & Hove Albion",
-      "title": "POST-MATCH | Hurzeler, Verbruggen & Ayari | Manchester City v Brighton | Premier League",
-      "link": "https://www.youtube.com/watch?v=WyxX8TR-VpE",
-      "pubDate": "2026-10-31T18:08:33Z",
-      "thumb": "https://i.ytimg.com/vi/WyxX8TR-VpE/hqdefault.jpg"
-    },
-    {
       "team": "Ipswich Town",
       "title": "MATCHDAY LIVE | HULL CITY V TOWN",
       "link": "https://www.youtube.com/watch?v=URuI6D5JM98",
@@ -490,13 +497,6 @@
       "link": "https://www.youtube.com/watch?v=k6BCI7Bpw40",
       "pubDate": "2026-10-30T12:15:22Z",
       "thumb": "https://i.ytimg.com/vi/k6BCI7Bpw40/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "Ipswich Town (h) | Sergej Jakirović's Live Pre-Match Press Conference",
-      "link": "https://www.youtube.com/watch?v=nMPDnxXBwzA",
-      "pubDate": "2026-10-29T13:13:32Z",
-      "thumb": "https://i.ytimg.com/vi/nMPDnxXBwzA/hqdefault.jpg"
     },
     {
       "team": "Fulham",
