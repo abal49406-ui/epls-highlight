@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-05T02:29:16.359Z",
+  "updatedAt": "2026-11-05T09:47:47.195Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Glazers EXPOSED! United Are FINISHED! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=hGERIqJNJMs",
+      "pubDate": "2026-11-05T09:34:53Z",
+      "thumb": "https://i.ytimg.com/vi/hGERIqJNJMs/hqdefault.jpg?v=6aec4dbf"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "CCTV | Preparations for Hoffenheim 💪🇩🇪",
+      "link": "https://www.youtube.com/watch?v=tANMddnGWcE",
+      "pubDate": "2026-11-05T09:00:19Z",
+      "thumb": "https://i.ytimg.com/vi/tANMddnGWcE/hqdefault.jpg"
+    },
+    {
+      "team": "Chelsea",
+      "title": "October Goal of the Month ⭐️  | Chelsea FC 2026/27",
+      "link": "https://www.youtube.com/watch?v=zf6R58sybAE",
+      "pubDate": "2026-11-05T02:38:17Z",
+      "thumb": "https://i.ytimg.com/vi/zf6R58sybAE/hqdefault.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "GYOKERES & MADUEKE GOALS EARN THREE POINTS | HIGHLIGHTS | Slavia Prague vs Arsenal (1-2) l UCL",
@@ -191,13 +212,6 @@
       "thumb": "https://i.ytimg.com/vi/D5LNiRkdSPU/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "CUNHA SAVES CARRICK! Man United 3-2 Roma Goldbridge Match Reaction",
-      "link": "https://www.youtube.com/watch?v=44DAZLuIQZg",
-      "pubDate": "2026-11-03T22:48:18Z",
-      "thumb": "https://i.ytimg.com/vi/44DAZLuIQZg/hqdefault.jpg"
-    },
-    {
       "team": "Arsenal",
       "title": "PRESS CONFERENCE 🎙️ | Mikel Arteta previews Slavia Prague | Champions League",
       "link": "https://www.youtube.com/watch?v=lrm2uLPt7vk",
@@ -324,13 +338,6 @@
       "thumb": "https://i.ytimg.com/vi/J21gWnh8tcQ/hqdefault.jpg"
     },
     {
-      "team": "Crystal Palace",
-      "title": "WSL Highlights | Brighton 2-1 Palace",
-      "link": "https://www.youtube.com/watch?v=LxnsWSX8qKg",
-      "pubDate": "2026-11-02T10:17:14Z",
-      "thumb": "https://i.ytimg.com/vi/LxnsWSX8qKg/hqdefault.jpg"
-    },
-    {
       "team": "Manchester City",
       "title": "Man City Christmas, Together 2026",
       "link": "https://www.youtube.com/watch?v=e-gnjVecmBw",
@@ -364,13 +371,6 @@
       "link": "https://www.youtube.com/watch?v=FsALKPLvE6g",
       "pubDate": "2026-11-02T00:00:00Z",
       "thumb": "https://i.ytimg.com/vi/FsALKPLvE6g/hqdefault.jpg"
-    },
-    {
-      "team": "Tottenham Hotspur",
-      "title": "Tottenham 2-0 Crystal Palace | Premier League Extended Highlights",
-      "link": "https://www.youtube.com/watch?v=7vM2tuPCR-M",
-      "pubDate": "2026-11-01T23:52:26Z",
-      "thumb": "https://i.ytimg.com/vi/7vM2tuPCR-M/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
@@ -420,13 +420,6 @@
       "link": "https://www.youtube.com/watch?v=tpg1wXI9jJw",
       "pubDate": "2026-10-31T22:00:39Z",
       "thumb": "https://i.ytimg.com/vi/tpg1wXI9jJw/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "Chelsea 2-0 Man Utd | HIGHLIGHTS | Premier League 2026/27",
-      "link": "https://www.youtube.com/watch?v=OI58_-4ezU8",
-      "pubDate": "2026-10-31T22:00:30Z",
-      "thumb": "https://i.ytimg.com/vi/OI58_-4ezU8/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
