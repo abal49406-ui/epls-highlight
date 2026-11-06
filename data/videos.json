@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-06T03:26:43.945Z",
+  "updatedAt": "2026-11-06T11:25:37.606Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "United want BIG January window!? Shaw EXIT talks! Man United news",
+      "link": "https://www.youtube.com/watch?v=w-5oAuuev_I",
+      "pubDate": "2026-11-06T10:59:53Z",
+      "thumb": "https://i.ytimg.com/vi/w-5oAuuev_I/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "Enzo Maresca Press Conference - Nottingham Forest v Man City | Premier League",
+      "link": "https://www.youtube.com/watch?v=nub0ZCrSYPk",
+      "pubDate": "2026-11-06T10:47:18Z",
+      "thumb": "https://i.ytimg.com/vi/nub0ZCrSYPk/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "All Jobe Bellingham's Sunderland Goals Are 🔥",
+      "link": "https://www.youtube.com/watch?v=yhIjlUUICms",
+      "pubDate": "2026-11-06T10:39:17Z",
+      "thumb": "https://i.ytimg.com/vi/yhIjlUUICms/hqdefault.jpg"
+    },
     {
       "team": "Sunderland",
       "title": "\"We owe them a response.\" | Le Bris & Sadiki Post-Match Reaction",
@@ -163,13 +184,6 @@
       "thumb": "https://i.ytimg.com/vi/yCTFXkz-WDI/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "This is MADNESS! Goldbridge Man Utd News",
-      "link": "https://www.youtube.com/watch?v=IdresEwwdxc",
-      "pubDate": "2026-11-04T21:10:06Z",
-      "thumb": "https://i.ytimg.com/vi/IdresEwwdxc/hqdefault.jpg"
-    },
-    {
       "team": "Liverpool",
       "title": "Post-Match Press Conference: Andoni on defeat, front line & more | Fenerbahce vs Liverpool",
       "link": "https://www.youtube.com/watch?v=5teel-xg7Sk",
@@ -233,13 +247,6 @@
       "thumb": "https://i.ytimg.com/vi/06giqQt_76U/hqdefault.jpg"
     },
     {
-      "team": "Sunderland",
-      "title": "Sunderland AFC vs GNK Dinamo Zagreb | Le Bris & Tutierov | Europa League Press Conference",
-      "link": "https://www.youtube.com/watch?v=BXsK4dwtpHI",
-      "pubDate": "2026-11-04T13:58:38Z",
-      "thumb": "https://i.ytimg.com/vi/BXsK4dwtpHI/hqdefault.jpg"
-    },
-    {
       "team": "Nottingham Forest",
       "title": "DRAMATIC 98TH-MINUTE WINNER! 🫨 | Halifax Town 3-4 Nottingham Forest | National League Cup Highlights",
       "link": "https://www.youtube.com/watch?v=CxkG1OpkSww",
@@ -289,13 +296,6 @@
       "thumb": "https://i.ytimg.com/vi/D5LNiRkdSPU/hqdefault.jpg"
     },
     {
-      "team": "Arsenal",
-      "title": "PRESS CONFERENCE 🎙️ | Mikel Arteta previews Slavia Prague | Champions League",
-      "link": "https://www.youtube.com/watch?v=lrm2uLPt7vk",
-      "pubDate": "2026-11-03T22:43:47Z",
-      "thumb": "https://i.ytimg.com/vi/lrm2uLPt7vk/hqdefault.jpg"
-    },
-    {
       "team": "Aston Villa",
       "title": "LIVE FROM THE CAMP NOU || FC Barcelona v Villa || Matchday Live",
       "link": "https://www.youtube.com/watch?v=Rg90nBSB68M",
@@ -343,13 +343,6 @@
       "link": "https://www.youtube.com/watch?v=tIx5AsSybaI",
       "pubDate": "2026-11-03T14:00:33Z",
       "thumb": "https://i.ytimg.com/vi/tIx5AsSybaI/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "LIVE Training | RB Leipzig v Man City",
-      "link": "https://www.youtube.com/watch?v=lfDpRfP2d90",
-      "pubDate": "2026-11-03T11:52:49Z",
-      "thumb": "https://i.ytimg.com/vi/lfDpRfP2d90/hqdefault.jpg"
     },
     {
       "team": "Newcastle United",
