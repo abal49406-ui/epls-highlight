@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-05T23:01:41.407Z",
+  "updatedAt": "2026-11-06T03:26:43.945Z",
   "videos": [
+    {
+      "team": "Sunderland",
+      "title": "\"We owe them a response.\" | Le Bris & Sadiki Post-Match Reaction",
+      "link": "https://www.youtube.com/watch?v=QSvTUq5RzPw",
+      "pubDate": "2026-11-05T23:03:05Z",
+      "thumb": "https://i.ytimg.com/vi/QSvTUq5RzPw/hqdefault.jpg"
+    },
     {
       "team": "Brighton & Hove Albion",
       "title": "POST-MATCH | Hurzeler & Gross | Getafe v Brighton | UEFA Conference League",
@@ -336,13 +343,6 @@
       "link": "https://www.youtube.com/watch?v=tIx5AsSybaI",
       "pubDate": "2026-11-03T14:00:33Z",
       "thumb": "https://i.ytimg.com/vi/tIx5AsSybaI/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Brian Brobbey signs new Sunderland contract ✍️ | EXCLUSIVE INTERVIEW",
-      "link": "https://www.youtube.com/watch?v=0LfUs363cDM",
-      "pubDate": "2026-11-03T12:00:27Z",
-      "thumb": "https://i.ytimg.com/vi/0LfUs363cDM/hqdefault.jpg"
     },
     {
       "team": "Manchester City",
