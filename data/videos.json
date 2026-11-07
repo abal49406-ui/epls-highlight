@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-11-07T03:09:33.984Z",
+  "updatedAt": "2026-11-07T10:14:38.543Z",
   "videos": [
+    {
+      "team": "Ipswich Town",
+      "title": "FLORENTINO AHEAD OF FACING THE CHERRIES",
+      "link": "https://www.youtube.com/watch?v=muoIQD0d4Ek",
+      "pubDate": "2026-11-07T10:00:37Z",
+      "thumb": "https://i.ytimg.com/vi/muoIQD0d4Ek/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "BURNLEY v MAN CITY | CITY+ | PL CUP U18",
+      "link": "https://www.youtube.com/watch?v=iepI973OVXs",
+      "pubDate": "2026-11-07T09:31:45Z",
+      "thumb": "https://i.ytimg.com/vi/iepI973OVXs/hqdefault.jpg?v=6aeef003"
+    },
+    {
+      "team": "Sunderland",
+      "title": "KHAZRI WITH A WORLDIE! | Sunderland AFC 3-2 Chelsea | Classic Highlights",
+      "link": "https://www.youtube.com/watch?v=YOhygCykb1M",
+      "pubDate": "2026-11-07T09:00:07Z",
+      "thumb": "https://i.ytimg.com/vi/YOhygCykb1M/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Matchday Live | Leeds United v Tottenham Hotspur",
+      "link": "https://www.youtube.com/watch?v=pgHMj2pPiS4",
+      "pubDate": "2026-11-07T08:43:19Z",
+      "thumb": "https://i.ytimg.com/vi/pgHMj2pPiS4/hqdefault.jpg?v=6aeee4a7"
+    },
     {
       "team": "AFC Bournemouth",
       "title": "Rayan drops Ronaldo SIUU as Cherries make it FOUR wins in Europe | Sparta Prague 1-3 AFC Bournemouth",
@@ -149,13 +177,6 @@
       "thumb": "https://i.ytimg.com/vi/yhIjlUUICms/hqdefault.jpg"
     },
     {
-      "team": "Sunderland",
-      "title": "\"We owe them a response.\" | Le Bris & Sadiki Post-Match Reaction",
-      "link": "https://www.youtube.com/watch?v=QSvTUq5RzPw",
-      "pubDate": "2026-11-05T23:03:05Z",
-      "thumb": "https://i.ytimg.com/vi/QSvTUq5RzPw/hqdefault.jpg"
-    },
-    {
       "team": "Brighton & Hove Albion",
       "title": "POST-MATCH | Hurzeler & Gross | Getafe v Brighton | UEFA Conference League",
       "link": "https://www.youtube.com/watch?v=o5c7_x1EaBY",
@@ -252,13 +273,6 @@
       "link": "https://www.youtube.com/watch?v=JjmXsz6aodU",
       "pubDate": "2026-11-04T23:35:07Z",
       "thumb": "https://i.ytimg.com/vi/JjmXsz6aodU/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "MATCHDAY LIVE | RB Leipzig v Man City | Champions League",
-      "link": "https://www.youtube.com/watch?v=aDZBbDBOn7w",
-      "pubDate": "2026-11-04T23:19:08Z",
-      "thumb": "https://i.ytimg.com/vi/aDZBbDBOn7w/hqdefault.jpg"
     },
     {
       "team": "Aston Villa",
@@ -450,25 +464,11 @@
       "thumb": "https://i.ytimg.com/vi/uY9HSEBuJ98/hqdefault.jpg"
     },
     {
-      "team": "Leeds United",
-      "title": "AFC Bournemouth 2-0 Leeds United | Premier League highlights",
-      "link": "https://www.youtube.com/watch?v=tpg1wXI9jJw",
-      "pubDate": "2026-10-31T22:00:39Z",
-      "thumb": "https://i.ytimg.com/vi/tpg1wXI9jJw/hqdefault.jpg"
-    },
-    {
       "team": "Ipswich Town",
       "title": "HIGHLIGHTS | HULL CITY 2 TOWN 2",
       "link": "https://www.youtube.com/watch?v=3OJyQKPxd9o",
       "pubDate": "2026-10-31T22:00:28Z",
       "thumb": "https://i.ytimg.com/vi/3OJyQKPxd9o/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "GARY O'NEIL ON DRAW WITH HULL",
-      "link": "https://www.youtube.com/watch?v=7oK6FAqDzCk",
-      "pubDate": "2026-10-31T18:57:11Z",
-      "thumb": "https://i.ytimg.com/vi/7oK6FAqDzCk/hqdefault.jpg"
     },
     {
       "team": "Hull City",
