@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-11-07T10:14:38.543Z",
+  "updatedAt": "2026-11-07T16:28:18.943Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "MATCHDAY LIVE! | Nottingham Forest v Man City | Premier League",
+      "link": "https://www.youtube.com/watch?v=lbS7WbgxaD0",
+      "pubDate": "2026-11-07T15:21:41Z",
+      "thumb": "https://i.ytimg.com/vi/lbS7WbgxaD0/hqdefault.jpg?v=6aef4207"
+    },
+    {
+      "team": "Leeds United",
+      "title": "“A nice feeling” | Sean Longstaff | Leeds United 1-0 Tottenham Hotspur",
+      "link": "https://www.youtube.com/watch?v=rTnWx9ExyOE",
+      "pubDate": "2026-11-07T15:18:03Z",
+      "thumb": "https://i.ytimg.com/vi/rTnWx9ExyOE/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "“A crucial three points” | Daniel Farke reaction | Leeds United 1-0 Tottenham Hotspur",
+      "link": "https://www.youtube.com/watch?v=ebFCi9modyw",
+      "pubDate": "2026-11-07T15:17:24Z",
+      "thumb": "https://i.ytimg.com/vi/ebFCi9modyw/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Matchday Live: The Verdict | Leeds United v Tottenham Hotspur",
+      "link": "https://www.youtube.com/watch?v=SuilyFyp8Ro",
+      "pubDate": "2026-11-07T15:02:44Z",
+      "thumb": "https://i.ytimg.com/vi/SuilyFyp8Ro/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "FINAL GAME BEFORE INTERNATIONAL BREAK | Live From N5 | Arsenal v Hull City | PL",
+      "link": "https://www.youtube.com/watch?v=apIn6qi1IxQ",
+      "pubDate": "2026-11-07T14:58:23Z",
+      "thumb": "https://i.ytimg.com/vi/apIn6qi1IxQ/hqdefault.jpg"
+    },
+    {
+      "team": "Chelsea",
+      "title": "Chelsea U18 3-1 Charlton U18 | HIGHLIGHTS | U18 Premier League | 2026/27",
+      "link": "https://www.youtube.com/watch?v=yyhRm_5A434",
+      "pubDate": "2026-11-07T14:32:43Z",
+      "thumb": "https://i.ytimg.com/vi/yyhRm_5A434/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "BIG COMEBACK! 👏 | Nottingham Forest 2-2 Leicester City | Premier League 2 Highlights 🎬",
+      "link": "https://www.youtube.com/watch?v=9XmY7ak8ung",
+      "pubDate": "2026-11-07T14:08:50Z",
+      "thumb": "https://i.ytimg.com/vi/9XmY7ak8ung/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: U18 Premier League Cup: AFC Bournemouth v Reading",
+      "link": "https://www.youtube.com/watch?v=m3XP3WmNbrM",
+      "pubDate": "2026-11-07T13:07:31Z",
+      "thumb": "https://i.ytimg.com/vi/m3XP3WmNbrM/hqdefault.jpg?v=6aee3944"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Matchday Live | Leeds United v Tottenham Hotspur",
+      "link": "https://www.youtube.com/watch?v=pgHMj2pPiS4",
+      "pubDate": "2026-11-07T12:26:22Z",
+      "thumb": "https://i.ytimg.com/vi/pgHMj2pPiS4/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "Albion v Brentford | Hurzeler pre-match press conference 🎙️",
+      "link": "https://www.youtube.com/watch?v=Bi10BiGT4fU",
+      "pubDate": "2026-11-07T12:17:52Z",
+      "thumb": "https://i.ytimg.com/vi/Bi10BiGT4fU/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Carrick AND Wilcox GONE By Christmas! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=S34UnrolU1M",
+      "pubDate": "2026-11-07T12:15:43Z",
+      "thumb": "https://i.ytimg.com/vi/S34UnrolU1M/hqdefault.jpg"
+    },
     {
       "team": "Ipswich Town",
       "title": "FLORENTINO AHEAD OF FACING THE CHERRIES",
@@ -9,25 +86,11 @@
       "thumb": "https://i.ytimg.com/vi/muoIQD0d4Ek/hqdefault.jpg"
     },
     {
-      "team": "Manchester City",
-      "title": "BURNLEY v MAN CITY | CITY+ | PL CUP U18",
-      "link": "https://www.youtube.com/watch?v=iepI973OVXs",
-      "pubDate": "2026-11-07T09:31:45Z",
-      "thumb": "https://i.ytimg.com/vi/iepI973OVXs/hqdefault.jpg?v=6aeef003"
-    },
-    {
       "team": "Sunderland",
       "title": "KHAZRI WITH A WORLDIE! | Sunderland AFC 3-2 Chelsea | Classic Highlights",
       "link": "https://www.youtube.com/watch?v=YOhygCykb1M",
       "pubDate": "2026-11-07T09:00:07Z",
       "thumb": "https://i.ytimg.com/vi/YOhygCykb1M/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "Matchday Live | Leeds United v Tottenham Hotspur",
-      "link": "https://www.youtube.com/watch?v=pgHMj2pPiS4",
-      "pubDate": "2026-11-07T08:43:19Z",
-      "thumb": "https://i.ytimg.com/vi/pgHMj2pPiS4/hqdefault.jpg?v=6aeee4a7"
     },
     {
       "team": "AFC Bournemouth",
@@ -45,7 +108,7 @@
     },
     {
       "team": "Crystal Palace",
-      "title": "KAMADA'S EQUALISES LATE ⏰🦅 | Crystal Palace 1-1 TSG Hoffenheim | UEFA Europa League Highlights",
+      "title": "KAMADA EQUALISES LATE ⏰🦅 | Crystal Palace 1-1 TSG Hoffenheim | UEFA Europa League Highlights",
       "link": "https://www.youtube.com/watch?v=zgXCMpndQPs",
       "pubDate": "2026-11-06T23:00:21Z",
       "thumb": "https://i.ytimg.com/vi/zgXCMpndQPs/hqdefault.jpg"
@@ -56,13 +119,6 @@
       "link": "https://www.youtube.com/watch?v=yKybHPVK-zY",
       "pubDate": "2026-11-06T22:00:30Z",
       "thumb": "https://i.ytimg.com/vi/yKybHPVK-zY/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: U18 Premier League Cup: AFC Bournemouth v Reading",
-      "link": "https://www.youtube.com/watch?v=m3XP3WmNbrM",
-      "pubDate": "2026-11-06T20:32:02Z",
-      "thumb": "https://i.ytimg.com/vi/m3XP3WmNbrM/hqdefault.jpg?v=6aee3944"
     },
     {
       "team": "Manchester United",
@@ -115,17 +171,10 @@
     },
     {
       "team": "Arsenal",
-      "title": "PRESS CONFERENCE 🎙️ | Mikel Arteta previews Hull City | Premier League",
+      "title": "PRESS CONFERENCE 🎙️ | Mikel Arteta on Saliba, Saka and Hull City | Premier League",
       "link": "https://www.youtube.com/watch?v=yRoSdyD1S6g",
       "pubDate": "2026-11-06T14:32:53Z",
       "thumb": "https://i.ytimg.com/vi/yRoSdyD1S6g/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "PRESS CONFERENCE 🎙️ | Mikel Arteta previews Hull City | Premier League",
-      "link": "https://www.youtube.com/watch?v=apIn6qi1IxQ",
-      "pubDate": "2026-11-06T14:30:46Z",
-      "thumb": "https://i.ytimg.com/vi/apIn6qi1IxQ/hqdefault.jpg?v=6aede496"
     },
     {
       "team": "Manchester United",
@@ -184,13 +233,6 @@
       "thumb": "https://i.ytimg.com/vi/o5c7_x1EaBY/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Carrick's LAST Game? Man United vs Aston Villa Goldbridge Preview",
-      "link": "https://www.youtube.com/watch?v=A-SIKyw8RuY",
-      "pubDate": "2026-11-05T21:03:12Z",
-      "thumb": "https://i.ytimg.com/vi/A-SIKyw8RuY/hqdefault.jpg"
-    },
-    {
       "team": "Liverpool",
       "title": "Highlights: Fenerbahce 3-2 Liverpool",
       "link": "https://www.youtube.com/watch?v=916AdFs4ooY",
@@ -238,13 +280,6 @@
       "link": "https://www.youtube.com/watch?v=ZFKsc3Ppe_Q",
       "pubDate": "2026-11-05T14:24:43Z",
       "thumb": "https://i.ytimg.com/vi/ZFKsc3Ppe_Q/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "Daniel Farke pre-match press conference | Leeds United v Tottenham Hotspur | Premier League",
-      "link": "https://www.youtube.com/watch?v=r-e7agwLuiI",
-      "pubDate": "2026-11-05T14:07:15Z",
-      "thumb": "https://i.ytimg.com/vi/r-e7agwLuiI/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
@@ -317,13 +352,6 @@
       "thumb": "https://i.ytimg.com/vi/45S_uMMtRcI/hqdefault.jpg"
     },
     {
-      "team": "Tottenham Hotspur",
-      "title": "Behind the scenes at Tottenham training ahead of Leeds United in the Premier League!",
-      "link": "https://www.youtube.com/watch?v=6y2IOzNj0SY",
-      "pubDate": "2026-11-04T15:00:22Z",
-      "thumb": "https://i.ytimg.com/vi/6y2IOzNj0SY/hqdefault.jpg"
-    },
-    {
       "team": "Newcastle United",
       "title": "Rotherham United 0 Newcastle United 1 | U21s Jersey Mike's Trophy Highlights",
       "link": "https://www.youtube.com/watch?v=CvYbF4CK3wY",
@@ -343,20 +371,6 @@
       "link": "https://www.youtube.com/watch?v=CxkG1OpkSww",
       "pubDate": "2026-11-04T13:32:47Z",
       "thumb": "https://i.ytimg.com/vi/CxkG1OpkSww/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Best GOALS in October! 🚀 | Swizzels Sweetest Strike 🍬",
-      "link": "https://www.youtube.com/watch?v=MUx0FltE2jU",
-      "pubDate": "2026-11-04T11:30:36Z",
-      "thumb": "https://i.ytimg.com/vi/MUx0FltE2jU/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "⁠Lukas Nmecha | The Official Leeds United Podcast",
-      "link": "https://www.youtube.com/watch?v=DAbCFzeTYTg",
-      "pubDate": "2026-11-04T09:07:27Z",
-      "thumb": "https://i.ytimg.com/vi/DAbCFzeTYTg/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
@@ -420,27 +434,6 @@
       "link": "https://www.youtube.com/watch?v=J21gWnh8tcQ",
       "pubDate": "2026-11-02T10:18:36Z",
       "thumb": "https://i.ytimg.com/vi/J21gWnh8tcQ/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "EXTENDED HIGHLIGHTS | Manchester City v Brighton | Premier League",
-      "link": "https://www.youtube.com/watch?v=17hc9VTEAjU",
-      "pubDate": "2026-11-02T00:30:19Z",
-      "thumb": "https://i.ytimg.com/vi/17hc9VTEAjU/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "Chelsea 2-0 Man Utd | HIGHLIGHTS - Extended | Premier League 2026/27",
-      "link": "https://www.youtube.com/watch?v=FsALKPLvE6g",
-      "pubDate": "2026-11-02T00:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/FsALKPLvE6g/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "LIVE FOOTBALL: Leeds United Women v Rotherham United Women | Women's FA Cup",
-      "link": "https://www.youtube.com/watch?v=ZDGV-mrfYfo",
-      "pubDate": "2026-11-01T18:26:03Z",
-      "thumb": "https://i.ytimg.com/vi/ZDGV-mrfYfo/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
