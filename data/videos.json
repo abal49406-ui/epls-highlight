@@ -1,12 +1,75 @@
 {
-  "updatedAt": "2026-11-07T20:27:15.661Z",
+  "updatedAt": "2026-11-07T23:54:18.919Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "HIGHLIGHTS | Nottingham Forest 3-1 Man City | Defeat on the road for the Blues.",
+      "link": "https://www.youtube.com/watch?v=jGW0vt6rMLM",
+      "pubDate": "2026-11-07T22:00:39Z",
+      "thumb": "https://i.ytimg.com/vi/jGW0vt6rMLM/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Leeds United 1-0 Tottenham Hotspur | Premier League highlights | Okafor makes instant impact!",
+      "link": "https://www.youtube.com/watch?v=rTZF9PtcZYE",
+      "pubDate": "2026-11-07T22:00:33Z",
+      "thumb": "https://i.ytimg.com/vi/rTZF9PtcZYE/hqdefault.jpg"
+    },
+    {
+      "team": "Newcastle United",
+      "title": "Fulham 1 Newcastle United 1 | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=WWHdLnBaTuA",
+      "pubDate": "2026-11-07T22:00:31Z",
+      "thumb": "https://i.ytimg.com/vi/WWHdLnBaTuA/hqdefault.jpg"
+    },
+    {
+      "team": "Fulham",
+      "title": "Muniz Levels Late 🇧🇷 | Fulham 1-1 Newcastle | Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=W0mJ8IcsSSY",
+      "pubDate": "2026-11-07T22:00:27Z",
+      "thumb": "https://i.ytimg.com/vi/W0mJ8IcsSSY/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "ODEGAARD SENDS US CLEAR AT THE TOP! | HIGHLIGHTS | Arsenal vs Hull City (1-0) | Premier League",
+      "link": "https://www.youtube.com/watch?v=5jq0WWOQr-U",
+      "pubDate": "2026-11-07T22:00:08Z",
+      "thumb": "https://i.ytimg.com/vi/5jq0WWOQr-U/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Liam Delap's Reaction 💪 | Nottingham Forest vs Manchester City | Premier League",
+      "link": "https://www.youtube.com/watch?v=sEiFYzizPaw",
+      "pubDate": "2026-11-07T21:43:27Z",
+      "thumb": "https://i.ytimg.com/vi/sEiFYzizPaw/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Oliver Glasner's Reaction 🗣️ | Nottingham Forest vs Manchester City | Premier League",
+      "link": "https://www.youtube.com/watch?v=khPNbwdvOYQ",
+      "pubDate": "2026-11-07T21:39:35Z",
+      "thumb": "https://i.ytimg.com/vi/khPNbwdvOYQ/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Jair Cunha's Reaction 🇧🇷 | Nottingham Forest vs Manchester City | Premier League",
+      "link": "https://www.youtube.com/watch?v=eaIVJRXhyp8",
+      "pubDate": "2026-11-07T21:36:45Z",
+      "thumb": "https://i.ytimg.com/vi/eaIVJRXhyp8/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Relegation ZONE! Goldbridge Man Utd News",
       "link": "https://www.youtube.com/watch?v=A-V1wBOa4hw",
-      "pubDate": "2026-11-07T20:06:12Z",
-      "thumb": "https://i.ytimg.com/vi/A-V1wBOa4hw/hqdefault.jpg?v=6aef7895"
+      "pubDate": "2026-11-07T20:57:07Z",
+      "thumb": "https://i.ytimg.com/vi/A-V1wBOa4hw/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "MATCHDAY LIVE! | Nottingham Forest v Man City | Premier League",
+      "link": "https://www.youtube.com/watch?v=lbS7WbgxaD0",
+      "pubDate": "2026-11-07T20:41:30Z",
+      "thumb": "https://i.ytimg.com/vi/lbS7WbgxaD0/hqdefault.jpg"
     },
     {
       "team": "Hull City",
@@ -28,13 +91,6 @@
       "link": "https://www.youtube.com/watch?v=VN0DxTzaerI",
       "pubDate": "2026-11-07T17:19:33Z",
       "thumb": "https://i.ytimg.com/vi/VN0DxTzaerI/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "MATCHDAY LIVE! | Nottingham Forest v Man City | Premier League",
-      "link": "https://www.youtube.com/watch?v=lbS7WbgxaD0",
-      "pubDate": "2026-11-07T16:54:32Z",
-      "thumb": "https://i.ytimg.com/vi/lbS7WbgxaD0/hqdefault.jpg?v=6aef4207"
     },
     {
       "team": "Leeds United",
@@ -84,13 +140,6 @@
       "link": "https://www.youtube.com/watch?v=m3XP3WmNbrM",
       "pubDate": "2026-11-07T13:07:31Z",
       "thumb": "https://i.ytimg.com/vi/m3XP3WmNbrM/hqdefault.jpg?v=6aee3944"
-    },
-    {
-      "team": "Leeds United",
-      "title": "Matchday Live | Leeds United v Tottenham Hotspur",
-      "link": "https://www.youtube.com/watch?v=pgHMj2pPiS4",
-      "pubDate": "2026-11-07T12:26:22Z",
-      "thumb": "https://i.ytimg.com/vi/pgHMj2pPiS4/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
@@ -226,13 +275,6 @@
       "thumb": "https://i.ytimg.com/vi/aCGaqSdDzxs/hqdefault.jpg"
     },
     {
-      "team": "Nottingham Forest",
-      "title": "Thank you for bringing joy to our community, Miles. ❤️",
-      "link": "https://www.youtube.com/watch?v=NDs7p8v83Vk",
-      "pubDate": "2026-11-06T12:00:02Z",
-      "thumb": "https://i.ytimg.com/vi/NDs7p8v83Vk/hqdefault.jpg"
-    },
-    {
       "team": "Manchester City",
       "title": "MANAGER'S PREVIEW | Maresca: Anderson is a manager’s dream | Premier League",
       "link": "https://www.youtube.com/watch?v=nub0ZCrSYPk",
@@ -266,27 +308,6 @@
       "link": "https://www.youtube.com/watch?v=mYKfgi7KawE",
       "pubDate": "2026-11-05T18:06:07Z",
       "thumb": "https://i.ytimg.com/vi/mYKfgi7KawE/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "HIGHLIGHTS | RB Leipzig 2-3 Man City | City edge Champions League classic on the road!",
-      "link": "https://www.youtube.com/watch?v=N73dxbD3ooo",
-      "pubDate": "2026-11-05T18:00:25Z",
-      "thumb": "https://i.ytimg.com/vi/N73dxbD3ooo/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "PUT TO THE TEST 👀 | GUESS THE ARSENAL PLAYER 7 | Viktor Gyokeres, Noni Madueke, Sharky & Frimmy",
-      "link": "https://www.youtube.com/watch?v=4wVrSX4EI0M",
-      "pubDate": "2026-11-05T17:00:31Z",
-      "thumb": "https://i.ytimg.com/vi/4wVrSX4EI0M/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Oliver Glasner Press Conference 🎙️ | Nottingham Forest vs Manchester City | Premier League",
-      "link": "https://www.youtube.com/watch?v=nebgM9mV1sY",
-      "pubDate": "2026-11-05T15:30:00Z",
-      "thumb": "https://i.ytimg.com/vi/nebgM9mV1sY/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
@@ -380,13 +401,6 @@
       "thumb": "https://i.ytimg.com/vi/06giqQt_76U/hqdefault.jpg"
     },
     {
-      "team": "Nottingham Forest",
-      "title": "DRAMATIC 98TH-MINUTE WINNER! 🫨 | Halifax Town 3-4 Nottingham Forest | National League Cup Highlights",
-      "link": "https://www.youtube.com/watch?v=CxkG1OpkSww",
-      "pubDate": "2026-11-04T13:32:47Z",
-      "thumb": "https://i.ytimg.com/vi/CxkG1OpkSww/hqdefault.jpg"
-    },
-    {
       "team": "Aston Villa",
       "title": "Unai Emery on defeat to Barcelona 🗣️",
       "link": "https://www.youtube.com/watch?v=D5LNiRkdSPU",
@@ -469,13 +483,6 @@
       "link": "https://www.youtube.com/watch?v=3OJyQKPxd9o",
       "pubDate": "2026-10-31T22:00:28Z",
       "thumb": "https://i.ytimg.com/vi/3OJyQKPxd9o/hqdefault.jpg"
-    },
-    {
-      "team": "Fulham",
-      "title": "\"We need to continue our process\" 🗣️ | Álvaro Arbeloa Press Conference | Aston Villa v Fulham",
-      "link": "https://www.youtube.com/watch?v=k6BCI7Bpw40",
-      "pubDate": "2026-10-30T12:15:22Z",
-      "thumb": "https://i.ytimg.com/vi/k6BCI7Bpw40/hqdefault.jpg"
     }
   ]
 }
