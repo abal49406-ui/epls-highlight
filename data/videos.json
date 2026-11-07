@@ -1,11 +1,39 @@
 {
-  "updatedAt": "2026-11-07T16:28:18.943Z",
+  "updatedAt": "2026-11-07T20:27:15.661Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Relegation ZONE! Goldbridge Man Utd News",
+      "link": "https://www.youtube.com/watch?v=A-V1wBOa4hw",
+      "pubDate": "2026-11-07T20:06:12Z",
+      "thumb": "https://i.ytimg.com/vi/A-V1wBOa4hw/hqdefault.jpg?v=6aef7895"
+    },
+    {
+      "team": "Hull City",
+      "title": "Arsenal 1-0 Hull City | Sergej Jakirović's Post-Match Reaction",
+      "link": "https://www.youtube.com/watch?v=D7-jgadhKjo",
+      "pubDate": "2026-11-07T19:58:03Z",
+      "thumb": "https://i.ytimg.com/vi/D7-jgadhKjo/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "ONE-NIL TO THE ARSENAL! 🥳 | Live From N5 | Arsenal 1-0 Hull City | PL",
+      "link": "https://www.youtube.com/watch?v=zwtJmbl7wAg",
+      "pubDate": "2026-11-07T17:25:08Z",
+      "thumb": "https://i.ytimg.com/vi/zwtJmbl7wAg/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "Rayan & Evanilson find the net in Prague from pitchside camera | Alt Angle",
+      "link": "https://www.youtube.com/watch?v=VN0DxTzaerI",
+      "pubDate": "2026-11-07T17:19:33Z",
+      "thumb": "https://i.ytimg.com/vi/VN0DxTzaerI/hqdefault.jpg"
+    },
     {
       "team": "Manchester City",
       "title": "MATCHDAY LIVE! | Nottingham Forest v Man City | Premier League",
       "link": "https://www.youtube.com/watch?v=lbS7WbgxaD0",
-      "pubDate": "2026-11-07T15:21:41Z",
+      "pubDate": "2026-11-07T16:54:32Z",
       "thumb": "https://i.ytimg.com/vi/lbS7WbgxaD0/hqdefault.jpg?v=6aef4207"
     },
     {
@@ -205,13 +233,6 @@
       "thumb": "https://i.ytimg.com/vi/NDs7p8v83Vk/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "United want BIG January window!? Shaw EXIT talks! Man United news",
-      "link": "https://www.youtube.com/watch?v=w-5oAuuev_I",
-      "pubDate": "2026-11-06T10:59:53Z",
-      "thumb": "https://i.ytimg.com/vi/w-5oAuuev_I/hqdefault.jpg"
-    },
-    {
       "team": "Manchester City",
       "title": "MANAGER'S PREVIEW | Maresca: Anderson is a manager’s dream | Premier League",
       "link": "https://www.youtube.com/watch?v=nub0ZCrSYPk",
@@ -296,13 +317,6 @@
       "thumb": "https://i.ytimg.com/vi/zf6R58sybAE/hqdefault.jpg"
     },
     {
-      "team": "Arsenal",
-      "title": "GYOKERES & MADUEKE GOALS EARN THREE POINTS | HIGHLIGHTS | Slavia Prague vs Arsenal (1-2) l UCL",
-      "link": "https://www.youtube.com/watch?v=hFU_vO-jZfc",
-      "pubDate": "2026-11-05T00:01:35Z",
-      "thumb": "https://i.ytimg.com/vi/hFU_vO-jZfc/hqdefault.jpg"
-    },
-    {
       "team": "Brighton & Hove Albion",
       "title": "Getafe v Albion | Hurzeler & Verbruggen pre-match press conference 🎙️",
       "link": "https://www.youtube.com/watch?v=JjmXsz6aodU",
@@ -371,13 +385,6 @@
       "link": "https://www.youtube.com/watch?v=CxkG1OpkSww",
       "pubDate": "2026-11-04T13:32:47Z",
       "thumb": "https://i.ytimg.com/vi/CxkG1OpkSww/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: U18 Premier League South: Southampton FC v AFC Bournemouth",
-      "link": "https://www.youtube.com/watch?v=m0ZvjjFP6Vo",
-      "pubDate": "2026-11-04T01:30:52Z",
-      "thumb": "https://i.ytimg.com/vi/m0ZvjjFP6Vo/hqdefault.jpg"
     },
     {
       "team": "Aston Villa",
@@ -462,13 +469,6 @@
       "link": "https://www.youtube.com/watch?v=3OJyQKPxd9o",
       "pubDate": "2026-10-31T22:00:28Z",
       "thumb": "https://i.ytimg.com/vi/3OJyQKPxd9o/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "Hull City 2-2 Ipswich Town | Sergej Jakirović's Post-Match Reaction",
-      "link": "https://www.youtube.com/watch?v=FQk2RAiMnH8",
-      "pubDate": "2026-10-31T18:24:04Z",
-      "thumb": "https://i.ytimg.com/vi/FQk2RAiMnH8/hqdefault.jpg"
     },
     {
       "team": "Fulham",
