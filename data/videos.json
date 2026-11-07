@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-06T23:28:31.647Z",
+  "updatedAt": "2026-11-07T03:09:33.984Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "Rayan drops Ronaldo SIUU as Cherries make it FOUR wins in Europe | Sparta Prague 1-3 AFC Bournemouth",
+      "link": "https://www.youtube.com/watch?v=N6gib6gOAJ8",
+      "pubDate": "2026-11-07T00:00:38Z",
+      "thumb": "https://i.ytimg.com/vi/N6gib6gOAJ8/hqdefault.jpg"
+    },
     {
       "team": "Coventry City",
       "title": "Frank Lampard, Jack Rudoni and Ethan Pinnock Reaction | Everton vs Coventry City | Premier League",
@@ -385,13 +392,6 @@
       "link": "https://www.youtube.com/watch?v=dUKL-nkjzVI",
       "pubDate": "2026-11-03T00:00:02Z",
       "thumb": "https://i.ytimg.com/vi/dUKL-nkjzVI/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "Premier League Cup Live: AFC Bournemouth v Cardiff City",
-      "link": "https://www.youtube.com/watch?v=JYKWGq5j0Oc",
-      "pubDate": "2026-11-02T21:11:25Z",
-      "thumb": "https://i.ytimg.com/vi/JYKWGq5j0Oc/hqdefault.jpg"
     },
     {
       "team": "Fulham",
