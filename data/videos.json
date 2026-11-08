@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-07T23:54:18.919Z",
+  "updatedAt": "2026-11-08T03:20:12.122Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: U18 Premier League Cup: AFC Bournemouth v Reading",
+      "link": "https://www.youtube.com/watch?v=m3XP3WmNbrM",
+      "pubDate": "2026-11-08T01:17:51Z",
+      "thumb": "https://i.ytimg.com/vi/m3XP3WmNbrM/hqdefault.jpg"
+    },
+    {
+      "team": "Coventry City",
+      "title": "Everton 3-1 Coventry City | Extended Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=3fXn8s-SCDc",
+      "pubDate": "2026-11-08T00:01:26Z",
+      "thumb": "https://i.ytimg.com/vi/3fXn8s-SCDc/hqdefault.jpg"
+    },
+    {
+      "team": "Hull City",
+      "title": "Narrow Defeat At The Champions | Arsenal 1-0 Hull City",
+      "link": "https://www.youtube.com/watch?v=Of5tSXUT9wY",
+      "pubDate": "2026-11-08T00:00:17Z",
+      "thumb": "https://i.ytimg.com/vi/Of5tSXUT9wY/hqdefault.jpg"
+    },
     {
       "team": "Manchester City",
       "title": "HIGHLIGHTS | Nottingham Forest 3-1 Man City | Defeat on the road for the Blues.",
@@ -133,13 +154,6 @@
       "link": "https://www.youtube.com/watch?v=9XmY7ak8ung",
       "pubDate": "2026-11-07T14:08:50Z",
       "thumb": "https://i.ytimg.com/vi/9XmY7ak8ung/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: U18 Premier League Cup: AFC Bournemouth v Reading",
-      "link": "https://www.youtube.com/watch?v=m3XP3WmNbrM",
-      "pubDate": "2026-11-07T13:07:31Z",
-      "thumb": "https://i.ytimg.com/vi/m3XP3WmNbrM/hqdefault.jpg?v=6aee3944"
     },
     {
       "team": "Brighton & Hove Albion",
@@ -450,13 +464,6 @@
       "thumb": "https://i.ytimg.com/vi/9ZehPbK9mgE/hqdefault.jpg"
     },
     {
-      "team": "Coventry City",
-      "title": "Coventry City 3-1 Sunderland | Extended Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=J21gWnh8tcQ",
-      "pubDate": "2026-11-02T10:18:36Z",
-      "thumb": "https://i.ytimg.com/vi/J21gWnh8tcQ/hqdefault.jpg"
-    },
-    {
       "team": "Ipswich Town",
       "title": "TOWN IN FIVE | HULL (A)",
       "link": "https://www.youtube.com/watch?v=4Idq18drlSU",
@@ -469,13 +476,6 @@
       "link": "https://www.youtube.com/watch?v=HdsjjxoAA2M",
       "pubDate": "2026-11-01T03:00:05Z",
       "thumb": "https://i.ytimg.com/vi/HdsjjxoAA2M/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "McBurnie has Two in Two! Hull City 2-2 Ipswich Town | Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=uY9HSEBuJ98",
-      "pubDate": "2026-10-31T23:59:32Z",
-      "thumb": "https://i.ytimg.com/vi/uY9HSEBuJ98/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
