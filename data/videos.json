@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-11-08T10:34:40.221Z",
+  "updatedAt": "2026-11-08T16:46:25.940Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "MAN UNITED vs ASTON VILL! Countdown To Kickoff!",
+      "link": "https://www.youtube.com/watch?v=oI__yHLnwZw",
+      "pubDate": "2026-11-08T16:07:09Z",
+      "thumb": "https://i.ytimg.com/vi/oI__yHLnwZw/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "MAN UNITED vs ASTON VILLA LIVE Premier League Watchalong",
+      "link": "https://www.youtube.com/watch?v=aJo92sglB1c",
+      "pubDate": "2026-11-08T16:00:03Z",
+      "thumb": "https://i.ytimg.com/vi/aJo92sglB1c/hqdefault.jpg?v=6af07695"
+    },
+    {
+      "team": "Ipswich Town",
+      "title": "MATCHDAY LIVE | HT: TOWN V BOURNEMOUTH",
+      "link": "https://www.youtube.com/watch?v=jXZXVtRw3XU",
+      "pubDate": "2026-11-08T15:10:58Z",
+      "thumb": "https://i.ytimg.com/vi/jXZXVtRw3XU/hqdefault.jpg"
+    },
+    {
+      "team": "Ipswich Town",
+      "title": "MATCHDAY LIVE | HT: TOWN V BOURNEMOUTH",
+      "link": "https://www.youtube.com/watch?v=JuH8trbCIH8",
+      "pubDate": "2026-11-08T14:58:42Z",
+      "thumb": "https://i.ytimg.com/vi/JuH8trbCIH8/hqdefault.jpg"
+    },
+    {
+      "team": "Ipswich Town",
+      "title": "MATCHDAY LIVE | TOWN V BOURNEMOUTH",
+      "link": "https://www.youtube.com/watch?v=gUOOR72Yavo",
+      "pubDate": "2026-11-08T14:10:28Z",
+      "thumb": "https://i.ytimg.com/vi/gUOOR72Yavo/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "Fabian previews Brentford. 🗣️⏳ #BHAFC #PremierLeague #PL",
+      "link": "https://www.youtube.com/watch?v=z8fRPqvMofE",
+      "pubDate": "2026-11-08T13:47:32Z",
+      "thumb": "https://i.ytimg.com/vi/z8fRPqvMofE/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "GREALISH, McGINN AND STAUNTON ! ✨⚽ | TEN Aston Villa BANGERS Against Manchester United!",
+      "link": "https://www.youtube.com/watch?v=M7QDZxGvv08",
+      "pubDate": "2026-11-08T13:35:22Z",
+      "thumb": "https://i.ytimg.com/vi/M7QDZxGvv08/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Matchday Live: Crystal Palace vs Liverpool | Premier League build-up",
+      "link": "https://www.youtube.com/watch?v=qPCDF0U80IA",
+      "pubDate": "2026-11-08T13:26:22Z",
+      "thumb": "https://i.ytimg.com/vi/qPCDF0U80IA/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "DOUBLE DELAP DELIGHT! 💥 | Nottingham Forest 3-1 Manchester City | Premier League Highlights 🎬",
+      "link": "https://www.youtube.com/watch?v=ioYTK8VowkY",
+      "pubDate": "2026-11-08T11:30:05Z",
+      "thumb": "https://i.ytimg.com/vi/ioYTK8VowkY/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Lacey STARTS!? MUST Win For Carrick! Man United vs Aston Villa Road Trip!",
@@ -163,25 +226,11 @@
       "thumb": "https://i.ytimg.com/vi/yyhRm_5A434/hqdefault.jpg"
     },
     {
-      "team": "Nottingham Forest",
-      "title": "BIG COMEBACK! 👏 | Nottingham Forest 2-2 Leicester City | Premier League 2 Highlights 🎬",
-      "link": "https://www.youtube.com/watch?v=9XmY7ak8ung",
-      "pubDate": "2026-11-07T14:08:50Z",
-      "thumb": "https://i.ytimg.com/vi/9XmY7ak8ung/hqdefault.jpg"
-    },
-    {
       "team": "Brighton & Hove Albion",
       "title": "Albion v Brentford | Hurzeler pre-match press conference 🎙️",
       "link": "https://www.youtube.com/watch?v=Bi10BiGT4fU",
       "pubDate": "2026-11-07T12:17:52Z",
       "thumb": "https://i.ytimg.com/vi/Bi10BiGT4fU/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Carrick AND Wilcox GONE By Christmas! Man Utd News",
-      "link": "https://www.youtube.com/watch?v=S34UnrolU1M",
-      "pubDate": "2026-11-07T12:15:43Z",
-      "thumb": "https://i.ytimg.com/vi/S34UnrolU1M/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
@@ -226,13 +275,6 @@
       "thumb": "https://i.ytimg.com/vi/yKybHPVK-zY/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Ridiculous CARRICK Decision!? Man Utd News",
-      "link": "https://www.youtube.com/watch?v=i1y_UBoxMdA",
-      "pubDate": "2026-11-06T19:31:06Z",
-      "thumb": "https://i.ytimg.com/vi/i1y_UBoxMdA/hqdefault.jpg"
-    },
-    {
       "team": "Manchester City",
       "title": "Inside The Mind... of Phil Foden",
       "link": "https://www.youtube.com/watch?v=ra-PwMK-PVw",
@@ -252,13 +294,6 @@
       "link": "https://www.youtube.com/watch?v=zTlU1uU7aeg",
       "pubDate": "2026-11-06T17:01:28Z",
       "thumb": "https://i.ytimg.com/vi/zTlU1uU7aeg/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "GARY O'NEIL PREVIEWS BOURNEMOUTH (H)",
-      "link": "https://www.youtube.com/watch?v=Q5_NM-Vh7IA",
-      "pubDate": "2026-11-06T16:54:55Z",
-      "thumb": "https://i.ytimg.com/vi/Q5_NM-Vh7IA/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
@@ -310,13 +345,6 @@
       "thumb": "https://i.ytimg.com/vi/o5c7_x1EaBY/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "Highlights: Fenerbahce 3-2 Liverpool",
-      "link": "https://www.youtube.com/watch?v=916AdFs4ooY",
-      "pubDate": "2026-11-05T19:45:17Z",
-      "thumb": "https://i.ytimg.com/vi/916AdFs4ooY/hqdefault.jpg"
-    },
-    {
       "team": "Newcastle United",
       "title": "PRESS CONFERENCE | Matthias Jaissle pre-Fulham (A)",
       "link": "https://www.youtube.com/watch?v=mYKfgi7KawE",
@@ -350,13 +378,6 @@
       "link": "https://www.youtube.com/watch?v=zf6R58sybAE",
       "pubDate": "2026-11-05T02:38:17Z",
       "thumb": "https://i.ytimg.com/vi/zf6R58sybAE/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "Getafe v Albion | Hurzeler & Verbruggen pre-match press conference 🎙️",
-      "link": "https://www.youtube.com/watch?v=JjmXsz6aodU",
-      "pubDate": "2026-11-04T23:35:07Z",
-      "thumb": "https://i.ytimg.com/vi/JjmXsz6aodU/hqdefault.jpg"
     },
     {
       "team": "Aston Villa",
@@ -443,13 +464,6 @@
       "thumb": "https://i.ytimg.com/vi/j9EKn5JVV2c/hqdefault.jpg"
     },
     {
-      "team": "Aston Villa",
-      "title": "COUTINHO, RASHFORD & More! 💥 | 5 PLAYERS Who Have Played for BARCELONA & ASTON VILLA! 🤩",
-      "link": "https://www.youtube.com/watch?v=tIx5AsSybaI",
-      "pubDate": "2026-11-03T14:00:33Z",
-      "thumb": "https://i.ytimg.com/vi/tIx5AsSybaI/hqdefault.jpg"
-    },
-    {
       "team": "Newcastle United",
       "title": "Newcastle United 0 Everton 1 | Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=dUKL-nkjzVI",
@@ -464,25 +478,11 @@
       "thumb": "https://i.ytimg.com/vi/9ZehPbK9mgE/hqdefault.jpg"
     },
     {
-      "team": "Ipswich Town",
-      "title": "TOWN IN FIVE | HULL (A)",
-      "link": "https://www.youtube.com/watch?v=4Idq18drlSU",
-      "pubDate": "2026-11-01T15:39:27Z",
-      "thumb": "https://i.ytimg.com/vi/4Idq18drlSU/hqdefault.jpg"
-    },
-    {
       "team": "Fulham",
       "title": "Deserved Point 💪 | Villa 1-1 Fulham | Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=HdsjjxoAA2M",
       "pubDate": "2026-11-01T03:00:05Z",
       "thumb": "https://i.ytimg.com/vi/HdsjjxoAA2M/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "HIGHLIGHTS | HULL CITY 2 TOWN 2",
-      "link": "https://www.youtube.com/watch?v=3OJyQKPxd9o",
-      "pubDate": "2026-10-31T22:00:28Z",
-      "thumb": "https://i.ytimg.com/vi/3OJyQKPxd9o/hqdefault.jpg"
     }
   ]
 }
