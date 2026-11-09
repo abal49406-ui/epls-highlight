@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-09T00:18:11.528Z",
+  "updatedAt": "2026-11-09T06:48:08.704Z",
   "videos": [
+    {
+      "team": "Newcastle United",
+      "title": "Fulham 1 Newcastle United 1 | EXTENDED Premier League Highlights",
+      "link": "https://www.youtube.com/watch?v=iicW3wgicQ8",
+      "pubDate": "2026-11-09T01:27:54Z",
+      "thumb": "https://i.ytimg.com/vi/iicW3wgicQ8/hqdefault.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "NINE WINS FROM 10 PREMIER LEAGUE GAMES! | EXTENDED HIGHLIGHTS | Arsenal vs Hull City (1-0)",
@@ -441,13 +448,6 @@
       "link": "https://www.youtube.com/watch?v=45S_uMMtRcI",
       "pubDate": "2026-11-04T15:10:15Z",
       "thumb": "https://i.ytimg.com/vi/45S_uMMtRcI/hqdefault.jpg"
-    },
-    {
-      "team": "Newcastle United",
-      "title": "Rotherham United 0 Newcastle United 1 | U21s Jersey Mike's Trophy Highlights",
-      "link": "https://www.youtube.com/watch?v=CvYbF4CK3wY",
-      "pubDate": "2026-11-04T14:48:28Z",
-      "thumb": "https://i.ytimg.com/vi/CvYbF4CK3wY/hqdefault.jpg"
     },
     {
       "team": "Aston Villa",
