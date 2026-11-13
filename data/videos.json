@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-11-13T07:10:45.421Z",
+  "updatedAt": "2026-11-13T15:25:04.558Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Carrick Says GOODBYE! Poch MUST Do This! Man United News",
+      "link": "https://www.youtube.com/watch?v=vOAU0dtjYIg",
+      "pubDate": "2026-11-13T14:42:21Z",
+      "thumb": "https://i.ytimg.com/vi/vOAU0dtjYIg/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Wilcox DEFENDS His Window! Poch Reaction! Man United News",
+      "link": "https://www.youtube.com/watch?v=jyh8q2wZ6C0",
+      "pubDate": "2026-11-13T10:58:55Z",
+      "thumb": "https://i.ytimg.com/vi/jyh8q2wZ6C0/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "That winning feeling! | Uncut exclusive footage | Leeds United 1-0 Tottenham Hotspur",
+      "link": "https://www.youtube.com/watch?v=xaxb7EUecQY",
+      "pubDate": "2026-11-13T09:10:34Z",
+      "thumb": "https://i.ytimg.com/vi/xaxb7EUecQY/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Pochettino HERE WE GO! Goldbridge Reacts",
+      "link": "https://www.youtube.com/watch?v=7LOTYD9Cbls",
+      "pubDate": "2026-11-13T08:40:21Z",
+      "thumb": "https://i.ytimg.com/vi/7LOTYD9Cbls/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Glazers OVERRULE Wilcox! Poch DEAL Tomorrow! Goldbridge Man Utd News",
@@ -30,25 +58,11 @@
       "thumb": "https://i.ytimg.com/vi/SHxOBst27gU/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "What a WEEK! Goldbridge Man Utd News",
-      "link": "https://www.youtube.com/watch?v=2YWOkDucKC4",
-      "pubDate": "2026-11-12T16:38:47Z",
-      "thumb": "https://i.ytimg.com/vi/2YWOkDucKC4/hqdefault.jpg"
-    },
-    {
       "team": "Aston Villa",
       "title": "Derby Day, Jill Baijings' Return & 30 Years of Aston Villa Women | Lynn Wilms & Jill Baijings",
       "link": "https://www.youtube.com/watch?v=RfMeMROrC5I",
       "pubDate": "2026-11-12T13:30:36Z",
       "thumb": "https://i.ytimg.com/vi/RfMeMROrC5I/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "OFFICIAL! CARRICK SACKED!",
-      "link": "https://www.youtube.com/watch?v=XhAX4tIrkFQ",
-      "pubDate": "2026-11-12T11:42:38Z",
-      "thumb": "https://i.ytimg.com/vi/XhAX4tIrkFQ/hqdefault.jpg"
     },
     {
       "team": "Sunderland",
@@ -70,13 +84,6 @@
       "link": "https://www.youtube.com/watch?v=B_UFbc_-68U",
       "pubDate": "2026-11-12T10:01:36Z",
       "thumb": "https://i.ytimg.com/vi/B_UFbc_-68U/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Carrick Sacked! Goldbridge Man Utd News",
-      "link": "https://www.youtube.com/watch?v=DI5HlcEdml8",
-      "pubDate": "2026-11-12T09:37:53Z",
-      "thumb": "https://i.ytimg.com/vi/DI5HlcEdml8/hqdefault.jpg"
     },
     {
       "team": "Sunderland",
@@ -385,13 +392,6 @@
       "link": "https://www.youtube.com/watch?v=D7-jgadhKjo",
       "pubDate": "2026-11-07T19:58:03Z",
       "thumb": "https://i.ytimg.com/vi/D7-jgadhKjo/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "“A nice feeling” | Sean Longstaff | Leeds United 1-0 Tottenham Hotspur",
-      "link": "https://www.youtube.com/watch?v=rTnWx9ExyOE",
-      "pubDate": "2026-11-07T15:18:03Z",
-      "thumb": "https://i.ytimg.com/vi/rTnWx9ExyOE/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
