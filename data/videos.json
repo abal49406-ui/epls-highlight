@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-11-13T15:25:04.558Z",
+  "updatedAt": "2026-11-13T21:34:33.339Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Poch HUGE Transfer Promise! MORE Sackings? Goldbridge Man Utd News",
+      "link": "https://www.youtube.com/watch?v=33EED50kijY",
+      "pubDate": "2026-11-13T21:10:12Z",
+      "thumb": "https://i.ytimg.com/vi/33EED50kijY/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "93-Year-Old Fan Surprised at City Ground by John McGovern! 😁",
+      "link": "https://www.youtube.com/watch?v=TkUjTo4CfBA",
+      "pubDate": "2026-11-13T17:00:13Z",
+      "thumb": "https://i.ytimg.com/vi/TkUjTo4CfBA/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "Chuks Okoli Signs His Professional Contract",
+      "link": "https://www.youtube.com/watch?v=zhQ5cr82JjY",
+      "pubDate": "2026-11-13T17:00:09Z",
+      "thumb": "https://i.ytimg.com/vi/zhQ5cr82JjY/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Poch MISTAKE! Bruno REJECTS New Deal! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=1NFtyQcL3UQ",
+      "pubDate": "2026-11-13T16:15:07Z",
+      "thumb": "https://i.ytimg.com/vi/1NFtyQcL3UQ/hqdefault.jpg"
+    },
+    {
+      "team": "Hull City",
+      "title": "TIGS VS TREE | Matt Crooks and Matt Targett create Salt & Pepper boxes for Uber Eats!",
+      "link": "https://www.youtube.com/watch?v=cMDZTSF0E2U",
+      "pubDate": "2026-11-13T16:00:25Z",
+      "thumb": "https://i.ytimg.com/vi/cMDZTSF0E2U/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Carrick Says GOODBYE! Poch MUST Do This! Man United News",
@@ -23,20 +58,6 @@
       "thumb": "https://i.ytimg.com/vi/xaxb7EUecQY/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Pochettino HERE WE GO! Goldbridge Reacts",
-      "link": "https://www.youtube.com/watch?v=7LOTYD9Cbls",
-      "pubDate": "2026-11-13T08:40:21Z",
-      "thumb": "https://i.ytimg.com/vi/7LOTYD9Cbls/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Glazers OVERRULE Wilcox! Poch DEAL Tomorrow! Goldbridge Man Utd News",
-      "link": "https://www.youtube.com/watch?v=-gEPCVxnSZE",
-      "pubDate": "2026-11-12T21:07:24Z",
-      "thumb": "https://i.ytimg.com/vi/-gEPCVxnSZE/hqdefault.jpg"
-    },
-    {
       "team": "Manchester City",
       "title": "The Beauty of Football",
       "link": "https://www.youtube.com/watch?v=3chUKWSnFnE",
@@ -45,7 +66,7 @@
     },
     {
       "team": "Newcastle United",
-      "title": "What It Really Takes To Become A Premier League Footballer",
+      "title": "What It Really Takes To Make It To The Premier League",
       "link": "https://www.youtube.com/watch?v=lf7u9JJyrlA",
       "pubDate": "2026-11-12T18:00:29Z",
       "thumb": "https://i.ytimg.com/vi/lf7u9JJyrlA/hqdefault.jpg"
@@ -203,13 +224,6 @@
       "link": "https://www.youtube.com/watch?v=9v4YjymHBoU",
       "pubDate": "2026-11-10T00:01:22Z",
       "thumb": "https://i.ytimg.com/vi/9v4YjymHBoU/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "DREAM DELAP DOUBLE & CITY GROUND SCENES! 🫨 | Nottingham Forest 3-1 Manchester City | Matchday Pass 🎬",
-      "link": "https://www.youtube.com/watch?v=dZBU-0_OKWM",
-      "pubDate": "2026-11-09T19:00:02Z",
-      "thumb": "https://i.ytimg.com/vi/dZBU-0_OKWM/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
@@ -420,20 +434,6 @@
       "link": "https://www.youtube.com/watch?v=lKv22yFL5aA",
       "pubDate": "2026-11-06T15:46:11Z",
       "thumb": "https://i.ytimg.com/vi/lKv22yFL5aA/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "Arsenal (A) | Sergej Jakirović's Live Pre-Match Press Conference",
-      "link": "https://www.youtube.com/watch?v=ZFKsc3Ppe_Q",
-      "pubDate": "2026-11-05T14:24:43Z",
-      "thumb": "https://i.ytimg.com/vi/ZFKsc3Ppe_Q/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "CCTV | Preparations for Hoffenheim 💪🇩🇪",
-      "link": "https://www.youtube.com/watch?v=tANMddnGWcE",
-      "pubDate": "2026-11-05T09:00:19Z",
-      "thumb": "https://i.ytimg.com/vi/tANMddnGWcE/hqdefault.jpg"
     },
     {
       "team": "Brentford",
