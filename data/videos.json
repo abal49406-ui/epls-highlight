@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-14T15:09:33.482Z",
+  "updatedAt": "2026-11-14T19:56:40.381Z",
   "videos": [
+    {
+      "team": "Crystal Palace",
+      "title": "Hugo Bull Signs His Professional Contract",
+      "link": "https://www.youtube.com/watch?v=urYtzVTap4c",
+      "pubDate": "2026-11-14T17:00:23Z",
+      "thumb": "https://i.ytimg.com/vi/urYtzVTap4c/hqdefault.jpg"
+    },
     {
       "team": "Nottingham Forest",
       "title": "Guess the FAKE Forest Fan! 😲",
@@ -420,13 +427,6 @@
       "link": "https://www.youtube.com/watch?v=lKv22yFL5aA",
       "pubDate": "2026-11-06T15:46:11Z",
       "thumb": "https://i.ytimg.com/vi/lKv22yFL5aA/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "CCTV | Preparations for Hoffenheim 💪🇩🇪",
-      "link": "https://www.youtube.com/watch?v=tANMddnGWcE",
-      "pubDate": "2026-11-05T09:00:19Z",
-      "thumb": "https://i.ytimg.com/vi/tANMddnGWcE/hqdefault.jpg"
     },
     {
       "team": "Brentford",
