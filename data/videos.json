@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T21:34:33.339Z",
+  "updatedAt": "2026-11-14T01:42:34.361Z",
   "videos": [
     {
       "team": "Manchester United",
@@ -14,13 +14,6 @@
       "link": "https://www.youtube.com/watch?v=TkUjTo4CfBA",
       "pubDate": "2026-11-13T17:00:13Z",
       "thumb": "https://i.ytimg.com/vi/TkUjTo4CfBA/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "Chuks Okoli Signs His Professional Contract",
-      "link": "https://www.youtube.com/watch?v=zhQ5cr82JjY",
-      "pubDate": "2026-11-13T17:00:09Z",
-      "thumb": "https://i.ytimg.com/vi/zhQ5cr82JjY/hqdefault.jpg"
     },
     {
       "team": "Manchester United",
@@ -434,6 +427,13 @@
       "link": "https://www.youtube.com/watch?v=lKv22yFL5aA",
       "pubDate": "2026-11-06T15:46:11Z",
       "thumb": "https://i.ytimg.com/vi/lKv22yFL5aA/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "CCTV | Preparations for Hoffenheim 💪🇩🇪",
+      "link": "https://www.youtube.com/watch?v=tANMddnGWcE",
+      "pubDate": "2026-11-05T09:00:19Z",
+      "thumb": "https://i.ytimg.com/vi/tANMddnGWcE/hqdefault.jpg"
     },
     {
       "team": "Brentford",
