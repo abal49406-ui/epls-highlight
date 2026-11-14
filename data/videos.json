@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-14T08:17:48.914Z",
+  "updatedAt": "2026-11-14T15:09:33.482Z",
   "videos": [
+    {
+      "team": "Nottingham Forest",
+      "title": "Guess the FAKE Forest Fan! 😲",
+      "link": "https://www.youtube.com/watch?v=tWjxtwaTqNE",
+      "pubDate": "2026-11-14T12:00:30Z",
+      "thumb": "https://i.ytimg.com/vi/tWjxtwaTqNE/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Poch SACKS Wilcox? Nico PAZ Transfer Offer? Goldbridge Man Utd News",
+      "link": "https://www.youtube.com/watch?v=80nyhgX2hG4",
+      "pubDate": "2026-11-14T10:53:48Z",
+      "thumb": "https://i.ytimg.com/vi/80nyhgX2hG4/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "GREATEST CHALLENGES | Crunching tackles over the years!",
+      "link": "https://www.youtube.com/watch?v=cx1MGMILD_M",
+      "pubDate": "2026-11-14T10:01:33Z",
+      "thumb": "https://i.ytimg.com/vi/cx1MGMILD_M/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Poch HUGE Transfer Promise! MORE Sackings? Goldbridge Man Utd News",
@@ -35,13 +56,6 @@
       "link": "https://www.youtube.com/watch?v=vOAU0dtjYIg",
       "pubDate": "2026-11-13T14:42:21Z",
       "thumb": "https://i.ytimg.com/vi/vOAU0dtjYIg/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Wilcox DEFENDS His Window! Poch Reaction! Man United News",
-      "link": "https://www.youtube.com/watch?v=jyh8q2wZ6C0",
-      "pubDate": "2026-11-13T10:58:55Z",
-      "thumb": "https://i.ytimg.com/vi/jyh8q2wZ6C0/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
@@ -135,13 +149,6 @@
       "thumb": "https://i.ytimg.com/vi/DzxKfMspjTY/hqdefault.jpg"
     },
     {
-      "team": "Nottingham Forest",
-      "title": "KNOCKOUTS SECURED! 🔒 | Grimsby Town 0-3 Nottingham Forest | Jersey Mike's Trophy Highlights 🎬",
-      "link": "https://www.youtube.com/watch?v=YCaNqzi55rc",
-      "pubDate": "2026-11-11T10:05:34Z",
-      "thumb": "https://i.ytimg.com/vi/YCaNqzi55rc/hqdefault.jpg"
-    },
-    {
       "team": "Leeds United",
       "title": "Okafor’s winner! | All The Angles",
       "link": "https://www.youtube.com/watch?v=gMLSlotBAdI",
@@ -224,13 +231,6 @@
       "link": "https://www.youtube.com/watch?v=Kxa1aG901Ig",
       "pubDate": "2026-11-09T17:39:32Z",
       "thumb": "https://i.ytimg.com/vi/Kxa1aG901Ig/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "IN FOCUS | Ezri Konsa | Arsenal vs Hull City (1-0) | Premier League",
-      "link": "https://www.youtube.com/watch?v=w_3jMB2vbE8",
-      "pubDate": "2026-11-09T17:05:03Z",
-      "thumb": "https://i.ytimg.com/vi/w_3jMB2vbE8/hqdefault.jpg"
     },
     {
       "team": "Fulham",
@@ -378,13 +378,6 @@
       "link": "https://www.youtube.com/watch?v=Of5tSXUT9wY",
       "pubDate": "2026-11-08T00:00:17Z",
       "thumb": "https://i.ytimg.com/vi/Of5tSXUT9wY/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "HIGHLIGHTS | Nottingham Forest 3-1 Man City | Defeat on the road for the Blues.",
-      "link": "https://www.youtube.com/watch?v=jGW0vt6rMLM",
-      "pubDate": "2026-11-07T22:00:39Z",
-      "thumb": "https://i.ytimg.com/vi/jGW0vt6rMLM/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
