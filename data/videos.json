@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-15T17:32:32.314Z",
+  "updatedAt": "2026-11-15T22:02:08.543Z",
   "videos": [
+    {
+      "team": "Crystal Palace",
+      "title": "WSL highlights | Manchester United 2-0 Palace",
+      "link": "https://www.youtube.com/watch?v=BhxcMVZ-TgI",
+      "pubDate": "2026-11-15T21:11:20Z",
+      "thumb": "https://i.ytimg.com/vi/BhxcMVZ-TgI/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Poch's BIG Transfer Clear Out! Goldbridge Man Utd News",
+      "link": "https://www.youtube.com/watch?v=n1nNS7M6h-Y",
+      "pubDate": "2026-11-15T19:44:28Z",
+      "thumb": "https://i.ytimg.com/vi/n1nNS7M6h-Y/hqdefault.jpg"
+    },
     {
       "team": "Leeds United",
       "title": "LIVE FOOTBALL: Leeds United Women v Norton & Stockton Ancients | Women's FA Cup",
@@ -56,13 +70,6 @@
       "link": "https://www.youtube.com/watch?v=TkUjTo4CfBA",
       "pubDate": "2026-11-13T17:00:13Z",
       "thumb": "https://i.ytimg.com/vi/TkUjTo4CfBA/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Poch MISTAKE! Bruno REJECTS New Deal! Man Utd News",
-      "link": "https://www.youtube.com/watch?v=1NFtyQcL3UQ",
-      "pubDate": "2026-11-13T16:15:07Z",
-      "thumb": "https://i.ytimg.com/vi/1NFtyQcL3UQ/hqdefault.jpg"
     },
     {
       "team": "Hull City",
@@ -413,13 +420,6 @@
       "link": "https://www.youtube.com/watch?v=BCd3tz9RFqM",
       "pubDate": "2026-11-06T23:01:27Z",
       "thumb": "https://i.ytimg.com/vi/BCd3tz9RFqM/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "KAMADA EQUALISES LATE ⏰🦅 | Crystal Palace 1-1 TSG Hoffenheim | UEFA Europa League Highlights",
-      "link": "https://www.youtube.com/watch?v=zgXCMpndQPs",
-      "pubDate": "2026-11-06T23:00:21Z",
-      "thumb": "https://i.ytimg.com/vi/zgXCMpndQPs/hqdefault.jpg"
     },
     {
       "team": "Chelsea",
