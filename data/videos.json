@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-16T02:10:53.278Z",
+  "updatedAt": "2026-11-16T09:46:54.096Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Poch WANTS Recruitment SAY! Man United News!",
+      "link": "https://www.youtube.com/watch?v=3nxfWLLcHzw",
+      "pubDate": "2026-11-16T09:39:22Z",
+      "thumb": "https://i.ytimg.com/vi/3nxfWLLcHzw/hqdefault.jpg?v=6afacf4c"
+    },
     {
       "team": "Crystal Palace",
       "title": "WSL highlights | Manchester United 2-0 Palace",
@@ -56,13 +63,6 @@
       "link": "https://www.youtube.com/watch?v=cx1MGMILD_M",
       "pubDate": "2026-11-14T10:01:33Z",
       "thumb": "https://i.ytimg.com/vi/cx1MGMILD_M/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Poch HUGE Transfer Promise! MORE Sackings? Goldbridge Man Utd News",
-      "link": "https://www.youtube.com/watch?v=33EED50kijY",
-      "pubDate": "2026-11-13T21:10:12Z",
-      "thumb": "https://i.ytimg.com/vi/33EED50kijY/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
@@ -136,7 +136,7 @@
     },
     {
       "team": "Sunderland",
-      "title": "Whittaker Nets Hat-Trick In Home Win! | Sunderland AFC U21s 4 - 2 PSG U21s | PL International Cup",
+      "title": "Whittaker Nets Hat-Trick In Home Win! | Sunderland AFC U21 4 - 2 PSG U21 | PL International Cup",
       "link": "https://www.youtube.com/watch?v=GWtiH3_Jekw",
       "pubDate": "2026-11-11T21:46:39Z",
       "thumb": "https://i.ytimg.com/vi/GWtiH3_Jekw/hqdefault.jpg"
