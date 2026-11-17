@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-11-17T02:42:13.939Z",
+  "updatedAt": "2026-11-17T11:19:36.325Z",
   "videos": [
+    {
+      "team": "Liverpool",
+      "title": "LIVE: Nottingham Forest vs Liverpool FC Women | Subway Players Cup",
+      "link": "https://www.youtube.com/watch?v=KLi535Olf_A",
+      "pubDate": "2026-11-17T11:16:58Z",
+      "thumb": "https://i.ytimg.com/vi/KLi535Olf_A/hqdefault.jpg?v=6afc37f9"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "The interview: Thomas Frank                         On Palace TV NOW!📺",
+      "link": "https://www.youtube.com/watch?v=CetkMyHYvc0",
+      "pubDate": "2026-11-17T09:46:36Z",
+      "thumb": "https://i.ytimg.com/vi/CetkMyHYvc0/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "Thomas Frank | First Interview",
+      "link": "https://www.youtube.com/watch?v=LxEv2GxM0aA",
+      "pubDate": "2026-11-17T09:00:26Z",
+      "thumb": "https://i.ytimg.com/vi/LxEv2GxM0aA/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Pochettino IN! Wilcox Next To GO? & Gary Neville Joins | Stick to United EP 14",
+      "link": "https://www.youtube.com/watch?v=6HYPGRfcBoc",
+      "pubDate": "2026-11-17T08:00:08Z",
+      "thumb": "https://i.ytimg.com/vi/6HYPGRfcBoc/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Poch's BIG Transfer HINT! Goldbridge Man Utd News",
@@ -49,13 +77,6 @@
       "link": "https://www.youtube.com/watch?v=BhxcMVZ-TgI",
       "pubDate": "2026-11-15T21:11:20Z",
       "thumb": "https://i.ytimg.com/vi/BhxcMVZ-TgI/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Poch's BIG Transfer Clear Out! Goldbridge Man Utd News",
-      "link": "https://www.youtube.com/watch?v=n1nNS7M6h-Y",
-      "pubDate": "2026-11-15T19:44:28Z",
-      "thumb": "https://i.ytimg.com/vi/n1nNS7M6h-Y/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
@@ -219,13 +240,6 @@
       "thumb": "https://i.ytimg.com/vi/KgcI1rvGLd8/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "The BEST Liverpool goals scored in October! | Isak, Munoz & Mac Allister",
-      "link": "https://www.youtube.com/watch?v=L0tIA6VBvgc",
-      "pubDate": "2026-11-10T17:00:22Z",
-      "thumb": "https://i.ytimg.com/vi/L0tIA6VBvgc/hqdefault.jpg"
-    },
-    {
       "team": "Fulham",
       "title": "Pitchside against Newcastle. 📹",
       "link": "https://www.youtube.com/watch?v=qJn9DAZj30s",
@@ -282,13 +296,6 @@
       "thumb": "https://i.ytimg.com/vi/SzsROFXO6fU/hqdefault.jpg"
     },
     {
-      "team": "Crystal Palace",
-      "title": "LAST MINUTE WINNER ⏰🤯 | Crystal Palace 3-2 Charlton | WSL highlights",
-      "link": "https://www.youtube.com/watch?v=CD1BqEWocKU",
-      "pubDate": "2026-11-09T12:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/CD1BqEWocKU/hqdefault.jpg"
-    },
-    {
       "team": "AFC Bournemouth",
       "title": "Evanilson on target AGAIN as Cherries equal club record of successive wins | Alt Angle",
       "link": "https://www.youtube.com/watch?v=4e5Gsuf880E",
@@ -336,13 +343,6 @@
       "link": "https://www.youtube.com/watch?v=wOLZ_jiQLdw",
       "pubDate": "2026-11-08T22:00:14Z",
       "thumb": "https://i.ytimg.com/vi/wOLZ_jiQLdw/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "Match Highlights | Crystal Palace 1-3 Liverpool | Premier League",
-      "link": "https://www.youtube.com/watch?v=RdejiWAqcBQ",
-      "pubDate": "2026-11-08T22:00:13Z",
-      "thumb": "https://i.ytimg.com/vi/RdejiWAqcBQ/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
