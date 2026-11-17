@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-11-17T11:19:36.325Z",
+  "updatedAt": "2026-11-17T19:55:05.277Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "I'm SORRY Poch! Goldbridge Man Utd Transfer News",
+      "link": "https://www.youtube.com/watch?v=OumWBWcgYDU",
+      "pubDate": "2026-11-17T19:48:11Z",
+      "thumb": "https://i.ytimg.com/vi/OumWBWcgYDU/hqdefault.jpg?v=6afcaf7e"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Behind-the-scenes at Liverpool FC Squad's Tommy Hilfiger Styling Session",
+      "link": "https://www.youtube.com/watch?v=xt33j7ePirw",
+      "pubDate": "2026-11-17T19:00:13Z",
+      "thumb": "https://i.ytimg.com/vi/xt33j7ePirw/hqdefault.jpg"
+    },
+    {
+      "team": "Chelsea",
+      "title": "🔵 EVERY CFC WIN SO FAR THIS SEASON | CHELSEA FC 2026/27",
+      "link": "https://www.youtube.com/watch?v=qVImbYk4whU",
+      "pubDate": "2026-11-17T17:31:07Z",
+      "thumb": "https://i.ytimg.com/vi/qVImbYk4whU/hqdefault.jpg?v=6afc8d10"
+    },
+    {
+      "team": "Manchester City",
+      "title": "50 GOALS FROM 50 NATIONS | Man City scorers from around the world!",
+      "link": "https://www.youtube.com/watch?v=ab__owbbDsQ",
+      "pubDate": "2026-11-17T17:00:30Z",
+      "thumb": "https://i.ytimg.com/vi/ab__owbbDsQ/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "يوم المباراة بالعربي! تجربة مانشستر، تحليل السيتي، وتحديات ممتعة | مع بدر نور وأحمد غريب",
+      "link": "https://www.youtube.com/watch?v=CKBOcj4VM9g",
+      "pubDate": "2026-11-17T15:07:34Z",
+      "thumb": "https://i.ytimg.com/vi/CKBOcj4VM9g/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Aston Villa vs Sunderland AFC | Régis Le Bris' Premier League Press Conference",
+      "link": "https://www.youtube.com/watch?v=sY_7GnuplGg",
+      "pubDate": "2026-11-17T14:55:27Z",
+      "thumb": "https://i.ytimg.com/vi/sY_7GnuplGg/hqdefault.jpg?v=6afc6ae0"
+    },
+    {
+      "team": "Leeds United",
+      "title": "\"That is unbelievable\" 🎢  | Becks and Bridgey visit Flamingo Land",
+      "link": "https://www.youtube.com/watch?v=QvMNY9LT740",
+      "pubDate": "2026-11-17T14:20:11Z",
+      "thumb": "https://i.ytimg.com/vi/QvMNY9LT740/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Nottingham Forest Women 1-1 Leicester City Women | Barclays WSL2 Highlights",
+      "link": "https://www.youtube.com/watch?v=tEO_-ke1j2o",
+      "pubDate": "2026-11-17T12:11:46Z",
+      "thumb": "https://i.ytimg.com/vi/tEO_-ke1j2o/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "Coffee, Dog Walks & Life in Brighton | Pascal Struijk | Beyond 90",
+      "link": "https://www.youtube.com/watch?v=YzcbP-Xq2Uo",
+      "pubDate": "2026-11-17T11:45:20Z",
+      "thumb": "https://i.ytimg.com/vi/YzcbP-Xq2Uo/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "LIVE: Nottingham Forest vs Liverpool FC Women | Subway Players Cup",
@@ -38,7 +101,7 @@
     },
     {
       "team": "Brentford",
-      "title": "Thiago, Sangaré & Schuster Play Against Schade, Hickey & Kayode in Match The Skill | Brentford FC",
+      "title": "Thiago, Sangaré & Schuster Play Against Schade, Hickey & Diouf in Match The Skill | Brentford FC",
       "link": "https://www.youtube.com/watch?v=kPoX19PkqvY",
       "pubDate": "2026-11-16T17:30:00Z",
       "thumb": "https://i.ytimg.com/vi/kPoX19PkqvY/hqdefault.jpg"
@@ -56,13 +119,6 @@
       "link": "https://www.youtube.com/watch?v=oX2OlLJ2wFg",
       "pubDate": "2026-11-16T14:37:35Z",
       "thumb": "https://i.ytimg.com/vi/oX2OlLJ2wFg/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Poch WANTS Recruitment SAY! Man United News!",
-      "link": "https://www.youtube.com/watch?v=3nxfWLLcHzw",
-      "pubDate": "2026-11-16T11:04:38Z",
-      "thumb": "https://i.ytimg.com/vi/3nxfWLLcHzw/hqdefault.jpg"
     },
     {
       "team": "Sunderland",
@@ -177,20 +233,6 @@
       "thumb": "https://i.ytimg.com/vi/B_UFbc_-68U/hqdefault.jpg"
     },
     {
-      "team": "Sunderland",
-      "title": "Whittaker Nets Hat-Trick In Home Win! | Sunderland AFC U21 4 - 2 PSG U21 | PL International Cup",
-      "link": "https://www.youtube.com/watch?v=GWtiH3_Jekw",
-      "pubDate": "2026-11-11T21:46:39Z",
-      "thumb": "https://i.ytimg.com/vi/GWtiH3_Jekw/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Liverpool FC Women vs Aston Villa | Subway Players Cup",
-      "link": "https://www.youtube.com/watch?v=Gvph2f_bevE",
-      "pubDate": "2026-11-11T21:10:33Z",
-      "thumb": "https://i.ytimg.com/vi/Gvph2f_bevE/hqdefault.jpg"
-    },
-    {
       "team": "Nottingham Forest",
       "title": "Members of Forest Forces Lay Wreaths Ahead of Premier League Fixture. ❤️",
       "link": "https://www.youtube.com/watch?v=IvXl3IH9p-g",
@@ -205,32 +247,11 @@
       "thumb": "https://i.ytimg.com/vi/vFshSk0CFRo/hqdefault.jpg"
     },
     {
-      "team": "Nottingham Forest",
-      "title": "Nottingham Forest's Pre-Match Remembrance Tribute ❤️",
-      "link": "https://www.youtube.com/watch?v=DzxKfMspjTY",
-      "pubDate": "2026-11-11T14:50:59Z",
-      "thumb": "https://i.ytimg.com/vi/DzxKfMspjTY/hqdefault.jpg"
-    },
-    {
       "team": "Leeds United",
       "title": "Okafor’s winner! | All The Angles",
       "link": "https://www.youtube.com/watch?v=gMLSlotBAdI",
       "pubDate": "2026-11-11T09:02:24Z",
       "thumb": "https://i.ytimg.com/vi/gMLSlotBAdI/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "Tarik Muharemović | The Official Leeds United Podcast",
-      "link": "https://www.youtube.com/watch?v=7wr5nwUO38I",
-      "pubDate": "2026-11-11T08:40:36Z",
-      "thumb": "https://i.ytimg.com/vi/7wr5nwUO38I/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "BENCH CAM | Mikel Arteta reacts to Martin Odegaard's Hull City winner | Premier League",
-      "link": "https://www.youtube.com/watch?v=8qCZuBVYeWk",
-      "pubDate": "2026-11-10T20:58:14Z",
-      "thumb": "https://i.ytimg.com/vi/8qCZuBVYeWk/hqdefault.jpg"
     },
     {
       "team": "Hull City",
@@ -317,13 +338,6 @@
       "thumb": "https://i.ytimg.com/vi/iicW3wgicQ8/hqdefault.jpg"
     },
     {
-      "team": "Manchester City",
-      "title": "EXTENDED HIGHLIGHTS | Nottingham Forest 3-1 Man City | Cherki scores screamer in defeat.",
-      "link": "https://www.youtube.com/watch?v=23ryO7m5jQY",
-      "pubDate": "2026-11-09T00:00:38Z",
-      "thumb": "https://i.ytimg.com/vi/23ryO7m5jQY/hqdefault.jpg"
-    },
-    {
       "team": "AFC Bournemouth",
       "title": "Evanilson and Christie star in eighth successive win in all comps | Ipswich Town 1-2 AFC Bournemouth",
       "link": "https://www.youtube.com/watch?v=4llrYi0YVtY",
@@ -359,13 +373,6 @@
       "thumb": "https://i.ytimg.com/vi/UvkMo7NHt2A/hqdefault.jpg"
     },
     {
-      "team": "Brighton & Hove Albion",
-      "title": "POST-MATCH | Hurzeler & Gross | Brighton v Brentford | Premier League",
-      "link": "https://www.youtube.com/watch?v=Taf-z1Fmaco",
-      "pubDate": "2026-11-08T17:57:16Z",
-      "thumb": "https://i.ytimg.com/vi/Taf-z1Fmaco/hqdefault.jpg"
-    },
-    {
       "team": "Ipswich Town",
       "title": "GARY O'NEIL FOLLOWING DEFEAT TO BOURNEMOUTH",
       "link": "https://www.youtube.com/watch?v=YzaaXLdzycE",
@@ -392,13 +399,6 @@
       "link": "https://www.youtube.com/watch?v=JuH8trbCIH8",
       "pubDate": "2026-11-08T14:58:42Z",
       "thumb": "https://i.ytimg.com/vi/JuH8trbCIH8/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "Happy Diwali | Jǒsko Gvardiol & Mateo Kovačiċ Indian Sweet Challenge! | \"Kaju Barfi Is Top!\"",
-      "link": "https://www.youtube.com/watch?v=0psYQTsDaYk",
-      "pubDate": "2026-11-08T05:30:17Z",
-      "thumb": "https://i.ytimg.com/vi/0psYQTsDaYk/hqdefault.jpg"
     },
     {
       "team": "AFC Bournemouth",
@@ -441,13 +441,6 @@
       "link": "https://www.youtube.com/watch?v=BCd3tz9RFqM",
       "pubDate": "2026-11-06T23:01:27Z",
       "thumb": "https://i.ytimg.com/vi/BCd3tz9RFqM/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "Alonso Press Conference | 06/11/26 | Sunderland vs Chelsea | CFC 26/27",
-      "link": "https://www.youtube.com/watch?v=lKv22yFL5aA",
-      "pubDate": "2026-11-06T15:46:11Z",
-      "thumb": "https://i.ytimg.com/vi/lKv22yFL5aA/hqdefault.jpg"
     },
     {
       "team": "Brentford",
