@@ -1,6 +1,83 @@
 {
-  "updatedAt": "2026-11-18T09:38:54.185Z",
+  "updatedAt": "2026-11-18T18:22:15.544Z",
   "videos": [
+    {
+      "team": "Sunderland",
+      "title": "A Day in the Life of a Premier League Footballer | Thomas Meunier",
+      "link": "https://www.youtube.com/watch?v=4riQTSrrte8",
+      "pubDate": "2026-11-18T17:00:19Z",
+      "thumb": "https://i.ytimg.com/vi/4riQTSrrte8/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Daniel Farke pre-match press conference | Chelsea v Leeds United | Premier League",
+      "link": "https://www.youtube.com/watch?v=8uBpVrGTx-g",
+      "pubDate": "2026-11-18T16:32:34Z",
+      "thumb": "https://i.ytimg.com/vi/8uBpVrGTx-g/hqdefault.jpg?v=6afdd322"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: Real Bedford vs AFCB Women",
+      "link": "https://www.youtube.com/watch?v=sHAp9dIBHN0",
+      "pubDate": "2026-11-18T15:00:09Z",
+      "thumb": "https://i.ytimg.com/vi/sHAp9dIBHN0/hqdefault.jpg?v=6afdbd7b"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: U18 Premier League South: AFC Bournemouth vs Arsenal",
+      "link": "https://www.youtube.com/watch?v=Q_D7gi9N2vQ",
+      "pubDate": "2026-11-18T14:50:40Z",
+      "thumb": "https://i.ytimg.com/vi/Q_D7gi9N2vQ/hqdefault.jpg?v=6afdbb47"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Poch's FIRST DAY! Signings NEXT? Man Utd News",
+      "link": "https://www.youtube.com/watch?v=ip0T0ugFfnw",
+      "pubDate": "2026-11-18T14:40:08Z",
+      "thumb": "https://i.ytimg.com/vi/ip0T0ugFfnw/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "Premier League Cup Live: AFC Bournemouth v Leicester City",
+      "link": "https://www.youtube.com/watch?v=HLdZWAWczVs",
+      "pubDate": "2026-11-18T14:37:48Z",
+      "thumb": "https://i.ytimg.com/vi/HLdZWAWczVs/hqdefault.jpg?v=6afdb83c"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: AFCB Women v Swindon Town",
+      "link": "https://www.youtube.com/watch?v=eQThl_DC06A",
+      "pubDate": "2026-11-18T14:22:47Z",
+      "thumb": "https://i.ytimg.com/vi/eQThl_DC06A/hqdefault.jpg?v=6afdb54b"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "🗣️ \"The faith shown in me means a lot\" | Amadou Onana on signing NEW contract | INTERVIEW",
+      "link": "https://www.youtube.com/watch?v=NZZE1cDLeRY",
+      "pubDate": "2026-11-18T13:00:08Z",
+      "thumb": "https://i.ytimg.com/vi/NZZE1cDLeRY/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "WHEN ARSENAL DEFENDERS TURN INTO GOAL MACHINES FT. BEN WHITE & EZRI KONSA",
+      "link": "https://www.youtube.com/watch?v=sXDXTM894dU",
+      "pubDate": "2026-11-18T12:20:37Z",
+      "thumb": "https://i.ytimg.com/vi/sXDXTM894dU/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Poch's FIRST Signing CLOSE! Man Utd Transfer News",
+      "link": "https://www.youtube.com/watch?v=uDl4DlJHAdU",
+      "pubDate": "2026-11-18T10:57:27Z",
+      "thumb": "https://i.ytimg.com/vi/uDl4DlJHAdU/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "Thomas Frank's First Day 🦅🇩🇰",
+      "link": "https://www.youtube.com/watch?v=KijZh0qmQmY",
+      "pubDate": "2026-11-18T10:00:24Z",
+      "thumb": "https://i.ytimg.com/vi/KijZh0qmQmY/hqdefault.jpg"
+    },
     {
       "team": "Leeds United",
       "title": "Sean Longstaff | The Official Leeds United Podcast",
@@ -48,7 +125,7 @@
       "title": "Aston Villa vs Sunderland AFC | Régis Le Bris' Premier League Press Conference",
       "link": "https://www.youtube.com/watch?v=sY_7GnuplGg",
       "pubDate": "2026-11-17T14:55:27Z",
-      "thumb": "https://i.ytimg.com/vi/sY_7GnuplGg/hqdefault.jpg?v=6afc6ae0"
+      "thumb": "https://i.ytimg.com/vi/sY_7GnuplGg/hqdefault.jpg?v=6afd7e12"
     },
     {
       "team": "Leeds United",
@@ -100,13 +177,6 @@
       "thumb": "https://i.ytimg.com/vi/6HYPGRfcBoc/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Poch's BIG Transfer HINT! Goldbridge Man Utd News",
-      "link": "https://www.youtube.com/watch?v=O_dX5nO4tCw",
-      "pubDate": "2026-11-16T21:02:11Z",
-      "thumb": "https://i.ytimg.com/vi/O_dX5nO4tCw/hqdefault.jpg"
-    },
-    {
       "team": "Brentford",
       "title": "Thiago, Sangaré & Schuster Play Against Schade, Hickey & Diouf in Match The Skill | Brentford FC",
       "link": "https://www.youtube.com/watch?v=kPoX19PkqvY",
@@ -119,13 +189,6 @@
       "link": "https://www.youtube.com/watch?v=iyaybfCODpE",
       "pubDate": "2026-11-16T17:18:36Z",
       "thumb": "https://i.ytimg.com/vi/iyaybfCODpE/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Board in CHAOS! Pochettino's FIRST Signing? Man Utd News",
-      "link": "https://www.youtube.com/watch?v=oX2OlLJ2wFg",
-      "pubDate": "2026-11-16T14:37:35Z",
-      "thumb": "https://i.ytimg.com/vi/oX2OlLJ2wFg/hqdefault.jpg"
     },
     {
       "team": "Sunderland",
@@ -147,13 +210,6 @@
       "link": "https://www.youtube.com/watch?v=MkfUX-QtK7o",
       "pubDate": "2026-11-15T16:56:30Z",
       "thumb": "https://i.ytimg.com/vi/MkfUX-QtK7o/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "Hugo Bull Signs His Professional Contract",
-      "link": "https://www.youtube.com/watch?v=urYtzVTap4c",
-      "pubDate": "2026-11-14T17:00:23Z",
-      "thumb": "https://i.ytimg.com/vi/urYtzVTap4c/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
@@ -184,13 +240,6 @@
       "thumb": "https://i.ytimg.com/vi/cMDZTSF0E2U/hqdefault.jpg"
     },
     {
-      "team": "Leeds United",
-      "title": "That winning feeling! | Uncut exclusive footage | Leeds United 1-0 Tottenham Hotspur",
-      "link": "https://www.youtube.com/watch?v=xaxb7EUecQY",
-      "pubDate": "2026-11-13T09:10:34Z",
-      "thumb": "https://i.ytimg.com/vi/xaxb7EUecQY/hqdefault.jpg"
-    },
-    {
       "team": "Manchester City",
       "title": "The Beauty of Football",
       "link": "https://www.youtube.com/watch?v=3chUKWSnFnE",
@@ -217,20 +266,6 @@
       "link": "https://www.youtube.com/watch?v=RfMeMROrC5I",
       "pubDate": "2026-11-12T13:30:36Z",
       "thumb": "https://i.ytimg.com/vi/RfMeMROrC5I/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Sunderland 1-0 Chelsea Highlights | REWATCH",
-      "link": "https://www.youtube.com/watch?v=YqVU-Kcu55s",
-      "pubDate": "2026-11-12T11:38:20Z",
-      "thumb": "https://i.ytimg.com/vi/YqVU-Kcu55s/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Gyan's Glorious Goals for Sunderland & More! 🇬🇭",
-      "link": "https://www.youtube.com/watch?v=Pof8JRG93iU",
-      "pubDate": "2026-11-12T11:00:30Z",
-      "thumb": "https://i.ytimg.com/vi/Pof8JRG93iU/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
@@ -317,20 +352,6 @@
       "thumb": "https://i.ytimg.com/vi/SzsROFXO6fU/hqdefault.jpg"
     },
     {
-      "team": "AFC Bournemouth",
-      "title": "Evanilson on target AGAIN as Cherries equal club record of successive wins | Alt Angle",
-      "link": "https://www.youtube.com/watch?v=4e5Gsuf880E",
-      "pubDate": "2026-11-09T11:00:27Z",
-      "thumb": "https://i.ytimg.com/vi/4e5Gsuf880E/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "Extended Highlights: Marco Rose's side go into the international break with away win at Portman Road",
-      "link": "https://www.youtube.com/watch?v=-Wn_WFSVsrM",
-      "pubDate": "2026-11-09T08:00:34Z",
-      "thumb": "https://i.ytimg.com/vi/-Wn_WFSVsrM/hqdefault.jpg"
-    },
-    {
       "team": "Newcastle United",
       "title": "Fulham 1 Newcastle United 1 | EXTENDED Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=iicW3wgicQ8",
@@ -338,25 +359,11 @@
       "thumb": "https://i.ytimg.com/vi/iicW3wgicQ8/hqdefault.jpg"
     },
     {
-      "team": "AFC Bournemouth",
-      "title": "Evanilson and Christie star in eighth successive win in all comps | Ipswich Town 1-2 AFC Bournemouth",
-      "link": "https://www.youtube.com/watch?v=4llrYi0YVtY",
-      "pubDate": "2026-11-08T23:01:47Z",
-      "thumb": "https://i.ytimg.com/vi/4llrYi0YVtY/hqdefault.jpg"
-    },
-    {
       "team": "Ipswich Town",
       "title": "HIGHLIGHTS | TOWN 1 BOURNEMOUTH 2",
       "link": "https://www.youtube.com/watch?v=NZputnEo6Gs",
       "pubDate": "2026-11-08T22:00:30Z",
       "thumb": "https://i.ytimg.com/vi/NZputnEo6Gs/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "Man Utd 4-4 Aston Villa | HIGHLIGHTS",
-      "link": "https://www.youtube.com/watch?v=wOLZ_jiQLdw",
-      "pubDate": "2026-11-08T22:00:14Z",
-      "thumb": "https://i.ytimg.com/vi/wOLZ_jiQLdw/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
@@ -399,13 +406,6 @@
       "link": "https://www.youtube.com/watch?v=JuH8trbCIH8",
       "pubDate": "2026-11-08T14:58:42Z",
       "thumb": "https://i.ytimg.com/vi/JuH8trbCIH8/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: U18 Premier League Cup: AFC Bournemouth v Reading",
-      "link": "https://www.youtube.com/watch?v=m3XP3WmNbrM",
-      "pubDate": "2026-11-08T01:17:51Z",
-      "thumb": "https://i.ytimg.com/vi/m3XP3WmNbrM/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
