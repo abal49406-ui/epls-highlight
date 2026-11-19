@@ -1,6 +1,118 @@
 {
-  "updatedAt": "2026-11-19T08:09:34.566Z",
+  "updatedAt": "2026-11-19T17:23:29.416Z",
   "videos": [
+    {
+      "team": "Aston Villa",
+      "title": "Petrov, Chester & Villa's Champions League Challenge || VILLA PODCAST",
+      "link": "https://www.youtube.com/watch?v=YsWg0hJ05nE",
+      "pubDate": "2026-11-19T17:00:06Z",
+      "thumb": "https://i.ytimg.com/vi/YsWg0hJ05nE/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Oliver Glasner Press Conference 🎙️ | AFC Bournemouth vs Nottingham Forest | Premier League",
+      "link": "https://www.youtube.com/watch?v=IZuGcC5GvQQ",
+      "pubDate": "2026-11-19T16:51:38Z",
+      "thumb": "https://i.ytimg.com/vi/IZuGcC5GvQQ/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Nottingham Forest Women 1-4 Liverpool Women | Subway Players Cup Highlights 🎥",
+      "link": "https://www.youtube.com/watch?v=YWCQtUSyNEQ",
+      "pubDate": "2026-11-19T16:41:17Z",
+      "thumb": "https://i.ytimg.com/vi/YWCQtUSyNEQ/hqdefault.jpg"
+    },
+    {
+      "team": "Coventry City",
+      "title": "Frank Lampard Pre-Match Press Conference | Coventry City vs Crystal Palace | Premier League",
+      "link": "https://www.youtube.com/watch?v=EIsXdgA3lMk",
+      "pubDate": "2026-11-19T16:10:36Z",
+      "thumb": "https://i.ytimg.com/vi/EIsXdgA3lMk/hqdefault.jpg"
+    },
+    {
+      "team": "Brentford",
+      "title": "\"You can't swear down and lie\" | The Lie Detector W/ Callum Wilson, Jaidon Anthony and Josh Da Silva",
+      "link": "https://www.youtube.com/watch?v=ZNCTaNhUy5w",
+      "pubDate": "2026-11-19T15:28:13Z",
+      "thumb": "https://i.ytimg.com/vi/ZNCTaNhUy5w/hqdefault.jpg"
+    },
+    {
+      "team": "Newcastle United",
+      "title": "PRESS CONFERENCE | Matthias Jaissle pre-Arsenal (H)",
+      "link": "https://www.youtube.com/watch?v=BTosxUk9_SE",
+      "pubDate": "2026-11-19T15:07:32Z",
+      "thumb": "https://i.ytimg.com/vi/BTosxUk9_SE/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Poch's BIG Message! Martinez Wants OUT! Man United News!",
+      "link": "https://www.youtube.com/watch?v=_kazag_6Al0",
+      "pubDate": "2026-11-19T14:43:43Z",
+      "thumb": "https://i.ytimg.com/vi/_kazag_6Al0/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "Marco Rose on Alex Scott's return and breaking records | Premier League Press Conference",
+      "link": "https://www.youtube.com/watch?v=Tp9WiwS7RAI",
+      "pubDate": "2026-11-19T14:37:28Z",
+      "thumb": "https://i.ytimg.com/vi/Tp9WiwS7RAI/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Daniel Farke pre-match press conference | Chelsea v Leeds United | Premier League",
+      "link": "https://www.youtube.com/watch?v=8uBpVrGTx-g",
+      "pubDate": "2026-11-19T13:55:00Z",
+      "thumb": "https://i.ytimg.com/vi/8uBpVrGTx-g/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Aston Villa vs Sunderland AFC | Régis Le Bris' Premier League Press Conference",
+      "link": "https://www.youtube.com/watch?v=sY_7GnuplGg",
+      "pubDate": "2026-11-19T13:46:05Z",
+      "thumb": "https://i.ytimg.com/vi/sY_7GnuplGg/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "AMAZING Arsenal Goals vs Newcastle United | Premier League",
+      "link": "https://www.youtube.com/watch?v=I3ea6NqkIis",
+      "pubDate": "2026-11-19T13:01:20Z",
+      "thumb": "https://i.ytimg.com/vi/I3ea6NqkIis/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Bruno OUT Paz IN? Poch LEAKS Begin! Man Utd Transfer News",
+      "link": "https://www.youtube.com/watch?v=k8Fm8kVhgvY",
+      "pubDate": "2026-11-19T11:01:44Z",
+      "thumb": "https://i.ytimg.com/vi/k8Fm8kVhgvY/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "17 Minutes of Kevin Phillips Scoring Goals For Sunderland",
+      "link": "https://www.youtube.com/watch?v=8Nff-SmEXjY",
+      "pubDate": "2026-11-19T11:00:06Z",
+      "thumb": "https://i.ytimg.com/vi/8Nff-SmEXjY/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "North Stand Progress Continues",
+      "link": "https://www.youtube.com/watch?v=ky7ghen8wPY",
+      "pubDate": "2026-11-19T11:00:03Z",
+      "thumb": "https://i.ytimg.com/vi/ky7ghen8wPY/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Liverpool Squad Christmas giveaway",
+      "link": "https://www.youtube.com/watch?v=Cdi9iExFdwM",
+      "pubDate": "2026-11-19T10:00:31Z",
+      "thumb": "https://i.ytimg.com/vi/Cdi9iExFdwM/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Highlights: Nottingham Forest 1-4 Liverpool FC Women | Mia Enderby double!",
+      "link": "https://www.youtube.com/watch?v=oIpJPxdZ1ro",
+      "pubDate": "2026-11-19T09:26:19Z",
+      "thumb": "https://i.ytimg.com/vi/oIpJPxdZ1ro/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Pochettino's BEST Man Utd XI! Man Utd Transfer News",
@@ -37,13 +149,6 @@
       "thumb": "https://i.ytimg.com/vi/4riQTSrrte8/hqdefault.jpg"
     },
     {
-      "team": "Leeds United",
-      "title": "Daniel Farke pre-match press conference | Chelsea v Leeds United | Premier League",
-      "link": "https://www.youtube.com/watch?v=8uBpVrGTx-g",
-      "pubDate": "2026-11-18T16:32:34Z",
-      "thumb": "https://i.ytimg.com/vi/8uBpVrGTx-g/hqdefault.jpg?v=6afdd322"
-    },
-    {
       "team": "AFC Bournemouth",
       "title": "🔴 LIVE: Real Bedford vs AFCB Women",
       "link": "https://www.youtube.com/watch?v=sHAp9dIBHN0",
@@ -72,13 +177,6 @@
       "thumb": "https://i.ytimg.com/vi/HLdZWAWczVs/hqdefault.jpg?v=6afdb83c"
     },
     {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: AFCB Women v Swindon Town",
-      "link": "https://www.youtube.com/watch?v=eQThl_DC06A",
-      "pubDate": "2026-11-18T14:22:47Z",
-      "thumb": "https://i.ytimg.com/vi/eQThl_DC06A/hqdefault.jpg?v=6afdb54b"
-    },
-    {
       "team": "Aston Villa",
       "title": "🗣️ \"The faith shown in me means a lot\" | Amadou Onana on signing NEW contract | INTERVIEW",
       "link": "https://www.youtube.com/watch?v=NZZE1cDLeRY",
@@ -93,13 +191,6 @@
       "thumb": "https://i.ytimg.com/vi/sXDXTM894dU/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Poch's FIRST Signing CLOSE! Man Utd Transfer News",
-      "link": "https://www.youtube.com/watch?v=uDl4DlJHAdU",
-      "pubDate": "2026-11-18T10:57:27Z",
-      "thumb": "https://i.ytimg.com/vi/uDl4DlJHAdU/hqdefault.jpg"
-    },
-    {
       "team": "Crystal Palace",
       "title": "Thomas Frank's First Day 🦅🇩🇰",
       "link": "https://www.youtube.com/watch?v=KijZh0qmQmY",
@@ -112,13 +203,6 @@
       "link": "https://www.youtube.com/watch?v=xWH1AIKgArU",
       "pubDate": "2026-11-18T09:18:43Z",
       "thumb": "https://i.ytimg.com/vi/xWH1AIKgArU/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "I'm SORRY Poch! Goldbridge Man Utd Transfer News",
-      "link": "https://www.youtube.com/watch?v=OumWBWcgYDU",
-      "pubDate": "2026-11-17T21:06:22Z",
-      "thumb": "https://i.ytimg.com/vi/OumWBWcgYDU/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
@@ -147,13 +231,6 @@
       "link": "https://www.youtube.com/watch?v=CKBOcj4VM9g",
       "pubDate": "2026-11-17T15:07:34Z",
       "thumb": "https://i.ytimg.com/vi/CKBOcj4VM9g/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Aston Villa vs Sunderland AFC | Régis Le Bris' Premier League Press Conference",
-      "link": "https://www.youtube.com/watch?v=sY_7GnuplGg",
-      "pubDate": "2026-11-17T14:55:27Z",
-      "thumb": "https://i.ytimg.com/vi/sY_7GnuplGg/hqdefault.jpg?v=6afd7e12"
     },
     {
       "team": "Leeds United",
@@ -198,13 +275,6 @@
       "thumb": "https://i.ytimg.com/vi/kPoX19PkqvY/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "Highlights: Brighton 0-3 Liverpool FC Women | Beata brace & Kapocs finish!",
-      "link": "https://www.youtube.com/watch?v=iyaybfCODpE",
-      "pubDate": "2026-11-16T17:18:36Z",
-      "thumb": "https://i.ytimg.com/vi/iyaybfCODpE/hqdefault.jpg"
-    },
-    {
       "team": "Sunderland",
       "title": "Stunning Sessègnon Goals for Sunderland! 🇧🇯",
       "link": "https://www.youtube.com/watch?v=Ji7Kz93Or1Q",
@@ -231,13 +301,6 @@
       "link": "https://www.youtube.com/watch?v=cx1MGMILD_M",
       "pubDate": "2026-11-14T10:01:33Z",
       "thumb": "https://i.ytimg.com/vi/cx1MGMILD_M/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "93-Year-Old Fan Surprised at City Ground by John McGovern! 😁",
-      "link": "https://www.youtube.com/watch?v=TkUjTo4CfBA",
-      "pubDate": "2026-11-13T17:00:13Z",
-      "thumb": "https://i.ytimg.com/vi/TkUjTo4CfBA/hqdefault.jpg"
     },
     {
       "team": "Hull City",
@@ -268,27 +331,6 @@
       "thumb": "https://i.ytimg.com/vi/RfMeMROrC5I/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "Highlights: Liverpool FC Women 4-1 Aston Villa | Höbinger, Kapocs & Olsson goals!",
-      "link": "https://www.youtube.com/watch?v=B_UFbc_-68U",
-      "pubDate": "2026-11-12T10:01:36Z",
-      "thumb": "https://i.ytimg.com/vi/B_UFbc_-68U/hqdefault.jpg"
-    },
-    {
-      "team": "Nottingham Forest",
-      "title": "Members of Forest Forces Lay Wreaths Ahead of Premier League Fixture. ❤️",
-      "link": "https://www.youtube.com/watch?v=IvXl3IH9p-g",
-      "pubDate": "2026-11-11T17:05:15Z",
-      "thumb": "https://i.ytimg.com/vi/IvXl3IH9p-g/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "🗣️ \"I feel at home, and I can develop here\" Ian Maatsen on signing NEW contract | INTERVIEW",
-      "link": "https://www.youtube.com/watch?v=vFshSk0CFRo",
-      "pubDate": "2026-11-11T17:00:22Z",
-      "thumb": "https://i.ytimg.com/vi/vFshSk0CFRo/hqdefault.jpg"
-    },
-    {
       "team": "Hull City",
       "title": "Battling Display At The Emirates | Behind the Tigers Arsenal (a)",
       "link": "https://www.youtube.com/watch?v=KgcI1rvGLd8",
@@ -308,13 +350,6 @@
       "link": "https://www.youtube.com/watch?v=vcICcdOKWnU",
       "pubDate": "2026-11-10T15:02:14Z",
       "thumb": "https://i.ytimg.com/vi/vcICcdOKWnU/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "🗣️🇸🇪 \"I’m super happy here\" | Victor Lindelöf on signing NEW contract | INTERVIEW",
-      "link": "https://www.youtube.com/watch?v=gGjKKX4xgGc",
-      "pubDate": "2026-11-10T12:00:38Z",
-      "thumb": "https://i.ytimg.com/vi/gGjKKX4xgGc/hqdefault.jpg"
     },
     {
       "team": "Fulham",
@@ -448,13 +483,6 @@
       "link": "https://www.youtube.com/watch?v=yCTFXkz-WDI",
       "pubDate": "2026-11-04T22:00:05Z",
       "thumb": "https://i.ytimg.com/vi/yCTFXkz-WDI/hqdefault.jpg"
-    },
-    {
-      "team": "Coventry City",
-      "title": "Frank Lampard Pre-Match Press Conference | Everton vs Coventry City | Premier League",
-      "link": "https://www.youtube.com/watch?v=31eo5VpIyVg",
-      "pubDate": "2026-11-04T15:35:47Z",
-      "thumb": "https://i.ytimg.com/vi/31eo5VpIyVg/hqdefault.jpg"
     }
   ]
 }
