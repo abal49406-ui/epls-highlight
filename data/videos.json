@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-11-19T17:23:29.416Z",
+  "updatedAt": "2026-11-19T23:45:52.551Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Poch's FIRST Win? Liverpool vs Man United Goldbridge Preview",
+      "link": "https://www.youtube.com/watch?v=vyDh1cz5JDs",
+      "pubDate": "2026-11-19T21:13:39Z",
+      "thumb": "https://i.ytimg.com/vi/vyDh1cz5JDs/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "LOVE ISLAND ROYALTY 😱 | THE BIG MATCH | An Arsenal Dating Show | Episode 4",
+      "link": "https://www.youtube.com/watch?v=QxHaNIVSbwI",
+      "pubDate": "2026-11-19T19:00:07Z",
+      "thumb": "https://i.ytimg.com/vi/QxHaNIVSbwI/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Sunderland V Aston Villa Through The Years: Archive Highlights",
+      "link": "https://www.youtube.com/watch?v=YyZnvmmqZ-4",
+      "pubDate": "2026-11-19T18:00:27Z",
+      "thumb": "https://i.ytimg.com/vi/YyZnvmmqZ-4/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "Pre-match Press Conference | Coventry City (A) | Frank gives first update as Palace Manager🚨",
+      "link": "https://www.youtube.com/watch?v=LrIAyBX0jjI",
+      "pubDate": "2026-11-19T17:51:55Z",
+      "thumb": "https://i.ytimg.com/vi/LrIAyBX0jjI/hqdefault.jpg"
+    },
     {
       "team": "Aston Villa",
       "title": "Petrov, Chester & Villa's Champions League Challenge || VILLA PODCAST",
@@ -163,13 +191,6 @@
       "thumb": "https://i.ytimg.com/vi/Q_D7gi9N2vQ/hqdefault.jpg?v=6afdbb47"
     },
     {
-      "team": "Manchester United",
-      "title": "Poch's FIRST DAY! Signings NEXT? Man Utd News",
-      "link": "https://www.youtube.com/watch?v=ip0T0ugFfnw",
-      "pubDate": "2026-11-18T14:40:08Z",
-      "thumb": "https://i.ytimg.com/vi/ip0T0ugFfnw/hqdefault.jpg"
-    },
-    {
       "team": "AFC Bournemouth",
       "title": "Premier League Cup Live: AFC Bournemouth v Leicester City",
       "link": "https://www.youtube.com/watch?v=HLdZWAWczVs",
@@ -261,25 +282,11 @@
       "thumb": "https://i.ytimg.com/vi/CetkMyHYvc0/hqdefault.jpg"
     },
     {
-      "team": "Crystal Palace",
-      "title": "Thomas Frank | First Interview",
-      "link": "https://www.youtube.com/watch?v=LxEv2GxM0aA",
-      "pubDate": "2026-11-17T09:00:26Z",
-      "thumb": "https://i.ytimg.com/vi/LxEv2GxM0aA/hqdefault.jpg"
-    },
-    {
       "team": "Brentford",
       "title": "Thiago, Sangaré & Schuster Play Against Schade, Hickey & Diouf in Match The Skill | Brentford FC",
       "link": "https://www.youtube.com/watch?v=kPoX19PkqvY",
       "pubDate": "2026-11-16T17:30:00Z",
       "thumb": "https://i.ytimg.com/vi/kPoX19PkqvY/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Stunning Sessègnon Goals for Sunderland! 🇧🇯",
-      "link": "https://www.youtube.com/watch?v=Ji7Kz93Or1Q",
-      "pubDate": "2026-11-16T11:00:32Z",
-      "thumb": "https://i.ytimg.com/vi/Ji7Kz93Or1Q/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
@@ -462,13 +469,6 @@
       "link": "https://www.youtube.com/watch?v=D7-jgadhKjo",
       "pubDate": "2026-11-07T19:58:03Z",
       "thumb": "https://i.ytimg.com/vi/D7-jgadhKjo/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "Chelsea U18 3-1 Charlton U18 | HIGHLIGHTS | U18 Premier League | 2026/27",
-      "link": "https://www.youtube.com/watch?v=yyhRm_5A434",
-      "pubDate": "2026-11-07T14:32:43Z",
-      "thumb": "https://i.ytimg.com/vi/yyhRm_5A434/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
