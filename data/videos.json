@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-11-18T18:22:15.544Z",
+  "updatedAt": "2026-11-19T00:42:19.045Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Pochettino's BEST Man Utd XI! Man Utd Transfer News",
+      "link": "https://www.youtube.com/watch?v=oZ-VC6FJtYc",
+      "pubDate": "2026-11-18T21:03:01Z",
+      "thumb": "https://i.ytimg.com/vi/oZ-VC6FJtYc/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "LIVE: Nottingham Forest vs Liverpool FC Women | Subway Players Cup",
+      "link": "https://www.youtube.com/watch?v=KLi535Olf_A",
+      "pubDate": "2026-11-18T21:02:39Z",
+      "thumb": "https://i.ytimg.com/vi/KLi535Olf_A/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "FACE-OFF 🏆 - Jørgen vs Yeremy | FC 27 🎮",
+      "link": "https://www.youtube.com/watch?v=im_hNImHAqQ",
+      "pubDate": "2026-11-18T21:00:06Z",
+      "thumb": "https://i.ytimg.com/vi/im_hNImHAqQ/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "Shellzz vs The World 🎮🌍 #football #skills #mancity #premierleague #shorts",
+      "link": "https://www.youtube.com/watch?v=STWsOb43vJo",
+      "pubDate": "2026-11-18T18:30:09Z",
+      "thumb": "https://i.ytimg.com/vi/STWsOb43vJo/hqdefault.jpg"
+    },
     {
       "team": "Sunderland",
       "title": "A Day in the Life of a Premier League Footballer | Thomas Meunier",
@@ -149,13 +177,6 @@
       "thumb": "https://i.ytimg.com/vi/YzcbP-Xq2Uo/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "LIVE: Nottingham Forest vs Liverpool FC Women | Subway Players Cup",
-      "link": "https://www.youtube.com/watch?v=KLi535Olf_A",
-      "pubDate": "2026-11-17T11:16:58Z",
-      "thumb": "https://i.ytimg.com/vi/KLi535Olf_A/hqdefault.jpg?v=6afc37f9"
-    },
-    {
       "team": "Crystal Palace",
       "title": "The interview: Thomas Frank                         On Palace TV NOW!📺",
       "link": "https://www.youtube.com/watch?v=CetkMyHYvc0",
@@ -168,13 +189,6 @@
       "link": "https://www.youtube.com/watch?v=LxEv2GxM0aA",
       "pubDate": "2026-11-17T09:00:26Z",
       "thumb": "https://i.ytimg.com/vi/LxEv2GxM0aA/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Pochettino IN! Wilcox Next To GO? & Gary Neville Joins | Stick to United EP 14",
-      "link": "https://www.youtube.com/watch?v=6HYPGRfcBoc",
-      "pubDate": "2026-11-17T08:00:08Z",
-      "thumb": "https://i.ytimg.com/vi/6HYPGRfcBoc/hqdefault.jpg"
     },
     {
       "team": "Brentford",
@@ -196,13 +210,6 @@
       "link": "https://www.youtube.com/watch?v=Ji7Kz93Or1Q",
       "pubDate": "2026-11-16T11:00:32Z",
       "thumb": "https://i.ytimg.com/vi/Ji7Kz93Or1Q/hqdefault.jpg"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "WSL highlights | Manchester United 2-0 Palace",
-      "link": "https://www.youtube.com/watch?v=BhxcMVZ-TgI",
-      "pubDate": "2026-11-15T21:11:20Z",
-      "thumb": "https://i.ytimg.com/vi/BhxcMVZ-TgI/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
@@ -238,13 +245,6 @@
       "link": "https://www.youtube.com/watch?v=cMDZTSF0E2U",
       "pubDate": "2026-11-13T16:00:25Z",
       "thumb": "https://i.ytimg.com/vi/cMDZTSF0E2U/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "The Beauty of Football",
-      "link": "https://www.youtube.com/watch?v=3chUKWSnFnE",
-      "pubDate": "2026-11-12T18:00:30Z",
-      "thumb": "https://i.ytimg.com/vi/3chUKWSnFnE/hqdefault.jpg"
     },
     {
       "team": "Newcastle United",
