@@ -1,19 +1,103 @@
 {
-  "updatedAt": "2026-11-20T13:43:17.757Z",
+  "updatedAt": "2026-11-20T21:37:13.365Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Berrada MISSES Again! Goldbridge Man Utd News",
+      "link": "https://www.youtube.com/watch?v=OkEKJncQQts",
+      "pubDate": "2026-11-20T21:06:55Z",
+      "thumb": "https://i.ytimg.com/vi/OkEKJncQQts/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Highlights from our biggest ever against Man Utd 😮‍💨🎬",
+      "link": "https://www.youtube.com/watch?v=QNOXQ8e-9jk",
+      "pubDate": "2026-11-20T20:14:43Z",
+      "thumb": "https://i.ytimg.com/vi/QNOXQ8e-9jk/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Liverpool's 10 BEST Premier League wins against Manchester United!",
+      "link": "https://www.youtube.com/watch?v=1T1BwUpuStM",
+      "pubDate": "2026-11-20T20:07:39Z",
+      "thumb": "https://i.ytimg.com/vi/1T1BwUpuStM/hqdefault.jpg"
+    },
+    {
+      "team": "Ipswich Town",
+      "title": "JULIO ENCISO'S PRE-SPURS PRESS CONFERENCE",
+      "link": "https://www.youtube.com/watch?v=Dlq5QC3U9v4",
+      "pubDate": "2026-11-20T18:57:46Z",
+      "thumb": "https://i.ytimg.com/vi/Dlq5QC3U9v4/hqdefault.jpg"
+    },
+    {
+      "team": "Ipswich Town",
+      "title": "GARY O'NEIL PREVIEWS SPURS (A)",
+      "link": "https://www.youtube.com/watch?v=xQiUR2U8WmU",
+      "pubDate": "2026-11-20T18:56:29Z",
+      "thumb": "https://i.ytimg.com/vi/xQiUR2U8WmU/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "SUPERFAN Miles Visits the Training Ground ❤️",
+      "link": "https://www.youtube.com/watch?v=TINvEukfjCo",
+      "pubDate": "2026-11-20T18:00:36Z",
+      "thumb": "https://i.ytimg.com/vi/TINvEukfjCo/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "TAMMY ABRAHAM, CHRISTIAN BENTEKE & More! 🔥⚽ TOP 10 ASTON VILLA Goals vs Sunderland",
+      "link": "https://www.youtube.com/watch?v=NoDBKpaThsg",
+      "pubDate": "2026-11-20T17:00:03Z",
+      "thumb": "https://i.ytimg.com/vi/NoDBKpaThsg/hqdefault.jpg"
+    },
+    {
+      "team": "Chelsea",
+      "title": "Alonso Press Conference | 20/11/26 | Chelsea vs Leeds Utd | CFC 26/27",
+      "link": "https://www.youtube.com/watch?v=dkEffWtQN5g",
+      "pubDate": "2026-11-20T16:18:39Z",
+      "thumb": "https://i.ytimg.com/vi/dkEffWtQN5g/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "Hull City v Albion | Hurzeler pre-match press conference 🎙️",
+      "link": "https://www.youtube.com/watch?v=qlrTWcCKC7U",
+      "pubDate": "2026-11-20T15:58:45Z",
+      "thumb": "https://i.ytimg.com/vi/qlrTWcCKC7U/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Goldbridge REACTS! Pochettino Press Conference Reaction!",
+      "link": "https://www.youtube.com/watch?v=hPYl-ww4ME4",
+      "pubDate": "2026-11-20T14:57:15Z",
+      "thumb": "https://i.ytimg.com/vi/hPYl-ww4ME4/hqdefault.jpg"
+    },
+    {
+      "team": "Fulham",
+      "title": "Calvin Bassey, Man City, Injury News 🗣️ | Álvaro Arbeloa Press Conference | Manchester City v Fulham",
+      "link": "https://www.youtube.com/watch?v=2xjrz820My4",
+      "pubDate": "2026-11-20T14:02:33Z",
+      "thumb": "https://i.ytimg.com/vi/2xjrz820My4/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "BUILDING UP TO NEWCASTLE (A) 👊 | Inside Training | Premier League",
+      "link": "https://www.youtube.com/watch?v=lFDoUGRyR_0",
+      "pubDate": "2026-11-20T14:00:09Z",
+      "thumb": "https://i.ytimg.com/vi/lFDoUGRyR_0/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "MANAGER'S PREVIEW | Maresca gives fitness update on Nunes and Khusanov for Fulham | Premier League",
+      "link": "https://www.youtube.com/watch?v=MD20KgW3o7E",
+      "pubDate": "2026-11-20T13:52:07Z",
+      "thumb": "https://i.ytimg.com/vi/MD20KgW3o7E/hqdefault.jpg"
+    },
     {
       "team": "Liverpool",
       "title": "Andoni Iraola Press Conference | Liverpool vs Manchester United | Premier League",
       "link": "https://www.youtube.com/watch?v=PjQH7TG6lKs",
-      "pubDate": "2026-11-20T13:41:40Z",
-      "thumb": "https://i.ytimg.com/vi/PjQH7TG6lKs/hqdefault.jpg?v=6af19d91"
-    },
-    {
-      "team": "Manchester City",
-      "title": "WATCH LIVE! MANAGER'S PREVIEW | Enzo Maresca Press Conference | Man City v Fulham | Premier League",
-      "link": "https://www.youtube.com/watch?v=MD20KgW3o7E",
-      "pubDate": "2026-11-20T13:22:26Z",
-      "thumb": "https://i.ytimg.com/vi/MD20KgW3o7E/hqdefault.jpg?v=6b000abd"
+      "pubDate": "2026-11-20T13:43:34Z",
+      "thumb": "https://i.ytimg.com/vi/PjQH7TG6lKs/hqdefault.jpg"
     },
     {
       "team": "Hull City",
@@ -28,13 +112,6 @@
       "link": "https://www.youtube.com/watch?v=D1xaweQSjQQ",
       "pubDate": "2026-11-20T13:05:50Z",
       "thumb": "https://i.ytimg.com/vi/D1xaweQSjQQ/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Goldbridge REACTS! Pochettino Press Conference Reaction!",
-      "link": "https://www.youtube.com/watch?v=hPYl-ww4ME4",
-      "pubDate": "2026-11-20T13:04:49Z",
-      "thumb": "https://i.ytimg.com/vi/hPYl-ww4ME4/hqdefault.jpg?v=6b004572"
     },
     {
       "team": "Tottenham Hotspur",
@@ -142,13 +219,6 @@
       "thumb": "https://i.ytimg.com/vi/BTosxUk9_SE/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Poch's BIG Message! Martinez Wants OUT! Man United News!",
-      "link": "https://www.youtube.com/watch?v=_kazag_6Al0",
-      "pubDate": "2026-11-19T14:43:43Z",
-      "thumb": "https://i.ytimg.com/vi/_kazag_6Al0/hqdefault.jpg"
-    },
-    {
       "team": "AFC Bournemouth",
       "title": "Marco Rose on Alex Scott's return and breaking records | Premier League Press Conference",
       "link": "https://www.youtube.com/watch?v=Tp9WiwS7RAI",
@@ -198,20 +268,6 @@
       "thumb": "https://i.ytimg.com/vi/Cdi9iExFdwM/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "Highlights: Nottingham Forest 1-4 Liverpool FC Women | Mia Enderby double!",
-      "link": "https://www.youtube.com/watch?v=oIpJPxdZ1ro",
-      "pubDate": "2026-11-19T09:26:19Z",
-      "thumb": "https://i.ytimg.com/vi/oIpJPxdZ1ro/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "LIVE: Nottingham Forest vs Liverpool FC Women | Subway Players Cup",
-      "link": "https://www.youtube.com/watch?v=KLi535Olf_A",
-      "pubDate": "2026-11-18T21:02:39Z",
-      "thumb": "https://i.ytimg.com/vi/KLi535Olf_A/hqdefault.jpg"
-    },
-    {
       "team": "Crystal Palace",
       "title": "FACE-OFF 🏆 - Jørgen vs Yeremy | FC 27 🎮",
       "link": "https://www.youtube.com/watch?v=im_hNImHAqQ",
@@ -254,13 +310,6 @@
       "thumb": "https://i.ytimg.com/vi/NZZE1cDLeRY/hqdefault.jpg"
     },
     {
-      "team": "Arsenal",
-      "title": "WHEN ARSENAL DEFENDERS TURN INTO GOAL MACHINES FT. BEN WHITE & EZRI KONSA",
-      "link": "https://www.youtube.com/watch?v=sXDXTM894dU",
-      "pubDate": "2026-11-18T12:20:37Z",
-      "thumb": "https://i.ytimg.com/vi/sXDXTM894dU/hqdefault.jpg"
-    },
-    {
       "team": "Crystal Palace",
       "title": "Thomas Frank's First Day 🦅🇩🇰",
       "link": "https://www.youtube.com/watch?v=KijZh0qmQmY",
@@ -273,13 +322,6 @@
       "link": "https://www.youtube.com/watch?v=xWH1AIKgArU",
       "pubDate": "2026-11-18T09:18:43Z",
       "thumb": "https://i.ytimg.com/vi/xWH1AIKgArU/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "🔵 EVERY CFC WIN SO FAR THIS SEASON | CHELSEA FC 2026/27",
-      "link": "https://www.youtube.com/watch?v=qVImbYk4whU",
-      "pubDate": "2026-11-17T17:31:07Z",
-      "thumb": "https://i.ytimg.com/vi/qVImbYk4whU/hqdefault.jpg?v=6afc8d10"
     },
     {
       "team": "Manchester City",
@@ -331,13 +373,6 @@
       "thumb": "https://i.ytimg.com/vi/kPoX19PkqvY/hqdefault.jpg"
     },
     {
-      "team": "Nottingham Forest",
-      "title": "Guess the FAKE Forest Fan! 😲",
-      "link": "https://www.youtube.com/watch?v=tWjxtwaTqNE",
-      "pubDate": "2026-11-14T12:00:30Z",
-      "thumb": "https://i.ytimg.com/vi/tWjxtwaTqNE/hqdefault.jpg"
-    },
-    {
       "team": "Hull City",
       "title": "TIGS VS TREE | Matt Crooks and Matt Targett create Salt & Pepper boxes for Uber Eats!",
       "link": "https://www.youtube.com/watch?v=cMDZTSF0E2U",
@@ -357,13 +392,6 @@
       "link": "https://www.youtube.com/watch?v=SHxOBst27gU",
       "pubDate": "2026-11-12T17:00:59Z",
       "thumb": "https://i.ytimg.com/vi/SHxOBst27gU/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "Derby Day, Jill Baijings' Return & 30 Years of Aston Villa Women | Lynn Wilms & Jill Baijings",
-      "link": "https://www.youtube.com/watch?v=RfMeMROrC5I",
-      "pubDate": "2026-11-12T13:30:36Z",
-      "thumb": "https://i.ytimg.com/vi/RfMeMROrC5I/hqdefault.jpg"
     },
     {
       "team": "Hull City",
@@ -387,25 +415,11 @@
       "thumb": "https://i.ytimg.com/vi/vcICcdOKWnU/hqdefault.jpg"
     },
     {
-      "team": "Fulham",
-      "title": "Clinical Rodrigo Muniz 🎯 |  All Angles 📐 | Fulham 1-1 Newcastle",
-      "link": "https://www.youtube.com/watch?v=7wZG-kUy3uE",
-      "pubDate": "2026-11-10T09:25:02Z",
-      "thumb": "https://i.ytimg.com/vi/7wZG-kUy3uE/hqdefault.jpg"
-    },
-    {
       "team": "Brighton & Hove Albion",
       "title": "EXTENDED HIGHLIGHTS | Brighton v Brentford | Premier League",
       "link": "https://www.youtube.com/watch?v=xVToV41jGKo",
       "pubDate": "2026-11-10T00:15:29Z",
       "thumb": "https://i.ytimg.com/vi/xVToV41jGKo/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "Sunderland 1-0 Chelsea | HIGHLIGHTS - Extended | Premier League 2026/27",
-      "link": "https://www.youtube.com/watch?v=9v4YjymHBoU",
-      "pubDate": "2026-11-10T00:01:22Z",
-      "thumb": "https://i.ytimg.com/vi/9v4YjymHBoU/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
@@ -429,13 +443,6 @@
       "thumb": "https://i.ytimg.com/vi/NZputnEo6Gs/hqdefault.jpg"
     },
     {
-      "team": "Brighton & Hove Albion",
-      "title": "HIGHLIGHTS | Brighton v Brentford | Premier League",
-      "link": "https://www.youtube.com/watch?v=7eUjJEXlcGE",
-      "pubDate": "2026-11-08T22:00:08Z",
-      "thumb": "https://i.ytimg.com/vi/7eUjJEXlcGE/hqdefault.jpg"
-    },
-    {
       "team": "Brentford",
       "title": "Brighton 2-0 Brentford | Defeat on the south coast | Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=UvkMo7NHt2A",
@@ -448,20 +455,6 @@
       "link": "https://www.youtube.com/watch?v=YzaaXLdzycE",
       "pubDate": "2026-11-08T17:21:50Z",
       "thumb": "https://i.ytimg.com/vi/YzaaXLdzycE/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "MATCHDAY LIVE | HT: TOWN V BOURNEMOUTH",
-      "link": "https://www.youtube.com/watch?v=jXZXVtRw3XU",
-      "pubDate": "2026-11-08T15:10:58Z",
-      "thumb": "https://i.ytimg.com/vi/jXZXVtRw3XU/hqdefault.jpg"
-    },
-    {
-      "team": "Ipswich Town",
-      "title": "MATCHDAY LIVE | HT: TOWN V BOURNEMOUTH",
-      "link": "https://www.youtube.com/watch?v=JuH8trbCIH8",
-      "pubDate": "2026-11-08T14:58:42Z",
-      "thumb": "https://i.ytimg.com/vi/JuH8trbCIH8/hqdefault.jpg"
     },
     {
       "team": "Coventry City",
