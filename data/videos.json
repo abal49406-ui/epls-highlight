@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-21T02:47:46.023Z",
+  "updatedAt": "2026-11-21T10:26:37.198Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "MATCHDAY LIVE! CITY ARE BACK IN PREMIER LEAGUE ACTION! | Man City v Fulham | Premier League",
+      "link": "https://www.youtube.com/watch?v=Ov3UZPKc3qk",
+      "pubDate": "2026-11-21T10:08:35Z",
+      "thumb": "https://i.ytimg.com/vi/Ov3UZPKc3qk/hqdefault.jpg?v=6b016da5"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Poch's BIG TRANSFER Mistake! Man Utd Transfer News",
+      "link": "https://www.youtube.com/watch?v=XVjwYdQYpaA",
+      "pubDate": "2026-11-21T10:00:47Z",
+      "thumb": "https://i.ytimg.com/vi/XVjwYdQYpaA/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Berrada MISSES Again! Goldbridge Man Utd News",
@@ -147,13 +161,6 @@
       "link": "https://www.youtube.com/watch?v=tqg_LjWuEAQ",
       "pubDate": "2026-11-20T10:04:51Z",
       "thumb": "https://i.ytimg.com/vi/tqg_LjWuEAQ/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Poch's FIRST Win? Liverpool vs Man United Goldbridge Preview",
-      "link": "https://www.youtube.com/watch?v=vyDh1cz5JDs",
-      "pubDate": "2026-11-19T21:13:39Z",
-      "thumb": "https://i.ytimg.com/vi/vyDh1cz5JDs/hqdefault.jpg"
     },
     {
       "team": "Arsenal",
@@ -331,13 +338,6 @@
       "thumb": "https://i.ytimg.com/vi/ab__owbbDsQ/hqdefault.jpg"
     },
     {
-      "team": "Manchester City",
-      "title": "يوم المباراة بالعربي! تجربة مانشستر، تحليل السيتي، وتحديات ممتعة | مع بدر نور وأحمد غريب",
-      "link": "https://www.youtube.com/watch?v=CKBOcj4VM9g",
-      "pubDate": "2026-11-17T15:07:34Z",
-      "thumb": "https://i.ytimg.com/vi/CKBOcj4VM9g/hqdefault.jpg"
-    },
-    {
       "team": "Leeds United",
       "title": "\"That is unbelievable\" 🎢  | Becks and Bridgey visit Flamingo Land",
       "link": "https://www.youtube.com/watch?v=QvMNY9LT740",
@@ -427,13 +427,6 @@
       "link": "https://www.youtube.com/watch?v=Kxa1aG901Ig",
       "pubDate": "2026-11-09T17:39:32Z",
       "thumb": "https://i.ytimg.com/vi/Kxa1aG901Ig/hqdefault.jpg"
-    },
-    {
-      "team": "Newcastle United",
-      "title": "Fulham 1 Newcastle United 1 | EXTENDED Premier League Highlights",
-      "link": "https://www.youtube.com/watch?v=iicW3wgicQ8",
-      "pubDate": "2026-11-09T01:27:54Z",
-      "thumb": "https://i.ytimg.com/vi/iicW3wgicQ8/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
