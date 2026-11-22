@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-22T02:36:53.922Z",
+  "updatedAt": "2026-11-22T10:14:27.095Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Bruno & Lacey MUST Start! Liverpool vs Man United Road Trip!",
+      "link": "https://www.youtube.com/watch?v=tRLdqs1EAbw",
+      "pubDate": "2026-11-22T10:00:14Z",
+      "thumb": "https://i.ytimg.com/vi/tRLdqs1EAbw/hqdefault.jpg"
+    },
+    {
+      "team": "Crystal Palace",
+      "title": "WSL Highlights | London City Lionesses 6-2 Palace",
+      "link": "https://www.youtube.com/watch?v=9MFB-EAPAyw",
+      "pubDate": "2026-11-22T09:56:09Z",
+      "thumb": "https://i.ytimg.com/vi/9MFB-EAPAyw/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "Extended Highlights: NINE wins in a row as Evanilson scores AGAIN for the Cherries",
+      "link": "https://www.youtube.com/watch?v=eS32a2ATy8Q",
+      "pubDate": "2026-11-22T07:00:31Z",
+      "thumb": "https://i.ytimg.com/vi/eS32a2ATy8Q/hqdefault.jpg"
+    },
     {
       "team": "AFC Bournemouth",
       "title": "🔴 LIVE: U18 Premier League South: Crystal Palace vs AFC Bournemouth",
@@ -101,7 +122,7 @@
     },
     {
       "team": "Tottenham Hotspur",
-      "title": "08년생이 해냈다! 데뷔골에 1도움까지 | 토트넘 2-0 입스위치 | 11R 프리미어리그 하이라이트",
+      "title": "08년생이 해냈다! 데뷔골에 1도움까지 | 토트넘 2-0 입스위치 타운 | 11R 프리미어리그 하이라이트",
       "link": "https://www.youtube.com/watch?v=Dm0-YDy3ou8",
       "pubDate": "2026-11-21T19:40:53Z",
       "thumb": "https://i.ytimg.com/vi/Dm0-YDy3ou8/hqdefault.jpg"
@@ -275,13 +296,6 @@
       "thumb": "https://i.ytimg.com/vi/qlrTWcCKC7U/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Goldbridge REACTS! Pochettino Press Conference Reaction!",
-      "link": "https://www.youtube.com/watch?v=hPYl-ww4ME4",
-      "pubDate": "2026-11-20T14:57:15Z",
-      "thumb": "https://i.ytimg.com/vi/hPYl-ww4ME4/hqdefault.jpg"
-    },
-    {
       "team": "Fulham",
       "title": "Calvin Bassey, Man City, Injury News 🗣️ | Álvaro Arbeloa Press Conference | Manchester City v Fulham",
       "link": "https://www.youtube.com/watch?v=2xjrz820My4",
@@ -420,20 +434,6 @@
       "link": "https://www.youtube.com/watch?v=im_hNImHAqQ",
       "pubDate": "2026-11-18T21:00:06Z",
       "thumb": "https://i.ytimg.com/vi/im_hNImHAqQ/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: Real Bedford vs AFCB Women",
-      "link": "https://www.youtube.com/watch?v=sHAp9dIBHN0",
-      "pubDate": "2026-11-18T15:00:09Z",
-      "thumb": "https://i.ytimg.com/vi/sHAp9dIBHN0/hqdefault.jpg?v=6afdbd7b"
-    },
-    {
-      "team": "Crystal Palace",
-      "title": "Thomas Frank's First Day 🦅🇩🇰",
-      "link": "https://www.youtube.com/watch?v=KijZh0qmQmY",
-      "pubDate": "2026-11-18T10:00:24Z",
-      "thumb": "https://i.ytimg.com/vi/KijZh0qmQmY/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
