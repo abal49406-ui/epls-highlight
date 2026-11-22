@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-21T22:35:20.807Z",
+  "updatedAt": "2026-11-22T02:36:53.922Z",
   "videos": [
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: U18 Premier League South: Crystal Palace vs AFC Bournemouth",
+      "link": "https://www.youtube.com/watch?v=-t6YdvAFF_Y",
+      "pubDate": "2026-11-22T02:19:06Z",
+      "thumb": "https://i.ytimg.com/vi/-t6YdvAFF_Y/hqdefault.jpg"
+    },
+    {
+      "team": "Chelsea",
+      "title": "Chelsea 1-4 Leeds Utd | HIGHLIGHTS - Extended | Premier League 2026/27",
+      "link": "https://www.youtube.com/watch?v=7FO9vPbudn4",
+      "pubDate": "2026-11-22T00:00:27Z",
+      "thumb": "https://i.ytimg.com/vi/7FO9vPbudn4/hqdefault.jpg"
+    },
     {
       "team": "AFC Bournemouth",
       "title": "Evanilson and Kluivert strike as winning run continues | AFC Bournemouth 2-0 Nottingham Forest",
@@ -189,13 +203,6 @@
       "link": "https://www.youtube.com/watch?v=XpHYECZl77E",
       "pubDate": "2026-11-21T14:16:10Z",
       "thumb": "https://i.ytimg.com/vi/XpHYECZl77E/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: U18 Premier League South: Crystal Palace vs AFC Bournemouth",
-      "link": "https://www.youtube.com/watch?v=-t6YdvAFF_Y",
-      "pubDate": "2026-11-21T14:07:46Z",
-      "thumb": "https://i.ytimg.com/vi/-t6YdvAFF_Y/hqdefault.jpg?v=6afdb29b"
     },
     {
       "team": "Manchester City",
