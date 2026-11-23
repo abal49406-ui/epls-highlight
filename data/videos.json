@@ -1,6 +1,55 @@
 {
-  "updatedAt": "2026-11-23T03:27:44.325Z",
+  "updatedAt": "2026-11-23T13:34:39.907Z",
   "videos": [
+    {
+      "team": "Manchester City",
+      "title": "LIVE: MATCH PREVIEW | Man City v Napoli | UEFA Champions League",
+      "link": "https://www.youtube.com/watch?v=vLIXMrsygf4",
+      "pubDate": "2026-11-23T13:10:40Z",
+      "thumb": "https://i.ytimg.com/vi/vLIXMrsygf4/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Live Training: Club Brugge vs Liverpool | Champions League training in Brugge",
+      "link": "https://www.youtube.com/watch?v=2NQU_oR85u8",
+      "pubDate": "2026-11-23T12:36:02Z",
+      "thumb": "https://i.ytimg.com/vi/2NQU_oR85u8/hqdefault.jpg?v=6b043333"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Press Conference: Club Brugge vs Liverpool | UEFA Champions League Preview",
+      "link": "https://www.youtube.com/watch?v=VLT9l-6sF6w",
+      "pubDate": "2026-11-23T12:14:52Z",
+      "thumb": "https://i.ytimg.com/vi/VLT9l-6sF6w/hqdefault.jpg?v=6b042e3e"
+    },
+    {
+      "team": "Fulham",
+      "title": "Muniz Beauty Earns The Point 💪 | Man City 1-1 Fulham | Extended Highlights",
+      "link": "https://www.youtube.com/watch?v=WwNAJPYc2tg",
+      "pubDate": "2026-11-23T12:00:20Z",
+      "thumb": "https://i.ytimg.com/vi/WwNAJPYc2tg/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "🎙️ Sunderland AFC vs Jagiellonia Białystok | Le Bris & Reinildo | Europa League Press Conference",
+      "link": "https://www.youtube.com/watch?v=k8mP8Cz2GNc",
+      "pubDate": "2026-11-23T11:52:23Z",
+      "thumb": "https://i.ytimg.com/vi/k8mP8Cz2GNc/hqdefault.jpg?v=6b0428f9"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Bruno REJECTS Contract? Poch MUST Change! Man Utd News",
+      "link": "https://www.youtube.com/watch?v=5T70UEHICOg",
+      "pubDate": "2026-11-23T10:46:55Z",
+      "thumb": "https://i.ytimg.com/vi/5T70UEHICOg/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: AFCB Women v Swindon Town",
+      "link": "https://www.youtube.com/watch?v=eQThl_DC06A",
+      "pubDate": "2026-11-23T04:45:35Z",
+      "thumb": "https://i.ytimg.com/vi/eQThl_DC06A/hqdefault.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "EXTENDED HIGHLIGHTS | Hard-fought draw at St James' Park l Newcastle United vs Arsenal (2-2) | PL",
@@ -79,13 +128,6 @@
       "thumb": "https://i.ytimg.com/vi/o3RmFIiXn_w/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "Iraola's Reaction | Ngumoha, Barcola & Kop celebration | Liverpool 4-0 Manchester United",
-      "link": "https://www.youtube.com/watch?v=DzqKkOF_EF0",
-      "pubDate": "2026-11-22T20:19:15Z",
-      "thumb": "https://i.ytimg.com/vi/DzqKkOF_EF0/hqdefault.jpg"
-    },
-    {
       "team": "Manchester United",
       "title": "DISGRACE! Liverpool 4-0 Man United Goldbridge Match Reaction",
       "link": "https://www.youtube.com/watch?v=VbZ6zV1woK8",
@@ -107,15 +149,8 @@
       "thumb": "https://i.ytimg.com/vi/qlpuyoiJngE/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "POCH'S NIGHTMARE DEBUT! 4-0 TO LIVERPOOL 🤬",
-      "link": "https://www.youtube.com/watch?v=OtCsqjX5Dgo",
-      "pubDate": "2026-11-22T18:25:22Z",
-      "thumb": "https://i.ytimg.com/vi/OtCsqjX5Dgo/hqdefault.jpg"
-    },
-    {
       "team": "Hull City",
-      "title": "Hull City 2-0 Birighton | Sergej Jakirović's Post-Match Reaction",
+      "title": "Hull City 2-0 Brighton | Sergej Jakirović's Post-Match Reaction",
       "link": "https://www.youtube.com/watch?v=7l_jG3KPHOQ",
       "pubDate": "2026-11-22T17:54:18Z",
       "thumb": "https://i.ytimg.com/vi/7l_jG3KPHOQ/hqdefault.jpg"
@@ -133,20 +168,6 @@
       "link": "https://www.youtube.com/watch?v=bSDBEVjzN_s",
       "pubDate": "2026-11-22T16:19:18Z",
       "thumb": "https://i.ytimg.com/vi/bSDBEVjzN_s/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: AFCB Women v Swindon Town",
-      "link": "https://www.youtube.com/watch?v=eQThl_DC06A",
-      "pubDate": "2026-11-22T16:08:42Z",
-      "thumb": "https://i.ytimg.com/vi/eQThl_DC06A/hqdefault.jpg?v=6afdb54b"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Matchday Live: Liverpool vs Man United | Premier League build-up from Anfield",
-      "link": "https://www.youtube.com/watch?v=D1fNQ82rA7o",
-      "pubDate": "2026-11-22T15:49:06Z",
-      "thumb": "https://i.ytimg.com/vi/D1fNQ82rA7o/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
@@ -331,13 +352,6 @@
       "thumb": "https://i.ytimg.com/vi/5Chglvr33hs/hqdefault.jpg"
     },
     {
-      "team": "Tottenham Hotspur",
-      "title": "Spurs v Ipswich Town | THE WARM-UP LIVE",
-      "link": "https://www.youtube.com/watch?v=y-vUJvsMeZc",
-      "pubDate": "2026-11-21T15:04:40Z",
-      "thumb": "https://i.ytimg.com/vi/y-vUJvsMeZc/hqdefault.jpg"
-    },
-    {
       "team": "Aston Villa",
       "title": "PRE-MATCH LIVE | With Alan McInally and Ian Taylor | Vs Sunderland",
       "link": "https://www.youtube.com/watch?v=CxLb2mMQ0Xs",
@@ -350,13 +364,6 @@
       "link": "https://www.youtube.com/watch?v=XpHYECZl77E",
       "pubDate": "2026-11-21T14:16:10Z",
       "thumb": "https://i.ytimg.com/vi/XpHYECZl77E/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "MATCHDAY LIVE! CITY BEHIND BUT PUSHING FOR AN EQUALISER! | Man City 0-1 Fulham | Premier League",
-      "link": "https://www.youtube.com/watch?v=OpSJQyfu7GE",
-      "pubDate": "2026-11-21T13:39:24Z",
-      "thumb": "https://i.ytimg.com/vi/OpSJQyfu7GE/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
@@ -406,20 +413,6 @@
       "link": "https://www.youtube.com/watch?v=MvZy_9-8fr0",
       "pubDate": "2026-11-20T13:15:38Z",
       "thumb": "https://i.ytimg.com/vi/MvZy_9-8fr0/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "INSIDE TRAINING | Preparing For Villa, Lads Back From International Duty And Football Tennis🤝🎾",
-      "link": "https://www.youtube.com/watch?v=D1xaweQSjQQ",
-      "pubDate": "2026-11-20T13:05:50Z",
-      "thumb": "https://i.ytimg.com/vi/D1xaweQSjQQ/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "MIKEL ARTETA PREVIEWS NEWCASTLE | Live press conference | Premier League",
-      "link": "https://www.youtube.com/watch?v=soWueDrOm30",
-      "pubDate": "2026-11-20T10:15:56Z",
-      "thumb": "https://i.ytimg.com/vi/soWueDrOm30/hqdefault.jpg"
     },
     {
       "team": "Fulham",
@@ -490,13 +483,6 @@
       "link": "https://www.youtube.com/watch?v=cMDZTSF0E2U",
       "pubDate": "2026-11-13T16:00:25Z",
       "thumb": "https://i.ytimg.com/vi/cMDZTSF0E2U/hqdefault.jpg"
-    },
-    {
-      "team": "Fulham",
-      "title": "Pitchside against Newcastle. 📹",
-      "link": "https://www.youtube.com/watch?v=qJn9DAZj30s",
-      "pubDate": "2026-11-10T15:51:11Z",
-      "thumb": "https://i.ytimg.com/vi/qJn9DAZj30s/hqdefault.jpg"
     },
     {
       "team": "Brentford",
