@@ -1,12 +1,33 @@
 {
-  "updatedAt": "2026-11-24T20:58:30.416Z",
+  "updatedAt": "2026-11-25T03:56:55.548Z",
   "videos": [
+    {
+      "team": "Arsenal",
+      "title": "VIKTOR GYOKERES SCORES A STUNNER | HIGHLIGHTS | Arsenal vs Borussia Dortmund (1-1) | UCL",
+      "link": "https://www.youtube.com/watch?v=1lG2hNS1msY",
+      "pubDate": "2026-11-24T23:00:10Z",
+      "thumb": "https://i.ytimg.com/vi/1lG2hNS1msY/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "MATCHDAY LIVE REACTION | Man City 2-2 Napoli | UEFA Champions League",
+      "link": "https://www.youtube.com/watch?v=-jwQLY1zs8Y",
+      "pubDate": "2026-11-24T22:52:51Z",
+      "thumb": "https://i.ytimg.com/vi/-jwQLY1zs8Y/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "A MOUTHWATERING CLASH IN THE CHAMPIONS LEAGUE | Live From N5 | Arsenal vs Borussia Dortmund | UCL",
+      "link": "https://www.youtube.com/watch?v=6r-Zo-z2mD4",
+      "pubDate": "2026-11-24T21:49:59Z",
+      "thumb": "https://i.ytimg.com/vi/6r-Zo-z2mD4/hqdefault.jpg?v=6b060687"
+    },
     {
       "team": "Manchester City",
       "title": "HALF-TIME! | Man City 0-0 Napoli | UEFA Champions League",
       "link": "https://www.youtube.com/watch?v=x47Vhi9ccWk",
-      "pubDate": "2026-11-24T20:48:04Z",
-      "thumb": "https://i.ytimg.com/vi/x47Vhi9ccWk/hqdefault.jpg?v=6b05f7c1"
+      "pubDate": "2026-11-24T21:06:38Z",
+      "thumb": "https://i.ytimg.com/vi/x47Vhi9ccWk/hqdefault.jpg"
     },
     {
       "team": "Arsenal",
@@ -91,13 +112,6 @@
       "link": "https://www.youtube.com/watch?v=2UuiBgfDQAE",
       "pubDate": "2026-11-24T12:00:39Z",
       "thumb": "https://i.ytimg.com/vi/2UuiBgfDQAE/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "The Champions League is BACK! ✨ | Inside Training | Arsenal prepare for Borussia Dortmund 👊",
-      "link": "https://www.youtube.com/watch?v=163VbQhhMoA",
-      "pubDate": "2026-11-24T11:12:11Z",
-      "thumb": "https://i.ytimg.com/vi/163VbQhhMoA/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
@@ -196,20 +210,6 @@
       "link": "https://www.youtube.com/watch?v=kMw67s9uNYs",
       "pubDate": "2026-11-23T14:35:08Z",
       "thumb": "https://i.ytimg.com/vi/kMw67s9uNYs/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "INJURY UPDATES AND BVB PREVIEW | Mikel Arteta Borussia Dortmund press conference | Champions League",
-      "link": "https://www.youtube.com/watch?v=Qysoe8NGLAQ",
-      "pubDate": "2026-11-23T14:31:24Z",
-      "thumb": "https://i.ytimg.com/vi/Qysoe8NGLAQ/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "MATCH PREVIEW | Man City v Napoli | UEFA Champions League",
-      "link": "https://www.youtube.com/watch?v=vLIXMrsygf4",
-      "pubDate": "2026-11-23T13:10:40Z",
-      "thumb": "https://i.ytimg.com/vi/vLIXMrsygf4/hqdefault.jpg"
     },
     {
       "team": "Fulham",
