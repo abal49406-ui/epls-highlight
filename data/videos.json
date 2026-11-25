@@ -1,6 +1,41 @@
 {
-  "updatedAt": "2026-11-25T03:56:55.548Z",
+  "updatedAt": "2026-11-25T13:48:04.183Z",
   "videos": [
+    {
+      "team": "Sunderland",
+      "title": "🎙️ Sunderland AFC vs Jagiellonia Białystok | Le Bris & Reinildo | Europa League Press Conference",
+      "link": "https://www.youtube.com/watch?v=k8mP8Cz2GNc",
+      "pubDate": "2026-11-25T13:26:52Z",
+      "thumb": "https://i.ytimg.com/vi/k8mP8Cz2GNc/hqdefault.jpg?v=6b0428f9"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Matchday Live: Club Brugge vs Liverpool | UEFA Champions League build-up",
+      "link": "https://www.youtube.com/watch?v=8Wr699AMjVw",
+      "pubDate": "2026-11-25T12:39:33Z",
+      "thumb": "https://i.ytimg.com/vi/8Wr699AMjVw/hqdefault.jpg?v=6b06d707"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "Out Of Office with Experience Kissimmee | Svoboda, Boscagli, McGill & Sidwell go golfing!",
+      "link": "https://www.youtube.com/watch?v=pbhDtF1q4c0",
+      "pubDate": "2026-11-25T11:46:44Z",
+      "thumb": "https://i.ytimg.com/vi/pbhDtF1q4c0/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "Nico Elvedi | The Official Leeds United Podcast",
+      "link": "https://www.youtube.com/watch?v=8KpjnrCxFS0",
+      "pubDate": "2026-11-25T10:38:31Z",
+      "thumb": "https://i.ytimg.com/vi/8KpjnrCxFS0/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Poch MUST Do This! Sporting vs Man United Goldbridge Preview",
+      "link": "https://www.youtube.com/watch?v=yscOJiuetVk",
+      "pubDate": "2026-11-25T09:58:10Z",
+      "thumb": "https://i.ytimg.com/vi/yscOJiuetVk/hqdefault.jpg"
+    },
     {
       "team": "Arsenal",
       "title": "VIKTOR GYOKERES SCORES A STUNNER | HIGHLIGHTS | Arsenal vs Borussia Dortmund (1-1) | UCL",
@@ -149,13 +184,6 @@
       "thumb": "https://i.ytimg.com/vi/wiQR6Nx28ik/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "Extended Highlights: Liverpool 4-0 Man Utd | BIG Win in the Premier League!",
-      "link": "https://www.youtube.com/watch?v=SC-a4uZlt70",
-      "pubDate": "2026-11-24T00:00:23Z",
-      "thumb": "https://i.ytimg.com/vi/SC-a4uZlt70/hqdefault.jpg"
-    },
-    {
       "team": "AFC Bournemouth",
       "title": "Premier League Cup Live: AFC Bournemouth v Leicester City",
       "link": "https://www.youtube.com/watch?v=HLdZWAWczVs",
@@ -205,25 +233,11 @@
       "thumb": "https://i.ytimg.com/vi/tqGxLCG6Mq8/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "Poch’s BEST Team? Yoro Appeal a WASTE? Man Utd News",
-      "link": "https://www.youtube.com/watch?v=kMw67s9uNYs",
-      "pubDate": "2026-11-23T14:35:08Z",
-      "thumb": "https://i.ytimg.com/vi/kMw67s9uNYs/hqdefault.jpg"
-    },
-    {
       "team": "Fulham",
       "title": "Muniz Beauty Earns The Point 💪 | Man City 1-1 Fulham | Extended Highlights",
       "link": "https://www.youtube.com/watch?v=WwNAJPYc2tg",
       "pubDate": "2026-11-23T12:00:20Z",
       "thumb": "https://i.ytimg.com/vi/WwNAJPYc2tg/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "🎙️ Sunderland AFC vs Jagiellonia Białystok | Le Bris & Reinildo | Europa League Press Conference",
-      "link": "https://www.youtube.com/watch?v=k8mP8Cz2GNc",
-      "pubDate": "2026-11-23T11:52:23Z",
-      "thumb": "https://i.ytimg.com/vi/k8mP8Cz2GNc/hqdefault.jpg?v=6b0428f9"
     },
     {
       "team": "AFC Bournemouth",
@@ -287,13 +301,6 @@
       "link": "https://www.youtube.com/watch?v=7l_jG3KPHOQ",
       "pubDate": "2026-11-22T17:54:18Z",
       "thumb": "https://i.ytimg.com/vi/7l_jG3KPHOQ/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "POST-MATCH | Hurzeler & Dunk | Hull City v Brighton | Premier League",
-      "link": "https://www.youtube.com/watch?v=bGQpPOsl2e0",
-      "pubDate": "2026-11-22T17:16:07Z",
-      "thumb": "https://i.ytimg.com/vi/bGQpPOsl2e0/hqdefault.jpg"
     },
     {
       "team": "Leeds United",
@@ -392,13 +399,6 @@
       "link": "https://www.youtube.com/watch?v=GTYDkOE5FRQ",
       "pubDate": "2026-11-21T18:36:14Z",
       "thumb": "https://i.ytimg.com/vi/GTYDkOE5FRQ/hqdefault.jpg"
-    },
-    {
-      "team": "Leeds United",
-      "title": "\"To get the win is a great feeling\" | Dominic Calvert-Lewin reacts | Chelsea 1-4 Leeds United",
-      "link": "https://www.youtube.com/watch?v=Ia08EcEFbWM",
-      "pubDate": "2026-11-21T18:07:35Z",
-      "thumb": "https://i.ytimg.com/vi/Ia08EcEFbWM/hqdefault.jpg"
     },
     {
       "team": "Aston Villa",
