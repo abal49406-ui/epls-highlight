@@ -1,6 +1,55 @@
 {
-  "updatedAt": "2026-11-26T04:35:46.322Z",
+  "updatedAt": "2026-11-26T14:20:36.537Z",
   "videos": [
+    {
+      "team": "Leeds United",
+      "title": "Daniel Farke pre-match press conference | Leeds United v Coventry City | Premier League",
+      "link": "https://www.youtube.com/watch?v=knRJQnKQcqU",
+      "pubDate": "2026-11-26T14:07:44Z",
+      "thumb": "https://i.ytimg.com/vi/knRJQnKQcqU/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "United's Transfer PLAN! Ben Jacobs Man United Transfer New!",
+      "link": "https://www.youtube.com/watch?v=adMnx0XReEw",
+      "pubDate": "2026-11-26T14:04:28Z",
+      "thumb": "https://i.ytimg.com/vi/adMnx0XReEw/hqdefault.jpg?v=6b0837a9"
+    },
+    {
+      "team": "Arsenal",
+      "title": "ARSENAL’S BEST CHAMPIONS LEAGUE GOALS UNDER MIKEL ARTETA",
+      "link": "https://www.youtube.com/watch?v=iMNMm7vQLnY",
+      "pubDate": "2026-11-26T12:01:01Z",
+      "thumb": "https://i.ytimg.com/vi/iMNMm7vQLnY/hqdefault.jpg"
+    },
+    {
+      "team": "Tottenham Hotspur",
+      "title": "Behind the scenes at Tottenham training ahead of Sunderland in the Premier League!",
+      "link": "https://www.youtube.com/watch?v=UPD9MoZDfhg",
+      "pubDate": "2026-11-26T12:00:11Z",
+      "thumb": "https://i.ytimg.com/vi/UPD9MoZDfhg/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Poch CRITICS Silenced! Goldbridge Man Utd News",
+      "link": "https://www.youtube.com/watch?v=McrsNLyGxmg",
+      "pubDate": "2026-11-26T11:06:48Z",
+      "thumb": "https://i.ytimg.com/vi/McrsNLyGxmg/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester City",
+      "title": "HIGHLIGHTS | Man City 2-2 Napoli | Late Cherki goal rescues a point!",
+      "link": "https://www.youtube.com/watch?v=WaN91Izyewk",
+      "pubDate": "2026-11-26T09:14:47Z",
+      "thumb": "https://i.ytimg.com/vi/WaN91Izyewk/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "Gardening, fluke goals & fashion l The Ben White Episode l The Official Arsenal Podcast l Ep.1",
+      "link": "https://www.youtube.com/watch?v=QYjTX8tQT0s",
+      "pubDate": "2026-11-26T09:00:08Z",
+      "thumb": "https://i.ytimg.com/vi/QYjTX8tQT0s/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "Poch ROBBED of First Win! SPORTING CP 2-2 MAN UNITED! Fan's Forum",
@@ -28,27 +77,6 @@
       "link": "https://www.youtube.com/watch?v=mS2uR3wdcZk",
       "pubDate": "2026-11-25T22:35:19Z",
       "thumb": "https://i.ytimg.com/vi/mS2uR3wdcZk/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "SPORTING vs MAN UNITED LIVE Champions League Watchalong",
-      "link": "https://www.youtube.com/watch?v=1IYzQc9k5n8",
-      "pubDate": "2026-11-25T22:02:08Z",
-      "thumb": "https://i.ytimg.com/vi/1IYzQc9k5n8/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "THE WILDEST GAME OF FOOTBALL YOU WILL EVER SEE! 🤯",
-      "link": "https://www.youtube.com/watch?v=COKbbixKYWA",
-      "pubDate": "2026-11-25T21:58:28Z",
-      "thumb": "https://i.ytimg.com/vi/COKbbixKYWA/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "Gardening, fluke goals & fashion l The Ben White Episode l The Official Arsenal Podcast l Ep.1",
-      "link": "https://www.youtube.com/watch?v=QYjTX8tQT0s",
-      "pubDate": "2026-11-25T20:11:46Z",
-      "thumb": "https://i.ytimg.com/vi/QYjTX8tQT0s/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
@@ -107,13 +135,6 @@
       "thumb": "https://i.ytimg.com/vi/pkgnbc9H3a0/hqdefault.jpg"
     },
     {
-      "team": "Leeds United",
-      "title": "Daniel Farke pre-match press conference | Leeds United v Coventry City | Premier League",
-      "link": "https://www.youtube.com/watch?v=knRJQnKQcqU",
-      "pubDate": "2026-11-25T16:00:22Z",
-      "thumb": "https://i.ytimg.com/vi/knRJQnKQcqU/hqdefault.jpg?v=6b070616"
-    },
-    {
       "team": "Tottenham Hotspur",
       "title": "Micky van de Ven GRILLED by young fans in world's HARDEST Tottenham press conference!",
       "link": "https://www.youtube.com/watch?v=8glf9sN-f0c",
@@ -140,6 +161,20 @@
       "link": "https://www.youtube.com/watch?v=k8mP8Cz2GNc",
       "pubDate": "2026-11-25T13:59:32Z",
       "thumb": "https://i.ytimg.com/vi/k8mP8Cz2GNc/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Andoni Iraola Press Conference | Everton vs Liverpool  | Premier League",
+      "link": "https://www.youtube.com/watch?v=v061isFcz5o",
+      "pubDate": "2026-11-25T13:13:04Z",
+      "thumb": "https://i.ytimg.com/vi/v061isFcz5o/hqdefault.jpg?v=6b06dee2"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Matchday Live: Everton vs Liverpool | Merseyside derby Premier League build-up",
+      "link": "https://www.youtube.com/watch?v=U_ZP4-0kpVg",
+      "pubDate": "2026-11-25T12:44:36Z",
+      "thumb": "https://i.ytimg.com/vi/U_ZP4-0kpVg/hqdefault.jpg?v=6b06d929"
     },
     {
       "team": "Brighton & Hove Albion",
@@ -184,20 +219,6 @@
       "thumb": "https://i.ytimg.com/vi/x47Vhi9ccWk/hqdefault.jpg"
     },
     {
-      "team": "Arsenal",
-      "title": "A MOUTHWATERING CLASH IN THE CHAMPIONS LEAGUE | Live From N5 | Arsenal vs Borussia Dortmund | UCL",
-      "link": "https://www.youtube.com/watch?v=GtV6ft0laMA",
-      "pubDate": "2026-11-24T20:02:40Z",
-      "thumb": "https://i.ytimg.com/vi/GtV6ft0laMA/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "MATCHDAY LIVE! | Man City v Napoli | UEFA Champions League",
-      "link": "https://www.youtube.com/watch?v=L2XVqfJQZAY",
-      "pubDate": "2026-11-24T20:00:31Z",
-      "thumb": "https://i.ytimg.com/vi/L2XVqfJQZAY/hqdefault.jpg"
-    },
-    {
       "team": "Hull City",
       "title": "OUTRAGEOUS Saves From Tzolakis 😱 Last Gasp Winner From McBurnie 🤩 Behind the Tigers Brighton (h)",
       "link": "https://www.youtube.com/watch?v=q4TF0GIW9K4",
@@ -212,22 +233,8 @@
       "thumb": "https://i.ytimg.com/vi/Q8grB_5Cfmw/hqdefault.jpg"
     },
     {
-      "team": "Liverpool",
-      "title": "Live Training: Club Brugge vs Liverpool | Champions League training in Brugge",
-      "link": "https://www.youtube.com/watch?v=2NQU_oR85u8",
-      "pubDate": "2026-11-24T17:40:52Z",
-      "thumb": "https://i.ytimg.com/vi/2NQU_oR85u8/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Andoni Iraola & Florian Wirtz Press Conference: Club Brugge vs Liverpool | UEFA Champions League",
-      "link": "https://www.youtube.com/watch?v=VLT9l-6sF6w",
-      "pubDate": "2026-11-24T16:45:29Z",
-      "thumb": "https://i.ytimg.com/vi/VLT9l-6sF6w/hqdefault.jpg"
-    },
-    {
       "team": "Sunderland",
-      "title": "This Magician Blew Enzo Le Fée's Mind!",
+      "title": "Can A Magician Read This Professional Footballer's Mind?",
       "link": "https://www.youtube.com/watch?v=m4KPztlJrBo",
       "pubDate": "2026-11-24T16:33:44Z",
       "thumb": "https://i.ytimg.com/vi/m4KPztlJrBo/hqdefault.jpg"
@@ -490,20 +497,6 @@
       "link": "https://www.youtube.com/watch?v=LrIAyBX0jjI",
       "pubDate": "2026-11-19T17:51:55Z",
       "thumb": "https://i.ytimg.com/vi/LrIAyBX0jjI/hqdefault.jpg"
-    },
-    {
-      "team": "Brentford",
-      "title": "\"You can't swear down and lie\" | The Lie Detector W/ Callum Wilson, Jaidon Anthony and Josh Da Silva",
-      "link": "https://www.youtube.com/watch?v=ZNCTaNhUy5w",
-      "pubDate": "2026-11-19T15:28:13Z",
-      "thumb": "https://i.ytimg.com/vi/ZNCTaNhUy5w/hqdefault.jpg"
-    },
-    {
-      "team": "Brentford",
-      "title": "Thiago, Sangaré & Schuster Play Against Schade, Hickey & Diouf in Match The Skill | Brentford FC",
-      "link": "https://www.youtube.com/watch?v=kPoX19PkqvY",
-      "pubDate": "2026-11-16T17:30:00Z",
-      "thumb": "https://i.ytimg.com/vi/kPoX19PkqvY/hqdefault.jpg"
     }
   ]
 }
