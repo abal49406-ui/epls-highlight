@@ -1,19 +1,33 @@
 {
-  "updatedAt": "2026-11-25T22:52:25.549Z",
+  "updatedAt": "2026-11-26T04:35:46.322Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "Poch ROBBED of First Win! SPORTING CP 2-2 MAN UNITED! Fan's Forum",
+      "link": "https://www.youtube.com/watch?v=_1c1ByAB2S8",
+      "pubDate": "2026-11-25T23:38:27Z",
+      "thumb": "https://i.ytimg.com/vi/_1c1ByAB2S8/hqdefault.jpg"
+    },
+    {
+      "team": "Liverpool",
+      "title": "Munoz Update, Isak & Wirtz Performance | Club Brugge 0-3 Liverpool | Andoni Iraola",
+      "link": "https://www.youtube.com/watch?v=dAgOjUKgwEA",
+      "pubDate": "2026-11-25T23:07:46Z",
+      "thumb": "https://i.ytimg.com/vi/dAgOjUKgwEA/hqdefault.jpg"
+    },
+    {
+      "team": "Aston Villa",
+      "title": "Galatasaray 1-0 Aston Villa | UEFA Champions League Highlights",
+      "link": "https://www.youtube.com/watch?v=03q4mhgwBts",
+      "pubDate": "2026-11-25T23:00:20Z",
+      "thumb": "https://i.ytimg.com/vi/03q4mhgwBts/hqdefault.jpg"
+    },
     {
       "team": "Manchester United",
       "title": "ROBBED! Sporting 2-2 Man United Goldbridge Match Reaction",
       "link": "https://www.youtube.com/watch?v=mS2uR3wdcZk",
       "pubDate": "2026-11-25T22:35:19Z",
       "thumb": "https://i.ytimg.com/vi/mS2uR3wdcZk/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Poch ROBBED of First Win! SPORTING CP 2-2 MAN UNITED! Fan's Forum",
-      "link": "https://www.youtube.com/watch?v=_1c1ByAB2S8",
-      "pubDate": "2026-11-25T22:33:39Z",
-      "thumb": "https://i.ytimg.com/vi/_1c1ByAB2S8/hqdefault.jpg?v=6b075b14"
     },
     {
       "team": "Manchester United",
@@ -231,13 +245,6 @@
       "link": "https://www.youtube.com/watch?v=cWZorTQYWX8",
       "pubDate": "2026-11-24T13:57:47Z",
       "thumb": "https://i.ytimg.com/vi/cWZorTQYWX8/hqdefault.jpg"
-    },
-    {
-      "team": "Liverpool",
-      "title": "Inside Anfield: Liverpool 4-0 Man Utd | Tunnel scenes and incredible atmosphere!",
-      "link": "https://www.youtube.com/watch?v=9GpxiFdCxAM",
-      "pubDate": "2026-11-24T09:00:10Z",
-      "thumb": "https://i.ytimg.com/vi/9GpxiFdCxAM/hqdefault.jpg"
     },
     {
       "team": "Fulham",
@@ -483,13 +490,6 @@
       "link": "https://www.youtube.com/watch?v=LrIAyBX0jjI",
       "pubDate": "2026-11-19T17:51:55Z",
       "thumb": "https://i.ytimg.com/vi/LrIAyBX0jjI/hqdefault.jpg"
-    },
-    {
-      "team": "Aston Villa",
-      "title": "Petrov, Chester & Villa's Champions League Challenge || VILLA PODCAST",
-      "link": "https://www.youtube.com/watch?v=YsWg0hJ05nE",
-      "pubDate": "2026-11-19T17:00:06Z",
-      "thumb": "https://i.ytimg.com/vi/YsWg0hJ05nE/hqdefault.jpg"
     },
     {
       "team": "Brentford",
