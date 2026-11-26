@@ -1,19 +1,82 @@
 {
-  "updatedAt": "2026-11-26T14:20:36.537Z",
+  "updatedAt": "2026-11-26T23:15:01.259Z",
   "videos": [
+    {
+      "team": "Sunderland",
+      "title": "Regis Le Bris and Luke O'Nien | Post-Match Reaction",
+      "link": "https://www.youtube.com/watch?v=FaDw7Irvl-I",
+      "pubDate": "2026-11-26T23:01:25Z",
+      "thumb": "https://i.ytimg.com/vi/FaDw7Irvl-I/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "Poch's SHOCK January Transfer Targets! Goldbridge Man Utd News",
+      "link": "https://www.youtube.com/watch?v=OJ-EsdTPiiM",
+      "pubDate": "2026-11-26T21:08:49Z",
+      "thumb": "https://i.ytimg.com/vi/OJ-EsdTPiiM/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "POST-MATCH | Hurzeler & Osman | Brighton v Universitatea Craiova | UEFA Conference League",
+      "link": "https://www.youtube.com/watch?v=aRRft3kDF1Q",
+      "pubDate": "2026-11-26T20:44:16Z",
+      "thumb": "https://i.ytimg.com/vi/aRRft3kDF1Q/hqdefault.jpg"
+    },
+    {
+      "team": "Brentford",
+      "title": "Vitaly Janelt SCREAMER + return to winning ways! 🤩 | Inside Brentford | Brentford 4-0 Everton",
+      "link": "https://www.youtube.com/watch?v=Ig8TieIiVfs",
+      "pubDate": "2026-11-26T18:16:28Z",
+      "thumb": "https://i.ytimg.com/vi/Ig8TieIiVfs/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "FOREST SMASH SEVEN PAST CHELSEA 😱 | Nottingham Forest 7-0 Chelsea | Classic Highlights 🎬",
+      "link": "https://www.youtube.com/watch?v=DXuyizjlUYU",
+      "pubDate": "2026-11-26T18:00:30Z",
+      "thumb": "https://i.ytimg.com/vi/DXuyizjlUYU/hqdefault.jpg"
+    },
+    {
+      "team": "Leeds United",
+      "title": "“It's great to be part of this group” | Dominic Calvert-Lewin signs new contract with Leeds United",
+      "link": "https://www.youtube.com/watch?v=gAPRb7Y4xQ0",
+      "pubDate": "2026-11-26T18:00:04Z",
+      "thumb": "https://i.ytimg.com/vi/gAPRb7Y4xQ0/hqdefault.jpg"
+    },
+    {
+      "team": "Arsenal",
+      "title": "\"Mate, you're having one! 😅\"⁣ | Declan Rice takes on Ezri Konsa | What Do You Know?",
+      "link": "https://www.youtube.com/watch?v=h3OPbqWzjX8",
+      "pubDate": "2026-11-26T17:36:45Z",
+      "thumb": "https://i.ytimg.com/vi/h3OPbqWzjX8/hqdefault.jpg"
+    },
+    {
+      "team": "Coventry City",
+      "title": "Frank Lampard Pre-Match Press Conference | Leeds United vs Coventry City | Premier League",
+      "link": "https://www.youtube.com/watch?v=hTqUtApbTp4",
+      "pubDate": "2026-11-26T15:22:43Z",
+      "thumb": "https://i.ytimg.com/vi/hTqUtApbTp4/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "United's Transfer PLAN! Ben Jacobs Man United Transfer News!",
+      "link": "https://www.youtube.com/watch?v=adMnx0XReEw",
+      "pubDate": "2026-11-26T15:12:50Z",
+      "thumb": "https://i.ytimg.com/vi/adMnx0XReEw/hqdefault.jpg"
+    },
+    {
+      "team": "Chelsea",
+      "title": "Alonso Press Conference | 26/11/26 | Nottingham Forest vs Chelsea | CFC 26/27",
+      "link": "https://www.youtube.com/watch?v=uyVfLRjVUu8",
+      "pubDate": "2026-11-26T14:56:23Z",
+      "thumb": "https://i.ytimg.com/vi/uyVfLRjVUu8/hqdefault.jpg"
+    },
     {
       "team": "Leeds United",
       "title": "Daniel Farke pre-match press conference | Leeds United v Coventry City | Premier League",
       "link": "https://www.youtube.com/watch?v=knRJQnKQcqU",
       "pubDate": "2026-11-26T14:07:44Z",
       "thumb": "https://i.ytimg.com/vi/knRJQnKQcqU/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "United's Transfer PLAN! Ben Jacobs Man United Transfer New!",
-      "link": "https://www.youtube.com/watch?v=adMnx0XReEw",
-      "pubDate": "2026-11-26T14:04:28Z",
-      "thumb": "https://i.ytimg.com/vi/adMnx0XReEw/hqdefault.jpg?v=6b0837a9"
     },
     {
       "team": "Arsenal",
@@ -70,13 +133,6 @@
       "link": "https://www.youtube.com/watch?v=03q4mhgwBts",
       "pubDate": "2026-11-25T23:00:20Z",
       "thumb": "https://i.ytimg.com/vi/03q4mhgwBts/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "ROBBED! Sporting 2-2 Man United Goldbridge Match Reaction",
-      "link": "https://www.youtube.com/watch?v=mS2uR3wdcZk",
-      "pubDate": "2026-11-25T22:35:19Z",
-      "thumb": "https://i.ytimg.com/vi/mS2uR3wdcZk/hqdefault.jpg"
     },
     {
       "team": "Liverpool",
@@ -184,32 +240,11 @@
       "thumb": "https://i.ytimg.com/vi/pbhDtF1q4c0/hqdefault.jpg"
     },
     {
-      "team": "Leeds United",
-      "title": "\"I just love the club\" | Nico Elvedi | The Official Leeds United Podcast",
-      "link": "https://www.youtube.com/watch?v=8KpjnrCxFS0",
-      "pubDate": "2026-11-25T10:38:31Z",
-      "thumb": "https://i.ytimg.com/vi/8KpjnrCxFS0/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "VIKTOR GYOKERES SCORES A STUNNER | HIGHLIGHTS | Arsenal vs Borussia Dortmund (1-1) | UCL",
-      "link": "https://www.youtube.com/watch?v=1lG2hNS1msY",
-      "pubDate": "2026-11-24T23:00:10Z",
-      "thumb": "https://i.ytimg.com/vi/1lG2hNS1msY/hqdefault.jpg"
-    },
-    {
       "team": "Manchester City",
       "title": "MATCHDAY LIVE REACTION | Man City 2-2 Napoli | UEFA Champions League",
       "link": "https://www.youtube.com/watch?v=-jwQLY1zs8Y",
       "pubDate": "2026-11-24T22:52:51Z",
       "thumb": "https://i.ytimg.com/vi/-jwQLY1zs8Y/hqdefault.jpg"
-    },
-    {
-      "team": "Arsenal",
-      "title": "A MOUTHWATERING CLASH IN THE CHAMPIONS LEAGUE | Live From N5 | Arsenal vs Borussia Dortmund | UCL",
-      "link": "https://www.youtube.com/watch?v=6r-Zo-z2mD4",
-      "pubDate": "2026-11-24T21:49:59Z",
-      "thumb": "https://i.ytimg.com/vi/6r-Zo-z2mD4/hqdefault.jpg?v=6b060687"
     },
     {
       "team": "Manchester City",
@@ -261,13 +296,6 @@
       "thumb": "https://i.ytimg.com/vi/J5M13G4nt4Y/hqdefault.jpg"
     },
     {
-      "team": "Brighton & Hove Albion",
-      "title": "EXTENDED HIGHLIGHTS | Hull City v Brighton | Premier League",
-      "link": "https://www.youtube.com/watch?v=-6ABR4NKEQE",
-      "pubDate": "2026-11-24T00:15:13Z",
-      "thumb": "https://i.ytimg.com/vi/-6ABR4NKEQE/hqdefault.jpg"
-    },
-    {
       "team": "Brentford",
       "title": "Brentford 4-0 Everton | KLP brace, Janelt STUNNER and Carvalho strike 🤩 | Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=wiQR6Nx28ik",
@@ -294,13 +322,6 @@
       "link": "https://www.youtube.com/watch?v=7kOWHeWxCy8",
       "pubDate": "2026-11-23T16:56:16Z",
       "thumb": "https://i.ytimg.com/vi/7kOWHeWxCy8/hqdefault.jpg"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Sunderland Earn A Point At Villa Park | Aston Villa 0-0 Sunderland | On The Road",
-      "link": "https://www.youtube.com/watch?v=79doo6NCHsg",
-      "pubDate": "2026-11-23T16:00:00Z",
-      "thumb": "https://i.ytimg.com/vi/79doo6NCHsg/hqdefault.jpg"
     },
     {
       "team": "Nottingham Forest",
@@ -366,13 +387,6 @@
       "thumb": "https://i.ytimg.com/vi/7l_jG3KPHOQ/hqdefault.jpg"
     },
     {
-      "team": "Nottingham Forest",
-      "title": "Oliver Glasner's Reaction 🗣️ | AFC Bournemouth vs Nottingham Forest | Premier League",
-      "link": "https://www.youtube.com/watch?v=tpwUerZTZJo",
-      "pubDate": "2026-11-22T12:39:00Z",
-      "thumb": "https://i.ytimg.com/vi/tpwUerZTZJo/hqdefault.jpg"
-    },
-    {
       "team": "Crystal Palace",
       "title": "WSL Highlights | London City Lionesses 6-2 Palace",
       "link": "https://www.youtube.com/watch?v=9MFB-EAPAyw",
@@ -420,13 +434,6 @@
       "link": "https://www.youtube.com/watch?v=oHg7rTSQo2k",
       "pubDate": "2026-11-21T22:00:04Z",
       "thumb": "https://i.ytimg.com/vi/oHg7rTSQo2k/hqdefault.jpg"
-    },
-    {
-      "team": "Coventry City",
-      "title": "Frank Lampard, Torp and Sakamoto Reaction | Coventry City vs Crystal Palace | Premier League",
-      "link": "https://www.youtube.com/watch?v=RqkCLuxHPCk",
-      "pubDate": "2026-11-21T18:56:24Z",
-      "thumb": "https://i.ytimg.com/vi/RqkCLuxHPCk/hqdefault.jpg"
     },
     {
       "team": "Ipswich Town",
