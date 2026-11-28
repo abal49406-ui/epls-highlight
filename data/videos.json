@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-11-27T23:28:35.172Z",
+  "updatedAt": "2026-11-28T04:55:34.086Z",
   "videos": [
+    {
+      "team": "Chelsea",
+      "title": "Nottingham Forest 3-2 Chelsea | HIGHLIGHTS | Premier League 2026/27",
+      "link": "https://www.youtube.com/watch?v=7apAiRSv8bw",
+      "pubDate": "2026-11-28T01:43:51Z",
+      "thumb": "https://i.ytimg.com/vi/7apAiRSv8bw/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "Rodríguez and Rayan goals help Cherries to TENTH win in a row | Celta Vigo 1-2 AFC Bournemouth",
+      "link": "https://www.youtube.com/watch?v=j9S7yZHx2wc",
+      "pubDate": "2026-11-28T00:00:28Z",
+      "thumb": "https://i.ytimg.com/vi/j9S7yZHx2wc/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Nottingham Forest 3-2 Chelsea | Premier League | Highlights 🎬",
+      "link": "https://www.youtube.com/watch?v=500ohy7vj38",
+      "pubDate": "2026-11-28T00:00:09Z",
+      "thumb": "https://i.ytimg.com/vi/500ohy7vj38/hqdefault.jpg"
+    },
+    {
+      "team": "Brighton & Hove Albion",
+      "title": "HIGHLIGHTS | Brighton v Universitatea Craiova | UEFA Conference League",
+      "link": "https://www.youtube.com/watch?v=jW3rd4oc5ao",
+      "pubDate": "2026-11-27T23:59:06Z",
+      "thumb": "https://i.ytimg.com/vi/jW3rd4oc5ao/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Morgan Gibbs-White's Reaction 🗣️ | Nottingham Forest vs Chelsea | Premier League",
+      "link": "https://www.youtube.com/watch?v=q6CfzCF2tsc",
+      "pubDate": "2026-11-27T23:43:21Z",
+      "thumb": "https://i.ytimg.com/vi/q6CfzCF2tsc/hqdefault.jpg"
+    },
+    {
+      "team": "Nottingham Forest",
+      "title": "Oliver Glasner's Reaction 🗣️ | Nottingham Forest vs Chelsea | Premier League",
+      "link": "https://www.youtube.com/watch?v=4PQ0RTpqNmU",
+      "pubDate": "2026-11-27T23:42:36Z",
+      "thumb": "https://i.ytimg.com/vi/4PQ0RTpqNmU/hqdefault.jpg"
+    },
     {
       "team": "Chelsea",
       "title": "Norwich U21's vs Cobham Next Gen | HIGHLIGHTS | Premier League 2 | 2026/27",
@@ -310,13 +352,6 @@
       "thumb": "https://i.ytimg.com/vi/LRuvyy6m2u0/hqdefault.jpg"
     },
     {
-      "team": "Nottingham Forest",
-      "title": "Oliver Glasner Press Conference 🎙️ | Nottingham Forest vs Chelsea | Premier League",
-      "link": "https://www.youtube.com/watch?v=pkgnbc9H3a0",
-      "pubDate": "2026-11-25T16:23:42Z",
-      "thumb": "https://i.ytimg.com/vi/pkgnbc9H3a0/hqdefault.jpg"
-    },
-    {
       "team": "Tottenham Hotspur",
       "title": "Micky van de Ven GRILLED by young fans in world's HARDEST Tottenham press conference!",
       "link": "https://www.youtube.com/watch?v=8glf9sN-f0c",
@@ -343,13 +378,6 @@
       "link": "https://www.youtube.com/watch?v=Q8grB_5Cfmw",
       "pubDate": "2026-11-24T18:30:27Z",
       "thumb": "https://i.ytimg.com/vi/Q8grB_5Cfmw/hqdefault.jpg"
-    },
-    {
-      "team": "Brighton & Hove Albion",
-      "title": "HIGHLIGHTS | Brighton U21 v West Ham U21 | Premier League Cup",
-      "link": "https://www.youtube.com/watch?v=Ogudgxthrkc",
-      "pubDate": "2026-11-24T14:20:01Z",
-      "thumb": "https://i.ytimg.com/vi/Ogudgxthrkc/hqdefault.jpg"
     },
     {
       "team": "Fulham",
@@ -380,13 +408,6 @@
       "thumb": "https://i.ytimg.com/vi/7kOWHeWxCy8/hqdefault.jpg"
     },
     {
-      "team": "Nottingham Forest",
-      "title": "Newcastle United Women 0-2 Nottingham Forest Women | Subway Players Cup Highlights",
-      "link": "https://www.youtube.com/watch?v=tqGxLCG6Mq8",
-      "pubDate": "2026-11-23T14:57:17Z",
-      "thumb": "https://i.ytimg.com/vi/tqGxLCG6Mq8/hqdefault.jpg"
-    },
-    {
       "team": "Fulham",
       "title": "Muniz Beauty Earns The Point 💪 | Man City 1-1 Fulham | Extended Highlights",
       "link": "https://www.youtube.com/watch?v=WwNAJPYc2tg",
@@ -408,13 +429,6 @@
       "thumb": "https://i.ytimg.com/vi/BjRRRrrTGkc/hqdefault.jpg"
     },
     {
-      "team": "Nottingham Forest",
-      "title": "AFC Bournemouth 2-0 Nottingham Forest | Premier League | Extended Highlights 📺",
-      "link": "https://www.youtube.com/watch?v=p0YI3gesOH4",
-      "pubDate": "2026-11-23T00:00:15Z",
-      "thumb": "https://i.ytimg.com/vi/p0YI3gesOH4/hqdefault.jpg"
-    },
-    {
       "team": "Newcastle United",
       "title": "Newcastle United 2 Arsenal 2 | EXTENDED Premier League Highlights",
       "link": "https://www.youtube.com/watch?v=WJ-6lcvdG4Q",
@@ -427,13 +441,6 @@
       "link": "https://www.youtube.com/watch?v=FKCFZFOT3Tc",
       "pubDate": "2026-11-22T23:15:28Z",
       "thumb": "https://i.ytimg.com/vi/FKCFZFOT3Tc/hqdefault.jpg"
-    },
-    {
-      "team": "AFC Bournemouth",
-      "title": "Pitchside views as Cherries smash club winning record with victory against Forest | Alt Angle",
-      "link": "https://www.youtube.com/watch?v=jtoQeG3s_Eg",
-      "pubDate": "2026-11-22T19:04:43Z",
-      "thumb": "https://i.ytimg.com/vi/jtoQeG3s_Eg/hqdefault.jpg"
     },
     {
       "team": "Hull City",
@@ -497,13 +504,6 @@
       "link": "https://www.youtube.com/watch?v=CxLb2mMQ0Xs",
       "pubDate": "2026-11-21T14:51:53Z",
       "thumb": "https://i.ytimg.com/vi/CxLb2mMQ0Xs/hqdefault.jpg"
-    },
-    {
-      "team": "Chelsea",
-      "title": "Chelsea U18s 5-0 Arsenal U18s | HIGHLIGHTS | U18 Premier League | 2026/27",
-      "link": "https://www.youtube.com/watch?v=XpHYECZl77E",
-      "pubDate": "2026-11-21T14:16:10Z",
-      "thumb": "https://i.ytimg.com/vi/XpHYECZl77E/hqdefault.jpg"
     }
   ]
 }
