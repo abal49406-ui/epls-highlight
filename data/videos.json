@@ -1,6 +1,62 @@
 {
-  "updatedAt": "2026-11-28T04:55:34.086Z",
+  "updatedAt": "2026-11-28T13:46:19.856Z",
   "videos": [
+    {
+      "team": "Manchester United",
+      "title": "MAN UNITED vs BRENTFORD LIVE Premier League Watchalong",
+      "link": "https://www.youtube.com/watch?v=0f3UbpMS4kY",
+      "pubDate": "2026-11-28T13:44:22Z",
+      "thumb": "https://i.ytimg.com/vi/0f3UbpMS4kY/hqdefault.jpg?v=6b0adab8"
+    },
+    {
+      "team": "Manchester United",
+      "title": "MAN UNITED VS BRENTFORD! Countdown to Kickoff!",
+      "link": "https://www.youtube.com/watch?v=1Yrq1LDaTTM",
+      "pubDate": "2026-11-28T13:01:08Z",
+      "thumb": "https://i.ytimg.com/vi/1Yrq1LDaTTM/hqdefault.jpg?v=6b0ab9fa"
+    },
+    {
+      "team": "Arsenal",
+      "title": "GOALS, NUTMEGS & IN THE GYM | Inside Training | Arsenal v Manchester City | Premier League",
+      "link": "https://www.youtube.com/watch?v=v2k_E6SWhKw",
+      "pubDate": "2026-11-28T12:36:59Z",
+      "thumb": "https://i.ytimg.com/vi/v2k_E6SWhKw/hqdefault.jpg"
+    },
+    {
+      "team": "Hull City",
+      "title": "Mohamed Belloumi's first Club Interview in English! Exclusive",
+      "link": "https://www.youtube.com/watch?v=gN8mke4eQfM",
+      "pubDate": "2026-11-28T12:00:04Z",
+      "thumb": "https://i.ytimg.com/vi/gN8mke4eQfM/hqdefault.jpg"
+    },
+    {
+      "team": "AFC Bournemouth",
+      "title": "🔴 LIVE: U18 Premier League South: Arsenal v AFC Bournemouth",
+      "link": "https://www.youtube.com/watch?v=Q_D7gi9N2vQ",
+      "pubDate": "2026-11-28T11:49:24Z",
+      "thumb": "https://i.ytimg.com/vi/Q_D7gi9N2vQ/hqdefault.jpg?v=6afdbb47"
+    },
+    {
+      "team": "Manchester City",
+      "title": "From Palmeiras 🇧🇷 to Man City 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | Allan Elias & Vitor Reis at Three Rivers",
+      "link": "https://www.youtube.com/watch?v=8uJ_9upRHzM",
+      "pubDate": "2026-11-28T10:59:12Z",
+      "thumb": "https://i.ytimg.com/vi/8uJ_9upRHzM/hqdefault.jpg"
+    },
+    {
+      "team": "Sunderland",
+      "title": "Sunderland V Tottenham Hotspur Through The Years: Archive Highlights",
+      "link": "https://www.youtube.com/watch?v=58q20-THm1Q",
+      "pubDate": "2026-11-28T10:00:10Z",
+      "thumb": "https://i.ytimg.com/vi/58q20-THm1Q/hqdefault.jpg"
+    },
+    {
+      "team": "Manchester United",
+      "title": "NO Defensive Changes! BACK Lammens! Man United Vs Brentford Road Trip!",
+      "link": "https://www.youtube.com/watch?v=DIgRcL0lPCU",
+      "pubDate": "2026-11-28T10:00:08Z",
+      "thumb": "https://i.ytimg.com/vi/DIgRcL0lPCU/hqdefault.jpg"
+    },
     {
       "team": "Chelsea",
       "title": "Nottingham Forest 3-2 Chelsea | HIGHLIGHTS | Premier League 2026/27",
@@ -135,13 +191,6 @@
       "thumb": "https://i.ytimg.com/vi/1h7W2x7Ga2o/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "United EXTEND Bruno's Contract! Man Utd vs Brentford Press Conference Reaction!",
-      "link": "https://www.youtube.com/watch?v=4p8jktL-7UI",
-      "pubDate": "2026-11-27T14:29:41Z",
-      "thumb": "https://i.ytimg.com/vi/4p8jktL-7UI/hqdefault.jpg"
-    },
-    {
       "team": "Arsenal",
       "title": "PRESS CONFERENCE | Mikel Arteta previews Manchester City | EPL",
       "link": "https://www.youtube.com/watch?v=6r-Zo-z2mD4",
@@ -205,32 +254,11 @@
       "thumb": "https://i.ytimg.com/vi/f5sxWJAatuQ/hqdefault.jpg"
     },
     {
-      "team": "Manchester United",
-      "title": "United WANT PAZ! Wes Brown Interview! Man United Transfer News",
-      "link": "https://www.youtube.com/watch?v=Oj2ZTv0hpjI",
-      "pubDate": "2026-11-27T11:04:09Z",
-      "thumb": "https://i.ytimg.com/vi/Oj2ZTv0hpjI/hqdefault.jpg"
-    },
-    {
       "team": "Leeds United",
       "title": "Matchday Live | Leeds United v Coventry City",
       "link": "https://www.youtube.com/watch?v=skq-TmYJvP0",
       "pubDate": "2026-11-27T09:58:52Z",
       "thumb": "https://i.ytimg.com/vi/skq-TmYJvP0/hqdefault.jpg?v=6b09545c"
-    },
-    {
-      "team": "Sunderland",
-      "title": "Regis Le Bris and Luke O'Nien | Post-Match Reaction",
-      "link": "https://www.youtube.com/watch?v=FaDw7Irvl-I",
-      "pubDate": "2026-11-26T23:01:25Z",
-      "thumb": "https://i.ytimg.com/vi/FaDw7Irvl-I/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester United",
-      "title": "Poch's SHOCK January Transfer Targets! Goldbridge Man Utd News",
-      "link": "https://www.youtube.com/watch?v=OJ-EsdTPiiM",
-      "pubDate": "2026-11-26T21:08:49Z",
-      "thumb": "https://i.ytimg.com/vi/OJ-EsdTPiiM/hqdefault.jpg"
     },
     {
       "team": "Brighton & Hove Albion",
@@ -289,13 +317,6 @@
       "thumb": "https://i.ytimg.com/vi/knRJQnKQcqU/hqdefault.jpg"
     },
     {
-      "team": "Arsenal",
-      "title": "ARSENAL’S BEST CHAMPIONS LEAGUE GOALS UNDER MIKEL ARTETA",
-      "link": "https://www.youtube.com/watch?v=iMNMm7vQLnY",
-      "pubDate": "2026-11-26T12:01:01Z",
-      "thumb": "https://i.ytimg.com/vi/iMNMm7vQLnY/hqdefault.jpg"
-    },
-    {
       "team": "Tottenham Hotspur",
       "title": "Behind the scenes at Tottenham training ahead of Sunderland in the Premier League!",
       "link": "https://www.youtube.com/watch?v=UPD9MoZDfhg",
@@ -343,13 +364,6 @@
       "link": "https://www.youtube.com/watch?v=6ls91MeeU7Q",
       "pubDate": "2026-11-25T17:04:36Z",
       "thumb": "https://i.ytimg.com/vi/6ls91MeeU7Q/hqdefault.jpg"
-    },
-    {
-      "team": "Manchester City",
-      "title": "\"He made history at Man City!\" 🇮🇹| Donnarumma's Italian Premier League XI",
-      "link": "https://www.youtube.com/watch?v=LRuvyy6m2u0",
-      "pubDate": "2026-11-25T17:00:05Z",
-      "thumb": "https://i.ytimg.com/vi/LRuvyy6m2u0/hqdefault.jpg"
     },
     {
       "team": "Tottenham Hotspur",
@@ -415,13 +429,6 @@
       "thumb": "https://i.ytimg.com/vi/WwNAJPYc2tg/hqdefault.jpg"
     },
     {
-      "team": "AFC Bournemouth",
-      "title": "🔴 LIVE: AFCB Women v Swindon Town",
-      "link": "https://www.youtube.com/watch?v=eQThl_DC06A",
-      "pubDate": "2026-11-23T04:45:35Z",
-      "thumb": "https://i.ytimg.com/vi/eQThl_DC06A/hqdefault.jpg"
-    },
-    {
       "team": "Coventry City",
       "title": "Coventry City 3-2 Crystal Palace | Premier League Extended Highlights",
       "link": "https://www.youtube.com/watch?v=BjRRRrrTGkc",
@@ -441,13 +448,6 @@
       "link": "https://www.youtube.com/watch?v=FKCFZFOT3Tc",
       "pubDate": "2026-11-22T23:15:28Z",
       "thumb": "https://i.ytimg.com/vi/FKCFZFOT3Tc/hqdefault.jpg"
-    },
-    {
-      "team": "Hull City",
-      "title": "Hull City 2-0 Brighton | Sergej Jakirović's Post-Match Reaction",
-      "link": "https://www.youtube.com/watch?v=7l_jG3KPHOQ",
-      "pubDate": "2026-11-22T17:54:18Z",
-      "thumb": "https://i.ytimg.com/vi/7l_jG3KPHOQ/hqdefault.jpg"
     },
     {
       "team": "Crystal Palace",
